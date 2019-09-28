@@ -1,18 +1,18 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BP_TOOL_COLOR_WHITE;White;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_GREY;Grey;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_BLACK;Black;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_BROWN;Brown;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_LIGHTBROWN;Light Brown;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_DARKRED;Dark Red;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_PINK;Pink;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_ORANGE;Orange;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_PURPLE;Purple;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_DARKGREEN;Dark Green;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_LIGHTGREEN;Light Green;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_LIGHTBLUE;Light Blue;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_TEXASBLUE;Blue(Texas);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_PRUSSIANBLUE;Blue(Prussia);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_BEIGE;Beige;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_DARKYELLOW;Dark Yellow;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-BP_TOOL_COLOR_ORANGEYELLOW;Yellow(Persia);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_WHITE;하얀색;White;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREY;회색;Grey;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLACK;검은색;Black;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN;갈색;Brown;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_LIGHTBROWN;밝은 갈색;Light Brown;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_DARKRED;붉은색;Dark Red;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_PINK;분홍색;Pink;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_ORANGE;주황색;Orange;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_PURPLE;보라색;Purple;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_DARKGREEN;진녹색;Dark Green;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_LIGHTGREEN;연두색;Light Green;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_LIGHTBLUE;하늘색;Light Blue;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_TEXASBLUE;파란색(텍사스);Blue(Texas);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_PRUSSIANBLUE;파란색(프로이센);Blue(Prussia);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_BEIGE;베이지색;Beige;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_DARKYELLOW;누런색;Dark Yellow;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+BP_TOOL_COLOR_ORANGEYELLOW;노란색(페르시아);Yellow(Persia);;;;;;;;;;;;;;;;;;;;;;;;;;;;x
