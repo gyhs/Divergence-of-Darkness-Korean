@@ -1,480 +1,480 @@
-;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-smithian_school;Smithianism;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-smithian_school_desc;"Laissez-faire philosophies, such as minimizing the role of government intervention and taxation in the free markets, and the idea that an ""invisible hand"" guides supply and demand are among the key ideas Adam Smith's writing is responsible for promoting. Our trade policies are largely inspired by him.";;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-french_liberal_school;Orthodox Liberal School;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-french_liberal_school_desc;The Orthodox school of economic thought, also known as the French Liberal School or Oprtimist School, voraciously defends free trade and laissez-faire capitalism. They are the primary opponents of collectivist, interventionist and protectionist ideas.  Our trade policies are largely inspired by this school.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;x,,,,,
-no_trade_policy_set;No Set Trade Policy;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-no_trade_policy_set_desc;Our government doesn't have a set trade policy and prefers to make snap decisions on tariffs.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-mercantilism;Mercantilism;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-mercantilism_desc;Mercantilism is a type of policy designed to maximize the trade of a nation and especially to maximize the accumulation of gold and silver. It promotes governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-economic_nationalism;Economic Nationalism;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-economic_nationalism_desc;The aim of this policy is to have a country that is economically independent and nationally self-sufficient. It favors policies that emphasize domestic control of the economy, labor, and capital formation, even if this requires the heavy imposition of tariffs and other restrictions on the movement of labor, goods and capital.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-polish_uprising_mobilization;Polish Uprising;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-polish_uprising_mobilization_desc;We are mobilizing our society so Poland can be free once more.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-credit_risk;High Credit Risk;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-credit_risk_desc;Revolts, wars or general instability, our country is too much of a risk for other countries to lend money to us.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-sound_dues;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-sound_dues_toll;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-unrecognized_country;Unrecognized Country;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-unrecognized_country_desc;As a young rebellious country, no one recognizes our right to self rule.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-monthly_payment_made;Monthly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-monthly_payment_made_desc;We already contributed to our overlord's coffers this month.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-using_foreign_ships;Uses Imported Ships;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-using_foreign_shipyards;Uses Western Shipyards;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-using_foreign_weapons;Uses Foreign Weapons;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-using_foreign_artillery;Uses Foreign Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-sicilian_mafia;Sicilian Mafia;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-desc_sicilian_mafia;The Sicilian Mafia, also known as simply the Mafia or Cosa Nostra, is a criminal syndicate born in Sicily and operating in provinces with South Italians. They profit mainly through racketeering, badly affecting producers' profits and their capability to hire new workers, but they also dwell on political corruption and other criminal areas. Their brutal methods makes them infamous where they operate.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-owed_steamers;Owed Steamers;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-owed_artillery;Owed Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-owed_canned_food;Owed Canned Food;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-total_reform;Comprehensive Miracle;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-total_reform_desc;Our country is going through comprehensive reforms, promoting nothing short of a true miracle.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-slave_revolution;Slave Revolution;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-relutanct_figher;Reluctant Fighter;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-relutanct_figher_desc;This nation doesn't seems to have its own ambitions and is reluctant to fight for another country.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-silver_mine;Silver Mine;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-krakow_is_austrian;Krakow is Austrian;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-great_irish_famine;Great Irish Famine;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-preparations_to_kill;Extermination Camps;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-sunni_country;Sunni Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-shiite_country;Shiite Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-ibadi_country;Ibadi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-catholic_country;Catholic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-protestant_country;Protestant Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-mormon_country;Mormon Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-orthodox_country;Orthodox Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-coptic_country;Coptic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-jewish_country;Jewish Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-yazidi_country;Yazidi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-mahayana_country;Mahayana Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-gelugpa_country;Gelugpa Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-theravada_country;Theravada Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-hindu_country;Hindu Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-shinto_country;Shinto Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-sikh_country;Sikh Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-taiping_country;Taiping Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-fetishist_country;Fetishist Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-init_country;Init Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-jain_country;Jain Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-zoroastrian_country;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-assyrian_country;Assyrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-animist_country;Animist Religion;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-native_assimilation_act_policy;Native Assimilation Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-native_assimilation_act_policy_desc;The government is working towards the assimilation of the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-native_removal_act_policy;Native Removal Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-native_removal_act_policy_desc;Discriminatory policies aim to eliminate and push out the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-african_integration_policy;African Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-native_assimilation_enacted;Native Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-new_world_nation;New World Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-low_healthcare_poorly_funded;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-desc_low_healthcare_poorly_funded;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-good_healthcare_poorly_funded;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-desc_good_healthcare_poorly_funded;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-capital_health_care;Local Capital Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-local_trinket_health_care;Trinket Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-local_low_health_care;Low Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-local_acceptable_health_care;Acceptable Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-local_good_health_care;Good Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-pearl_season;Pearl Hunting Season;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-pearl_season_desc;The population in this province is engaging in the much profitable pearl hunting activity.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-religious_minority_oppression;Oppressed Religious Minorities;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-religious_minority_oppression_desc;Religious minorities are being mistreated, resulting in ever increasing militancy and consciousness of these people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-armenian_diaspora;Armenian Diaspora;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-armenian_diaspora_desc;This province contains a minority population that comes from the Armenian diaspora.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-earthquake_devastation;Earthquake Devastation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-earthquake_devastation_desc;A powerful earthquake has recently devastated this province, leaving thousands homeless and disrupting the lives of scores of people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-education_fully_funded;Excellent Education System;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-health_care_fully_funded;Excellent Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-neglected_education;Neglected Education Funding;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-trinket_health_care_fully_funded;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-low_health_care_fully_funded;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-acceptable_health_care_fully_funded;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-good_health_care_fully_funded;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-low_schools_fully_funded;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-acceptable_schools_fully_funded;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-good_schools_fully_funded;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-rally_tribesmen;Rally Tribesmen;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-rally_tribesmen_desc;A portion of our people leave a nomadic lifestyle with bits of a centuries old warrior culture. By reaching to these people and rallying them to our cause, we can raise a much greater army to fulfill our country's destiny.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-tanzimat_land_reform;Ottoman Land Code;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-tanzimat_land_reform_desc;The Ottoman Land Code was the beginning of a systematic land reform program during the Tanzimat period of the Ottoman Empire. The reasons behind the law were twofold. (1) to increase tax revenue, and (2) to exercise greater state control over the area.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-war_economy_ships;Emergency Ship Building;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-preparing_for_war;Preparing for War;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-preparing_for_war_desc;War with the North is inevitable and we must be ready for it.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-missionary_activity;Missionary Activity;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-missionary_activity_desc;Foreign missionaries are active in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-exploiting_the_land;Exploiting the Land;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-desc_exploiting_the_land;The time of the Zemene Mesafint is an arduous and perilous time, so all rulers are required to cut costs and take as much money from their population as they can.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-small_immigration_boom;Immigration Boom;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-desc_small_immigration_boom;Due to favorable socio-economical conditions, this province is experiencing an immigration boom.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-disunited_country;Disunited Country;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-disunited_country_desc;Warlords, regionalism and outlaws threaten to rip our country apart. A good part of our manpower and government efforts are directed exclusively to maintain our country together. Our ruler is frequently in campaign against rebellious warlords.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-tewodros_reforms;Kassa Hailu;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-tewodros_reforms_desc;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-colonial_museum_of_natural_history;Museum of Natural History;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-colonial_museum_of_natural_history_desc;A Museum of Natural History has been established in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-plantation;Plantations and Mines;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-serial_killer;Serial Killer On The Loose;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-desc_serial_killerA degenerate is committing insane and gruesome murders in the area. Who's gonna be next?;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-silver_age;A Silver Age;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-silver_age_desc;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-pancasila;Pancasila;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-pancasila_desc;Indonesia must stand united! Under a common leadership, nothing will stop us.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-bazaari_strike;Bazaari strike;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-bazaari_strike_desc;Our merchant elites shut down all activities. The economy is taking a heavy blow.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-exemplary_troops;Exemplary troops;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-exemplary_troops_desc;By their feats or even by their mere being, our elite troops inspire the most basic ruffians, giving them the morale needed to charge a firing machine gun.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-submarine_warfare;Submarine warfare;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-submarine_warfare_desc;We are leading innovation in naval technology and instilling fear in the heart of our enemies!;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-rancho;Rancho California;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-rancho_desc;Our generous donations and land grants allow for a quick population of the area, leading to an unique life-style.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-reading;Reading;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-reading_desc;A great work of literature inspired the people to read. The masses may become educated... The horror!;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-hague_convention;Ratified Hague Convention;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-hague_convention_desc;We have signed the Hague Convention to further an era of peace and stability in the world.;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-camillo_cavour;Camillo Cavour;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-camillo_cavour_desc;Our excellent minister is leading our nation in the right way. Modernity is now at our doorstep. Huzzah!;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;;
-small_baby_boom;Baby Boom;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-dust_bowl;Dust Bowl;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-emigrant_aid_company;Emigrant Aid Company;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-bleeding_state;Bleeding State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-free_staters_national;Free Staters Prohibition;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-free_staters_national_desc;A few free staters settlers were prohibited from migrating to another state, generating a public commotion.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-copperhead_democrats_national;Copperhead Democrats;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-copperhead_democrats_national_desc;Abolitionist democrats and southern pro-slavery groups are debating the future of slavery in our nation.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-underground_railroad_shutdown;Underground Railroad Shutdown;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-underground_railroad_shutdown_desc;A few underground railroads in our nation were shut down and this act is fresh in the memory of the American people.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-fugitive_slave;Fugitive Slave;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-fugitive_slave_desc;A recent decision regarding a fugitive slave is still fresh in the memory of our people.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-abolitionist_pamphlets;Abolitionist Pamphlets;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-slave_market;Slave Market;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-drinking_gourd;Drinking Gourd;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-fire_eaters;Fire-Eaters;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-yankee_doodle;Yankee Doodle;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-wish_I_was_dixie;Dixie Identity;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-southern_manorialism;Southern Manorialism;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-southern_pride;Southern Pride;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-desc_southern_pride;The dixies are a proud people, proud of their land and proud of the beauty of their women.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-enclosures;Enclosures;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-desc_enclosures;The legal process of enclosing a number of small landholdings to create one larger farm. Once enclosed, use of the land became restricted to the owner, and it ceased to be common land for communal use.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-haussmanns_renovations;Haussmann's Renovations;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-desc_haussmanns_renovations;The Haussmann's renovations, envisioned by Georges-Eugene Haussmann, included the demolition of crowded and unhealthy medieval neighborhoods, the building of wide avenues, parks and squares, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-foreign_claims;Foreign Claims;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-foreign_claims_desc;Another nation is claiming this province, a claim that they will lose soon enough.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-IS_IN_DEFAULT_TO;Is in default to this country.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-IS_NOT_IN_DEFAULT_TO;Is not in default to this country.;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-warship_commissioned;Warship Delivered;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-warship_commissioned_desc;Constructing, delivering or receiving a new, foreign warship is a complicated matter. Sailors need to be trained, officers instructed and the bureaucratic paperwork needs to be done. Because of that, it will take some time for us to be able to get involved in matters like this again.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-ironclad_commision;Iron Clad Commissions;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-sino_portuguese_treaty_of_peking_signataire;Signatory of the Treaty of Peking;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-local_distribution_channels_und_electricity;Commercial Retailers and Electrical Lighting;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-desc_local_distribution_channels_und_electricity;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields and electrical lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;
-freedom_of_religion;Freedom of Religion;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-freedom_of_religion_desc;No one is forced or coerced into following any religion in our country, religious minorities have a protected status.;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-repatriation;Repatriation;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-desc_repatriation;Refugee Camps, population exchanges, mass expulsions. Whatever the reason, we have lots of people to repatriate and because of that we are making more space for them.;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-gaslights;Gas Lights;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-gaslights_desc;The introduction of gas lights meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-local_nitroglycerin_and_machine_tools;Mechanized Mining;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;
-desc_local_nitroglycerin_and_machine_tools;The mining process in this province is carried out with new and mechanized tools as well as new explosives, increasing the efficiency of local mining operations and the size of mines.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-modern_sail_ships;Modern Sail Ships;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-modern_sail_ships_desc;Modern techniques of building, equipping and staffing sail ships allow for more effective and powerful ships.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-population_exchange_with_turkey;Population Exchange with Turkey;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-albania_exchange;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-bosnia_exchange;Bosnia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-montenegro_exchange;Montenegro Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-southern_serbia_exchange;Southern Serbia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-macedonia_exchange;Dobrudja Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-dobrudja_exchange;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-bulgaria_exchange;Bulgaria Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-eastern_rumelia_exchange;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-thessalia_exchange;Thessaly Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-southern_macedonia_exchange;Southern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-eastern_macedonia_exchange;Eastern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-##################################################;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-# Crime;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-##################################################;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-machine_politics;Political Machine;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;
-desc_machine_politics;Political Machines are a party organization, headed by a single boss or small autocratic group, that commands enough votes to maintain political and administrative control of a city, county, or state. It is in essence the bribery of mainly minorities by politicians using their influence. It is common to use the appointment for government jobs as a means of bribery within this system.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-spoil_system;Spoils System;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-desc_spoil_system;The spoils system (also known as a patronage system) is a practice in which a political party, after winning an election, gives government jobs to its supporters, friends and relatives as a reward for working toward victory, and as an incentive to keep working for the party � as opposed to a merit system, where offices are awarded on the basis of some measure of merit, independent of political activity.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-instigators;Political Instigators;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-desc_instigators;If the crime fighting institutions in a province became overstretched, instigators would run amok and eventually gather sufficient attention and support to cause an impact in the established order.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-kleptocrats;Kleptocrats;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-desc_kleptocrats;Kleptocracy is a term applied to a government seen as having a particularly severe and systemic problem with officials or a ruling class (collectively, kleptocrats) taking advantage of corruption to extend their personal wealth and political power. Typically this system involves the embezzlement of state funds at the expense of the wider population, sometimes without even the pretense of honest service. Lacking sufficient control institutions in a country where external oversight is impossible or does not exist can mean that the bureaucrats would become kleptocrats.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-##################################################;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-# General Modifiers;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-##################################################;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-international_zone_modifier;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-international_zone_modifier_desc;Our country has been declared an international zone, a hub of trade and commerce and a neutral zone for foreign parts to meet.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-international_zone;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_training;Ineffective Foreign Training;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_training_desc;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_naval_schools;Ineffective Naval Schools;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_naval_schools_desc;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_officers;Ineffective Foreign Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_officers_desc;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_naval_officers;Ineffective Naval Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-isolationist_foreign_naval_officers_desc;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-naval_school;Naval School;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-desc_naval_school;The Merchant Marine operates a Naval School in one of our provinces, providing lessons in leadership and education in the latest naval technologies.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-historical_congo;Historical Congo;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-neuchatel_crisis_escalated;Neuchatel Crisis;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-preparations_for_war;Preparations for War;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-preparations_for_war_desc;There's an incoming war, or so some say.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-congo_company;The Congo Company;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-congo_company_desc;With its residence on the Congo, the company was made to explore the natural resources of the Congo and make sure its riches and the natives benefit us.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-congo_exploitation;Congolese Exploitation;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-congo_exploitation_desc;All blacks saw this man as the devil of the Equator...From all the bodies killed in the field, you had to cut off the hands. He wanted to see the number of hands cut off by each soldier, who had to bring them in baskets...A village which refused to provide rubber would be completely swept clean. As a young man, I saw [Fi�vez's] soldier Molili, then guarding the village of Boyeka, take a net, put ten arrested natives in it, attach big stones to the net, and make it tumble into the river...Rubber causes these torments; that's why we no longer want to hear its name spoken. Soldiers made young men kill or rape their own mothers and sisters.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-philantropic_work;Philanthropic Work;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-philantropic_work_desc;We are guiding this nation in the principles of civilizing and helping the natives.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-refused_gp_deliberation;Defied the Great Powers;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-refused_gp_deliberation_desc;We defied the deliberation of the Great Powers. There's a looming threat of war to enforce the decisions made in the Congress, but if we can hold out for enough time they may be forced to recognize that we are right.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-mandate_of_heaven;Mandate of Heaven;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-mandate_of_heaven_desc;By Divine Right, the Emperor is ruler of all under Heaven.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-the_congo_reform_association;The Congo Reform Association;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-the_congo_reform_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-indian_territory;Indian Territory;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-indian_territory_desc;The Indian Territory is a land area set aside by the United States Government for the relocation of the indigenous peoples of the Americas who held aboriginal title to their land.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reconstruction;Reconstruction Policies;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reconstruction_desc;After the Civil War, our torn nation needs to be rebuilt. With policies such as the  theTen-Percent Plan, a plan that stipulates that each secessionist state had to redraft its constitution and could reenter the Union only after 10 percent of its eligible voters pledged an oath of allegiance to the United States and other reconstruction plans, the USA can recover from the effects of this devastating war.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-cultural_resurgence;Cultural Resurgence;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-cultural_resurgence_desc;This province is experiencing a complete resurgence of an old culture.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-chinese_treaty_port;Chinese Treaty Port;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-chinese_treaty_port_desc;We negotiated a treaty with the Chinese and acquired the rights over a Chinese port and city.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-negotiating_unequal_treaty;Unequal Treaty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-negotiating_unequal_treaty_desc;We have lost a war and like vultures, the westerners descended upon us imposing their conditions including the opening of our country, monetary reparations and even the secession of territory.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-negotiating_treaty;Negotiating Treaty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-negotiating_treaty_desc;Our diplomats are negotiating a treaty with a defeated nation.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-lacks_writing_system;Lacks Writing System;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-lacks_writing_system_desc;Our society lacks a writing system. Without this the written word, the organizational structures of the government will always be simple.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-penal_colony;Penal Colony;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-penal_colony_desc;This province is home to a sizeable penal colony. Most of the poor strata are convicts or former convicts, leading to widespread poverty.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-divided_society;Divided Society;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-divided_society_desc;Our society is deeply divided by racial issues. There's distrust and resentment all around and because of that integration is severely affected.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-caudillo_leaders;Caudillo;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-caudillo_leaders_desc;A caudillo is a type of militia leader with a charismatic personality and enough of a populist program of generic future reforms to gain broad sympathy, at least at the outset, among the common people. Effective caudillismo depends on a personality cult. Since the caudillo typically held power by controlling a patronage network that brooked no rival structure, some caudillos took up an anti-clerical stand. Many of the caudillos used their newly gained power, which was unchecked because it was extra-constitutional, to promote their own wealth and interests.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-corrupt_army;Corrupt Officials;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-corrupt_army_desc;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-fanatic_army;Fanatic Loyalty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-fanatic_army_desc;Marked by a high level of discipline and fanaticism, our army is recruiting people from all over our country to fight for our cause. These conscripts firmly believe in our mission and are of an undying loyalty to us.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-irish_poverty;Irish Poverty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-animists_run;Animist Emigration;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-hormuz_strait;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-the_french_foreign_legion;La L�gion �trang�re;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;
-the_hedeselskab;The Hedeselskab;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-the_hedeselskab_desc;The foundation of the Danish Moor Company lead to the drainage and improvement of vast areas.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-emigration_boom;Emigration Boom;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-emigration_boom_desc;Changing life conditions in our country are stimulating a big relocation of our people.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-gold_rush_country;Gold Rush;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-gold_rush_country_desc;Our country is experiencing a gold rush leading people from all over the old world to flock to our country.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-global_baby_boom;Baby Boom;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-global_baby_boom_desc;Improvements in life conditions in our country are leading to a country-wide baby boom.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-political_education;Ideological Education;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-political_education_desc;Education in our country is full blown ideological indoctrination, and has severe changes every time our leader changes. Universal public education is thus enforced and alphabetization is a priority, but at the cost of free thinking.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-cult_of_personality;Cult of Personality;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-cult_of_personality_desc;A cult of personality arises when an individual uses mass media, propaganda, or other methods, to create an idealized, heroic, and at times, worshipful image, often through unquestioning flattery and praise.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-totalitarian_system;Totalitarianism;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-totalitarian_system_desc;Totalitarianism is a political system in which the state holds total authority over the society and seeks to control all aspects of public and private life wherever possible.;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-the_terror;The Terror;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;
-the_terror_desc;To overcome our enemies we must have our own militarism. We must carry along with 90 percent out of the total population of our country. As for the rest, we have nothing to say to them. They must be annihilated.;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;;;;
-silver_age;A Silver Age;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-silver_age_desc;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;;;;;;;x,,,,;;;;;;;;;;;;;;;;
-chinese_foreign_training;Foreign Training in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-chinese_foreign_weapons;Western Weapons in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-chinese_foreign_officers;Foreign Officers in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-chinese_foreign_artillery;Western Artillery in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-pandemic_influenza_immunity;Influenza Free;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-pandemic_influenza_immunity_desc;A Pandemic of Influenza ravages our country, but this small isolated community is immune to it, thank to its remote location.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-population_resettlement;Population Resettlement;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-population_resettlement_desc;Our nation is working on the national integration of a region by resettling our citizens.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-trade_city;Trade City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-trade_city_desc;Located in this province is an important trade city, a hub of trade of the region, enjoying much economic prosperity.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-peacetime_mobilization;Peace Time Mobilization;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-peacetime_mobilization_desc;Conscripts are being drafted left and right and our poor are being trained and prepared to fight, yet there's no war. This large disruption in the country's daily life is making our pops tired and our neighbors wary.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-tribute_received;Tribute Received;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-tribute_received_desc;One of our vassals paid their due tribute to us.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-tribute_paid;Tribute Paid;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-tribute_paid_desc;We have to share part of our earnings with our overlord over the time period and as suck we are poorer from that.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-islamic_law_triggered;Islamic Law;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-islamic_law_triggered_desc;Islamic law is now the basis law code of our society. It deals with several topics including: crime, politics, and economics, as well as personal matters such as sexual intercourse, hygiene, diet, prayer, everyday etiquette and fasting.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-deportation_underway;Deportation;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-deportation_underway_desc;"People from different ethnicities are being ""encouraged"" to move out of this country.";;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-treaty_port;Treaty Port;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-treaty_port_desc;This port was ceded to a foreign administration and it's a hub of trade from China to the rest of the world.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-drained_marsh;Drained Marsh;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-drained_marsh_desc;This marshland was drained and as a result it is more habitable.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-backed_down_on_promise;Backed Down on Promises;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-backed_down_on_promise_desc;Our government broke one or more important promises to our population.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-highlander_raids;Highlander Raids;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-highlander_raids_desc;Highlander raiders are looting our provinces in numbers.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-jewish_farms;Jewish Farmlands;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-jewish_farms_desc;Jews who immigrated to Israel purchased land that was mostly semi-arid, although much had been rendered untillable by deforestation, soil erosion and neglect. They set about clearing rocky fields, constructing terraces, draining swampland, reforesting, counteracting soil erosion, and washing salty land. Since independence, the total area under cultivation has increased from 408,000 acres (1,650 km2) to 1,070,000 acres (4,300 km2), while the number of agricultural communities has increased from 400 to 725. Agricultural production has expanded 16 times, three times more than population growth.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-monument_under_construction;Under Construction;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-monument_under_construction_desc;We are building a great project to celebrate our nation greatness.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-recently_built_city;Recently Built City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-recently_built_city_desc;The capital of this province was recently built by the government, moving a lot of workers to the region to  build a city with modern infrastructure.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-law_changed_by_force;Law Changed;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-law_changed_by_force_desc;We pressured the upper house to pass an urgent reform.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-social_reformed_nation;Full Welfare State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-social_reformed_nation_desc;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-wahhabism_in_nejd;Wahhabism;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-wahhabism_in_nejd_desc;"The ""pivotal idea"" of Wahhabism teaching was that people who called themselves Muslims but who participated in such innovations were not just misguided or committing a sin, but were ""outside the pale of Islam altogether"", as were Muslims who disagreed with his definition. This included not just lax, unlettered, nomadic Bedu, but Shia, Sufi, and Ottomans.";;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-russian_army;The Russian Army;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-russian_army_desc;The Russian Army may be the biggest land force of Europe, but it is poorly supplied and organized.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-landlocked_nation;Landlocked Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-landlocked_nation_desc;Our nation doesn't have any access to the sea, greatly increasing import costs.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-fundamentalist_sympathies;Islamic Fundamentalists;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-fundamentalist_sympathies_desc;Islamic Fundamentalists are agitating the people in this province.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-new_constitution;The New Constitution;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-new_constitution_desc;Our country issued a new constitution, guaranteeing voting and citizen rights and putting down the revolutionary flames.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-rise_of_a_nation;Rise of a Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-rise_of_a_nation_desc;Our proud nation is free, and our culture blossoms again.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-sounds_dues_toll;The Sound Toll;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-sounds_dues_toll_desc;The Sound Dues (or the Sound Toll) is a toll on the use of the Sound which constituted up to two thirds of Denmark's state income in the 16th and 17th centuries. The dues was introduced by King Eric of Pomerania in 1429.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-MODIFIER_DEBT_DEFAULT_TO;Debt Default To;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-generalised_debt_default;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-MODIFIER_GENERALISED_DEBT_DEFAULT;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-hunger_riots;Hunger Riots;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-desc_hunger_riots;A province where the poor are under severe hardship and that lacks an effective police force and has less money for crime fighting results in demonstrations getting out of hand and devolving in outright riots.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-preparations_to_kill;Concentration Camps;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-preparations_to_kill_desc;We are solving the minorities problem in our country. Minorities are being sorted out in concentration camps and waiting for their fate, or being delivered to it already.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-withdrew_from_geneva_convention;Withdrew from the Geneva Convention;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-withdrew_from_geneva_convention_desc;Our country is no longer a signatory of the Geneva Convention.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-genocide;Systematic Extermination;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-genocide_desc;Our aggressive policies against minorities are promoting a shift in our country.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-small_but_efficient;Small But Efficient;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-small_but_efficient_desc;Our country might be small, but that just means we can run it better.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_kiel_canal;The Kiel Canal;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_kiel_canal_desc;We own the Kiel Canal, linking the Baltic and the North Sea without the need to sail around Denmark, and we receive the dividends of its toll.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_suez_canal;The Suez Canal;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_suez_canal_desc;We own the Suez Canal, linking the Mediterranean and the Red Sea without the need to sail around Africa, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_panama_canal;The Panama Canal;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-own_panama_canal_desc;We own the Panama Canal, a huge feat of engineering linking the Pacific and the Atlantic Oceans, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;;
-rebuilding_city;Rebuilding;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-rebuilding_city_desc;Our city is rebuilding.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
-slave_growth;Slave Demographics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-slave_growth_desc;The population of slaves changed in our country.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-assegai;Impi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-assegai_desc;Military innovations such as the assegai, the age-grade regimental system and encirclement tactics helped make the Zulu one of the most powerful nations in southern and south-eastern Africa.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-will_influence_elections;Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-will_influence_elections_desc;We are following this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-let_the_chips_fall;Not Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-let_the_chips_fall_desc;We are not involved in this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-the_big_army;The Big Army;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-the_big_army_desc;General Urquiza is gathering a huge army, compromised of volunteers from Uruguay and all over the country, to defeat Rosas.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-small_immigration_boom;Immigration Boom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-small_immigration_boom_desc;Our nation thrives and therefore more people flock to our cities each day.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-the_big_ben;The Big Ben;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-the_big_ben_desc;The Clock Tower derives its nickname from the bell, the Big Ben. With an extreme accuracy, the clock tower dominates life and work in London, always striking on time.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-bigben_construction;Reconstruction of the Palace of Westminster;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-bigben_construction_desc;The Palace of Westminster is being reconstructed and with it, a huge clock tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-eiffel_tower_construction;Eiffel Tower Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-eiffel_tower_construction_desc;Our great nation is dedicating its resources and workers to build a magnificent tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-suez_canal_construction;Suez Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-suez_canal_construction_desc;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiel_canal_construction;Kiel Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiel_canal_construction_desc;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-panama_canal_construction;Panama Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-panama_canal_construction_desc;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kinda_bad_badboy;International Sanctions;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kinda_bad_badboy_desc;We have been declared a threat to global safety and international balance of power. Sanctions have been applied to our country and citizens and we have been warned that the great powers will worsen these sanctions in case we continue our aggressiveness.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-solano_lopez_industrialization;Solano Lopez Industrialization;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-solano_lopez_industrialization_desc;Following his rise to power, Carlos Solano Lopez started an aggressive program of industrialization and militarization of our country that included subsides to industry, minimum spending on military and a strong focus on productivity.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-bad_badboy;International Isolation;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-bad_badboy_desc;Our great nation has acquired many enemies and now most of the nations in the world see us as an international threat. They joined forces to isolate us in an attempt to bring us down.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,, ;;;;;;;;;;;;;;;;;;;;;;;;;;;
-north_coalition;Ejercito Grande;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-north_coalition_desc;A huge army against Rosas is being gathered by General Urquiza of Entre-Rios, and some of our provinces have pledged to support him.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-organic_statute;Organic Statute of Poland;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-organic_statute_desc;The Organic Statute of the Kingdom of Poland was a constitution introduced in the Kingdom of Poland after the suppression of the Polish Uprising of 1830�31 to replace the Constitution of 1815. It was promulgated in St. Petersburg by Tsar Nicholas I on Feb. 14 (26), 1832. Although the Organic Statute abolished the Sejm and the Polish Army, it preserved such autonomous institutions as the vicegerency, the State Council, and the vicegerent�s Administrative Council.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-francia_utopia;Francia's Utopia;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-francia_utopia_desc;Dr. Francia, dictator for life of Paraguay, inspired by French revolutionary ideals sought to create a utopian state based on Rosseau's Social Contract. Although he strived for equality of the people, Francia ruthlessly destroyed any opposition and created a Police state, imprisoning all those he deemed seditious. An isolationist, he ran the country with almost no outside influence.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-colorado_sympathies;Colorado Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-colorado_sympathies_desc;This region is under Colorado influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-blanco_sympathies;Blanco Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-blanco_sympathies_desc;This region is under Blanco influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-rivera_reforms;Rivera's Intervention;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-rivera_reforms_desc;Fructuoso Rivera entered Montevideo victorious and assumed dictatorial powers while he called for elections. He made sure to use these powers well.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-prussia_disagrees;Prussia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-russia_disagrees;Russia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-krakow_uprising;The Winger Hussars will ride once more.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-polish_spirit;Polish Sentiment;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;
-polish_spirit_desc;With the successful revolution in Krakow, Poles everywhere are clamouring for an independent and unified Poland again.;;;;;;;;;;X,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-official_nationality;The Official Nationality Doctrine;;;;;;;;;;x,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-official_nationality_desc;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. The Tsar is currently trying to Russify our country, greatly disrupting our country organization but inciting nationality!;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-orthodoxy_autocracy_nationality;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;
-orthodoxy_autocracy_nationality_desc;The Official Nationality policy entered into effect and it's speeding up the assimilation of other cultures at the cost of some unrest.;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-communists_ruling;Down with the Capitalists!;;;;;;;;;;;;;;X,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;
-communists_ruling_desc;Our nation is now headed by the proletariat, capitalists have no place here!;;;;;;;;;;;;X,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-soviet_agitation;Tsarist Autocracy;;;;;;;;;;;;X,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-soviet_agitation_desc;The hardships of war, the technological backwardness of Russia and the tsar autocracy and repression are exhausting our people and our resources. Will we ever see an end to the Tsar autocracy?;;;;;;;;;;X,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-white_desorganisation;Leadership Disorganisation;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,;;;;;;;;;;;;;;;;
-white_desorganisation_desc;The White Army in the Russian Civil War managed to make advances against the soviets, but disorganization in it's ranks severely hindered their efforts!;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-install_communist_gov_sov;Install communism;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-install_communist_gov_sov_desc;Install a communist government.;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-install_communist_gov_sov_setup;Install a communist government. If achieved, the country will be automatically added into our sphere and will become our satellite.;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-install_communist_gov_sov_short;Install communism;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-human_research_modifier;Boosted Research;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-canadian_confederation;The Canadian Confederation;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-canadian_confederation_short;Canada will be confederated!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-canadian_confederation_setup;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-canadian_confederation_desc;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-canadian_confederation_title;The Canadian Confederation;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-australian_independence;The Australian Constitution;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-australian_independence_short;Australia federated into six separate states and gained its independence.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-australian_independence_setup;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-australian_independence_desc;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-australian_independence_title;The Australian Constitution;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiwi_constitution;The Dominion of New Zealand;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiwi_constitution_short;New Zealand has been released!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiwi_constitution_setup;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiwi_constitution_desc;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kiwi_constitution_title;The Dominion of New Zealand;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-first_riel_rebellion;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-first_riel_rebellion_desc;The First Riel Rebellion ended in blood and exile. The Metis have not forgotten, nor will the government let them.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-first_riel_rebellion_title;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-metis_twilight;The Twilight of the Metis;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-metis_twilight_desc; The Second Riel Rebellion has ended in the worst possible way, and the Metis are now a marginalized people in Canada.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-metis_twilight_title; The Twilight of the Metis;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_shevchenko_local;Taras Shevchenko;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_shevchenko_local_desc;Taras Shevchenko is gaining prominence and is affecting the Ukrainian peoples in their quest for independence and nation-building.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_shevchenko_local_title;Taras Shevchenko;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_works_local;Taras Shevchenko;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_works_local_desc;Taras Shevchenko is working hard after many life experiences, and is quickly becoming known as the father of the Ukrainian language and culture.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taras_works_local_title;Taras Shevchenko;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-slavery_timer;Slavery;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-slavery_timer_desc;Slavery in our nation continues on, making our country a bit less attractive as the world moves on.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-slavery_timer_title;Continued Slavery;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-independence_of_norway;The Independence of Norway;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-independence_of_norway_short;The Independence of Norway;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-independence_of_norway_setup;The Independence of Norway;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-independence_of_norway_desc;The Personal Union between Sweden and Norway is on its last legs, and attempts to find common ground between the Swedes and Norwegians is failing rapidly. Releasing Norway seems like the only solution.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-independence_of_norway_title;The Independence of Norway;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-restart_the_caucasian_war;Restart the Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-restart_the_caucasian_war_short;Restart the Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-restart_the_caucasian_war_setup;Restart the Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-restart_the_caucasian_war_desc;Although Russia put the Caucasian/Circassian War on hold during their wars with Persia and the Ottoman Empire, now Russia has a chance to save face and ensure its hegemony over the Caucasus. This is not a decision to be taken lightly, as the war has raged in one form or another since 1763.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-restart_the_caucasian_war_title;Restart the Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_war_local;Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_war_local_desc;The ongoing Caucasian War is causing unrest and lack of productivity in these provinces.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_war_local_title;The Caucasian War;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_truce_local;Caucasian War - Truce;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_truce_local_desc;The Caucasian War is undergoing a truce, for now. The uneasy tension that the locals have with their Russian occupiers is a welcome break from the previous state of war, but it is an uneasy truce brokered by the blood of both sides.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-caucasian_truce_local_title;The Caucasian War - Truce;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
-SOV_communists;Bolsheviks;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-SOV_communists_2;Trotsky's Faction;;;;;;;;;;;;;X,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kobu_gattai;Kobu Gattai;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-kobu_gattai_desc;This was a policy of the Tokugawa shogunate aiming at increasing political coordination between the bakufu and the Imperial Court, as well as appeasing opponents within the shogunate itself.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-sakoku;Sakoku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-sakoku_desc;Meaning 'locked country',this is the policy under which no foreigner could enter Japan under pain of death. Maintained by the Tokugawa shogunate, it has kept the nation in enforced isolation since the 17th century.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-tozama_daimyo;Tozama Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-fudai_daimyo;Fudai Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-emperor_meiji;Emperor Meiji;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-supports_imperial_edict;Supports the Imperial edict against foreigners;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-angered_by_bakufu;Angered by the bakufu;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-rangaku;Rangaku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-rangaku_desc;Meaning 'dutch learning',this refers to the body of knowledge developed by Japan through its contacts with the Dutch enclave of Dejima, which allowed Japan to keep abreast of Western technology and medicine in the period when the country was closed to foreigners.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ansei_purge;Ansei Purge;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-meddled_in_foreign_affairs;Meddled in Foreign Affairs;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-no_freedom;Attempted Freedom;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-no_freedom_desc;We attempted to free ourselves from foreign rule. We must wait until there is another opportunity, as for now they are watching us closely.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;x,,,,,
+smithian_school;스미스주의;Smithianism;;;;;;;;;;;;;;;;;;;;x,,,,,
+smithian_school_desc;자유시장에서의 정부의 개입과 세금의 역할을 최소화시키는 것과 같은 자유방임주의 철학, 그리고 "보이지 않는 손"이 수요와 공급을 안내한다는 생각은 아담 스미스의 글이 안내하는 주요 이론 중 하나입니다. 우리의 무역정책은 주로 이 사상에 영향을 받습니다.;Laissez-faire philosophies, such as minimizing the role of government intervention and taxation in the free markets, and the idea that an "invisible hand" guides supply and demand are among the key ideas Adam Smith's writing is responsible for promoting. Our trade policies are largely inspired by him.;;;;;;;;;;;;;;;;;;;;x,,,,,
+french_liberal_school;정통 자유주의 학파;Orthodox Liberal School;;;;;;;;;;;;;;;;;;;;x,,,,,
+french_liberal_school_desc;프랑스 자유주의 학파 또는 낙관주의 학파라고도 알려진 이 학교는 자유무역과 자유방임주의적 자본주의를 신랄하게 옹호합니다. 그들은 집산주의, 개입주의, 보호주의 사상을 주로 반대합니다. 우리의 무역정책은 주로 이 학교에서 영향을 받았습니다.;The Orthodox school of economic thought, also known as the French Liberal School or Optimist School, voraciously defends free trade and laissez-faire capitalism. They are the primary opponents of collectivist, interventionist and protectionist ideas.  Our trade policies are largely inspired by this school.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;x,,,,,
+no_trade_policy_set;무역정책 없음;No Set Trade Policy;;;;;;;;;;;;;;;;;;;;x,,,,,
+no_trade_policy_set_desc;우리 정부는 무역정책을 정하지 않았습니다. 정부는 관세에 대해 신속한 결정을 내리길 선호합니다.;Our government doesn't have a set trade policy and prefers to make snap decisions on tariffs.;;;;;;;;;;;;;;;;;;;;x,,,,,
+mercantilism;중상주의;Mercantilism;;;;;;;;;;;;;;;;;;;;x,,,,,
+mercantilism_desc;중상주의는 국가의 무역을 극대화하기 위해, 특히 금과 은의 축적을 극대화하기 위해 고안된 정책입니다. 이 정책은 국가 경제에 대한 정부 규제를 장려합니다.;Mercantilism is a type of policy designed to maximize the trade of a nation and especially to maximize the accumulation of gold and silver. It promotes governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.;;;;;;;;;;;;;;;;;;;;x,,,,,
+economic_nationalism;경제 민족주의;Economic Nationalism;;;;;;;;;;;;;;;;;;;;x,,,,,
+economic_nationalism_desc;이 정책의 목적은 경제적으로 독립적인 자급자족 국가를 만드는 것입니다. 이 정책은 노동, 재화, 자본의 이동에 대한 관세와 다른 제한을 많이 부과하는 등 국내 경제, 노동, 자본 형성에 대한 통제를 선호합니다.;The aim of this policy is to have a country that is economically independent and nationally self-sufficient. It favors policies that emphasize domestic control of the economy, labor, and capital formation, even if this requires the heavy imposition of tariffs and other restrictions on the movement of labor, goods and capital.;;;;;;;;;;;;;;;;;;;;x,,,,,
+polish_uprising_mobilization;폴란드인 봉기;Polish Uprising;;;;;;;;;;;;;;;;;;;;x,,,,,
+polish_uprising_mobilization_desc;폴란드가 다시 자유를 되찾도록 우리 사회를 동원하고 있습니다.;We are mobilizing our society so Poland can be free once more.;;;;;;;;;;;;;;;;;;;;x,,,,,
+credit_risk;높은 신용 위험;High Credit Risk;;;;;;;;;;;;;;;;;;;;x,,,,,
+credit_risk_desc;반란, 전쟁, 또는 전반적인 불안정. 우리나라는 돈을 빌리기에 너무 많은 위험을 안고 있습니다.;Revolts, wars or general instability, our country is too much of a risk for other countries to lend money to us.;;;;;;;;;;;;;;;;;;;;x,,,,,
+sound_dues;외레순 통행료;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
+sound_dues_toll;외레순 통행료;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
+unrecognized_country;미승인국;Unrecognized Country;;;;;;;;;;;;;;;;;;;;x,,,,,
+unrecognized_country_desc;반란으로 세워진 국가라는 이유로 누구도 우리의 자결권을 인정하지 않습니다.;As a young rebellious country, no one recognizes our right to self rule.;;;;;;;;;;;;;;;;;;;;x,,,,,
+monthly_payment_made;매월 상납금;Monthly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,
+monthly_payment_made_desc;우리는 이미 종주국에 이번달치 상납금을 바쳤습니다.;We already contributed to our overlord's coffers this month.;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_ships;수입 선박 사용;Uses Imported Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_shipyards;서양 조선소 사용;Uses Western Shipyards;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_weapons;외국 무기 사용;Uses Foreign Weapons;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_artillery;외국 대포 사용;Uses Foreign Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
+sicilian_mafia;시칠리아 마피아;Sicilian Mafia;;;;;;;;;;;;;;;;;;;;x,,,,,
+desc_sicilian_mafia;마피아나 코사 노스트라로도 알려진 시칠리아 마피아는 시칠리아에서 탄생해 남부 이탈리아 지역에서 활동하는 범죄 조직입니다. 그들은 주로 폭력 행위를 통해 이익을 얻으며 생산자의 이익과 노동자 고용에 심각한 영향을 미칩니다.;The Sicilian Mafia, also known as simply the Mafia or Cosa Nostra, is a criminal syndicate born in Sicily and operating in provinces with South Italians. They profit mainly through racketeering, badly affecting producers' profits and their capability to hire new workers, but they also dwell on political corruption and other criminal areas. Their brutal methods makes them infamous where they operate.;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_steamers;빚진 증기선;Owed Steamers;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_artillery;빚진 대포;Owed Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_canned_food;빚진 통조림;Owed Canned Food;;;;;;;;;;;;;;;;;;;;x,,,,,
+total_reform;포괄적인 기적;Comprehensive Miracle;;;;;;;;;;;;;;;;;;;;x,,,,,
+total_reform_desc;우리나라는 진정한 기적에 못지 않게 대대적인 개혁을 단행하고 있습니다;Our country is going through comprehensive reforms, promoting nothing short of a true miracle.;;;;;;;;;;;;;;;;;;;;x,,,,,
+slave_revolution;노예 혁명;Slave Revolution;;;;;;;;;;;;;;;;;;;;x,,,,,
+relutanct_figher;Reluctant Fighter;;;;;;;;;;;;;;;;;;;;x,,,,,
+relutanct_figher_desc;이 나라는 야망이 없어 보이며 다른 나라를 위해 싸우는 것을 꺼립니다.;This nation doesn't seems to have its own ambitions and is reluctant to fight for another country.;;;;;;;;;;;;;;;;;;;;x,,,,,
+silver_mine;은 광산;Silver Mine;;;;;;;;;;;;;;;;;;;;x,,,,,
+krakow_is_austrian;오스트리아령 크라쿠프;Krakow is Austrian;;;;;;;;;;;;;;;;;;;;x,,,,,
+great_irish_famine;아일랜드 대기근;Great Irish Famine;;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill;절멸 수용소;Extermination Camps;;;;;;;;;;;;;;;;;;;;x,,,,,
+sunni_country;수니파 국가;Sunni Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
+shiite_country;시아파 국가;Shiite Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
+ibadi_country;이바티파 국가;Ibadi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+catholic_country;천주교 국가;Catholic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+protestant_country;개신교 국가;Protestant Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+mormon_country;모르몬교 국가;Mormon Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+orthodox_country;정교회 국가;Orthodox Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+coptic_country;콥트교 국가;Coptic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+jewish_country;유대교 국가;Jewish Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+yazidi_country;야지디교 국가;Yazidi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+mahayana_country;대승불교 국가;Mahayana Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+gelugpa_country;티베트불교 국가;Gelugpa Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+theravada_country;소승불교 국가;Theravada Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+hindu_country;힌두교 국가;Hindu Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+shinto_country;신토 국가;Shinto Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+sikh_country;시크교 국가;Sikh Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+taiping_country;배상제회 국가;Taiping Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+fetishist_country;배물교 국가;Fetishist Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+init_country;이니트교 국가;Init Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+jain_country;자이나교 국가;Jain Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+zoroastrian_country;조로아스터교 국가;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+assyrian_country;앗수르교 국가;Assyrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+animist_country;토속신앙 국가;Animist Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+native_assimilation_act_policy;원주민 동화법;Native Assimilation Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_assimilation_act_policy_desc;정부는 원주민의 동화를 위해 노력하고 있습니다.;The government is working towards the assimilation of the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+native_removal_act_policy;원주민 제거법;Native Removal Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_removal_act_policy_desc;차별 정책은 원주민을 제거하고 내쫓는 것을 목표로 합니다.;Discriminatory policies aim to eliminate and push out the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+african_integration_policy;아프리카인 통합 정책;African Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_assimilation_enacted;원주민 통합 정책;Native Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_world_nation;신대륙 국가;New World Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_healthcare_poorly_funded;저예산 보건복지;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_low_healthcare_poorly_funded;행정 분야에 대한 정부 지출 감소는 의료 체계의 자금 부족을 초래합니다.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_healthcare_poorly_funded;저예산 보건복지;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_good_healthcare_poorly_funded;행정 분야에 대한 정부 지출 감소는 의료 체계의 자금 부족을 초래합니다.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+capital_health_care;수도 보건복지;Local Capital Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_trinket_health_care;최소한의 보건복지;Trinket Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_low_health_care;낮은 보건복지;Low Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_acceptable_health_care;충분한 보건복지;Acceptable Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_good_health_care;좋은 보건복지;Good Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pearl_season;진주 사냥철;Pearl Hunting Season;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pearl_season_desc;이 지역 주민들은 수익성이 높은 진주 채취에 참여하고 있습니다.;The population in this province is engaging in the much profitable pearl hunting activity.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+religious_minority_oppression;소수종교 탄압;Oppressed Religious Minorities;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+religious_minority_oppression_desc;소수종교들은 탄압을 받고 있습니다. 이로 인해 이들 종교 신자들의 불만도와 의식도가 점점 더 높아집니다.;Religious minorities are being mistreated, resulting in ever increasing militancy and consciousness of these people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+armenian_diaspora;아르메니아 디아스포라;Armenian Diaspora;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+armenian_diaspora_desc;이 지역에는 아르메니아 디아스포라를 통해 온 소수 문화가 존재합니다.;This province contains a minority population that comes from the Armenian diaspora.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+earthquake_devastation;지진 재앙;Earthquake Devastation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+earthquake_devastation_desc;최근 강력한 지진이 이 지역을 황폐화했습니다. 현재 수천 명의 이재민이 발생하고 수십 명의 삶이 사망했습니다.;A powerful earthquake has recently devastated this province, leaving thousands homeless and disrupting the lives of scores of people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+education_fully_funded;훌륭한 교육 제도;Excellent Education System;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+health_care_fully_funded;훌륭한 보건복지;Excellent Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+neglected_education;교육 기금 도외시;Neglected Education Funding;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trinket_health_care_fully_funded;보건복지 전액 지원;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_health_care_fully_funded;보건복지 전액 지원;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+acceptable_health_care_fully_funded;보건복지 전액 지원;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_health_care_fully_funded;보건복지 전액 지원;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_schools_fully_funded;교육 전액 지원;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+acceptable_schools_fully_funded;교육 전액 지원;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_schools_fully_funded;교육 전액 지원;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rally_tribesmen;부족원 결집;Rally Tribesmen;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rally_tribesmen_desc;우리 인민 일부는 수세기 동안 지속된 전사 문화를 가진 유목민적 생활 방식을 버립니다. 이 사람들에게 다가가 그들을 우리의 대의에 따르게 함으로써, 우리는 우리나라의 운명을 성취하기 위해 훨씬 더 큰 군대를 양성할 수 있습니다.;A portion of our people leave a nomadic lifestyle with bits of a centuries old warrior culture. By reaching to these people and rallying them to our cause, we can raise a much greater army to fulfill our country's destiny.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tanzimat_land_reform;오스만 영토법;Ottoman Land Code;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tanzimat_land_reform_desc;오스만 영토법은 오스만 제국의 탄자마트 기간 동안의 체계적인 토지개혁 계획의 시작이었습니다. 그 법률의 이면에 있는 이유는 두 가지였습니다. 1. 세수를 늘리고 2. 해당 지역에 대한 국가의 통제를 강화하기 위함.;The Ottoman Land Code was the beginning of a systematic land reform program during the Tanzimat period of the Ottoman Empire. The reasons behind the law were twofold. (1) to increase tax revenue, and (2) to exercise greater state control over the area.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+war_economy_ships;비상선 건축;Emergency Ship Building;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+preparing_for_war;전쟁 준비;Preparing for War;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+preparing_for_war_desc;북부와의 전쟁은 불가피하며 우리는 이에 대비해야 합니다.;War with the North is inevitable and we must be ready for it.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+missionary_activity;선교 활동;Missionary Activity;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+missionary_activity_desc;우리나라에서 해외 선교사들이 활동하고 있습니다.;Foreign missionaries are active in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+exploiting_the_land;탐험;Exploiting the Land;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_exploiting_the_land;왕자의 시대(Zemene Mesafint)는 힘들고 위험한 시대입니다. 그래서 모든 통치자들은 비용을 줄이고 가능한 한 주민들로부터 많은 돈을 가져가야 합니다.The time of the Zemene Mesafint is an arduous and perilous time, so all rulers are required to cut costs and take as much money from their population as they can.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+small_immigration_boom;이민 붐;Immigration Boom;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_small_immigration_boom;이 지방은 사회,경제적 여건 때문에 이민 붐을 겪고 있습니다.;Due to favorable socio-economical conditions, this province is experiencing an immigration boom.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+disunited_country;분열된 국가;Disunited Country;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+disunited_country_desc;군벌, 지역주의와 범법자들은 우리 나라를 분열시키려 위협합니다. 우리의 인력과 정부의 노력 중 상당 부분은 오로지 우리나라를 유지하기 위한 것입니다. 우리 지배자는 반항적인 군벌에 군사 작전을 자주 벌입니다.Warlords, regionalism and outlaws threaten to rip our country apart. A good part of our manpower and government efforts are directed exclusively to maintain our country together. Our ruler is frequently in campaign against rebellious warlords.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tewodros_reforms;카사 하일루;Kassa Hailu;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tewodros_reforms_desc;우리의 현 지배자인 카사 하일루는 최근 가장 훌륭한 전략가입니다. 그러나 그는 또한 변덕스러운데다 범법자였고, 이는 다른 사람들의 눈에 우리나라를 낮추었습니다.;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+colonial_museum_of_natural_history;자연 역사 박물관;Museum of Natural History;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+colonial_museum_of_natural_history_desc;우리 나라에 자연 역사 박물관이 세워졌습니다.;A Museum of Natural History has been established in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+plantation;집약 농업과 광산;Plantations and Mines;;;;;;;;;;;;;;;;;;x,,,,,
+serial_killer;마음대로 돌아다니는 연쇄살인범;Serial Killer On The Loose;;;;;;;;;;;;;;;;;;x,,,,,
+desc_serial_killer;한 미치광이가 이 지역에서 미친 듯이 끔찍한 살인을 저지르고 있습니다. 다음은 누구일까요?;A degenerate is committing insane and gruesome murders in the area. Who's gonna be next?;;;;;;;;;;;;;;;;;;x,,,,,
+silver_age;백은시대;A Silver Age;;;;;;;;;;;;;;;;;;x,,,,,
+silver_age_desc;우리의 훌륭한 지도자는 우리를 더 나은 내일로 인도할 것입니다.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;x,,,,,
+pancasila;판차실라;Pancasila;;;;;;;;;;;;;;;;;;x,,,,,
+pancasila_desc;인도네시아는 단결해야 합니다! 공동의 지도력 하에서는 어떤 것도 우리를 막을 수 없습니다.Indonesia must stand united! Under a common leadership, nothing will stop us.;;;;;;;;;;;;;;;;;;x,,,,,
+bazaari_strike;이란인 상인 파업;Bazaari strike;;;;;;;;;;;;;;;;;;x,,,,,
+bazaari_strike_desc;우리 상인들은 모든 활동을 중단했습니다. 경제가 큰 타격을 받고 있습니다.;Our merchant elites shut down all activities. The economy is taking a heavy blow.;;;;;;;;;;;;;;;;;;x,,,,,
+exemplary_troops;모범군;Exemplary troops;;;;;;;;;;;;;;;;;;x,,,,,
+exemplary_troops_desc;그들의 재능 혹은 단순한 존재로 인해, 우리의 엘리트 부대는 적에게 기관총을 장전하는 데 필요한 사기가 생겼음을 시사합니다.;By their feats or even by their mere being, our elite troops inspire the most basic ruffians, giving them the morale needed to charge a firing machine gun.;;;;;;;;;;;;;;;;;;x,,,,,
+submarine_warfare;잠수함 경쟁;Submarine warfare;;;;;;;;;;;;;;;;;;x,,,,,
+submarine_warfare_desc;우리는 해군의 기술 혁신을 이끌어 적의 심장부에 공포를 불어넣고 있습니다.;We are leading innovation in naval technology and instilling fear in the heart of our enemies!;;;;;;;;;;;;;;;;;;x,,,,,
+rancho;캘리포니아 오두막집;Rancho California;;;;;;;;;;;;;;;;;;x,,,,,
+rancho_desc;우리의 후한 기부금과 토지 보조금은 그 지역의 인구가 독특한 생활 방식을 갖게 합니다.;Our generous donations and land grants allow for a quick population of the area, leading to an unique life-style.;;;;;;;;;;;;;;;;;;x,,,,,
+reading;독서;Reading;;;;;;;;;;;;;;;;;;x,,,,,
+reading_desc;위대한 문학 작품들이 사람들에게 독서의 영감을 불어넣었습니다. 대중은 교육을 받을지도 모릅니다... 끔찍하군요!A great work of literature inspired the people to read. The masses may become educated... The horror!;;;;;;;;;;;;;;;;;;x,,,,,
+hague_convention;만국평화회의 비준;Ratified Hague Convention;;;;;;;;;;;;;;;;;;x,,,,,
+hague_convention_desc;우리는 세계의 평화와 안정의 시대로 나아가기 위해 만국평화회의에 서명했습니다.;We have signed the Hague Convention to further an era of peace and stability in the world.;;;;;;;;;;;;;;;;;;x,,,,,
+camillo_cavour;카밀로 카보우르;Camillo Cavour;;;;;;;;;;;;;;;;;;x,,,,,
+camillo_cavour_desc;훌륭한 장관이 올바른 방법으로 우리나라를 이끌고 있습니다. 현대는 이제 우리 문턱까지 왔습니다. 만세!;Our excellent minister is leading our nation in the right way. Modernity is now at our doorstep. Huzzah!;;;;;;;;;;;;;;;;;;x,,,,,
+small_baby_boom;높은 출생률;Baby Boom;;;;;;;;;;;;;;;;;;;;;;;;x
+dust_bowl;건조 지대;Dust Bowl;;;;;;;;;;;;;;;;;;;;;;;;x
+emigrant_aid_company;이민지원회사;Emigrant Aid Company;;;;;;;;;;;;;;;;;;;;;;;;x
+bleeding_state;출혈 상태;Bleeding State;;;;;;;;;;;;;;;;;;;;;;;;x
+free_staters_national;자유 이주 금지;Free Staters Prohibition;;;;;;;;;;;;;;;;;;;;;;;;x
+free_staters_national_desc;몇몇 자유로운 성향의 정착민 몇 명이 다른 주로의 이주가 금지되여 대중의 소동을 일으켰습니다.;A few free staters settlers were prohibited from migrating to another state, generating a public commotion.;;;;;;;;;;;;;;;;;;;;;;;;x
+copperhead_democrats_national;노예제 존치 토론;Copperhead Democrats;;;;;;;;;;;;;;;;;;;;;;;;x
+copperhead_democrats_national_desc;노예제 폐지론자들과 남부의 친노예제 단체들이 노예제의 미래에 대해 토론하고 있습니다.;Abolitionist democrats and southern pro-slavery groups are debating the future of slavery in our nation.;;;;;;;;;;;;;;;;;;;;;;;;x
+underground_railroad_shutdown;지하철도 폐쇄;Underground Railroad Shutdown;;;;;;;;;;;;;;;;;;;;;;;;x
+underground_railroad_shutdown_desc;우리나라의 몇몇 지하철도가 폐쇄되었습니다. 이 행위는 미국인들을 기억 속에 신선합니다.;A few underground railroads in our nation were shut down and this act is fresh in the memory of the American people.;;;;;;;;;;;;;;;;;;;;;;;;x
+fugitive_slave;도주 노예;Fugitive Slave;;;;;;;;;;;;;;;;;;;;;;;;x
+fugitive_slave_desc;도주 노예에 관한 최근의 결정은 아직도 우리 국민들 뇌리에서 잊히지 않고 있습니다.;A recent decision regarding a fugitive slave is still fresh in the memory of our people.;;;;;;;;;;;;;;;;;;;;;;;;x
+abolitionist_pamphlets;폐지론자의 소책자;Abolitionist Pamphlets;;;;;;;;;;;;;;;;;;;;;;;;x
+slave_market;노예 시장;Slave Market;;;;;;;;;;;;;;;;;;;;;;;;x
+drinking_gourd;북두칠성;Drinking Gourd;;;;;;;;;;;;;;;;;;;;;;;;x
+fire_eaters;불을 먹는 자;Fire-Eaters;;;;;;;;;;;;;;;;;;;;;;;;x
+yankee_doodle;양키 두들;Yankee Doodle;;;;;;;;;;;;;;;;;;;;;;;x
+wish_I_was_dixie;딕시의 정체성;Dixie Identity;;;;;;;;;;;;;;;;;;;;;;;x
+southern_manorialism;남부의 장원제도;Southern Manorialism;;;;;;;;;;;;;;;;;;;;;;;x
+southern_pride;남부의 자존심;Southern Pride;;;;;;;;;;;;;;;;;;;;;;;x
+desc_southern_pride;딕시들은 그들의 땅과 여성들의 아름다움을 자랑스러워하는 긍지 높은 사람들입니다.;The dixies are a proud people, proud of their land and proud of the beauty of their women.;;;;;;;;;;;;;;;;;;;;;;;x
+enclosures;인클로저;Enclosures;;;;;;;;;;;;;;;;;;;;;;;x
+desc_enclosures;인클로저, 즉 울타리 두르기란 대농장을 만들기 위해 남의 소규모 토지들을 통합하는 법적 절차를 말합니다.;The legal process of enclosing a number of small landholdings to create one larger farm. Once enclosed, use of the land became restricted to the owner, and it ceased to be common land for communal use.;;;;;;;;;;;;;;;;;;;;;;;x
+haussmanns_renovations;조르주외젠 오스만의 혁신;Haussmann's Renovations;;;;;;;;;;;;;;;;;;;;;;;x
+desc_haussmanns_renovations;조르주외젠 오스만이 기획한 파리 개조에는 혼잡하고 건강에 해로운 중세풍 건물 철거, 도로 확장, 공원과 광장의 건설, 파리를 둘러싼 교외의 합병, 하수구 신설, 분수대와 수로의 건설이 포함되어 있었습니다.;The Haussmann's renovations, envisioned by Georges-Eugene Haussmann, included the demolition of crowded and unhealthy medieval neighborhoods, the building of wide avenues, parks and squares, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts.;;;;;;;;;;;;;;;;;;;;;;;x
+foreign_claims;다른 국가의 영유권 주장;Foreign Claims;;;;;;;;;;;;;;;;;;;;;;;x
+foreign_claims_desc;다른 국가가 이 지역에 영유권을 주장하고 있습니다;Another nation is claiming this province, a claim that they will lose soon enough.;;;;;;;;;;;;;;;;;;;;;;;x
+IS_IN_DEFAULT_TO;이 국가는 채무불이행 상태입니다.;Is in default to this country.;;;;;;;;;;;;;;;;;;;;;;;x
+IS_NOT_IN_DEFAULT_TO;이 국가는 채무불이행 상태가 아닙니다.;Is not in default to this country.;;;;;;;;;;;;;;;;;;;;;;x
+warship_commissioned;전함 제공;Warship Delivered;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+warship_commissioned_desc;새로운 외국 전함의 건설, 인도 또는 수취는 복잡한 문제입니다. 선원들은 교육을 받아야 하고, 장교들은 교육을 받아야 하며, 관료적인 서류 작업이 이루어져야 합니다. 때문에 우리가 이 문제에 다시 참여하기 위해서는 시간이 필요합니다.;Constructing, delivering or receiving a new, foreign warship is a complicated matter. Sailors need to be trained, officers instructed and the bureaucratic paperwork needs to be done. Because of that, it will take some time for us to be able to get involved in matters like this again.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ironclad_commision;철갑함 의뢰;Iron Clad Commissions;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sino_portuguese_treaty_of_peking_signataire;베이징 조약 서명국;Signatory of the Treaty of Peking;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_distribution_channels_und_electricity;소매상 및 전기 조명;Commercial Retailers and Electrical Lighting;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_local_distribution_channels_und_electricity;이 지역에서는 새롭고 효율적인 상품 판매 및 재판매를 위한 방식과 구조가 구현되었습니다. 농민들이 자신의 밭과 전등을 자유롭게 사용할 수 있게 되었고, 근로자들도 새롭고 밝은 환경에서 일하게 되어 모든 지역 생산의 효율성을 증대시켰습니다.;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields and electrical lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;;;;;;;;;;;;;;;;;;;;x;;;;
+freedom_of_religion;종교의 자유;Freedom of Religion;;;;;;;;;;;;;;;;;;;x;;;;
+freedom_of_religion_desc;우리나라에서는 그 누구도 종교를 강요받지 않으며, 소수 종교는 보호를 받습니다.;No one is forced or coerced into following any religion in our country, religious minorities have a protected status.;;;;;;;;;;;;;;;;;;;x;;;;
+repatriation;송환;Repatriation;;;;;;;;;;;;;;;;;;;x;;;;
+desc_repatriation;난민 캠프, 인구 교환, 대량 추방. 이유가 어떻든 간에 우리는 본국으로 송환할 사람들이 많습니다. 때문에 그들을 위해 더 많은 공간을 확보하고 있습니다.Refugee Camps, population exchanges, mass expulsions. Whatever the reason, we have lots of people to repatriate and because of that we are making more space for them.;;;;;;;;;;;;;;;;;;;x;;;;
+gaslights;가스등;Gas Lights;;;;;;;;;;;;;;;;;;;x;;;;
+gaslights_desc;가스등의 도입으로 작은 방이나 공장 바닥과 같은 곳을 밝힐 수 있게 되었습니다. 이것은 사람들이 일출과 일몰에 더 이상 큰 의미를 두지 않을 것임을 의미했습니다.;The introduction of gas lights meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_nitroglycerin_and_machine_tools;기계화된 채굴;Mechanized Mining;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_local_nitroglycerin_and_machine_tools;이 지역의 채굴 과정은 새로운 폭발물과 함께 새롭고 기계화된 도구로 수행되어 광산의 효율성과 규모를 증가시킵니다.;The mining process in this province is carried out with new and mechanized tools as well as new explosives, increasing the efficiency of local mining operations and the size of mines.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+modern_sail_ships;현대 항해선;Modern Sail Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
+modern_sail_ships_desc;항해선 건조, 장비 및 인원 배치에 현대 기술을 사용하면 더욱 효과적이고 강력한 선박이 가능합니다.;Modern techniques of building, equipping and staffing sail ships allow for more effective and powerful ships.;;;;;;;;;;;;;;;;;;;;x,,,,,
+population_exchange_with_turkey;터키 인구 교환;Population Exchange with Turkey;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+albania_exchange;알바니아 인구 교환;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bosnia_exchange;보스니아 인구 교환;Bosnia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+montenegro_exchange;몬테네그로 인구 교환;Montenegro Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+southern_serbia_exchange;남세르비아 인구 교환;Southern Serbia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+macedonia_exchange;도브루자 인구 교환;Dobrudja Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+dobrudja_exchange;알바니아 인구 교환;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bulgaria_exchange;불가리아 인구 교환;Bulgaria Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+eastern_rumelia_exchange;알바니아 인구 교환;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+thessalia_exchange;테살리아 인구 교환;Thessaly Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+southern_macedonia_exchange;남마케도니아 인구 교환;Southern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+eastern_macedonia_exchange;동마케도니아 인구 교환;Eastern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# Crime;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+machine_politics;정치 기구;Political Machine;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_machine_politics;정치 기구란 시나 군 또는 주의 정치적, 행정적 통제를 유지하기에 퉁분한 표를 얻는 단일 우두머리나 소규모 독재단체가 이끄는 정당 조직입니다. 이 체제 하에서는 공무원 임명을 뇌물 수단으로 이용하는 것이 일반적입니다.;Political Machines are a party organization, headed by a single boss or small autocratic group, that commands enough votes to maintain political and administrative control of a city, county, or state. It is in essence the bribery of mainly minorities by politicians using their influence. It is common to use the appointment for government jobs as a means of bribery within this system.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+spoil_system;엽관제;Spoils System;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_spoil_system;엽관제(후원제라고도 함)는 선거에서 당선된 후 정치 활동과 무관한 척도에 근거한 실적제를 무시하고 지지자, 친구, 친척에게 정부 관직을 주는 행위입니다.;The spoils system (also known as a patronage system) is a practice in which a political party, after winning an election, gives government jobs to its supporters, friends and relatives as a reward for working toward victory, and as an incentive to keep working for the party ?as opposed to a merit system, where offices are awarded on the basis of some measure of merit, independent of political activity.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+instigators;정치 선동가;Political Instigators;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_instigators;한 지역의 범죄단체들이 과도하게 확장된다면 선동자들은 미쳐날뛸 것입니다. 종국엔 확립된 질서에 악영향을 줄 정도로 많은 관심과 지원을 받을 것입니다.;If the crime fighting institutions in a province became overstretched, instigators would run amok and eventually gather sufficient attention and support to cause an impact in the established order.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+kleptocrats;도둑 정치;Kleptocrats;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_kleptocrats;도둑 정치는 공직자나 지배계급이 특히 심각하고 체계적인 문제를 안고 있는 정부에 적용되는 용어입니다. 외부 감시가 불가능하거나 존재하지 않는 나라에 제대로 된 통제 기관이 없는 것은 관료들이 도둑 정치인이 될 수 있음을 의미합니다.;Kleptocracy is a term applied to a government seen as having a particularly severe and systemic problem with officials or a ruling class (collectively, kleptocrats) taking advantage of corruption to extend their personal wealth and political power. Typically this system involves the embezzlement of state funds at the expense of the wider population, sometimes without even the pretense of honest service. Lacking sufficient control institutions in a country where external oversight is impossible or does not exist can mean that the bureaucrats would become kleptocrats.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+# General Modifiers;;;;;;;;;;;;;;x;;;;
+##################################################;;;;;;;;;;;;;;x;;;;
+international_zone_modifier;국제지구;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+international_zone_modifier_desc;우리나라는 국제 지구로, 무역과 상업의 중심지, 그리고 외국인들이 만날 수 있는 중립지역으로 선포되었습니다.;Our country has been declared an international zone, a hub of trade and commerce and a neutral zone for foreign parts to meet.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+international_zone;국제지구;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_training;비효율적인 외국식 훈련;Ineffective Foreign Training;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_training_desc;이 군사개혁이 효과를 거둘 수도 있지만, 서양 기술에 대한 우리의 경멸이 서양 기술의 완전한 활용을 가로막고 있습니다.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_schools;비효율적인 해군사관학교;Ineffective Naval Schools;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_schools_desc;이 군사개혁이 효과를 거둘 수도 있지만, 서양 기술에 대한 우리의 경멸이 서양 기술의 완전한 활용을 가로막고 있습니다.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_officers;비효율적인 외국 장교;Ineffective Foreign Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_officers_desc;이 군사개혁이 효과를 거둘 수도 있지만, 서양 기술에 대한 우리의 경멸이 서양 기술의 완전한 활용을 가로막고 있습니다.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_officers;비효율적인 제독;Ineffective Naval Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_officers_desc;이 군사개혁이 효과를 거둘 수도 있지만, 서양 기술에 대한 우리의 경멸이 서양 기술의 완전한 활용을 가로막고 있습니다.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+naval_school;해군사관학교;Naval School;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_naval_school;상선은 우리 지역의 한 해군학교를 운영하며 최신 해군기술의 통솔력과 교육을 가르칩니다.;The Merchant Marine operates a Naval School in one of our provinces, providing lessons in leadership and education in the latest naval technologies.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+historical_congo;역사적 콩고;Historical Congo;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+neuchatel_crisis_escalated;뇌샤텔 위기;Neuchatel Crisis;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+preparations_for_war;전쟁 준비;Preparations for War;;;;;;;;;;;;;;;;;;;;;;;;;;x
+preparations_for_war_desc;전쟁이 하루하루 가까워지고 있습니다.;There's an incoming war, or so some say.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_company;콩고 회사;The Congo Company;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_company_desc;콩고 회사는 콩고의 천연자원을 탐구하고 원주민을 부리기 위해 세워졌습니다.;With its residence on the Congo, the company was made to explore the natural resources of the Congo and make sure its riches and the natives benefit us.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_exploitation;콩고인 착취;Congolese Exploitation;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_exploitation_desc;모든 흑인은 이 남자를 적도의 흑인으로 간주했습니다...;All blacks saw this man as the devil of the Equator...From all the bodies killed in the field, you had to cut off the hands. He wanted to see the number of hands cut off by each soldier, who had to bring them in baskets...A village which refused to provide rubber would be completely swept clean. As a young man, I saw [Fi?ez's] soldier Molili, then guarding the village of Boyeka, take a net, put ten arrested natives in it, attach big stones to the net, and make it tumble into the river...Rubber causes these torments; that's why we no longer want to hear its name spoken. Soldiers made young men kill or rape their own mothers and sisters.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+philantropic_work;박애 사업;Philanthropic Work;;;;;;;;;;;;;;;;;;;;;;;;;;x
+philantropic_work_desc;우리는 이 나라를 문명화하고 토착민들을 돕고 있습니다.We are guiding this nation in the principles of civilizing and helping the natives.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+refused_gp_deliberation;강대국에 반항;Defied the Great Powers;;;;;;;;;;;;;;;;;;;;;;;;;;x
+refused_gp_deliberation_desc;우리는 강대국들의 심의에 반대했습니다. 회의에서 내린 결정을 집행하려는 전쟁의 위협이 다가오고 있지만, 만약 우리가 충분한 시간을 버틸 수 있다면, 그들은 우리가 옳다는 것을 인정할지도 모릅니다.;We defied the deliberation of the Great Powers. There's a looming threat of war to enforce the decisions made in the Congress, but if we can hold out for enough time they may be forced to recognize that we are right.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+mandate_of_heaven;천명;Mandate of Heaven;;;;;;;;;;;;;;;;;;;;;;;;;;x
+mandate_of_heaven_desc;신의 권한으로, 황제는 만민의 통치자입니다.;By Divine Right, the Emperor is ruler of all under Heaven.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+the_congo_reform_association;콩고 개혁협회;The Congo Reform Association;;;;;;;;;;;;;;;;;;;;;;;;;;x
+the_congo_reform_association_desc;한 국제 인도주의 단체는 콩고에서의 우리의 식민 정책에 대해 별로 호의적이지 않은 입장을 보이고 있습니다.;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+indian_territory;원주민 구역;Indian Territory;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+indian_territory_desc;원주민 구역은 미국 정부가 원주민의들을 이주시키기 위해 남겨둔 땅입니다.;The Indian Territory is a land area set aside by the United States Government for the relocation of the indigenous peoples of the Americas who held aboriginal title to their land.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+reconstruction;복원 정책;Reconstruction Policies;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+reconstruction_desc;남북전쟁이 끝난 후, 분열된 우리나라는 재건되어야 합니다.; After the Civil War, our torn nation needs to be rebuilt. With policies such as the  theTen-Percent Plan, a plan that stipulates that each secessionist state had to redraft its constitution and could reenter the Union only after 10 percent of its eligible voters pledged an oath of allegiance to the United States and other reconstruction plans, the USA can recover from the effects of this devastating war.;;;;;;;;;;;;;;;;;;;;;;;x
+cultural_resurgence;문화적 재기;Cultural Resurgence;;;;;;;;;;;;;;;;;;;;;;;x
+cultural_resurgence_desc;이 지역은 옛 문화의 완전한 부활을 경험하고 있습니다;This province is experiencing a complete resurgence of an old culture.;;;;;;;;;;;;;;;;;;;;;;;x
+chinese_treaty_port;중국 조약항;Chinese Treaty Port;;;;;;;;;;;;;;;;;;;;;;;x
+chinese_treaty_port_desc;우리는 중국과 조약을 맺고 중국의 항구와 도시에 대한 권리를 획득했습니다.;We negotiated a treaty with the Chinese and acquired the rights over a Chinese port and city.;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_unequal_treaty;불평등 조약;Unequal Treaty;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_unequal_treaty_desc;우리는 전쟁에서 패했고 서양인들은 문호 개방, 금전적 보상 그리고 심지어 영토의 할양을 요구하며 독수리처럼 밀려왔습니다.;We have lost a war and like vultures, the westerners descended upon us imposing their conditions including the opening of our country, monetary reparations and even the secession of territory.;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_treaty;협상 조약;Negotiating Treaty;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_treaty_desc;우리 외교관들은 패전국과 조약을 협상하고 있습니다.;Our diplomats are negotiating a treaty with a defeated nation.;;;;;;;;;;;;;;;;;;;;;;;x
+lacks_writing_system;표준어 체계 없음;Lacks Writing System;;;;;;;;;;;;;;;;;;;;;;;x
+lacks_writing_system_desc;우리 사회에는 표준어 체계가 없습니다. 표준어가 없다면, 정부의 조직 구조는 항상 단순할 것입니다.;Our society lacks a writing system. Without this the written word, the organizational structures of the government will always be simple.;;;;;;;;;;;;;;;;;;;;;;;x
+penal_colony;형벌 식민지;Penal Colony;;;;;;;;;;;;;;;;;;;;;;;x
+penal_colony_desc;이 지역에는 형벌 식민지가 있습니다. 하류층 대부분은 죄수이거나 죄수였던 자들이며, 이것은 빈곤의 확산으로 이어집니다.;This province is home to a sizeable penal colony. Most of the poor strata are convicts or former convicts, leading to widespread poverty.;;;;;;;;;;;;;;;;;;;;;;;x
+divided_society;분열된 사회;Divided Society;;;;;;;;;;;;;;;;;;;;;;;x
+divided_society_desc우리 사회는 인종 문제로 깊이 분열되어 있습니다. 주변에는 불신과 분노가 만연해 있어 통합에 심각한 영향을 주고 있습니다.;Our society is deeply divided by racial issues. There's distrust and resentment all around and because of that integration is severely affected.;;;;;;;;;;;;;;;;;;;;;;;x
+caudillo_leaders;코딜로;Caudillo;;;;;;;;;;;;;;;;;;;;;;;x
+caudillo_leaders_desc;코딜로는 남아메리카의 군사 독재자를 뜻하는 단어입니다.;A caudillo is a type of militia leader with a charismatic personality and enough of a populist program of generic future reforms to gain broad sympathy, at least at the outset, among the common people. Effective caudillismo depends on a personality cult. Since the caudillo typically held power by controlling a patronage network that brooked no rival structure, some caudillos took up an anti-clerical stand. Many of the caudillos used their newly gained power, which was unchecked because it was extra-constitutional, to promote their own wealth and interests.;;;;;;;;;;;;;;;;;;;;;;;x
+corrupt_army;부패한 장교;Corrupt Officials;;;;;;;;;;;;;;;;;;;;;;;x
+corrupt_army_desc;장교 중 한 명이 패배의 원인을 적의 마법 탓으로 돌렸고, 그것은 원수의 성난 반응을 불러일으켰습니다. 우리 군대의 조직과 보급이 불충분하고, 장교 훈련도 부족하며, 부패가 만연하다는 것은 명백합니다.;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;;;;;;;;;;;;;;;;;;;;;;;x
+fanatic_army;높은 충성심;Fanatic Loyalty;;;;;;;;;;;;;;;;;;;;;;;x
+fanatic_army_desc;높은 수준의 기강과 높은 충성심으로 특징지어진 우리 군대는 대의를 위해 싸우기 위해 전국에서 사람들을 모집하고 있습니다. 이 병사들은 우리의 임무를 확고히 믿고 영원한 충성심을 가지고 있습니다.;Marked by a high level of discipline and fanaticism, our army is recruiting people from all over our country to fight for our cause. These conscripts firmly believe in our mission and are of an undying loyalty to us.;;;;;;;;;;;;;;;;;;;;;;;x
+irish_poverty;아일랜드 빈곤;Irish Poverty;;;;;;;;;;;;;;;;;;;;;;;x
+animists_run;토속신앙 신도 이주;Animist Emigration;;;;;;;;;;;;;;;;;;;;;;;x
+hormuz_strait;호르무즈 해협;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
+the_french_foreign_legion;프랑스 외인부대;La L?ion ?rang?e;;;;;;;;;;;;;;;;;;;x
+the_hedeselskab;히스협회;The Hedeselskab;;;;;;;;;;;;;;;;;;x,,,,
+the_hedeselskab_desc;덴마크 무어 회사 재단은 광대한 지역의 배수 및 개선을 이끕니다.;The foundation of the Danish Moor Company lead to the drainage and improvement of vast areas.;;;;;;;;;;;;;;;;;;x,,,,
+emigration_boom;이민 붐;Emigration Boom;;;;;;;;;;;;;;;;;;x,,,,
+emigration_boom_desc;우리나라의 생활여건 변화는 국민의 이주를 자극하고 있습니다.;Changing life conditions in our country are stimulating a big relocation of our people.;;;;;;;;;;;;;;;;;;x,,,,
+gold_rush_country;콜드 러시;Gold Rush;;;;;;;;;;;;;;;;;;x,,,,
+gold_rush_country_desc;우리나라는 구대륙의 사람들이 우리나라로 몰려오도록 하는 골드 러시를 겪고 있습니다.;Our country is experiencing a gold rush leading people from all over the old world to flock to our country.;;;;;;;;;;;;;;;;;;x,,,,
+global_baby_boom;베이비 붐;Baby Boom;;;;;;;;;;;;;;;;;;x,,,,
+global_baby_boom_desc;우리나라의 생활환경 개선은 전국적으로 베이비붐을 일으키고 있습니다.;Improvements in life conditions in our country are leading to a country-wide baby boom.;;;;;;;;;;;;;;;;;;x,,,,
+political_education;이념 교육;Ideological Education;;;;;;;;;;;;;;;;;;x,,,,
+political_education_desc;우리나라의 교육은 이념 교육으로 가득 차 있어 지도자가 바뀔 때마다 심각한 변화를 가져옵니다.;Education in our country is full blown ideological indoctrination, and has severe changes every time our leader changes. Universal public education is thus enforced and alphabetization is a priority, but at the cost of free thinking.;;;;;;;;;;;;;;;;;;x,,,,
+cult_of_personality;개인 숭배;Cult of Personality;;;;;;;;;;;;;;;;;;x,,,,
+cult_of_personality_desc;개인 숭배는 개인이 대중매체, 선전 또는 다른 방법을 사용하여 이상적이고 영웅적이며 때로는 숭고한 이미지를 만들 때 발생합니다.;A cult of personality arises when an individual uses mass media, propaganda, or other methods, to create an idealized, heroic, and at times, worshipful image, often through unquestioning flattery and praise.;;;;;;;;;;;;;;;;;;x,,,,
+totalitarian_system;전체주의;Totalitarianism;;;;;;;;;;;;;;;;;;x,,,,
+totalitarian_system_desc;전체주의란 국가가 사회에 대한 완전한 권한을 가지고 있으며 가능한 모든 곳에서 공공과 개인 생활의 모든 측면을 통제하려 하는 정치 체제를 가리킵니다.;Totalitarianism is a political system in which the state holds total authority over the society and seeks to control all aspects of public and private life wherever possible.;;;;;;;;;;;;;;;;;;x,,,,
+the_terror;테러;The Terror;;;;;;;;;;;;;;;;;;x,,,,
+the_terror_desc;우리의 적을 극복하기 위해서 우리는 우리 자신의 군국주의를 가져야 합니다. 우리는 우리나라 전체 인구 중 90%를 감당해야 하며 나머지는 절멸되어야 합니다.;To overcome our enemies we must have our own militarism. We must carry along with 90 percent out of the total population of our country. As for the rest, we have nothing to say to them. They must be annihilated.;;;;;;;;;;;;;;;x,,,,
+silver_age;백은시대;A Silver Age;;;;;;;;;;;;x,,,,
+silver_age_desc;우리의 훌륭한 지도자는 우리를 더 나은 내일로 인도할 것입니다.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;;;;;;;x,,,,
+chinese_foreign_training;중국의 외국식 훈련;Foreign Training in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_weapons;중국의 서구식 무기;Western Weapons in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_officers;중국의 외국 장교;Foreign Officers in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_artillery;중국의 서구식 대포;Western Artillery in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pandemic_influenza_immunity;독감으로부터의 자유;Influenza Free;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pandemic_influenza_immunity_desc;독감이 우리나라를 황폐화시키지만, 이 작은 고립된 공동체는 외딴 입지 덕분에 영향을 받지 않고 있습니다.;A Pandemic of Influenza ravages our country, but this small isolated community is immune to it, thank to its remote location.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+population_resettlement;주민 재식민;Population Resettlement;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+population_resettlement_desc;우리나라는 시민들을 재식민함으로써 이 지역을 국가에 통합하기 위해 노력하고 있습니다.;Our nation is working on the national integration of a region by resettling our citizens.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trade_city;무역 도시;Trade City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trade_city_desc;이 지역에 중요한 무역 도시가 위치해있어 많은 경제적 번영을 누리고 있습니다.;Located in this province is an important trade city, a hub of trade of the region, enjoying much economic prosperity.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+peacetime_mobilization;평화 기간의 동원;Peace Time Mobilization;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+peacetime_mobilization_desc;하류층들은 훈련되고 싸울 준비가 되어 있지만, 전쟁은 없습니다. 이 나라의 일상 생활의 큰 혼란은 주민을 지치게 하고 이웃 국가들에게 경계심을 사고 있습니다.;Conscripts are being drafted left and right and our poor are being trained and prepared to fight, yet there's no war. This large disruption in the country's daily life is making our pops tired and our neighbors wary.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_received;조공 수령;Tribute Received;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_received_desc;우리의 속국 중 하나가 우리에게 경의를 표했습니다.;One of our vassals paid their due tribute to us.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_paid;조공 지불;Tribute Paid;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_paid_desc;우리는 수입의 일부를 종주국에 바쳐야 합니다.;We have to share part of our earnings with our overlord over the time period and as suck we are poorer from that.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+islamic_law_triggered;이슬람 율법;Islamic Law;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+islamic_law_triggered_desc;이슬람 율법은 이제 우리 사회의 기본법규가 되었습니다. 그것은 범죄, 정치, 경제뿐만 아니라 성관계, 위생, 식이요법, 기도, 일상 에티켓과 금식 같은 개인적인 문제들을 다룹니다.;Islamic law is now the basis law code of our society. It deals with several topics including: crime, politics, and economics, as well as personal matters such as sexual intercourse, hygiene, diet, prayer, everyday etiquette and fasting.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+deportation_underway;국외 추방;Deportation;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+deportation_underway_desc;다른 문화에 속한 사람들이 이 나라를 떠나도록 "장려하고" 있습니다.;People from different ethnicities are being "encouraged" to move out of this country.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+treaty_port;조약항;Treaty Port;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+treaty_port_desc;외국 정부에 양도돼 중국과 다른 나라를 잇는 무역의 중심입니다.;This port was ceded to a foreign administration and it's a hub of trade from China to the rest of the world.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+drained_marsh;배수된 습지;Drained Marsh;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+drained_marsh_desc;이 습지대는 배수되어 결과적으로 더 살기 편합니다.;This marshland was drained and as a result it is more habitable.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+backed_down_on_promise;약속 취소;Backed Down on Promises;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+backed_down_on_promise_desc;우리 정부는 우리 주민에 대한 하나 이상의 중요한 약속을 어겼습니다.;Our government broke one or more important promises to our population.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+highlander_raids;산악지역인 급습;Highlander Raids;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+highlander_raids_desc;산악지역인들이 우리 지역을 약탈하고 있습니다.;Highlander raiders are looting our provinces in numbers.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+jewish_farms;유대인 농장;Jewish Farmlands;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+jewish_farms_desc;이스라엘로 이주한 유대인들은 삼림파괴, 토양침식, 방치에 의해 많은 것들이 대부분이 반건조인 땅을 구입했습니다. 그들은 바위 밭을 개간하고, 테라스를 건설하고, 목초지를 배수하고, 숲을 다시 가꾸고, 토양 침식을 막고, 염분을 빨아들이기 시작했습니다. 독립 이후, 경작 중인 총 면적은 408,000 에이커(1,650 km2)에서 1,07,000 에이커(4,300 km2)로 증가했고, 농업 공동체의 수는 400에서 725 에이커로 증가했다. 농업생산은 인구증가율보다 3배나 많은 16배 성장했습니다.;Jews who immigrated to Israel purchased land that was mostly semi-arid, although much had been rendered untillable by deforestation, soil erosion and neglect. They set about clearing rocky fields, constructing terraces, draining swampland, reforesting, counteracting soil erosion, and washing salty land. Since independence, the total area under cultivation has increased from 408,000 acres (1,650 km2) to 1,070,000 acres (4,300 km2), while the number of agricultural communities has increased from 400 to 725. Agricultural production has expanded 16 times, three times more than population growth.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+monument_under_construction;공사 중;Under Construction;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+monument_under_construction_desc;우리는 국가의 위대함을 축하하기 위한 위대한 계획을 실행하고 있습니다.;We are building a great project to celebrate our nation greatness.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+recently_built_city;최근 건설한 도시;Recently Built City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+recently_built_city_desc;이 도시는 최근 정부가 건설했으며, 현대적인 기반시설을 구축하기 위해 많은 노동자들을 이 지역에 투입했습니다.;The capital of this province was recently built by the government, moving a lot of workers to the region to  build a city with modern infrastructure.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+law_changed_by_force;법 개정;Law Changed;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+law_changed_by_force_desc;우리는 상원을 압박하여 시급한 개혁을 통과시켰습니다.;We pressured the upper house to pass an urgent reform.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+social_reformed_nation;완전한 복지 국가;Full Welfare State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+social_reformed_nation_desc;사회개혁은 모든 사회주의적 요구에 부합합니다. 일부 학자들은 우리를 복지국가라고 부르기도 합니다.;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+wahhabism_in_nejd;와하브파;Wahhabism;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+wahhabism_in_nejd_desc;와하브파 교리의 "중심 사상"은 무슬림을 자칭하지만 무시받는 "이슬람의 바깥"을 인정하는 것이었습니다. 여기에는 문맹, 베두인 뿐만 아니라 시아파, 수피파, 오스만 제국도 포함했습니다.;The "pivotal idea" of Wahhabism teaching was that people who called themselves Muslims but who participated in such innovations were not just misguided or committing a sin, but were "outside the pale of Islam altogether", as were Muslims who disagreed with his definition. This included not just lax, unlettered, nomadic Bedu, but Shia, Sufi, and Ottomans.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+russian_army;러시아 육군;The Russian Army;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+russian_army_desc;러시아 육군은 유럽에서 가장 큰 육군이 될 수도 있지만, 보급과 조직력이 부족합니다.;The Russian Army may be the biggest land force of Europe, but it is poorly supplied and organized.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+landlocked_nation;내륙 국가;Landlocked Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+landlocked_nation_desc;우리 나라는 바다에 접근할 수 없어서 수입 비용이 크게 증가합니다.;Our nation doesn't have any access to the sea, greatly increasing import costs.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+fundamentalist_sympathies;이슬람 근본주의자;Islamic Fundamentalists;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+fundamentalist_sympathies_desc;이슬람 근본주의자들이 지역민들을 선동하고 있습니다.;Islamic Fundamentalists are agitating the people in this province.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_constitution;새 헌법;The New Constitution;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_constitution_desc;우리나라는 새로운 헌법을 발표하여 투표권과 시민권을 보장해 혁명의 불길을 진압했습니다.;Our country issued a new constitution, guaranteeing voting and citizen rights and putting down the revolutionary flames.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rise_of_a_nation;국가의 부상;Rise of a Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rise_of_a_nation_desc;우리의 자랑스러운 나라는 자유로우며 우리의 문화는 다시 꽃을 피웁니다.;Our proud nation is free, and our culture blossoms again.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sounds_dues_toll;외레순 통행료;The Sound Toll;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sounds_dues_toll_desc;외레순 통행료는 16세기와 17세기 덴마크의 국가 수입의 3분의 2에 해당하는 통행료입니다.;The Sound Dues (or the Sound Toll) is a toll on the use of the Sound which constituted up to two thirds of Denmark's state income in the 16th and 17th centuries. The dues was introduced by King Eric of Pomerania in 1429.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MODIFIER_DEBT_DEFAULT_TO;채무 불이행;Debt Default To;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+generalised_debt_default;보편화된 채무 불이행;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MODIFIER_GENERALISED_DEBT_DEFAULT;보편화된 채무 불이행;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+hunger_riots;굶주린 자들의 폭동;Hunger Riots;;;;;;;;;;;;;;;;;;;x,,,,,
+desc_hunger_riots;빈민들이 심각한 어려움을 겪으며 경찰력이 없고 범죄와의 전쟁에 쓸 예산이 적은 지역은 시위가 걷잡을 수 없게 되어 노골적인 폭동에 휩쓸리게 됩니다.;A province where the poor are under severe hardship and that lacks an effective police force and has less money for crime fighting results in demonstrations getting out of hand and devolving in outright riots.;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill;강제 수용소;Concentration Camps;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill_desc;우리는 우리나라의 소수 문화 문제를 해결하고 있습니다. 소수 문화에 속한 이들은 집단수용소에 배치되어 자신들의 운명을 기다리고 있습니다.;We are solving the minorities problem in our country. Minorities are being sorted out in concentration camps and waiting for their fate, or being delivered to it already.;;;;;;;;;;;;;;;;;;;x,,,,,
+withdrew_from_geneva_convention;제네바 협약 탈퇴;Withdrew from the Geneva Convention;;;;;;;;;;;;;;;;;;;x,,,,,
+withdrew_from_geneva_convention_desc;우리나라는 이제 제네바 협약의 서명국이 아닙니다.;Our country is no longer a signatory of the Geneva Convention.;;;;;;;;;;;;;;;;;;;x,,,,,
+genocide;체계적 말살;Systematic Extermination;;;;;;;;;;;;;;;;;;;x,,,,,
+genocide_desc;소수 문화에 대한 공격적인 정책들이 우리나라의 변화를 촉진하고 있습니다.;Our aggressive policies against minorities are promoting a shift in our country.;;;;;;;;;;;;;;;;;;;x,,,,,
+small_but_efficient;강소국;Small But Efficient;;;;;;;;;;;;;;;;;;;x,,,,,
+small_but_efficient_desc;우리나라는 작습니다. 그러나 이는 운영하기 쉬움을 의미합니다.;Our country might be small, but that just means we can run it better.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_kiel_canal;킬 운하;The Kiel Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_kiel_canal_desc;덴마크 주변을 항해할 필요 없이 발트해과 북해를 연결하는 킬 운하를 소유하고 있으며, 통행료를 받습니다.;We own the Kiel Canal, linking the Baltic and the North Sea without the need to sail around Denmark, and we receive the dividends of its toll.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_suez_canal;수에즈 운하;The Suez Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_suez_canal_desc;아프리카를 돌 필요 없이 지중해와 홍해를 연결하는 수에즈 운하를 소유하고 있으며, 통행료를 받습니다.;We own the Suez Canal, linking the Mediterranean and the Red Sea without the need to sail around Africa, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_panama_canal;파나마 운하;The Panama Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_panama_canal_desc;남아메리카를 돌 필요 없이 태평양과 대서양을 연결하는 파나마 운하를 소유하고 있으며, 통행료를 받습니다.;We own the Panama Canal, a huge feat of engineering linking the Pacific and the Atlantic Oceans, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
+rebuilding_city;재건축;Rebuilding;;;;;;;;;;;;;;;;;;;;x,,,,,
+rebuilding_city_desc;우리 도시는 재건축 중입니다;Our city is rebuilding.;;;;;;;;;;;;;;;;;;;;x,,,,,
+slave_growth;노예 인구 통계;Slave Demographics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+slave_growth_desc;우리나라의 노예 인구는 변했습니다;The population of slaves changed in our country.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+assegai;대부대;Impi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+assegai_desc;투창, 연령 계급 연대 체계, 포위 전술과 같은 군사 혁신은 줄루를 남아프리카와 동남아프리카에서 가장 강력한 국가로 만드는 데 도움을 주었습니다.;Military innovations such as the assegai, the age-grade regimental system and encirclement tactics helped make the Zulu one of the most powerful nations in southern and south-eastern Africa.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+will_influence_elections;다음 선거;Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+will_influence_elections_desc;우리는 올해 선거를 따르고 있습니다.;We are following this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+let_the_chips_fall;Not Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+let_the_chips_fall_desc;우리는 올해 선거에 참여하지 않습니다.;We are not involved in this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_army;대군;The Big Army;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_army_desc;우르키사 장군은 로사스를 물리치기 위해 우루과이와 전국 각지의 자원 봉사자들과 타협해 대군를 모으고 있습니다.;General Urquiza is gathering a huge army, compromised of volunteers from Uruguay and all over the country, to defeat Rosas.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+small_immigration_boom;이민 붐;Immigration Boom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+small_immigration_boom_desc;우리나라는 번성하고 있어 매일 더 많은 사람들이 도시에 모여듭니다.;Our nation thrives and therefore more people flock to our cities each day.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_ben;빅벤;The Big Ben;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_ben_desc;빅벤은 런던에서 항상 제 시간에 종을 울립니다.;The Clock Tower derives its nickname from the bell, the Big Ben. With an extreme accuracy, the clock tower dominates life and work in London, always striking on time.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bigben_construction;웨스트민스터 궁전 재건;Reconstruction of the Palace of Westminster;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bigben_construction_desc;웨스트민스터 궁전은 거대한 시계탑과 함께 재건되고 있습니다.;The Palace of Westminster is being reconstructed and with it, a huge clock tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+eiffel_tower_construction;에펠탑 공사 중;Eiffel Tower Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+eiffel_tower_construction_desc;위대한 우리나라는 웅장한 탑을 건설하기 위해 자원과 노동자들을 쏟아붓고 있습니다.;Our great nation is dedicating its resources and workers to build a magnificent tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+suez_canal_construction;수에즈 운하 건설 중;Suez Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+suez_canal_construction_desc;위대한 우리나라는 웅장한 탑을 건설하기 위해 자원과 노동자들을 쏟아붓고 있습니다.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kiel_canal_construction;킬 운하 건설 중;Kiel Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kiel_canal_construction_desc;위대한 우리나라는 웅장한 탑을 건설하기 위해 자원과 노동자들을 쏟아붓고 있습니다.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+panama_canal_construction;파나마 운하 건설 중;Panama Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+panama_canal_construction_desc;위대한 우리나라는 웅장한 탑을 건설하기 위해 자원과 노동자들을 쏟아붓고 있습니다.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kinda_bad_badboy;국제 제재;International Sanctions;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kinda_bad_badboy_desc;우리는 세계의 안전과 힘의 균형에 위협이 된다고 여겨져 국제 제재를 받고 있습니다.;We have been declared a threat to global safety and international balance of power. Sanctions have been applied to our country and citizens and we have been warned that the great powers will worsen these sanctions in case we continue our aggressiveness.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+solano_lopez_industrialization;솔라노 로페스 공업화;Solano Lopez Industrialization;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+solano_lopez_industrialization_desc;카를로스 솔라노 로페스는 권좌에 오른 후 산업화 및 군국화라는 공격적인 계획을 실행했는데, 여기에는 부실 산업 퇴출, 군비 지출 최소화, 생산성에 대한 강한 집중 등이 포함되었습니다.;Following his rise to power, Carlos Solano Lopez started an aggressive program of industrialization and militarization of our country that included subsides to industry, minimum spending on military and a strong focus on productivity.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bad_badboy;국제적 고립;International Isolation;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bad_badboy_desc;많은 나라를 적으로 돌렸고, 이제 세계 대부분의 나라들은 우리를 국제적인 위협으로 간주합니다. 그들은 우리나라를 고립시키려 합니다.;Our great nation has acquired many enemies and now most of the nations in the world see us as an international threat. They joined forces to isolate us in an attempt to bring us down.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,, 
+north_coalition;대군;Ejercito Grande;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+north_coalition_desc;엔트레리오스의 우르키사 장군이 로사스에 대항하여 대규모 병력을 모으고 있으며 몇몇 지역에서는 그를 지원하겠다고 약속했습니다.;A huge army against Rosas is being gathered by General Urquiza of Entre-Rios, and some of our provinces have pledged to support him.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+organic_statute;폴란드 왕국 조직법;Organic Statute of Poland;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+organic_statute_desc;폴란드 왕국 조직법은 1830년의 폴란드 봉기 후 1815년의 헌법을 대체하기 위해 1832년 니콜라이 1세가 상트페테르부르크에서 발표한 법입니다. 비록 폴란드의 국회와 군대는 폐지되었지만, 지방 의회는 존속할 수 있었습니다.;The Organic Statute of the Kingdom of Poland was a constitution introduced in the Kingdom of Poland after the suppression of the Polish Uprising of 1830?1 to replace the Constitution of 1815. It was promulgated in St. Petersburg by Tsar Nicholas I on Feb. 14 (26), 1832. Although the Organic Statute abolished the Sejm and the Polish Army, it preserved such autonomous institutions as the vicegerency, the State Council, and the vicegerent?s Administrative Council.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+francia_utopia;프란시아의 유토피아;Francia's Utopia;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+francia_utopia_desc;파라과이의 독재자 프란시아는 프랑스 혁명적 이상으로부터 영감을 받아 사회 계약론에 기초한 유토피아 국가를 만드려 했습니다. 그는 국민들의 평등을 위해 노력했지만, 무자비하게 반대파를 탄압하거나 투옥했으며 경찰을 큰폭으로 늘리기도 했습니다. 고립주의자인 그는 외부 세력의 영향 없이 나라를 통치했습니다.;Dr. Francia, dictator for life of Paraguay, inspired by French revolutionary ideals sought to create a utopian state based on Rosseau's Social Contract. Although he strived for equality of the people, Francia ruthlessly destroyed any opposition and created a Police state, imprisoning all those he deemed seditious. An isolationist, he ran the country with almost no outside influence.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+colorado_sympathies;콜로라도당 소요;Colorado Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+colorado_sympathies_desc;이 지역은 콜로라도당의 영향권에 있어 곧 문제를 일으킬 것 같습니다.;This region is under Colorado influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+blanco_sympathies;블랑코당 소요;Blanco Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+blanco_sympathies_desc;이 지역은 블랑코당의 영향권에 있어 곧 문제를 일으킬 것 같습니다.;This region is under Blanco influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+rivera_reforms;리베라의 개입;Rivera's Intervention;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+rivera_reforms_desc;프룩투오소 리베라는 승리 후 몬테비데오에 입성하여 권력을 장악했습니다. 그는 이 권력을 잘 이용하려 합니다.;Fructuoso Rivera entered Montevideo victorious and assumed dictatorial powers while he called for elections. He made sure to use these powers well.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+prussia_disagrees;프로이센이 빈 조약에 서명합니다;Prussia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+russia_disagrees;러시아가 빈 조약에 서명합니다;Russia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+krakow_uprising;윙드 후사르가 곧 일어설 것입니다.;The Winger Hussars will ride once more.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+polish_spirit;폴란드인 정서;Polish Sentiment;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+polish_spirit_desc;크라쿠프의 혁명이 성공하자 도처의 폴란드인들은 다시 한번 통일된 독립 폴란드를 요구하고 있습니다.;With the successful revolution in Krakow, Poles everywhere are clamouring for an independent and unified Poland again.;;;;;;;;;;X,,,,,,,,
+official_nationality;공식 민족 선전;The Official Nationality Doctrine;;;;;;;;;;x,,,,,,,,,,
+official_nationality_desc;정교회, 전제 정치, 민족은 러시아의 차르 니콜라이 1세의 정책 기조입니다.;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. The Tsar is currently trying to Russify our country, greatly disrupting our country organization but inciting nationality!;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,,
+orthodoxy_autocracy_nationality;정교회, 전제 정치, 민족!;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;;;x,,,,,,,,,,,,
+orthodoxy_autocracy_nationality_desc;공식적인 민족 정책은 효력을 발휘해 동화를 가속화하고 있습니다.;The Official Nationality policy entered into effect and it's speeding up the assimilation of other cultures at the cost of some unrest.;;;;;;;;;;;x,,,,,,,,,
+communists_ruling;자본가의 몰락!;Down with the Capitalists!;;;;;;;;;;;;;;X,,,,,,,,,
+communists_ruling_desc;우리나라는 무산계급의 통치 하에 있습니다. 이제 자본자의 자리는 없습니다!;Our nation is now headed by the proletariat, capitalists have no place here!;;;;;;;;;;;;X,,,,,,,,,,,,
+soviet_agitation;차르 전제 정치;Tsarist Autocracy;;;;;;;;;;;;X,,,,,,
+soviet_agitation_desc;전쟁의 고난, 러시아의 기술적 후진성, 그리고 차르 전제 정치의 억압은 우리의 국민과 자원을 고갈시키고 있습니다. 우리는 차르 전제 정치의 종말을 볼 수 있을까요?;The hardships of war, the technological backwardness of Russia and the tsar autocracy and repression are exhausting our people and our resources. Will we ever see an end to the Tsar autocracy?;;;;;;;;;;X,,,,,,,,,,,,
+white_desorganisation;지도력 부재;Leadership Disorganisation;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+white_desorganisation_desc;러시아 내전에서 백군은 적군에 대항했습니다. 하지만 그들의 분열과 불화는 그들의 노력을 물거품으로 만들었습니다!;The White Army in the Russian Civil War managed to make advances against the soviets, but disorganization in it's ranks severely hindered their efforts!;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,
+install_communist_gov_sov;공산주의 정부 수립;Install communism;;;;;;;;;;;;x
+install_communist_gov_sov_desc;공산주의 정부를 수립합니다.;Install a communist government.;;;;;;;;;;;x
+install_communist_gov_sov_setup;공산주의 정부를 수립합니다. 이 목표를 달성하면 목표 국가는 자동적으로 우리 영향권에 추가되며 동시에 위성국이 됩니다.;Install a communist government. If achieved, the country will be automatically added into our sphere and will become our satellite.;;;;;;;;;;;x
+install_communist_gov_sov_short;공산주의 정부 수립;Install communism;;;;;;;;;;;;x
+human_research_modifier;연구 가속;Boosted Research;;;;;;;;;;;;;x
+canadian_confederation;캐나다 연방;The Canadian Confederation;;;;;;;;;;;;;x
+canadian_confederation_short;캐나다는 연합할 것입니다!;Canada will be confederated!;;;;;;;;;;;;;x
+canadian_confederation_setup;캐나다 자치령의 여러 주들은 독립을 요구해 왔습니다. 존 A. 맥도날드 경이 이끄는 이 운동은 대영제국에 굳건한 북미 동맹국을 탄생시킬 것입니다.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
+canadian_confederation_desc;캐나다 자치령의 여러 주들은 독립을 요구해 왔습니다. 존 A. 맥도날드 경이 이끄는 이 운동은 대영제국에 굳건한 북미 동맹국을 탄생시킬 것입니다.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
+canadian_confederation_title;캐나다 연방;The Canadian Confederation;;;;;;;;;;;;;x
+australian_independence;오스트레일리아 헌법;The Australian Constitution;;;;;;;;;;;;;x
+australian_independence_short;오스트레일리아는 6개의 주가 연합해 독립했습니다.;Australia federated into six separate states and gained its independence.;;;;;;;;;;;;;x
+australian_independence_setup;호주의 독립운동이 마침내 막바지에 이르렀습니다. 이제 대영제국은 이 대륙을 이전의 유배지에서 새로운 민주주의의 세계로 나아갈 수 있도록 할 때입니다.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
+australian_independence_desc;호주의 독립운동이 마침내 막바지에 이르렀습니다. 이제 대영제국은 이 대륙을 이전의 유배지에서 새로운 민주주의의 세계로 나아갈 수 있도록 할 때입니다.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
+australian_independence_title;오스트레일리아 헌법;The Australian Constitution;;;;;;;;;;;;;x
+kiwi_constitution;뉴질랜드 자치령;The Dominion of New Zealand;;;;;;;;;;;;;x
+kiwi_constitution_short;뉴질랜드 자치령 설치!;New Zealand has been released!;;;;;;;;;;;;;x
+kiwi_constitution_setup;호주의 독립 그리고 호주와 뉴질랜드 간의 역사적 유대에 따라, 키위 운동은 마침내 분권적 독립을 요구하며 구체화되었습니다.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
+kiwi_constitution_desc;호주의 독립 그리고 호주와 뉴질랜드 간의 역사적 유대에 따라, 키위 운동은 마침내 분권적 독립을 요구하며 구체화되었습니다.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
+kiwi_constitution_title;뉴질랜드 자치령;The Dominion of New Zealand;;;;;;;;;;;;;x
+first_riel_rebellion;제1차 리엘 반란 여파;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
+first_riel_rebellion_desc;제1차 리엘 반란은 여러 사상자를 낳았습니다. 메티스는 그들을 잊지 않으려 하겠지만, 정부는 그들을 그렇게 두지 않을 것입니다.;The First Riel Rebellion ended in blood and exile. The Metis have not forgotten, nor will the government let them.;;;;;;;;;;;;;x
+first_riel_rebellion_title;제1차 리엘 반란 여파;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
+metis_twilight;메티스의 황혼;The Twilight of the Metis;;;;;;;;;;;;;x
+metis_twilight_desc;제2차 리엘 반란은 최악의 방법으로 끝났고, 따라서 메티스는 캐나다에서 소외되었습니다.;The Second Riel Rebellion has ended in the worst possible way, and the Metis are now a marginalized people in Canada.;;;;;;;;;;;;;x
+metis_twilight_title;메티스의 황혼;The Twilight of the Metis;;;;;;;;;;;;;x
+taras_shevchenko_local;타라스 셰우첸코;Taras Shevchenko;;;;;;;;;;;;;x
+taras_shevchenko_local_desc;타라스 셰브첸코는 유명세를 타고 있으며, 우크라이나 독립과 국가 건설을 위한 노력에 있어서 우크라이나 국민들에게 영향을 미치고 있습니다.;Taras Shevchenko is gaining prominence and is affecting the Ukrainian peoples in their quest for independence and nation-building.;;;;;;;;;;;;;x
+taras_shevchenko_local_title;타라스 셰우첸코;Taras Shevchenko;;;;;;;;;;;;;x
+taras_works_local;타라스 셰우첸코;Taras Shevchenko;;;;;;;;;;;;;x
+taras_works_local_desc;타라스 셰우첸코는 우크라이나 문학과 문화의 아버지로 널리 알려져 있습니다.;Taras Shevchenko is working hard after many life experiences, and is quickly becoming known as the father of the Ukrainian language and culture.;;;;;;;;;;;;;x
+taras_works_local_title;타라스 셰우첸코;Taras Shevchenko;;;;;;;;;;;;;x
+slavery_timer;노예제;Slavery;;;;;;;;;;;;;x
+slavery_timer_desc;노예제가 지속되면서 해외에서의 우리나라 이미지가 나빠지고 있습니다.;Slavery in our nation continues on, making our country a bit less attractive as the world moves on.;;;;;;;;;;;;;x
+slavery_timer_title;노예제 지속;Continued Slavery;;;;;;;;;;;;;x
+independence_of_norway;노르웨이 독립;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_short;노르웨이 독립;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_setup노르웨이 독립;;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_desc;스웨덴-노르웨이 동군연합은 막다른 골목에 다다랐습니다. 노르웨이를 해방하는 것이 유일한 해결책인 것 같습니다.;The Personal Union between Sweden and Norway is on its last legs, and attempts to find common ground between the Swedes and Norwegians is failing rapidly. Releasing Norway seems like the only solution.;;;;;;;;;;;;;x
+independence_of_norway_title;노르웨이 독립;The Independence of Norway;;;;;;;;;;;;;x
+restart_the_caucasian_war;카프카스 전쟁 재개;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_short;카프카스 전쟁을 재개;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_setup;카프카스 전쟁을 재개합니다;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_desc;러시아는 페르시아와 오스만 제국과의 전쟁 동안 카프카르/체르케스 전쟁을 보류해왔습니다. 이제 러시아는 체면을 차리고 카프카스에 대한 패권을 보장할 기회를 갖게 되었습니다.;Although Russia put the Caucasian/Circassian War on hold during their wars with Persia and the Ottoman Empire, now Russia has a chance to save face and ensure its hegemony over the Caucasus. This is not a decision to be taken lightly, as the war has raged in one form or another since 1763.;;;;;;;;;;;;;x
+restart_the_caucasian_war_title;카프카스 전쟁 재개;Restart the Caucasian War;;;;;;;;;;;;;x
+caucasian_war_local;카프카스 전쟁;Caucasian War;;;;;;;;;;;;;x
+caucasian_war_local_desc;현재 진행 중인 카프카스 전쟁은 이들 지역에 불안과 생산성 부족을 초래하고 있습니다.;The ongoing Caucasian War is causing unrest and lack of productivity in these provinces.;;;;;;;;;;;;;x
+caucasian_war_local_title;카프카스 전쟁;The Caucasian War;;;;;;;;;;;;;x
+caucasian_truce_local;카프카스 전쟁-휴전;Caucasian War - Truce;;;;;;;;;;;;;x
+caucasian_truce_local_desc;카프카스 전쟁은 휴전 상태입니다.;The Caucasian War is undergoing a truce, for now. The uneasy tension that the locals have with their Russian occupiers is a welcome break from the previous state of war, but it is an uneasy truce brokered by the blood of both sides.;;;;;;;;;;;;;x
+caucasian_truce_local_title;카프카스 전쟁-휴전;The Caucasian War - Truce;;;;;;;;;;;;;x
+SOV_communists;볼셰비키;Bolsheviks;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,
+SOV_communists_2;트로츠키파;Trotsky's Faction;;;;;;;;;;;;;X,,,,,,,,,,,,,
+kobu_gattai;공무합체;Kobu Gattai;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kobu_gattai_desc;공무합체란 막부와 황실 간의 정치적 협력을 증대하고, 막부 내부의 반대자들을 달래기 위한 에도 막부의 정책입니다.This was a policy of the Tokugawa shogunate aiming at increasing political coordination between the bakufu and the Imperial Court, as well as appeasing opponents within the shogunate itself.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+sakoku;쇄국;Sakoku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+sakoku_desc;'나라를 걸어잠?E'를 의미하는 쇄국은 외국인이 일본에 입국할 수 없게 하는 정책입니다. 일본은 에도 막부의 치세인 17세기부터 국가를 고립된 상태로 유지했습니다.;Meaning 'locked country',this is the policy under which no foreigner could enter Japan under pain of death. Maintained by the Tokugawa shogunate, it has kept the nation in enforced isolation since the 17th century.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+tozama_daimyo;토자마 다이묘;Tozama Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+fudai_daimyo;후다이 다이묘;Fudai Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+emperor_meiji;메이지 덴노;Emperor Meiji;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+supports_imperial_edict;외국인에 대한 칙령을 지지합니다.;Supports the Imperial edict against foreigners;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+angered_by_bakufu;막부의 분노;Angered by the bakufu;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+rangaku;난학;Rangaku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+rangaku_desc;'화란(네덜란드)의 학문'을 의미하는 난학은 일본이 데지마(Dejima)라는 인공섬에서 네덜란드와 접촉하여 개발한 서양의 지식들을 말합니다. 일본은 쇄국 정책을 유지하면서도 네덜란드와는 교역을 유지해 서양의 기술과 의학을 계속 접할 수 있었습니다.;Meaning 'dutch learning',this refers to the body of knowledge developed by Japan through its contacts with the Dutch enclave of Dejima, which allowed Japan to keep abreast of Western technology and medicine in the period when the country was closed to foreigners.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+ansei_purge;안세이 대옥;Ansei Purge;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+meddled_in_foreign_affairs;타국 사건 간섭;Meddled in Foreign Affairs;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+no_freedom;독립 시도;Attempted Freedom;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+no_freedom_desc;외국의 지배에서 벗어나려던 시도가 실패로 돌아갔습니다. 그들이 우리를 주시하므로 다음 기회가 찾아올 때까지 기다려야 합니다.;We attempted to free ourselves from foreign rule. We must wait until there is another opportunity, as for now they are watching us closely.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
