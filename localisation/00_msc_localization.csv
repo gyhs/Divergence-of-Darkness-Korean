@@ -1,67 +1,67 @@
 ;;;;;;;;;;;;;;;;;x
-organize_central_asia_title;Hegemony in Central Asia;;;;;;;;;;;;;;;;;;;;;;;;;x
-organize_central_asia_desc;Our domination over the steppes is now uncontested: it is time we organize the area to better serve our needs.;;;;;;;;;;;;;;;;;;;;;;;;;x
-conquest_of_red_water_title;Conquest of the coast;;;;;;;;;;;;;;;;;;;;;;;;;x
-conquest_of_red_water_desc;Our control over the Turkmenia region is now complete enough that we can make our move towards the Caspian Sea by conquering the area known as Kyzyl-Su, the Red Water, before anyone else cut us there.;;;;;;;;;;;;;;;;;;;;;;;;;x
-claim_artois_title;Claim Artois;;;;;;;;;;;;;;;;;;;;;;;;;x
-claim_artois_desc;The comté d'Artois has traditionally been part of the Low Countries. Only during the era of foreign rule by Habsburg scum was it snatched by the King of France. As such, it is our duty to reclaim those lands back into our glorious realm, put their people to work and profit from their land!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_NET_title;Artois is ours!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_NET_desc;The region of Artois is finally back in $COUNTRY_ADJ$ hands! The area has been part of our rightful historical realm and this should reflect on the world's maps.;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_FRA_title;Artois is ours!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_FRA_desc;The region of Artois is finally back in $COUNTRY_ADJ$ hands! The area has been part of our rightful historical realm and this should reflect on the world's maps.;;;;;;;;;;;;;;;;;;;;;;;;;x
-build_neuschwanstein_title;The Neuschwanstein Castle;;;;;;;;;;;;;;;;;;;;;;;;;x
-build_neuschwanstein_desc;The Neuschwanstein Castle is a nineteenth-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau. The palace was commissioned paid out of his personal fortune by Ludwig II of Bavaria, "The Swan King", as a retreat and as a homage to Richard Wagner. The palace was intended as a personal refuge for the reclusive sovereign: it is said that from his bedroom in Hohenschwangau, Ludwig trained a telescope on a ridge to keep an eye on Neuschwanstein as it was being constructed.;;;;;;;;;;;;;;;;;;;;;;;;;x
-EVTNAME110082;Smuggle Tea to $COUNTRY$;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110082;After a failed attempt to cultivate tea in $COUNTRY$ in 1882 with seeds from India, Prince Mohammad Mirza known as "Kashef Al Saltaneh" who was born in Lahijan, imported Indian tea and started its cultivation in Lahijan. Kashef, who was the first mayor of Tehran and an Iranian ambassador to India under British rule, knew that the British would not allow him to learn about the secrets of tea production, as it was it is their biggest business in India. So being fluent in French, the prince pretended to be a French laborer and started to work in the tea plantations and factories to learn how to produce tea. Ultimately his plan was to take back some samples of this tea to $COUNTRY$ to cultivate. He was successful in this endeavor only because of his diplomatic immunity which stopped the British from searching his secretly stashed sample. At the time, Kashef brought 3000 saplings into his country from the Northern part of India, Kangra and he started the cultivation in the region Gilan, south of the Caspian Sea. The climate there was well suited for tea cultivation, and the tea industry quickly expanded in Gilan and Mazanderan region.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110082OPTA;A wonderful initiative!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110082OPTB;No thanks.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110083;A Trip To Europe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110083;Numerous suzerains of so-called "uncivilized" nations have made the decision to travel to Europe in order to support westernization policies. From Nasser al-Din Shah Qajar of Persia to Chulalongkorn of Siam and the many princes of India, the experience proved successful in enlightening rulers throughout the world. While this could help our country enter modernity, it will surely anger our more traditional elites...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110083OPTA;We could learn a lot.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110083OPTB;A king's place is in his country.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110084;The Treaty of Erzurum of $YEAR$;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110084;Tensions have risen again between the Ottoman Empire and Qajar Persia after order has been restored in the Kurdish areas. Border conflicts are now a common occurrence, driving up jingoist sentiment in both courts. Wishing to protect their interests in the region, the United Kingdom and Russia have intervened to find a diplomatic solution to the issues that plagued the area. The proposed treaty includes nine articles treating various issues, from territorial compromises to the status of pilgrims, forever establishing the western concepts of nation and borders in the region.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110084OPTA;This seems fair.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110084OPTB;We will resolve the issue our own way!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110085;A Rise To Power;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110085;Amir Kabir has gained more and more power in our country. He now cumulates the positions of Chief Minister and Chief of the Army: this situation could be dangerous especially while the Shah remains young. His popularity is still low, both in court and abroad many despise him. Some whisper in our ear that it could be our only opportunity to stop him before it's too late...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTA;The Shah demands his head.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTB;His life is safe: exile him.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTC;He is our friend and advisor.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110086;Amir Kabir assassinated!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110086;In $YEAR$ Amir Kabir Mirza Taghi Khan Farahani was murdered while traveling to Kashan, an obviously political move. Some are pointing fingers at the disgruntled nobles, including the Queen Mother. Others are blaming foreign powers. With him, many believe, died the prospect of an independent Iran led by meritocracy rather than nepotism.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110086OPTA;We mourn his loss.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110086OPTB;We shall find whoever is guilty!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110087;The Swan King;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110087;Crown Prince Ludwig had just turned 18 when his father died after a three-day illness, and he ascended the Bavarian throne. Although he was not prepared for high office, his youth and brooding good looks made him popular in Bavaria and elsewhere. Rather than live with the frustrations of a modern constitution and a feisty parliament reining him in, he spent his years lost in Romantic literature and operas, most notably by summoning Wagner at his court or by funding the construction of the Neuschwanstein Castle.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110087OPTA;Long may he reign!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110088;Landel de Moura;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110088;Father Roberto Landel de Moura was ordained to the priesthood in 1886 in Rome, where he also studied the physical sciences. A famous local inventor, he got recognized by his broadcast of a human voice over 8km around Sao Paulo - a technological feet of note! He then secured multiple patents, both Brazilian and American, for Wireless Telephone and Wireless Telegraph. His subsequent requests to the Brazilian government for assistance in developing his invention were denied, and his efforts then languished.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTA;Support his effort!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTB;Give him an official acknowledgment.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTC;Interesting I'm sure...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110089;The Sudtirol Compromise.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110089;Ever since we established our control of the Sudtirol area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110089OPTA;The land is rightfully theirs.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110089OPTB;The land is rightfully ours.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110090;The Trentino Compromise.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110090;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110090OPTA;The land is rightfully theirs.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110090OPTB;The land is rightfully ours.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110091;The Allahdad;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110091;In $YEAR$, violent riots and forced conversions started taking place against the Jews of Mashhad. It is still unclear what started it: some blame a Jewish doctor who offended the clergy on the month of Muharram, others claim it was due to a financial conflict between the community an a local Sayyid. The city's ruler wish to order his men to enter Jewish homes and mobs attacked the Jewish community, burning down the synagogues while foreign elements are outraged at how their brethen are being treated. What should we do?;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110091OPTA;It is the will of Allah.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110091OPTB;They are also our subjects.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110092;Race Riots;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110092;The situation in $PROVINCE$ has degraded lately: due to poverty, unemployment and the post-war tensions riots have taken place against some of our national minorities. Looting, lynching and pillaging took place by a mass of furious protesters. This will be a black mark in our history...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110092OPTA;A sad state of affair...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRA_404;Artois;;;;;;;;;x;;;;
-amir_kabir;Amir Kabir;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_amir_kabir;Amir Kabir Mirza Taghi Khan Farahani is overseeing great works of reform in our country, to the anger of some.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-racial_tensions;Racial tensions;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_racial_tensions;Following racial riots targeting minorities, tension and hatred are high in the local community.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTB110083;A king's place is in his country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110083;We could learn a lot.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110092;A sad state of affairs.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTB110082;No thanks.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110082;Wonderful initiative!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+organize_central_asia_title;중앙아시아의 패권;;;;;;;;;;;;;;;;;;;;;;;;;x
+organize_central_asia_desc;대초원에 대한 지배권이 우리에게 있음은 이제 논쟁의 여지가 없습니다. 더 잘 써먹을 수 있도록 이 지역을 잘 편성해야 합니다.;;;;;;;;;;;;;;;;;;;;;;;;;x
+conquest_of_red_water_title;해안 정복;;;;;;;;;;;;;;;;;;;;;;;;;x
+conquest_of_red_water_desc;튀르크메니아 지역에 대한 통제권 획득을 완료했습니다. 이제 카즈피해로 향하는 지역을 정복하면 카스피해를 향해 나아갈 수 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;x
+claim_artois_title;아르테시어 영유권 주장;;;;;;;;;;;;;;;;;;;;;;;;;x
+claim_artois_desc;아르테시어 백국은 전통적으로 저지대의 일부였습니다. 단지 합스부르크가가 통치하던 와중에 프랑스 왕이 강탈했을 뿐입니다. 이 땅을 우리의 영광스러운 영역으로 되돌리고, 그곳의 백성을 일하게 해 이익을 얻는 것이 우리의 의무입니다!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_NET_title;아르테시어 탈환!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_NET_desc;아르테시어 지역이 마침내 $COUNTRY$의 품으로 돌아왔습니다! 이 지역은 우리의 정당한 일부였으며, 이같은 변화는 세계지도에 반영되어야 합니다.;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_FRA_title;아르투아 탈환!!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_FRA_desc;아르투아 지역이 마침내 $COUNTRY$의 품으로 돌아왔습니다! 이 지역은 우리의 정당한 일부였으며, 이같은 변화는 세계지도에 반영되어야 합니다..;;;;;;;;;;;;;;;;;;;;;;;;;x
+build_neuschwanstein_title;노이슈반슈타인 성;;;;;;;;;;;;;;;;;;;;;;;;;x
+build_neuschwanstein_desc;노이슈반슈타인 성은 호엔슈반가우 마을의 거친 언덕 위에 있는 19세기 로마네스크 양식의 궁전입니다. 이 궁전은 '백조의 왕' 바이에른의 루트비히 2세가 은퇴 후 리하르트 바그너에 대한 경의로 지은 것입니다. 이 궁전은 철저히 그를 위한 피난처로 설계되었습니다.;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTNAME110082;$COUNTRY$의 차 밀수;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110082;인도에서 씨앗을 가져와 1882년에 $COUNTRY$에서 차를 재배하려던 시도가 실패한 후 러히전에서 태어난 무함마드 미르자(흔히 카시프 알 살타네로 알려져 있음)는 인도 차를 수입해 러히전에서 재배하기 시작했습니다. 테헤란의 첫 번째 시장이자 영국령 인도 대사였던 그는 영국의 차 생산 비법을 배울 수 없다는 것을 알고 있었습니다. 차가 인도에서의 최대 사업이었기 때문입니다. 그래서 그는 차를 생산하는 법을 배우기 위해 프랑스 노동자인 척하며 차 농장과 공장에서 일했습니다. 궁극적으로 그의 계획은 경작을 위해 이 차의 일부 표본을 $COUNTRY$로 가져가는 것이었습니다. 그는 자신의 외교적 면제권 덕에 은밀한 비밀 표본을 영국인들이 찾지 못하도록 하는데 성공했다. 카시프는 인도 북부에서 3000개의 묘목을 자국으로 가져와 카스피해 남쪽의 길란 지역에서 재배를 시작했습니다. 그곳의 기후는 차 재배에 매우 적합했으며, 차 산업은 길란과 마잔다란 지역에서 빠르게 확장되었습니다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110082OPTA;훌륭한 발상이군!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110082OPTB;괜찮아.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110083;유럽 여행;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110083;이른바 "비문명국"의 많은 영주들이 서구화 정책을 지원하기 위해 유럽을 여행하기로 결정했습니다. 이란의 나세르 알-딘 샤 카자르(Nasser al-Din Shah Qajar)에서 시암의 출라롱콘(Chulalongkorn)과 인도의 많은 왕자들에 이르기까지 전 세계의 통치자들을 성공적으로 이끌어냈습니다. 이것이 우리나라가 근대화에 도움이 될 수 있지만, 우리의 전통적인 엘리트층을 분노하게 만들기도 할 것입니다 ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110083OPTA;우리는 많이 배울 수 있다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110083OPTB;왕은 자기 나라에 있어야지.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110084;에르주룸 조약($YEAR$);;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110084;쿠르드족 지역의 질서가 회복되자 오스만 제국과 이란 간의 긴장이 다시 고조되었습니다. 국경 분쟁은 이제 흔한 사건으로 두 법원 모두 팽창주의적 정서를 고조하고 있습니다. 이 지역에서의 자국 이익을 보호하고자 영국과 러시아가 외교적 해결책을 찾아준다는 명목으로 개입했습니다. 이들이 제안한 조약에는 영토의 타협에서 방랑자의 지위에 이르기까지 다양한 문제를 다루는 9개의 조항이 포함되어 있어 이 지역의 국가 및 국경에 관해 서구적 개념을 영원히 확립합니다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110084OPTA;공정한 것 같군.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110084OPTB;우리만의 방법으로 해결할 것이다!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110085;권력으로의 부상;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110085;아미르 카비르는 국내에서 점점 더 많은 권력을 얻었습니다. 그는 이제 군사령관 및 수상 직위를 역임합니다. 이 상황은 샤가 어리다면 위험할 수 있습니다. 그의 인기는 여전히 낮습니다. 궁정과 해외의 많은 사람들이 그를 경멸합니다. 일각에서는 지금이 그를 막을 유일한 기회라고 우리 귀에 속삭입니다 ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTA;샤는 그의 두뇌가 필요하다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTB;그의 인생은 안전하다. 그를 추방하라.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTC;그는 우리의 친구이자 조언자다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110086;아미르 카비르 암살!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110086;$YEAR$년, 아미르 카비르는 정치적인 이유로 카샨으로 가던 도중 살해당했습니다. 일부는 태후를 포함하여 그에게 불만을 품은 귀족들을 지목하고 있습니다. 외국 세력을 비난하는 이들도 있습니다. 많은 사람들은 혈연보다는 능력을 중시하던 그가 이끌던 독립 이란의 전망이 그의 죽음과 함께 사라졌다고 여깁니다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110086OPTA;그의 사망에 탄식한다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110086OPTB;누가 범인인지 밝혀내야 한다!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110087;백조 왕;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110087;루트비히 왕세자는 부왕이 3일간의 병치레 끝에 승하하자 18세에 바이에른 국왕에 올랐습니다. 그는 국왕 자리에 대비가 되어있지 않았지만 젊음과 미형의 외모 덕에 바이에른 등지에서 인기가 있었습니다. 그는 의회와 함께 국정을 이끌기보다는 낭만주의 문학과 오페라에 시간을 쏟았습니다. 그가 가장 주목한 것은 바그너를 궁정에 소집하거나 노이슈반슈타인 성에 건설 자금을 조달하는 것입니다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110087OPTA;그의 치세가 오래가기를.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110088;란델 드 무라;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110088;아버지 로베르토 란델 드 무라(Roberto Landell de Moura) 신부는 1886년 로마에서 신권 성임을 하고 물리학을 공부했습니다. 현지에서 유명한 발명가였던 그는 상파울로 주변 8km에 달하는 범위에서 사람의 목소리를 방송으로 내보내는데 성공해 주목을 받았다. 그는 무선 전화기와 무선 전신을 위해 브라질과 미국에서 여러 특허를 확보했습니다. 그러나 브라질 정부의 후속 원조가 부인되었고, 그의 노력은 시들해졌습니다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTA;그의 노력을 지원하라!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTB;그에게 원조 승인을 내려주어라.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTC;흥미롭군...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110089;쥐트티롤 타협;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110089;쥐트티롤 지역은 우리가 통제력을 확립한 이래로 불만이 존재해왔습니다. 민족주의 문제는 이 지역을 자극하고 폭동은 점점 더 흔하게 발생합니다. 일부 고문은 유상으로 토지의 일부를 양도하는 것이 현명하다고 생각합니다. 우리는 그들이 우리 몫에 대한 요구를 기꺼이 받아들일 것이라 생각합니다. 북쪽엔 독일인이, 남쪽엔 이탈리아인이 삽니다. 이 방법이 우리 국가들 사이의 긴장을 해결하기를 희망합니다.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110089OPTA;그 지역은 마땅히 그들 것이다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110089OPTB;그 지역은 마땅히 우리 것이다.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110090;트리엔토 타협;The Trentino Compromise.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110090;트리엔토 지역은 우리가 통제력을 확립한 이래로 불만이 존재해왔습니다. 민족주의 문제는 이 지역을 자극하고 폭동은 점점 더 흔하게 발생합니다. 일부 고문은 유상으로 토지의 일부를 양도하는 것이 현명하다고 생각합니다. 우리는 그들이 우리 몫에 대한 요구를 기꺼이 받아들일 것이라 생각합니다. 북쪽엔 독일인이, 남쪽엔 이탈리아인이 삽니다. 이 방법이 우리 국가들 사이의 긴장을 해결하기를 희망합니다.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110090OPTA;그 지역은 마땅히 그들 것이다.;The land is rightfully theirs.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110090OPTB;그 지역은 마땅히 우리 것이다.;The land is rightfully ours.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110091;알라다드;The Allahdad;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110091;$YEAR$년, 폭력적인 폭동과 강제 개종이 마슈하드의 유대인들을 엄습했습니다. 어떤 사람들은 무하람의 달에 성직자들을 불쾌하게 한 유대인 의사를 비난하고, 또 어떤 사람들은 지역 사회 내 사이드(무함마드의 정통 직계로 인정받는 사람) 사이의 재정적인 갈등 때문이라고 주장합니다. 이 도시의 통치자는 부하들에게 유대인의 집에 들어가라고 명령하기를 원하며 폭도들은 유대인들을 공격했습니다. 반면 외세가 자신들의 형제에 대한 대우에 격분하는 동안, 그들은 유대인들의 회당들을 공격했습니다. 이제 어떻게 해야 할까요?;In $YEAR$, violent riots and forced conversions started taking place against the Jews of Mashhad. It is still unclear what started it: some blame a Jewish doctor who offended the clergy on the month of Muharram, others claim it was due to a financial conflict between the community an a local Sayyid. The city's ruler wish to order his men to enter Jewish homes and mobs attacked the Jewish community, burning down the synagogues while foreign elements are outraged at how their brethen are being treated. What should we do?;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110091OPTA;신의 의지다.;It is the will of Allah.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110091OPTB;들은 마땅히 우리 신민이다.;They are also our subjects.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110092;인종 폭동;Race Riots;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110092;최근 $PROVINCE$의 상황이 악화되고 있습니다. 빈곤, 실업과 전후의 긴장감에 기인한 폭동이 몇몇 소수문화들을 상대로 일어나고 있습니다. 성난 시위대는 약탈과 집단폭행, 약탈을 자행했습니다. 우리 역사의 오점으로 남을 것입니다...;The situation in $PROVINCE$ has degraded lately: due to poverty, unemployment and the post-war tensions riots have taken place against some of our national minorities. Looting, lynching and pillaging took place by a mass of furious protesters. This will be a black mark in our history...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110092OPTA;국가적 비극이다...;A sad state of affair...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRA_404;아르투아;;;;;;;;;x;;;;
+amir_kabir;아미르 키비르;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_amir_kabir;아미르 카비르는 국내에서 위대한 개혁사업을 감독했습니다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+racial_tensions;인종 긴장;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_racial_tensions;지역 사회에서 소수 문화를 겨냥한 증오와 폭동이 계속되고 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTB110083;왕이 자기 나라를 떠나서는 안된다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110083;이를 통해 많이 배울 수 있다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110092;슬프다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTB110082;괜찮다.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110082;훌륭한 발상이다!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
