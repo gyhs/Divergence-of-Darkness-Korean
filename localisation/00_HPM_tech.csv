@@ -1,58 +1,58 @@
-ship_construction;Construction and Propulsion;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-steamers;Paddle Steamers;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-iron_steamers;Screw-propelled Steamers;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-steamer_shipyard_construction;Steamer Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-steamer_shipyard_construction_desc;Building steam ships is no easy task, thus we need to first design a shipyard of the appropriate size to begin construction.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-clipper_shipyard_construction;Clipper Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-clipper_shipyard_construction_desc;Building huge ships such as the Man'o'War is no easy task, thus we need to first design a shipyard of the appropriate size to begin construction.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-western_shipyards;Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-western_shipyards_l;Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-no_western_shipyards;Traditional Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-no_western_shipyards_l;Traditional Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-no_western_shipyards_desc;Our shipyards are built according to our old traditions.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-yes_western_shipyards;Western Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-yes_western_shipyards_l;Western Shipyards;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-yes_western_shipyards_desc;Our shipyards are built by foreign experts, allowing for the construction of ships of a much higher tonnage.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;
-old_style_family_business_desc;This style of business culture meant that the owners treated the business as a family shop or restaurant. The border between private and business was very unclear. The practice became very emotional and the owners would take much larger risks for their business, but at the cost of professionalism.;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;
-switch_to_traditional_academic_title;Renovate The Academia;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;
-switch_to_traditional_academic_desc;Many within our academic circles feel that the present direction of our academia is misguided and that we should adopt a more traditional academic profile.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;
-czech_tech_school;Skoda Works;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;
-japanese_tech_school;Shukensen-Riekisen;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;
-naval_tech_school;Sea Power & The Merchant Marine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
-switch_to_navy_tech_title;Sea Power & The Merchant Marine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
-unciv_tech_school;Developing Academia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;
-genetics_heredity;Genetics: Heredity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;
-genetics_heredity_desc;Heredity Genetics were a major step towards the understanding of life itself. Gregor Mendel (1822-84) assumed that every trait an organism contains is written down in some material factors and are transferred during the process of reproduction. In experiments with his pea plants he could prove his thesis.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-modern_winemaking;Modern Winemaking;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-modern_winemaking_desc;Although winemaking is a very old process, the proper expertise and equipment needed to make wine production lines is essential for the future of the industry.;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-bottling_process;Bottling Process;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-bottling_process_desc;Modern bottling techniques for efficient and proper bottling and distribution of alcohol are needed for the future of the beverages industry.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-schrapnel_standard_design;Schrapnel Standard Design;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-schrapnel_standard_design_desc;Shrapnel shells were anti-personnel artillery munitions which carried a large number of individual bullets close to the target and then ejected them to allow them to continue along the shell's trajectory and strike the target individually. They relied almost entirely on the shell's velocity for their lethality. The final shrapnel shell design bore little similarity to Henry Shrapnel's original design, marking the quick evolution of technology at the time.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-barbed_wire_defense;Barbed Wire Defense;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-barbed_wire_defense_desc;Barbed wire is a type of steel fencing wire constructed with sharp edges or points arranged at intervals along the strand. It is used to construct inexpensive fences and is used atop walls or as a major feature of the fortifications in trench warfare, stopping infantry charges.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-helmet_mass_production;Helmet Mass Production;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-helmet_mass_production_desc;The use of artillery and modern machine guns renewed the need for steel helmets. They quickly became  the standard among armed forces, from the French Adrian and the British Brodie to the German Stahlhelm. By the 20th century, such helmets offered protection for the head from shrapnel and fragments as well as for specialist roles.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-camouflage_uniforms;Camouflage Uniforms;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-camouflage_uniforms_desc;Camouflage is the use of any combination of materials, coloration, or illumination for concealment, either by making the target hard to see, or by disguising them as something else. With the raise in mortality of modern warfare, it seemed prudent to make our soldiers harder to kill by replacing the traditional uniforms.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-rotary_kiln;Rotary Kiln;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-rotary_kiln_desc;"The Rotary ""endless"" kiln gives perfect control over combustion and produces a better grade of cement. The kiln is a cylindrical vessel, inclined slightly to the horizontal, which is rotated slowly about its axis. The material to be processed is fed into the upper end of the cylinder. As the kiln rotates, material gradually moves down towards the lower end, and may undergo a certain amount of stirring and mixing. Hot gases pass along the kiln, sometimes in the same direction as the process material, but usually in the opposite direction. The hot gases may be generated in an external furnace, or may be generated by a flame inside the kiln.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-stiff_plastic_brickmaking_machine;Stiff-Plastic Brickmaking Machine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-stiff_plastic_brickmaking_machine_desc;In the machines used in the stiff-plastic process the previously powdered and screened clay is mixed into a stiff-plastic, granular material, which is afterwards compressed into a stiff paste. The mixing may be made in a trough-mixer or in a pug-mill. The shaping of bricks by the stiff-plastic process take places in two parts: the clot or roughly shaped brick which is made by mechanically forcing the stiff paste into a mould and the brick which is made by pressing the clot.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-puddling;Puddling Process;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-hot_blast;Hot Blast;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-electric_furnace;Electric Arc Furnace;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-bessemer_process;Bessemer Process;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-advanced_metallurgy;Open Hearth Furnace;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-pneumatic_and_hydraulics;Pneumatic and Hydraulics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
-jiggs;Jigs;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-dobby_loom;Dobby Loom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-dobby_loom_desc;A Dobby loom is a type of floor loom that controls all the warp threads using a device called a dobby. The main advantage of dobby looms is that more intricate designs can be produced. Dobby looms can be operated by wooden lags with pegs, which rotate around a roller above the loom. The pegs in the lags correspond to the lifting plan, which controls which harnesses are lifted. Punched paper pattern cards can also be used.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-cotton_gin;Cotton Gin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-cotton_gin_desc;The Cotton Gin is a machine for cleaning cotton of its seeds. The device pulls the cotton through a set of wire teeth mounted on a revolving cylinder, the fibre passing through narrow slots in an iron breastwork too small to permit passage of the seed. The simplicity of the invention � which could be powered by man, animal, or water � caused it to be widely copied despite patents. The cotton gin increased productivity of removing seed from cotton by a factor of 50. While it took a single slave about ten hours to separate a single pound of fiber from the seeds, a team of two or three slaves using a cotton gin could produce around fifty pounds of cotton in just one day.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-lancashire_loom;Lancashire Loom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-lancashire_loom_desc; The Lancashire Loom is an self-acting loom, though it has to be stopped to recharge empty shuttles. The principal advantage of the Lancashire loom was that it was semi-automatic, when a warp thread broke the weaver was notified. When the shuttle ran out of thread, the machine stopped. An operative thus could work 4 or more looms whereas previously they could only work a single loom. Indeed the term A Four Loom Weaver was used to describe the operatives. Labour cost was quartered. In some mills an operative would operate 6 or even 8 looms.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-steam_powered_silk_reels;Steam-Powered Silk-Reels;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-steam_powered_silk_reels_desc;Silk reeling is the process by which a number of cocoon baves are reeled together to produce a single thread. This is achieved by unwinding filaments collectively from a group of cooked cocoons at one end in a warm water bath and winding the resultant thread onto a fast moving reel. By mechanizing the process, we could increase our silk-reeling efficiency.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-post_napoleonic_thought;Post-Wenceslian Thought;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-post_napoleonic_thought_desc;Post-Wenceslian Thought;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ship_construction;건설 및 추진;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+steamers;외륜증기선;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+iron_steamers;스크류추진 증기선;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+steamer_shipyard_construction;증기선 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+steamer_shipyard_construction_desc;증기선을 건조하는 것은 쉬운 일이 아니므로, 먼저 설계를 시작하기에 적합한 크기의 조선소를 건설해야합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clipper_shipyard_construction;범선 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clipper_shipyard_construction_desc;맨 오 워와 같은 거대한 배를 만드는 것은 쉬운 일이 아니므로, 먼저 적절한 크기의 조선소를 건설하여 건조를 시작해야합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+western_shipyards;조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+western_shipyards_l;조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+no_western_shipyards;재래식 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+no_western_shipyards_l;재래식 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+no_western_shipyards_desc;조선소를 오래된 전통에 따라 짓습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+yes_western_shipyards;서구식 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+yes_western_shipyards_l;서구식 조선소;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+yes_western_shipyards_desc;조선소를 외국 전문가들이 건설했으므로 훨씬 무거운 선박을 건조할 수 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+old_style_family_business_desc;이 형태의 사업 문화는 주인이 사업을 가족 상점이나 레스토랑으로 취급한다는 것을 의미했습니다. 개인과 사업의 경계는 매우 불분명했습니다. 관행은 매우 감정적이되었고 소유주는 자신의 사업에 훨씬 큰 위험을 감수하면서 전문성을 희생했습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_traditional_academic_title;학계 개혁;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_traditional_academic_desc;학계의 많은 사람들은 학계의 방향이 잘못됐으니 더 전통적인 방향을 채택해야 한다고 생각합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+czech_tech_school;체코 공업학교;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+japanese_tech_school;주권선과 이익선;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+naval_tech_school;해군력&상선대;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_navy_tech_title;해군력&상선대;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+unciv_tech_school;학계 발달;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+genetics_heredity;유전학:유전;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+genetics_heredity_desc;유전학은 생명 그 자체에 대한 이해를 위한 중요한 발걸음이었습니다. 그레고르 멘델(Gregor Mendel, 1822 ~ 84)은 생물체에 포함 된 모든 형질이 몇 가지 중요한 요인으로 기록되고 번식 과정에서 이전된다고 가정했습니다. 그의 완두콩 식물 실험에서 그는 자신의 가설을 증명할 수 있었습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+modern_winemaking;현대식 와인 제조법;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+modern_winemaking_desc;와인 제조법은 매우 오래된 과정이지만 와인 생산 라인을 만드는 데 필요한 전문 기술과 장비는 업계의 미래를 위해 필수적입니다.;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bottling_process;병 제조공정;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bottling_process_desc;음료산업의 미래를 위해서는 효율적이고 적절한 병 제조 및 알코올 유통을 위한 최신 병제조공정이 필요합니다.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+schrapnel_standard_design;파편포탄 표준설계;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+schrapnel_standard_design_desc;파편포탄은 대포 탄약이었는데, 많은 수의 파편이 내장된 포탄을 목표물에 명중시키면 폭발과 함께 내부 탄환들이 튀어나와 다수의 목표물을 함께 공격 할 수 있었습니다. 그것들은 치명적인 2차 피해를 가져다 줬습니다. 포탄의 설계는 헨리 슈랍넬의 독창적인 설계와 유사한 점이 거의 없어 당시 기술의 빠른 진화를 나타냅니다.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+barbed_wire_defense;철조망 방어;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+barbed_wire_defense_desc;철조망은 날카로운 모서리, 점을 따라 간격을두고 배치 된 점으로 구성된 철책 펜싱 와이어 유형입니다. 그것은 저렴한 울타리를 건설하는 데 사용되며 벽의 꼭대기 또는 트렌치 전쟁의 요새화의 주요 특징으로 사용되어 보병 료를 중단합니다.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+helmet_mass_production;군모 대량 생산;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+helmet_mass_production_desc;포와 현대식 기관총의 사용은 강철 군모의 필요성을 새롭게 했습니다. 그들은 곧 프랑스 아드리안과 영국 브로디에서부터 독일 슈틸헬름에 이르기까지 군대의 표준이 되었습니다. 20세기까지 이러한 군모는 파편과 조각들로부터 머리를 보호하는 것뿐만 아니라 전문적인 역할도 제공했습니다.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+camouflage_uniforms;위장복;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+camouflage_uniforms_desc;위장복은 재료, 색소 또는 조명을 조합하여 대상을 보기 어렵게 만들거나 다른 것으로 위장시키는 것입니다. 현대전의 사망률이 높아지면서, 전통적인 제복을 교체해 우리 군인들의 사망률을 낮추는 것은 빈틈없어 보입니다.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rotary_kiln;회전 가마;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rotary_kiln_desc;"끝없이" 회전하는 가마는 연소를 완벽하게 통제하고 더 좋은 등급의 시멘트를 생산합니다. 가마는 수평에 약간 기울어진 원통형 용기로서 축 주위로 천천히 회전합니다. 처리할 자재는 원통의 상단 끝에 공급됩니다. 가마가 회전함에 따라 물질은 서서히 아래쪽을 향해 내려가며 일정량의 교반 및 혼합을 겪습니다. 뜨거운 기체는 가마를 따라 지나는데, 가끔 공정 재료와 같은 방향으로 흐르지만 보통 반대 방향으로 통과합니다. 고온 기체는 외부 용광로에서 발생하거나 가마 내부의 화염에 의해 생성될 수 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stiff_plastic_brickmaking_machine;뻑뻑한 플라스틱 벽돌 제조기;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stiff_plastic_brickmaking_machine_desc;이 기계는 진흙을 뻑뻑한 플라스틱, 세밀한 재료로 혼합하고, 후에 단단한 반죽으로 압축합니다. 뻑뻑한 플라스틱 공정에 의한 벽돌의 형태는 두 부분으로 이루어집니다. 응고된 반죽을 주형에 넣어 응고시킨 벽돌입니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+puddling;연철 과정;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+hot_blast;뜨거운 폭발;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+electric_furnace;전자원형 용광로;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bessemer_process;베세머법;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+advanced_metallurgy;난로개방 용광로;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+pneumatic_and_hydraulics;공압 및 유압장치;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+jiggs;지그;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dobby_loom;도비 직기;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dobby_loom_desc;도비 직기는 도비라고 불리는 장치를 사용하여 모든 날실을 조절하는, 바닥에 깔린 직기입니다. 이것의 주요 장점은 더 복잡한 디자인이 만들어질 수 있다는 것입니다. 도비 직기는 도비라고 하는 장치를 사용하여 모든 날실을 제어하는 바닥에 설치된 직조기입니다. 도비 직기는 직조기 위의 롤러를 중심으로 회전하는 나무못으로 목재 래그(lag)로 작동할 수 있습니다. 래그에 있는 못은 들어 올리는 하네스를 제어하는 들어올림 계획에 해당합니다. 펀치 용지 패턴 카드를 사용할 수도 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cotton_gin;조면기;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cotton_gin_desc;조면기은 목화의 씨를 제거하는 기계입니다. 이 기계는 회전하는 원통에 장착된 실이 톱니를 통해 면화를 잡아당기는 방식으로 작동합니다. 섬유가 너무 촘촘해서 씨앗이 통과할 수 없기 때문입니다. 사람, 동물, 또는 물에 의해 동력을 얻을 수 있는 이 발명의 단순성은 특허권에도 불구하고 널리 복제되는 원인이 되었습니다. 조면기는 이전보다 50배나 되는 씨를 뺄 수 있습니다. 한 노예가 씨앗에서 1파운드의 섬유질을 분리하는 데 약 10시간이 걸렸지만, 조면기를 사용하는 두세 명의 노예들은 하루에 약 50파운드의 면화를 생산할 수 있습니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+lancashire_loom;랭커셔 직기;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+lancashire_loom_desc;랭커셔 직기는 텅 빈 북을 재충전할 필요는 있지만, 자동으로 작동합니다. 이 방식의 주된 장점은 날실이 끊어졌을 때 방직공에게 알리는 것이 반자동이라는 것입니다. 북의 실이 떨어졌을 때, 기계는 멈춥니다. 따라서 생산량이 이전의 4배로 뛰었고, 노동비용은 그만큼 4분의 1로 줄었습니다. 어떤 공장에서는 한 작업자가 6개 또는 8개의 직기를 작동하기도 합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+steam_powered_silk_reels;열동력 명주실 얼레;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+steam_powered_silk_reels_desc;명주실 감기는 하나의 실을 만들기 위해 여러 개의 누에고치를 함께 감는 과정입니다. 이는 따뜻한 물 한 쪽 끝의 누에고치에서 가는 실을 풀고 이를 빠르게 움직이는 얼레에 감아주면 성공입니다.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+post_napoleonic_thought;바츨라프 이후의 사상;Post-Wenceslian Thought;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+post_napoleonic_thought_desc;바츨라프 이후의 사상;Post-Wenceslian Thought;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
