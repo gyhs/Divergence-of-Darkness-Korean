@@ -3056,7 +3056,7 @@ TIG_communist;티그레 공산당;Tigrayienne Parti communiste;Tigrayan Kommunis
 TIG_fascist;파쇼파;곤다르;Amhara;Amhara;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AAA_conservative_1;왕당파;Faction radicale;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_2;중도파;Faction socialiste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AAA_conservative_3;군주론자;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AAA_conservative_3;왕당파;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_4;중도파;Faction fasciste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_5;국민 민주당;;Konservative Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_1;공화당;;Liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
