@@ -329,14 +329,14 @@ artillery_production_desc;19세기의 산업혁명은 사실상 인간의 노력
 australian;오스트레일리아;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 serfdom_not_abolished;농노제 존속;;;;;;;;;;;;;;;;;;;;;;;;x
 theocratic_government;신정제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-communist_gov;공산당독재제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+communist_gov;공산주의 체제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 absolute_monarchy_gov;전제군주제;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 semi_constitutional_monarchy_gov;준입헌군주제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 constitutional_monarchy_gov;입헌군주제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 democracy_gov;민주공화제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 presidential_dictatorship_gov;대통령독재제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 fascist_gov;파쇼독재제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-anarcho_liberal_gov;탈권위공화제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+anarcho_liberal_gov;아나르코자본주의자독재제;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 serfs;농노;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 TRIGGER_STATE; 주;;;;;;;;;;;;;;;;x;;;;
 piston_steam_engine;피스톤 증기기관;;;;;;;;;;;;;;;;;;;;;;;;x
