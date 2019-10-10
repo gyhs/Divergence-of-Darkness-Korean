@@ -210,7 +210,7 @@ strike_solution;파업 해결;Une solution ?la gr?e;Streikl?ung;;;;;;;;;;;
 desc_strike_solution;당신의 관대함이 파업을 멈추게 했습니다.;Votre g??osit?a mis fin ?la gr?e.;Ihre Gro??igkeit hat den Streik gestoppt.;;;;;;;;;;;
 province_strike;지방 파업;Gr?e provinciale;Provinzstreik;;;;;;;;;;;
 desc_province_strike;한 지방에서 노동자들이 파업에 들어갔습니다.;Les salari? de votre province se sont mis en gr?e.;Die Arbeiter streiken in Ihrer Provinz.;;;;;;;;;;;
-may_day;메이데이;;;;;;;;;;;;;
+may_day;노동절;;;;;;;;;;;;;
 may_day_desc;우리는 사회주의를 찬양합니다. 이 땅의 모든 탐욕스러운 자본가들이 부츠속에서 떨게 해야 합니다!;;;;;;;;;;;;;
 black_shirts;검은 셔츠단;Les Chemises noires;Schwarzhemden;;;;;;;;;;;
 desc_black_shirts;검은 셔츠단이 지방의 주민들을 선동하고 있습니다.;Les Chemises noires provoquent les habitants de la province.;Schwarzhemden provozieren die Bewohner der Provinz.;;;;;;;;;;;
