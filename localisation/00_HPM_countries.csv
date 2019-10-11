@@ -1325,7 +1325,7 @@ KNY_reactionary;케냐 아프리카 국민연합;;;;;;;;;;;;x
 KNY_anarcho_liberal;독립당;;;;;;;;;;;;x
 KNY_communist;농민당;;;;;;;;;;;;x
 KNY_fascist;파시스트당;;;;;;;;;;;;x
-KRL;쿠를란트;Courland;Mebyon Kernow;Cornish;Cornés;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+KRL;쿠를란트;Courland;Mebyon Kernow;Cornish;Cornes;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 KRL_ADJ;쿠를란트;Curonian;;Conservative Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 KRN;카르나타카;Karnatak;;;;;;;;;;;;x
 KRN_ADJ;카르나타카령;Karnatak;;;;;;;;;;;;x
@@ -1335,7 +1335,7 @@ KRN_fascist_dictatorship;타밀나두;Tamil Nadu;;;;;;;;;;;;x
 KRN_fascist_dictatorship_ADJ;타밀령;Tamil;;;;;;;;;;;;x
 KRN_bourgeois_dictatorship;타밀나두;Tamil Nadu;;;;;;;;;;;;x
 KRN_bourgeois_dictatorship_ADJ;타밀령;Tamil;;;;;;;;;;;;x
-KRN_proletarian_dictatorship;카르나틱 공화국;Republic of the Carnatic;Faction libérale;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+KRN_proletarian_dictatorship;카르나틱 공화국;Republic of the Carnatic;Faction liberale;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 KRN_proletarian_dictatorship_ADJ;카르나틱령;Carnatic;Faction nationaliste;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 KRN_conservative;근왕당;Faction royale;K?igsfraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRN_liberal;자유당;Faction lib?ale;Die liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1495,9 +1495,9 @@ MLI_communist;노동당;;;;;;;;;;;;x
 MLI_fascist;혁신애국운동;;;;;;;;;;;;x
 MLT;몰타;Malta;;;;;;;;;;;;x
 MLT_ADJ;몰타령;Maltese;;;;;;;;;;;;x
-MLT_absolute_monarchy;몰타 공국;The Principality of Malta;La Principauté de Malte;Das Fürstentum Malta;;;;;;;;;;;
-MLT_prussian_constitutionalism;몰타 공국;The Principality of Malta;La Principauté de Malte;Das Fürstentum Malta;;;;;;;;;;;
-MLT_hms_government;몰타 공국;The Principality of Malta;La Principauté de Malte;Das Fürstentum Malta;;;;;;;;;;;
+MLT_absolute_monarchy;몰타 공국;The Principality of Malta;La Principaute de Malte;Das Furstentum Malta;;;;;;;;;;;
+MLT_prussian_constitutionalism;몰타 공국;The Principality of Malta;La Principaute de Malte;Das Furstentum Malta;;;;;;;;;;;
+MLT_hms_government;몰타 공국;The Principality of Malta;La Principaute de Malte;Das Furstentum Malta;;;;;;;;;;;
 MLT_theocracy;몰타 기사단;The Knights;Les Chevaliers;;;;;;;;;;;;
 MLT_theocracy_ADJ;몰타령;Hospitaller;Hospitalier;;;;;;;;;;;;
 MLT_conservative;국민당;국민당;국민당;;;;;;;;;;;x
@@ -2285,7 +2285,7 @@ BYZ;그리스 제국;Greek Empire;Faction radicale;Die kommunistische Fraktion;;
 BYZ_ADJ;그리스령;Greek;Faction socialiste;Die faschistische Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BYZ_democracy;그리그 연방;Greek Federation;Faction communiste;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BYZ_presidential_dictatorship;그리그 연방;Greek Federation;Faction fasciste;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BYZ_bourgeois_dictatorship;그리스 연방;Greek Federation;;Königsfraktion;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BYZ_bourgeois_dictatorship;그리스 연방;Greek Federation;;Konigsfraktion;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BYZ_proletarian_dictatorship;발칸 사회주의 연합;Socialist Balkan Union;;Die liberale Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 TUR;터키;Turkey;;;;;;;;;x;;;;
 TUR_ADJ;터키령;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -3056,12 +3056,12 @@ TIG_communist;티그레 공산당;Tigrayienne Parti communiste;Tigrayan Kommunis
 TIG_fascist;파쇼파;곤다르;Amhara;Amhara;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AAA_conservative_1;왕당파;Faction radicale;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_2;중도파;Faction socialiste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AAA_conservative_3;왕당파;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AAA_conservative_3;군주론자;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_4;중도파;Faction fasciste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_5;국민 민주당;;Konservative Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_1;공화당;;Liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_2;의회주의자;;Traditionelle Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AAA_liberal_3;개혁주의자;;Die radikale Fraktion;;wólof;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AAA_liberal_3;개혁주의자;;Die radikale Fraktion;;wolof;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_4;자유민주당;;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_5;국민자유당;;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_socialist_1;노동당;;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3102,7 +3102,7 @@ ARC_social_liberal;민주당;Mauritanien;Mauretanien;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 ARC_socialist_1;아르카디아 농부 연맹;;Mauretanische;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARC_socialist_2;아르카디아 사회당;Afar;Mauretanien;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_conservative_1;페르시아 부활인민당;Faction Sultan;Mauretanische;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ARY_conservative_2;페르시아 개혁인민당;Faction réformateurs;Mauretanien;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ARY_conservative_2;페르시아 개혁인민당;Faction reformateurs;Mauretanien;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_liberal_1;페르시아 국민당;Faction militaire;Mauretanische;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_liberal_2;국민민주전선;Faction radicale;Mauretanien;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_socialist_1;이란 이슬람 사회주의당;Afar Parti populaire;Mauretanische;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3110,8 +3110,8 @@ ARY_socialist_2;아파르 공산당;Afar Parti communiste;;;;;;;;;;;x;;;;;;;;;;;
 ARY_reactionary_1;거국일치당;Faction fasciste;Afar;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_anarcho_liberal_1;재부활당;Gonder;Sultan Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_communist_1;이란 민중당;Amhara;Reformatoren Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ARY_fascist_1;하늘당;Faction impériale;Militärische Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ARM_communist;공산주의자;Faction de réforme;Die radikale Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ARY_fascist_1;하늘당;Faction imperiale;Militarische Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ARM_communist;공산주의자;Faction de reforme;Die radikale Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARM_fascist;파시스트;Faction Ras;Afar Volkspartei;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_anarcho_liberal;급진적 자유주의자;Faction radicale;Afar Kommunistischen Partei;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_communist;아메리고 공산당;Parti socialiste;Die faschistische Fraktion;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3120,7 +3120,7 @@ AZL_conservative_2;토착주의 운동;Faction fasciste;Amhara;;;;;;;;;;;x;;;;;;
 AZL_fascist;남십자자리;Harar;Imperialen Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_liberal_1;자유당;Hararienne;Verbesserung Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_liberal_2;연방주의자;Faction Emir;Ras Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AZL_reactionary;제국주의자;Faction de réforme;Die radikale Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AZL_reactionary;제국주의자;Faction de reforme;Die radikale Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_social_liberal;민주주의자;Faction religieuse;Sozialistische Partei;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_socialist_1;아메리고 노동당;Faction radicale;Kommunistische Partei;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AZL_socialist_2;극좌파 연맹;Parti socialiste;Die faschistische Fraktion;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3128,29 +3128,29 @@ BOH_anarcho_liberal;자유당;Parti communiste;Harar;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 BOH_conservative_1;제국당;Parti islamique;Hararische;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BOH_conservative_2;보수파 자유당;Kaffa;Emir Fraktion;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BOH_fascist;칼릭스트 연합;Kaffaienne;Verbesserung Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BOH_liberal_1;급진파 자유당;Faction royale;Religiöse Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BOH_reactionary;철의 고리;Faction de réforme;Die radikale Fraktion;;Gonder;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BOH_liberal_1;급진파 자유당;Faction royale;Religiose Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BOH_reactionary;철의 고리;Faction de reforme;Die radikale Fraktion;;Gonder;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_anarcho_liberal;급진당;Faction traditionaliste;Sozialistische Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BRG_communist;공산당;Faction liberté;Kommunistische Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BRG_communist;공산당;Faction liberte;Kommunistische Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_conservative_1;연합당;Faction socialiste;Islamische Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_conservative_2;기독민주당;Faction communiste;Kaffa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_fascist;로타링기아 연맹;Faction fasciste;Kaffaische;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BRG_liberal_1;개혁당;Sidama;Königliche Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BRG_liberal_1;개혁당;Sidama;Konigliche Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_liberal_2;민주당;Sidamaienne;Verbesserung Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_reactionary;반동주의자;Faction aristocratique;Traditionalist Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BRG_social_liberal;노동당;Faction de réforme;Freiheit Fraktion;;Harar;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BRG_social_liberal;노동당;Faction de reforme;Freiheit Fraktion;;Harar;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 BRG_socialist_1;사회당;Faction traditionaliste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-BRG_socialist_2;진보당;Faction liberté;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BRG_socialist_2;진보당;Faction liberte;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_anarcho_liberal;근면 노동 운동;Faction socialiste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_communist;중국 공산당;Faction communiste;Sidama;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_conservative_1;국민당;Faction fasciste;Sidamaische;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_conservative_2;연합당;Tigray;Aristokratischen Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_fascist;충주파;Tigrayienne;Verbesserung Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CHI_liberal_1;진보 자유당;Faction de l'Ras du Tigré;Traditionalist Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CHI_liberal_2;신문화당;Faction de réforme;Freiheit Fraktion;;Kaffa;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHI_liberal_1;진보 자유당;Faction de l'Ras du Tigre;Traditionalist Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHI_liberal_2;신문화당;Faction de reforme;Freiheit Fraktion;;Kaffa;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHI_reactionary;동방파;Faction traditionaliste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CHI_socialist_1;국가사회민주당;Faction liberté;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CHI_socialist_2;노동농민사회당;Front de libération du Tigrayienne populaire;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHI_socialist_1;국가사회민주당;Faction liberte;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CHI_socialist_2;노동농민사회당;Front de liberation du Tigrayienne populaire;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DNG_anarcho_liberal;급진당;Tigrayienne Parti communiste;Tigray;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DNG_communist;산업노동연맹;Faction fasciste;Tigrayische;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DNG_conservative_1;철의 고리;;Fraktion der Ras von Tigray;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3522,8 +3522,8 @@ PLA_proletarian_dictatorship;남아르카디아 인민공화국;;;;;;;;;;;;;;;;;
 PLA_proletarian_dictatorship_ADJ;남아르카디아령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 RUS;러시아;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 RUS_ADJ;러시아령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-TNG;튕닝;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-TNG_ADJ;튕닝령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TNG;동녕;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TNG_ADJ;동녕령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 TRI;트리폴리;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 TRI_ADJ;트리폴리령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 TUS;에트루리아;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3669,8 +3669,8 @@ CAM_proletarian_dictatorship;크메르 공화국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CAM_presidential_dictatorship;크메르 공화국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CAM_bourgeois_dictatorship;크메르 공화국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CAM_democracy;크메르 공화국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CAS;카스틸라;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-CAS_ADJ;카스틸라령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CAS;카스티야;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+CAS_ADJ;카스티야령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CAT;카탈로니아;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CAT_ADJ;카탈로니아령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHE;체로키국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3754,8 +3754,8 @@ FUN_hms_government;푼지 술탄국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 FUN_hms_government_ADJ;푼지령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GAL;갈리치아;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GAL_ADJ;갈리치아령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GAN;저우라오;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-GAN_ADJ;저우라오령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+GAN;주요;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+GAN_ADJ;주요령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GEN;제노바;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GEN_ADJ;제노바령;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 GEN_proletarian_dictatorship;제노바 인민공화국;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
