@@ -1,67 +1,67 @@
 ;;;;;;;;;;;;;;;;;x
-organize_central_asia_title;ì¤‘ì•™ì•„ì‹œì•„ì˜ íŒ¨ê¶Œ;;;;;;;;;;;;;;;;;;;;;;;;;x
-organize_central_asia_desc;ëŒ€ì´ˆì›ì— ëŒ€í•œ ì§€ë°°ê¶Œì´ ìš°ë¦¬ì—ê²Œ ìžˆìŒì€ ì´ì œ ë…¼ìŸì˜ ì—¬ì§€ê°€ ì—†ìŠµë‹ˆë‹¤. ë” ìž˜ ì¨ë¨¹ì„ ìˆ˜ ìžˆë„ë¡ ì´ ì§€ì—­ì„ ìž˜ íŽ¸ì„±í•´ì•¼ í•©ë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x
-conquest_of_red_water_title;í•´ì•ˆ ì •ë³µ;;;;;;;;;;;;;;;;;;;;;;;;;x
-conquest_of_red_water_desc;íŠ€ë¥´í¬ë©”ë‹ˆì•„ ì§€ì—­ì— ëŒ€í•œ í†µì œê¶Œ íšë“ì„ ì™„ë£Œí–ˆìŠµë‹ˆë‹¤. ì´ì œ ì¹´ì¦ˆí”¼í•´ë¡œ í–¥í•˜ëŠ” ì§€ì—­ì„ ì •ë³µí•˜ë©´ ì¹´ìŠ¤í”¼í•´ë¥¼ í–¥í•´ ë‚˜ì•„ê°ˆ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x
-claim_artois_title;ì•„ë¥´í…Œì‹œì–´ ì˜ìœ ê¶Œ ì£¼ìž¥;;;;;;;;;;;;;;;;;;;;;;;;;x
-claim_artois_desc;ì•„ë¥´í…Œì‹œì–´ ë°±êµ­ì€ ì „í†µì ìœ¼ë¡œ ì €ì§€ëŒ€ì˜ ì¼ë¶€ì˜€ìŠµë‹ˆë‹¤. ë‹¨ì§€ í•©ìŠ¤ë¶€ë¥´í¬ê°€ê°€ í†µì¹˜í•˜ë˜ ì™€ì¤‘ì— í”„ëž‘ìŠ¤ ì™•ì´ ê°•íƒˆí–ˆì„ ë¿ìž…ë‹ˆë‹¤. ì´ ë•…ì„ ìš°ë¦¬ì˜ ì˜ê´‘ìŠ¤ëŸ¬ìš´ ì˜ì—­ìœ¼ë¡œ ë˜ëŒë¦¬ê³ , ê·¸ê³³ì˜ ë°±ì„±ì„ ì¼í•˜ê²Œ í•´ ì´ìµì„ ì–»ëŠ” ê²ƒì´ ìš°ë¦¬ì˜ ì˜ë¬´ìž…ë‹ˆë‹¤!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_NET_title;ì•„ë¥´í…Œì‹œì–´ íƒˆí™˜!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_NET_desc;ì•„ë¥´í…Œì‹œì–´ ì§€ì—­ì´ ë§ˆì¹¨ë‚´ $COUNTRY$ì˜ í’ˆìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤! ì´ ì§€ì—­ì€ ìš°ë¦¬ì˜ ì •ë‹¹í•œ ì¼ë¶€ì˜€ìœ¼ë©°, ì´ê°™ì€ ë³€í™”ëŠ” ì„¸ê³„ì§€ë„ì— ë°˜ì˜ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_FRA_title;ì•„ë¥´íˆ¬ì•„ íƒˆí™˜!!;;;;;;;;;;;;;;;;;;;;;;;;;x
-rename_artois_FRA_desc;ì•„ë¥´íˆ¬ì•„ ì§€ì—­ì´ ë§ˆì¹¨ë‚´ $COUNTRY$ì˜ í’ˆìœ¼ë¡œ ëŒì•„ì™”ìŠµë‹ˆë‹¤! ì´ ì§€ì—­ì€ ìš°ë¦¬ì˜ ì •ë‹¹í•œ ì¼ë¶€ì˜€ìœ¼ë©°, ì´ê°™ì€ ë³€í™”ëŠ” ì„¸ê³„ì§€ë„ì— ë°˜ì˜ë˜ì–´ì•¼ í•©ë‹ˆë‹¤..;;;;;;;;;;;;;;;;;;;;;;;;;x
-build_neuschwanstein_title;ë…¸ì´ìŠˆë°˜ìŠˆíƒ€ì¸ ì„±;;;;;;;;;;;;;;;;;;;;;;;;;x
-build_neuschwanstein_desc;ë…¸ì´ìŠˆë°˜ìŠˆíƒ€ì¸ ì„±ì€ í˜¸ì—”ìŠˆë°˜ê°€ìš° ë§ˆì„ì˜ ê±°ì¹œ ì–¸ë• ìœ„ì— ìžˆëŠ” 19ì„¸ê¸° ë¡œë§ˆë„¤ìŠ¤í¬ ì–‘ì‹ì˜ ê¶ì „ìž…ë‹ˆë‹¤. ì´ ê¶ì „ì€ 'ë°±ì¡°ì˜ ì™•' ë°”ì´ì—ë¥¸ì˜ ë£¨íŠ¸ë¹„ížˆ 2ì„¸ê°€ ì€í‡´ í›„ ë¦¬í•˜ë¥´íŠ¸ ë°”ê·¸ë„ˆì— ëŒ€í•œ ê²½ì˜ë¡œ ì§€ì€ ê²ƒìž…ë‹ˆë‹¤. ì´ ê¶ì „ì€ ì² ì €ížˆ ê·¸ë¥¼ ìœ„í•œ í”¼ë‚œì²˜ë¡œ ì„¤ê³„ë˜ì—ˆìŠµë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x
-EVTNAME110082;$COUNTRY$ì˜ ì°¨ ë°€ìˆ˜;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110082;ì¸ë„ì—ì„œ ì”¨ì•—ì„ ê°€ì ¸ì™€ 1882ë…„ì— $COUNTRY$ì—ì„œ ì°¨ë¥¼ ìž¬ë°°í•˜ë ¤ë˜ ì‹œë„ê°€ ì‹¤íŒ¨í•œ í›„ ëŸ¬ížˆì „ì—ì„œ íƒœì–´ë‚œ ë¬´í•¨ë§ˆë“œ ë¯¸ë¥´ìž(í”ížˆ ì¹´ì‹œí”„ ì•Œ ì‚´íƒ€ë„¤ë¡œ ì•Œë ¤ì ¸ ìžˆìŒ)ëŠ” ì¸ë„ ì°¨ë¥¼ ìˆ˜ìž…í•´ ëŸ¬ížˆì „ì—ì„œ ìž¬ë°°í•˜ê¸° ì‹œìž‘í–ˆìŠµë‹ˆë‹¤. í…Œí—¤ëž€ì˜ ì²« ë²ˆì§¸ ì‹œìž¥ì´ìž ì˜êµ­ë ¹ ì¸ë„ ëŒ€ì‚¬ì˜€ë˜ ê·¸ëŠ” ì˜êµ­ì˜ ì°¨ ìƒì‚° ë¹„ë²•ì„ ë°°ìš¸ ìˆ˜ ì—†ë‹¤ëŠ” ê²ƒì„ ì•Œê³  ìžˆì—ˆìŠµë‹ˆë‹¤. ì°¨ê°€ ì¸ë„ì—ì„œì˜ ìµœëŒ€ ì‚¬ì—…ì´ì—ˆê¸° ë•Œë¬¸ìž…ë‹ˆë‹¤. ê·¸ëž˜ì„œ ê·¸ëŠ” ì°¨ë¥¼ ìƒì‚°í•˜ëŠ” ë²•ì„ ë°°ìš°ê¸° ìœ„í•´ í”„ëž‘ìŠ¤ ë…¸ë™ìžì¸ ì²™í•˜ë©° ì°¨ ë†ìž¥ê³¼ ê³µìž¥ì—ì„œ ì¼í–ˆìŠµë‹ˆë‹¤. ê¶ê·¹ì ìœ¼ë¡œ ê·¸ì˜ ê³„íšì€ ê²½ìž‘ì„ ìœ„í•´ ì´ ì°¨ì˜ ì¼ë¶€ í‘œë³¸ì„ $COUNTRY$ë¡œ ê°€ì ¸ê°€ëŠ” ê²ƒì´ì—ˆìŠµë‹ˆë‹¤. ê·¸ëŠ” ìžì‹ ì˜ ì™¸êµì  ë©´ì œê¶Œ ë•ì— ì€ë°€í•œ ë¹„ë°€ í‘œë³¸ì„ ì˜êµ­ì¸ë“¤ì´ ì°¾ì§€ ëª»í•˜ë„ë¡ í•˜ëŠ”ë° ì„±ê³µí–ˆë‹¤. ì¹´ì‹œí”„ëŠ” ì¸ë„ ë¶ë¶€ì—ì„œ 3000ê°œì˜ ë¬˜ëª©ì„ ìžêµ­ìœ¼ë¡œ ê°€ì ¸ì™€ ì¹´ìŠ¤í”¼í•´ ë‚¨ìª½ì˜ ê¸¸ëž€ ì§€ì—­ì—ì„œ ìž¬ë°°ë¥¼ ì‹œìž‘í–ˆìŠµë‹ˆë‹¤. ê·¸ê³³ì˜ ê¸°í›„ëŠ” ì°¨ ìž¬ë°°ì— ë§¤ìš° ì í•©í–ˆìœ¼ë©°, ì°¨ ì‚°ì—…ì€ ê¸¸ëž€ê³¼ ë§ˆìž”ë‹¤ëž€ ì§€ì—­ì—ì„œ ë¹ ë¥´ê²Œ í™•ìž¥ë˜ì—ˆìŠµë‹ˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110082OPTA;í›Œë¥­í•œ ë°œìƒì´êµ°!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110082OPTB;ê´œì°®ì•„.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110083;ìœ ëŸ½ ì—¬í–‰;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110083;ì´ë¥¸ë°” "ë¹„ë¬¸ëª…êµ­"ì˜ ë§Žì€ ì˜ì£¼ë“¤ì´ ì„œêµ¬í™” ì •ì±…ì„ ì§€ì›í•˜ê¸° ìœ„í•´ ìœ ëŸ½ì„ ì—¬í–‰í•˜ê¸°ë¡œ ê²°ì •í–ˆìŠµë‹ˆë‹¤. ì´ëž€ì˜ ë‚˜ì„¸ë¥´ ì•Œ-ë”˜ ìƒ¤ ì¹´ìžë¥´(Nasser al-Din Shah Qajar)ì—ì„œ ì‹œì•”ì˜ ì¶œë¼ë¡±ì½˜(Chulalongkorn)ê³¼ ì¸ë„ì˜ ë§Žì€ ì™•ìžë“¤ì— ì´ë¥´ê¸°ê¹Œì§€ ì „ ì„¸ê³„ì˜ í†µì¹˜ìžë“¤ì„ ì„±ê³µì ìœ¼ë¡œ ì´ëŒì–´ëƒˆìŠµë‹ˆë‹¤. ì´ê²ƒì´ ìš°ë¦¬ë‚˜ë¼ê°€ ê·¼ëŒ€í™”ì— ë„ì›€ì´ ë  ìˆ˜ ìžˆì§€ë§Œ, ìš°ë¦¬ì˜ ì „í†µì ì¸ ì—˜ë¦¬íŠ¸ì¸µì„ ë¶„ë…¸í•˜ê²Œ ë§Œë“¤ê¸°ë„ í•  ê²ƒìž…ë‹ˆë‹¤ ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110083OPTA;ìš°ë¦¬ëŠ” ë§Žì´ ë°°ìš¸ ìˆ˜ ìžˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110083OPTB;ì™•ì€ ìžê¸° ë‚˜ë¼ì— ìžˆì–´ì•¼ì§€.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110084;ì—ë¥´ì£¼ë£¸ ì¡°ì•½($YEAR$);;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110084;ì¿ ë¥´ë“œì¡± ì§€ì—­ì˜ ì§ˆì„œê°€ íšŒë³µë˜ìž ì˜¤ìŠ¤ë§Œ ì œêµ­ê³¼ ì´ëž€ ê°„ì˜ ê¸´ìž¥ì´ ë‹¤ì‹œ ê³ ì¡°ë˜ì—ˆìŠµë‹ˆë‹¤. êµ­ê²½ ë¶„ìŸì€ ì´ì œ í”í•œ ì‚¬ê±´ìœ¼ë¡œ ë‘ ë²•ì› ëª¨ë‘ íŒ½ì°½ì£¼ì˜ì  ì •ì„œë¥¼ ê³ ì¡°í•˜ê³  ìžˆìŠµë‹ˆë‹¤. ì´ ì§€ì—­ì—ì„œì˜ ìžêµ­ ì´ìµì„ ë³´í˜¸í•˜ê³ ìž ì˜êµ­ê³¼ ëŸ¬ì‹œì•„ê°€ ì™¸êµì  í•´ê²°ì±…ì„ ì°¾ì•„ì¤€ë‹¤ëŠ” ëª…ëª©ìœ¼ë¡œ ê°œìž…í–ˆìŠµë‹ˆë‹¤. ì´ë“¤ì´ ì œì•ˆí•œ ì¡°ì•½ì—ëŠ” ì˜í† ì˜ íƒ€í˜‘ì—ì„œ ë°©ëž‘ìžì˜ ì§€ìœ„ì— ì´ë¥´ê¸°ê¹Œì§€ ë‹¤ì–‘í•œ ë¬¸ì œë¥¼ ë‹¤ë£¨ëŠ” 9ê°œì˜ ì¡°í•­ì´ í¬í•¨ë˜ì–´ ìžˆì–´ ì´ ì§€ì—­ì˜ êµ­ê°€ ë° êµ­ê²½ì— ê´€í•´ ì„œêµ¬ì  ê°œë…ì„ ì˜ì›ížˆ í™•ë¦½í•©ë‹ˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110084OPTA;ê³µì •í•œ ê²ƒ ê°™êµ°.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110084OPTB;ìš°ë¦¬ë§Œì˜ ë°©ë²•ìœ¼ë¡œ í•´ê²°í•  ê²ƒì´ë‹¤!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110085;ê¶Œë ¥ìœ¼ë¡œì˜ ë¶€ìƒ;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110085;ì•„ë¯¸ë¥´ ì¹´ë¹„ë¥´ëŠ” êµ­ë‚´ì—ì„œ ì ì  ë” ë§Žì€ ê¶Œë ¥ì„ ì–»ì—ˆìŠµë‹ˆë‹¤. ê·¸ëŠ” ì´ì œ êµ°ì‚¬ë ¹ê´€ ë° ìˆ˜ìƒ ì§ìœ„ë¥¼ ì—­ìž„í•©ë‹ˆë‹¤. ì´ ìƒí™©ì€ ìƒ¤ê°€ ì–´ë¦¬ë‹¤ë©´ ìœ„í—˜í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê·¸ì˜ ì¸ê¸°ëŠ” ì—¬ì „ížˆ ë‚®ìŠµë‹ˆë‹¤. ê¶ì •ê³¼ í•´ì™¸ì˜ ë§Žì€ ì‚¬ëžŒë“¤ì´ ê·¸ë¥¼ ê²½ë©¸í•©ë‹ˆë‹¤. ì¼ê°ì—ì„œëŠ” ì§€ê¸ˆì´ ê·¸ë¥¼ ë§‰ì„ ìœ ì¼í•œ ê¸°íšŒë¼ê³  ìš°ë¦¬ ê·€ì— ì†ì‚­ìž…ë‹ˆë‹¤ ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTA;ìƒ¤ëŠ” ê·¸ì˜ ë‘ë‡Œê°€ í•„ìš”í•˜ë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTB;ê·¸ì˜ ì¸ìƒì€ ì•ˆì „í•˜ë‹¤. ê·¸ë¥¼ ì¶”ë°©í•˜ë¼.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110085OPTC;ê·¸ëŠ” ìš°ë¦¬ì˜ ì¹œêµ¬ì´ìž ì¡°ì–¸ìžë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110086;ì•„ë¯¸ë¥´ ì¹´ë¹„ë¥´ ì•”ì‚´!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110086;$YEAR$ë…„, ì•„ë¯¸ë¥´ ì¹´ë¹„ë¥´ëŠ” ì •ì¹˜ì ì¸ ì´ìœ ë¡œ ì¹´ìƒ¨ìœ¼ë¡œ ê°€ë˜ ë„ì¤‘ ì‚´í•´ë‹¹í–ˆìŠµë‹ˆë‹¤. ì¼ë¶€ëŠ” íƒœí›„ë¥¼ í¬í•¨í•˜ì—¬ ê·¸ì—ê²Œ ë¶ˆë§Œì„ í’ˆì€ ê·€ì¡±ë“¤ì„ ì§€ëª©í•˜ê³  ìžˆìŠµë‹ˆë‹¤. ì™¸êµ­ ì„¸ë ¥ì„ ë¹„ë‚œí•˜ëŠ” ì´ë“¤ë„ ìžˆìŠµë‹ˆë‹¤. ë§Žì€ ì‚¬ëžŒë“¤ì€ í˜ˆì—°ë³´ë‹¤ëŠ” ëŠ¥ë ¥ì„ ì¤‘ì‹œí•˜ë˜ ê·¸ê°€ ì´ëŒë˜ ë…ë¦½ ì´ëž€ì˜ ì „ë§ì´ ê·¸ì˜ ì£½ìŒê³¼ í•¨ê»˜ ì‚¬ë¼ì¡Œë‹¤ê³  ì—¬ê¹ë‹ˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110086OPTA;ê·¸ì˜ ì‚¬ë§ì— íƒ„ì‹í•œë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110086OPTB;ëˆ„ê°€ ë²”ì¸ì¸ì§€ ë°í˜€ë‚´ì•¼ í•œë‹¤!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110087;ë°±ì¡° ì™•;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110087;ë£¨íŠ¸ë¹„ížˆ ì™•ì„¸ìžëŠ” ë¶€ì™•ì´ 3ì¼ê°„ì˜ ë³‘ì¹˜ë ˆ ëì— ìŠ¹í•˜í•˜ìž 18ì„¸ì— ë°”ì´ì—ë¥¸ êµ­ì™•ì— ì˜¬ëžìŠµë‹ˆë‹¤. ê·¸ëŠ” êµ­ì™• ìžë¦¬ì— ëŒ€ë¹„ê°€ ë˜ì–´ìžˆì§€ ì•Šì•˜ì§€ë§Œ ì ŠìŒê³¼ ë¯¸í˜•ì˜ ì™¸ëª¨ ë•ì— ë°”ì´ì—ë¥¸ ë“±ì§€ì—ì„œ ì¸ê¸°ê°€ ìžˆì—ˆìŠµë‹ˆë‹¤. ê·¸ëŠ” ì˜íšŒì™€ í•¨ê»˜ êµ­ì •ì„ ì´ëŒê¸°ë³´ë‹¤ëŠ” ë‚­ë§Œì£¼ì˜ ë¬¸í•™ê³¼ ì˜¤íŽ˜ë¼ì— ì‹œê°„ì„ ìŸì•˜ìŠµë‹ˆë‹¤. ê·¸ê°€ ê°€ìž¥ ì£¼ëª©í•œ ê²ƒì€ ë°”ê·¸ë„ˆë¥¼ ê¶ì •ì— ì†Œì§‘í•˜ê±°ë‚˜ ë…¸ì´ìŠˆë°˜ìŠˆíƒ€ì¸ ì„±ì— ê±´ì„¤ ìžê¸ˆì„ ì¡°ë‹¬í•˜ëŠ” ê²ƒìž…ë‹ˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110087OPTA;ê·¸ì˜ ì¹˜ì„¸ê°€ ì˜¤ëž˜ê°€ê¸°ë¥¼.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110088;ëž€ë¸ ë“œ ë¬´ë¼;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110088;ì•„ë²„ì§€ ë¡œë² ë¥´í†  ëž€ë¸ ë“œ ë¬´ë¼(Roberto Landell de Moura) ì‹ ë¶€ëŠ” 1886ë…„ ë¡œë§ˆì—ì„œ ì‹ ê¶Œ ì„±ìž„ì„ í•˜ê³  ë¬¼ë¦¬í•™ì„ ê³µë¶€í–ˆìŠµë‹ˆë‹¤. í˜„ì§€ì—ì„œ ìœ ëª…í•œ ë°œëª…ê°€ì˜€ë˜ ê·¸ëŠ” ìƒíŒŒìš¸ë¡œ ì£¼ë³€ 8kmì— ë‹¬í•˜ëŠ” ë²”ìœ„ì—ì„œ ì‚¬ëžŒì˜ ëª©ì†Œë¦¬ë¥¼ ë°©ì†¡ìœ¼ë¡œ ë‚´ë³´ë‚´ëŠ”ë° ì„±ê³µí•´ ì£¼ëª©ì„ ë°›ì•˜ë‹¤. ê·¸ëŠ” ë¬´ì„  ì „í™”ê¸°ì™€ ë¬´ì„  ì „ì‹ ì„ ìœ„í•´ ë¸Œë¼ì§ˆê³¼ ë¯¸êµ­ì—ì„œ ì—¬ëŸ¬ íŠ¹í—ˆë¥¼ í™•ë³´í–ˆìŠµë‹ˆë‹¤. ê·¸ëŸ¬ë‚˜ ë¸Œë¼ì§ˆ ì •ë¶€ì˜ í›„ì† ì›ì¡°ê°€ ë¶€ì¸ë˜ì—ˆê³ , ê·¸ì˜ ë…¸ë ¥ì€ ì‹œë“¤í•´ì¡ŒìŠµë‹ˆë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTA;ê·¸ì˜ ë…¸ë ¥ì„ ì§€ì›í•˜ë¼!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTB;ê·¸ì—ê²Œ ì›ì¡° ìŠ¹ì¸ì„ ë‚´ë ¤ì£¼ì–´ë¼.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110088OPTC;í¥ë¯¸ë¡­êµ°...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110089;ì¥íŠ¸í‹°ë¡¤ íƒ€í˜‘;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110089;ì¥íŠ¸í‹°ë¡¤ ì§€ì—­ì€ ìš°ë¦¬ê°€ í†µì œë ¥ì„ í™•ë¦½í•œ ì´ëž˜ë¡œ ë¶ˆë§Œì´ ì¡´ìž¬í•´ì™”ìŠµë‹ˆë‹¤. ë¯¼ì¡±ì£¼ì˜ ë¬¸ì œëŠ” ì´ ì§€ì—­ì„ ìžê·¹í•˜ê³  í­ë™ì€ ì ì  ë” í”í•˜ê²Œ ë°œìƒí•©ë‹ˆë‹¤. ì¼ë¶€ ê³ ë¬¸ì€ ìœ ìƒìœ¼ë¡œ í† ì§€ì˜ ì¼ë¶€ë¥¼ ì–‘ë„í•˜ëŠ” ê²ƒì´ í˜„ëª…í•˜ë‹¤ê³  ìƒê°í•©ë‹ˆë‹¤. ìš°ë¦¬ëŠ” ê·¸ë“¤ì´ ìš°ë¦¬ ëª«ì— ëŒ€í•œ ìš”êµ¬ë¥¼ ê¸°êº¼ì´ ë°›ì•„ë“¤ì¼ ê²ƒì´ë¼ ìƒê°í•©ë‹ˆë‹¤. ë¶ìª½ì—” ë…ì¼ì¸ì´, ë‚¨ìª½ì—” ì´íƒˆë¦¬ì•„ì¸ì´ ì‚½ë‹ˆë‹¤. ì´ ë°©ë²•ì´ ìš°ë¦¬ êµ­ê°€ë“¤ ì‚¬ì´ì˜ ê¸´ìž¥ì„ í•´ê²°í•˜ê¸°ë¥¼ í¬ë§í•©ë‹ˆë‹¤.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110089OPTA;ê·¸ ì§€ì—­ì€ ë§ˆë•…ížˆ ê·¸ë“¤ ê²ƒì´ë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110089OPTB;ê·¸ ì§€ì—­ì€ ë§ˆë•…ížˆ ìš°ë¦¬ ê²ƒì´ë‹¤.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110090;íŠ¸ë¦¬ì—”í†  íƒ€í˜‘;The Trentino Compromise.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110090;íŠ¸ë¦¬ì—”í†  ì§€ì—­ì€ ìš°ë¦¬ê°€ í†µì œë ¥ì„ í™•ë¦½í•œ ì´ëž˜ë¡œ ë¶ˆë§Œì´ ì¡´ìž¬í•´ì™”ìŠµë‹ˆë‹¤. ë¯¼ì¡±ì£¼ì˜ ë¬¸ì œëŠ” ì´ ì§€ì—­ì„ ìžê·¹í•˜ê³  í­ë™ì€ ì ì  ë” í”í•˜ê²Œ ë°œìƒí•©ë‹ˆë‹¤. ì¼ë¶€ ê³ ë¬¸ì€ ìœ ìƒìœ¼ë¡œ í† ì§€ì˜ ì¼ë¶€ë¥¼ ì–‘ë„í•˜ëŠ” ê²ƒì´ í˜„ëª…í•˜ë‹¤ê³  ìƒê°í•©ë‹ˆë‹¤. ìš°ë¦¬ëŠ” ê·¸ë“¤ì´ ìš°ë¦¬ ëª«ì— ëŒ€í•œ ìš”êµ¬ë¥¼ ê¸°êº¼ì´ ë°›ì•„ë“¤ì¼ ê²ƒì´ë¼ ìƒê°í•©ë‹ˆë‹¤. ë¶ìª½ì—” ë…ì¼ì¸ì´, ë‚¨ìª½ì—” ì´íƒˆë¦¬ì•„ì¸ì´ ì‚½ë‹ˆë‹¤. ì´ ë°©ë²•ì´ ìš°ë¦¬ êµ­ê°€ë“¤ ì‚¬ì´ì˜ ê¸´ìž¥ì„ í•´ê²°í•˜ê¸°ë¥¼ í¬ë§í•©ë‹ˆë‹¤.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110090OPTA;ê·¸ ì§€ì—­ì€ ë§ˆë•…ížˆ ê·¸ë“¤ ê²ƒì´ë‹¤.;The land is rightfully theirs.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110090OPTB;ê·¸ ì§€ì—­ì€ ë§ˆë•…ížˆ ìš°ë¦¬ ê²ƒì´ë‹¤.;The land is rightfully ours.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110091;ì•Œë¼ë‹¤ë“œ;The Allahdad;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110091;$YEAR$ë…„, í­ë ¥ì ì¸ í­ë™ê³¼ ê°•ì œ ê°œì¢…ì´ ë§ˆìŠˆí•˜ë“œì˜ ìœ ëŒ€ì¸ë“¤ì„ ì—„ìŠµí–ˆìŠµë‹ˆë‹¤. ì–´ë–¤ ì‚¬ëžŒë“¤ì€ ë¬´í•˜ëžŒì˜ ë‹¬ì— ì„±ì§ìžë“¤ì„ ë¶ˆì¾Œí•˜ê²Œ í•œ ìœ ëŒ€ì¸ ì˜ì‚¬ë¥¼ ë¹„ë‚œí•˜ê³ , ë˜ ì–´ë–¤ ì‚¬ëžŒë“¤ì€ ì§€ì—­ ì‚¬íšŒ ë‚´ ì‚¬ì´ë“œ(ë¬´í•¨ë§ˆë“œì˜ ì •í†µ ì§ê³„ë¡œ ì¸ì •ë°›ëŠ” ì‚¬ëžŒ) ì‚¬ì´ì˜ ìž¬ì •ì ì¸ ê°ˆë“± ë•Œë¬¸ì´ë¼ê³  ì£¼ìž¥í•©ë‹ˆë‹¤. ì´ ë„ì‹œì˜ í†µì¹˜ìžëŠ” ë¶€í•˜ë“¤ì—ê²Œ ìœ ëŒ€ì¸ì˜ ì§‘ì— ë“¤ì–´ê°€ë¼ê³  ëª…ë ¹í•˜ê¸°ë¥¼ ì›í•˜ë©° í­ë„ë“¤ì€ ìœ ëŒ€ì¸ë“¤ì„ ê³µê²©í–ˆìŠµë‹ˆë‹¤. ë°˜ë©´ ì™¸ì„¸ê°€ ìžì‹ ë“¤ì˜ í˜•ì œì— ëŒ€í•œ ëŒ€ìš°ì— ê²©ë¶„í•˜ëŠ” ë™ì•ˆ, ê·¸ë“¤ì€ ìœ ëŒ€ì¸ë“¤ì˜ íšŒë‹¹ë“¤ì„ ê³µê²©í–ˆìŠµë‹ˆë‹¤. ì´ì œ ì–´ë–»ê²Œ í•´ì•¼ í• ê¹Œìš”?;In $YEAR$, violent riots and forced conversions started taking place against the Jews of Mashhad. It is still unclear what started it: some blame a Jewish doctor who offended the clergy on the month of Muharram, others claim it was due to a financial conflict between the community an a local Sayyid. The city's ruler wish to order his men to enter Jewish homes and mobs attacked the Jewish community, burning down the synagogues while foreign elements are outraged at how their brethen are being treated. What should we do?;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110091OPTA;ì‹ ì˜ ì˜ì§€ë‹¤.;It is the will of Allah.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110091OPTB;ë“¤ì€ ë§ˆë•…ížˆ ìš°ë¦¬ ì‹ ë¯¼ì´ë‹¤.;They are also our subjects.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME110092;ì¸ì¢… í­ë™;Race Riots;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC110092;ìµœê·¼ $PROVINCE$ì˜ ìƒí™©ì´ ì•…í™”ë˜ê³  ìžˆìŠµë‹ˆë‹¤. ë¹ˆê³¤, ì‹¤ì—…ê³¼ ì „í›„ì˜ ê¸´ìž¥ê°ì— ê¸°ì¸í•œ í­ë™ì´ ëª‡ëª‡ ì†Œìˆ˜ë¬¸í™”ë“¤ì„ ìƒëŒ€ë¡œ ì¼ì–´ë‚˜ê³  ìžˆìŠµë‹ˆë‹¤. ì„±ë‚œ ì‹œìœ„ëŒ€ëŠ” ì•½íƒˆê³¼ ì§‘ë‹¨í­í–‰, ì•½íƒˆì„ ìží–‰í–ˆìŠµë‹ˆë‹¤. ìš°ë¦¬ ì—­ì‚¬ì˜ ì˜¤ì ìœ¼ë¡œ ë‚¨ì„ ê²ƒìž…ë‹ˆë‹¤...;The situation in $PROVINCE$ has degraded lately: due to poverty, unemployment and the post-war tensions riots have taken place against some of our national minorities. Looting, lynching and pillaging took place by a mass of furious protesters. This will be a black mark in our history...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-EVT110092OPTA;êµ­ê°€ì  ë¹„ê·¹ì´ë‹¤...;A sad state of affair...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-FRA_404;ì•„ë¥´íˆ¬ì•„;;;;;;;;;x;;;;
-amir_kabir;ì•„ë¯¸ë¥´ í‚¤ë¹„ë¥´;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_amir_kabir;ì•„ë¯¸ë¥´ ì¹´ë¹„ë¥´ëŠ” êµ­ë‚´ì—ì„œ ìœ„ëŒ€í•œ ê°œí˜ì‚¬ì—…ì„ ê°ë…í–ˆìŠµë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-racial_tensions;ì¸ì¢… ê¸´ìž¥;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_racial_tensions;ì§€ì—­ ì‚¬íšŒì—ì„œ ì†Œìˆ˜ ë¬¸í™”ë¥¼ ê²¨ëƒ¥í•œ ì¦ì˜¤ì™€ í­ë™ì´ ê³„ì†ë˜ê³  ìžˆìŠµë‹ˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTB110083;ì™•ì´ ìžê¸° ë‚˜ë¼ë¥¼ ë– ë‚˜ì„œëŠ” ì•ˆëœë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110083;ì´ë¥¼ í†µí•´ ë§Žì´ ë°°ìš¸ ìˆ˜ ìžˆë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110092;ìŠ¬í”„ë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTB110082;ê´œì°®ë‹¤.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EVTOPTA110082;í›Œë¥­í•œ ë°œìƒì´ë‹¤!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+organize_central_asia_title;Áß¾Ó¾Æ½Ã¾ÆÀÇ ÆÐ±Ç;;;;;;;;;;;;;;;;;;;;;;;;;x
+organize_central_asia_desc;´ëÃÊ¿ø¿¡ ´ëÇÑ Áö¹è±ÇÀÌ ¿ì¸®¿¡°Ô ÀÖÀ½Àº ÀÌÁ¦ ³íÀïÀÇ ¿©Áö°¡ ¾ø½À´Ï´Ù. ´õ Àß ½á¸ÔÀ» ¼ö ÀÖµµ·Ï ÀÌ Áö¿ªÀ» Àß Æí¼ºÇØ¾ß ÇÕ´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x
+conquest_of_red_water_title;ÇØ¾È Á¤º¹;;;;;;;;;;;;;;;;;;;;;;;;;x
+conquest_of_red_water_desc;Æ¢¸£Å©¸Þ´Ï¾Æ Áö¿ª¿¡ ´ëÇÑ ÅëÁ¦±Ç È¹µæÀ» ¿Ï·áÇß½À´Ï´Ù. ÀÌÁ¦ Ä«ÁîÇÇÇØ·Î ÇâÇÏ´Â Áö¿ªÀ» Á¤º¹ÇÏ¸é Ä«½ºÇÇÇØ¸¦ ÇâÇØ ³ª¾Æ°¥ ¼ö ÀÖ½À´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x
+claim_artois_title;¾Æ¸£Å×½Ã¾î ¿µÀ¯±Ç ÁÖÀå;;;;;;;;;;;;;;;;;;;;;;;;;x
+claim_artois_desc;¾Æ¸£Å×½Ã¾î ¹é±¹Àº ÀüÅëÀûÀ¸·Î ÀúÁö´ëÀÇ ÀÏºÎ¿´½À´Ï´Ù. ´ÜÁö ÇÕ½ººÎ¸£Å©°¡°¡ ÅëÄ¡ÇÏ´ø ¿ÍÁß¿¡ ÇÁ¶û½º ¿ÕÀÌ °­Å»ÇßÀ» »ÓÀÔ´Ï´Ù. ÀÌ ¶¥À» ¿ì¸®ÀÇ ¿µ±¤½º·¯¿î ¿µ¿ªÀ¸·Î µÇµ¹¸®°í, ±×°÷ÀÇ ¹é¼ºÀ» ÀÏÇÏ°Ô ÇØ ÀÌÀÍÀ» ¾ò´Â °ÍÀÌ ¿ì¸®ÀÇ ÀÇ¹«ÀÔ´Ï´Ù!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_NET_title;¾Æ¸£Å×½Ã¾î Å»È¯!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_NET_desc;¾Æ¸£Å×½Ã¾î Áö¿ªÀÌ ¸¶Ä§³» $COUNTRY$ÀÇ Ç°À¸·Î µ¹¾Æ¿Ô½À´Ï´Ù! ÀÌ Áö¿ªÀº ¿ì¸®ÀÇ Á¤´çÇÑ ÀÏºÎ¿´À¸¸ç, ÀÌ°°Àº º¯È­´Â ¼¼°èÁöµµ¿¡ ¹Ý¿µµÇ¾î¾ß ÇÕ´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_FRA_title;¾Æ¸£Åõ¾Æ Å»È¯!!;;;;;;;;;;;;;;;;;;;;;;;;;x
+rename_artois_FRA_desc;¾Æ¸£Åõ¾Æ Áö¿ªÀÌ ¸¶Ä§³» $COUNTRY$ÀÇ Ç°À¸·Î µ¹¾Æ¿Ô½À´Ï´Ù! ÀÌ Áö¿ªÀº ¿ì¸®ÀÇ Á¤´çÇÑ ÀÏºÎ¿´À¸¸ç, ÀÌ°°Àº º¯È­´Â ¼¼°èÁöµµ¿¡ ¹Ý¿µµÇ¾î¾ß ÇÕ´Ï´Ù..;;;;;;;;;;;;;;;;;;;;;;;;;x
+build_neuschwanstein_title;³ëÀÌ½´¹Ý½´Å¸ÀÎ ¼º;;;;;;;;;;;;;;;;;;;;;;;;;x
+build_neuschwanstein_desc;³ëÀÌ½´¹Ý½´Å¸ÀÎ ¼ºÀº È£¿£½´¹Ý°¡¿ì ¸¶À»ÀÇ °ÅÄ£ ¾ð´ö À§¿¡ ÀÖ´Â 19¼¼±â ·Î¸¶³×½ºÅ© ¾ç½ÄÀÇ ±ÃÀüÀÔ´Ï´Ù. ÀÌ ±ÃÀüÀº '¹éÁ¶ÀÇ ¿Õ' ¹ÙÀÌ¿¡¸¥ÀÇ ·çÆ®ºñÈ÷ 2¼¼°¡ ÀºÅð ÈÄ ¸®ÇÏ¸£Æ® ¹Ù±×³Ê¿¡ ´ëÇÑ °æÀÇ·Î ÁöÀº °ÍÀÔ´Ï´Ù. ÀÌ ±ÃÀüÀº Ã¶ÀúÈ÷ ±×¸¦ À§ÇÑ ÇÇ³­Ã³·Î ¼³°èµÇ¾ú½À´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTNAME110082;$COUNTRY$ÀÇ Â÷ ¹Ð¼ö;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110082;ÀÎµµ¿¡¼­ ¾¾¾ÑÀ» °¡Á®¿Í 1882³â¿¡ $COUNTRY$¿¡¼­ Â÷¸¦ Àç¹èÇÏ·Á´ø ½Ãµµ°¡ ½ÇÆÐÇÑ ÈÄ ·¯È÷Àü¿¡¼­ ÅÂ¾î³­ ¹«ÇÔ¸¶µå ¹Ì¸£ÀÚ(ÈçÈ÷ Ä«½ÃÇÁ ¾Ë »ìÅ¸³×·Î ¾Ë·ÁÁ® ÀÖÀ½)´Â ÀÎµµ Â÷¸¦ ¼öÀÔÇØ ·¯È÷Àü¿¡¼­ Àç¹èÇÏ±â ½ÃÀÛÇß½À´Ï´Ù. Å×Çì¶õÀÇ Ã¹ ¹øÂ° ½ÃÀåÀÌÀÚ ¿µ±¹·É ÀÎµµ ´ë»ç¿´´ø ±×´Â ¿µ±¹ÀÇ Â÷ »ý»ê ºñ¹ýÀ» ¹è¿ï ¼ö ¾ø´Ù´Â °ÍÀ» ¾Ë°í ÀÖ¾ú½À´Ï´Ù. Â÷°¡ ÀÎµµ¿¡¼­ÀÇ ÃÖ´ë »ç¾÷ÀÌ¾ú±â ¶§¹®ÀÔ´Ï´Ù. ±×·¡¼­ ±×´Â Â÷¸¦ »ý»êÇÏ´Â ¹ýÀ» ¹è¿ì±â À§ÇØ ÇÁ¶û½º ³ëµ¿ÀÚÀÎ Ã´ÇÏ¸ç Â÷ ³óÀå°ú °øÀå¿¡¼­ ÀÏÇß½À´Ï´Ù. ±Ã±ØÀûÀ¸·Î ±×ÀÇ °èÈ¹Àº °æÀÛÀ» À§ÇØ ÀÌ Â÷ÀÇ ÀÏºÎ Ç¥º»À» $COUNTRY$·Î °¡Á®°¡´Â °ÍÀÌ¾ú½À´Ï´Ù. ±×´Â ÀÚ½ÅÀÇ ¿Ü±³Àû ¸éÁ¦±Ç ´ö¿¡ Àº¹ÐÇÑ ºñ¹Ð Ç¥º»À» ¿µ±¹ÀÎµéÀÌ Ã£Áö ¸øÇÏµµ·Ï ÇÏ´Âµ¥ ¼º°øÇß´Ù. Ä«½ÃÇÁ´Â ÀÎµµ ºÏºÎ¿¡¼­ 3000°³ÀÇ ¹¦¸ñÀ» ÀÚ±¹À¸·Î °¡Á®¿Í Ä«½ºÇÇÇØ ³²ÂÊÀÇ ±æ¶õ Áö¿ª¿¡¼­ Àç¹è¸¦ ½ÃÀÛÇß½À´Ï´Ù. ±×°÷ÀÇ ±âÈÄ´Â Â÷ Àç¹è¿¡ ¸Å¿ì ÀûÇÕÇßÀ¸¸ç, Â÷ »ê¾÷Àº ±æ¶õ°ú ¸¶ÀÜ´Ù¶õ Áö¿ª¿¡¼­ ºü¸£°Ô È®ÀåµÇ¾ú½À´Ï´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110082OPTA;ÈÇ¸¢ÇÑ ¹ß»óÀÌ±º!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110082OPTB;±¦Âú¾Æ.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110083;À¯·´ ¿©Çà;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110083;ÀÌ¸¥¹Ù "ºñ¹®¸í±¹"ÀÇ ¸¹Àº ¿µÁÖµéÀÌ ¼­±¸È­ Á¤Ã¥À» Áö¿øÇÏ±â À§ÇØ À¯·´À» ¿©ÇàÇÏ±â·Î °áÁ¤Çß½À´Ï´Ù. ÀÌ¶õÀÇ ³ª¼¼¸£ ¾Ë-µò »þ Ä«ÀÚ¸£(Nasser al-Din Shah Qajar)¿¡¼­ ½Ã¾ÏÀÇ Ãâ¶ó·ÕÄÜ(Chulalongkorn)°ú ÀÎµµÀÇ ¸¹Àº ¿ÕÀÚµé¿¡ ÀÌ¸£±â±îÁö Àü ¼¼°èÀÇ ÅëÄ¡ÀÚµéÀ» ¼º°øÀûÀ¸·Î ÀÌ²ø¾î³Â½À´Ï´Ù. ÀÌ°ÍÀÌ ¿ì¸®³ª¶ó°¡ ±Ù´ëÈ­¿¡ µµ¿òÀÌ µÉ ¼ö ÀÖÁö¸¸, ¿ì¸®ÀÇ ÀüÅëÀûÀÎ ¿¤¸®Æ®ÃþÀ» ºÐ³ëÇÏ°Ô ¸¸µé±âµµ ÇÒ °ÍÀÔ´Ï´Ù ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110083OPTA;¿ì¸®´Â ¸¹ÀÌ ¹è¿ï ¼ö ÀÖ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110083OPTB;¿ÕÀº ÀÚ±â ³ª¶ó¿¡ ÀÖ¾î¾ßÁö.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110084;¿¡¸£ÁÖ·ë Á¶¾à($YEAR$);;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110084;Äí¸£µåÁ· Áö¿ªÀÇ Áú¼­°¡ È¸º¹µÇÀÚ ¿À½º¸¸ Á¦±¹°ú ÀÌ¶õ °£ÀÇ ±äÀåÀÌ ´Ù½Ã °íÁ¶µÇ¾ú½À´Ï´Ù. ±¹°æ ºÐÀïÀº ÀÌÁ¦ ÈçÇÑ »ç°ÇÀ¸·Î µÎ ¹ý¿ø ¸ðµÎ ÆØÃ¢ÁÖÀÇÀû Á¤¼­¸¦ °íÁ¶ÇÏ°í ÀÖ½À´Ï´Ù. ÀÌ Áö¿ª¿¡¼­ÀÇ ÀÚ±¹ ÀÌÀÍÀ» º¸È£ÇÏ°íÀÚ ¿µ±¹°ú ·¯½Ã¾Æ°¡ ¿Ü±³Àû ÇØ°áÃ¥À» Ã£¾ÆÁØ´Ù´Â ¸í¸ñÀ¸·Î °³ÀÔÇß½À´Ï´Ù. ÀÌµéÀÌ Á¦¾ÈÇÑ Á¶¾à¿¡´Â ¿µÅäÀÇ Å¸Çù¿¡¼­ ¹æ¶ûÀÚÀÇ ÁöÀ§¿¡ ÀÌ¸£±â±îÁö ´Ù¾çÇÑ ¹®Á¦¸¦ ´Ù·ç´Â 9°³ÀÇ Á¶Ç×ÀÌ Æ÷ÇÔµÇ¾î ÀÖ¾î ÀÌ Áö¿ªÀÇ ±¹°¡ ¹× ±¹°æ¿¡ °üÇØ ¼­±¸Àû °³³äÀ» ¿µ¿øÈ÷ È®¸³ÇÕ´Ï´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110084OPTA;°øÁ¤ÇÑ °Í °°±º.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110084OPTB;¿ì¸®¸¸ÀÇ ¹æ¹ýÀ¸·Î ÇØ°áÇÒ °ÍÀÌ´Ù!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110085;±Ç·ÂÀ¸·ÎÀÇ ºÎ»ó;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110085;¾Æ¹Ì¸£ Ä«ºñ¸£´Â ±¹³»¿¡¼­ Á¡Á¡ ´õ ¸¹Àº ±Ç·ÂÀ» ¾ò¾ú½À´Ï´Ù. ±×´Â ÀÌÁ¦ ±º»ç·É°ü ¹× ¼ö»ó Á÷À§¸¦ ¿ªÀÓÇÕ´Ï´Ù. ÀÌ »óÈ²Àº »þ°¡ ¾î¸®´Ù¸é À§ÇèÇÒ ¼ö ÀÖ½À´Ï´Ù. ±×ÀÇ ÀÎ±â´Â ¿©ÀüÈ÷ ³·½À´Ï´Ù. ±ÃÁ¤°ú ÇØ¿ÜÀÇ ¸¹Àº »ç¶÷µéÀÌ ±×¸¦ °æ¸êÇÕ´Ï´Ù. ÀÏ°¢¿¡¼­´Â Áö±ÝÀÌ ±×¸¦ ¸·À» À¯ÀÏÇÑ ±âÈ¸¶ó°í ¿ì¸® ±Í¿¡ ¼Ó»èÀÔ´Ï´Ù ...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTA;»þ´Â ±×ÀÇ µÎ³ú°¡ ÇÊ¿äÇÏ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTB;±×ÀÇ ÀÎ»ýÀº ¾ÈÀüÇÏ´Ù. ±×¸¦ Ãß¹æÇÏ¶ó.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110085OPTC;±×´Â ¿ì¸®ÀÇ Ä£±¸ÀÌÀÚ Á¶¾ðÀÚ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110086;¾Æ¹Ì¸£ Ä«ºñ¸£ ¾Ï»ì!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110086;$YEAR$³â, ¾Æ¹Ì¸£ Ä«ºñ¸£´Â Á¤Ä¡ÀûÀÎ ÀÌÀ¯·Î Ä«¼¢À¸·Î °¡´ø µµÁß »ìÇØ´çÇß½À´Ï´Ù. ÀÏºÎ´Â ÅÂÈÄ¸¦ Æ÷ÇÔÇÏ¿© ±×¿¡°Ô ºÒ¸¸À» Ç°Àº ±ÍÁ·µéÀ» Áö¸ñÇÏ°í ÀÖ½À´Ï´Ù. ¿Ü±¹ ¼¼·ÂÀ» ºñ³­ÇÏ´Â ÀÌµéµµ ÀÖ½À´Ï´Ù. ¸¹Àº »ç¶÷µéÀº Ç÷¿¬º¸´Ù´Â ´É·ÂÀ» Áß½ÃÇÏ´ø ±×°¡ ÀÌ²ø´ø µ¶¸³ ÀÌ¶õÀÇ Àü¸ÁÀÌ ±×ÀÇ Á×À½°ú ÇÔ²² »ç¶óÁ³´Ù°í ¿©±é´Ï´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110086OPTA;±×ÀÇ »ç¸Á¿¡ Åº½ÄÇÑ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110086OPTB;´©°¡ ¹üÀÎÀÎÁö ¹àÇô³»¾ß ÇÑ´Ù!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110087;¹éÁ¶ ¿Õ;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110087;·çÆ®ºñÈ÷ ¿Õ¼¼ÀÚ´Â ºÎ¿ÕÀÌ 3ÀÏ°£ÀÇ º´Ä¡·¹ ³¡¿¡ ½ÂÇÏÇÏÀÚ 18¼¼¿¡ ¹ÙÀÌ¿¡¸¥ ±¹¿Õ¿¡ ¿Ã¶ú½À´Ï´Ù. ±×´Â ±¹¿Õ ÀÚ¸®¿¡ ´ëºñ°¡ µÇ¾îÀÖÁö ¾Ê¾ÒÁö¸¸ ÀþÀ½°ú ¹ÌÇüÀÇ ¿Ü¸ð ´ö¿¡ ¹ÙÀÌ¿¡¸¥ µîÁö¿¡¼­ ÀÎ±â°¡ ÀÖ¾ú½À´Ï´Ù. ±×´Â ÀÇÈ¸¿Í ÇÔ²² ±¹Á¤À» ÀÌ²ø±âº¸´Ù´Â ³¶¸¸ÁÖÀÇ ¹®ÇÐ°ú ¿ÀÆä¶ó¿¡ ½Ã°£À» ½ñ¾Ò½À´Ï´Ù. ±×°¡ °¡Àå ÁÖ¸ñÇÑ °ÍÀº ¹Ù±×³Ê¸¦ ±ÃÁ¤¿¡ ¼ÒÁýÇÏ°Å³ª ³ëÀÌ½´¹Ý½´Å¸ÀÎ ¼º¿¡ °Ç¼³ ÀÚ±ÝÀ» Á¶´ÞÇÏ´Â °ÍÀÔ´Ï´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110087OPTA;±×ÀÇ Ä¡¼¼°¡ ¿À·¡°¡±â¸¦.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110088;¶õµ¨ µå ¹«¶ó;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110088;¾Æ¹öÁö ·Îº£¸£Åä ¶õµ¨ µå ¹«¶ó(Roberto Landell de Moura) ½ÅºÎ´Â 1886³â ·Î¸¶¿¡¼­ ½Å±Ç ¼ºÀÓÀ» ÇÏ°í ¹°¸®ÇÐÀ» °øºÎÇß½À´Ï´Ù. ÇöÁö¿¡¼­ À¯¸íÇÑ ¹ß¸í°¡¿´´ø ±×´Â »óÆÄ¿ï·Î ÁÖº¯ 8km¿¡ ´ÞÇÏ´Â ¹üÀ§¿¡¼­ »ç¶÷ÀÇ ¸ñ¼Ò¸®¸¦ ¹æ¼ÛÀ¸·Î ³»º¸³»´Âµ¥ ¼º°øÇØ ÁÖ¸ñÀ» ¹Þ¾Ò´Ù. ±×´Â ¹«¼± ÀüÈ­±â¿Í ¹«¼± Àü½ÅÀ» À§ÇØ ºê¶óÁú°ú ¹Ì±¹¿¡¼­ ¿©·¯ Æ¯Çã¸¦ È®º¸Çß½À´Ï´Ù. ±×·¯³ª ºê¶óÁú Á¤ºÎÀÇ ÈÄ¼Ó ¿øÁ¶°¡ ºÎÀÎµÇ¾ú°í, ±×ÀÇ ³ë·ÂÀº ½ÃµéÇØÁ³½À´Ï´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTA;±×ÀÇ ³ë·ÂÀ» Áö¿øÇÏ¶ó!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTB;±×¿¡°Ô ¿øÁ¶ ½ÂÀÎÀ» ³»·ÁÁÖ¾î¶ó.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110088OPTC;Èï¹Ì·Ó±º...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110089;ÁãÆ®Æ¼·Ñ Å¸Çù;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110089;ÁãÆ®Æ¼·Ñ Áö¿ªÀº ¿ì¸®°¡ ÅëÁ¦·ÂÀ» È®¸³ÇÑ ÀÌ·¡·Î ºÒ¸¸ÀÌ Á¸ÀçÇØ¿Ô½À´Ï´Ù. ¹ÎÁ·ÁÖÀÇ ¹®Á¦´Â ÀÌ Áö¿ªÀ» ÀÚ±ØÇÏ°í Æøµ¿Àº Á¡Á¡ ´õ ÈçÇÏ°Ô ¹ß»ýÇÕ´Ï´Ù. ÀÏºÎ °í¹®Àº À¯»óÀ¸·Î ÅäÁöÀÇ ÀÏºÎ¸¦ ¾çµµÇÏ´Â °ÍÀÌ Çö¸íÇÏ´Ù°í »ý°¢ÇÕ´Ï´Ù. ¿ì¸®´Â ±×µéÀÌ ¿ì¸® ¸ò¿¡ ´ëÇÑ ¿ä±¸¸¦ ±â²¨ÀÌ ¹Þ¾ÆµéÀÏ °ÍÀÌ¶ó »ý°¢ÇÕ´Ï´Ù. ºÏÂÊ¿£ µ¶ÀÏÀÎÀÌ, ³²ÂÊ¿£ ÀÌÅ»¸®¾ÆÀÎÀÌ »ð´Ï´Ù. ÀÌ ¹æ¹ýÀÌ ¿ì¸® ±¹°¡µé »çÀÌÀÇ ±äÀåÀ» ÇØ°áÇÏ±â¸¦ Èñ¸ÁÇÕ´Ï´Ù.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110089OPTA;±× Áö¿ªÀº ¸¶¶¥È÷ ±×µé °ÍÀÌ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110089OPTB;±× Áö¿ªÀº ¸¶¶¥È÷ ¿ì¸® °ÍÀÌ´Ù.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110090;Æ®¸®¿£Åä Å¸Çù;The Trentino Compromise.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110090;Æ®¸®¿£Åä Áö¿ªÀº ¿ì¸®°¡ ÅëÁ¦·ÂÀ» È®¸³ÇÑ ÀÌ·¡·Î ºÒ¸¸ÀÌ Á¸ÀçÇØ¿Ô½À´Ï´Ù. ¹ÎÁ·ÁÖÀÇ ¹®Á¦´Â ÀÌ Áö¿ªÀ» ÀÚ±ØÇÏ°í Æøµ¿Àº Á¡Á¡ ´õ ÈçÇÏ°Ô ¹ß»ýÇÕ´Ï´Ù. ÀÏºÎ °í¹®Àº À¯»óÀ¸·Î ÅäÁöÀÇ ÀÏºÎ¸¦ ¾çµµÇÏ´Â °ÍÀÌ Çö¸íÇÏ´Ù°í »ý°¢ÇÕ´Ï´Ù. ¿ì¸®´Â ±×µéÀÌ ¿ì¸® ¸ò¿¡ ´ëÇÑ ¿ä±¸¸¦ ±â²¨ÀÌ ¹Þ¾ÆµéÀÏ °ÍÀÌ¶ó »ý°¢ÇÕ´Ï´Ù. ºÏÂÊ¿£ µ¶ÀÏÀÎÀÌ, ³²ÂÊ¿£ ÀÌÅ»¸®¾ÆÀÎÀÌ »ð´Ï´Ù. ÀÌ ¹æ¹ýÀÌ ¿ì¸® ±¹°¡µé »çÀÌÀÇ ±äÀåÀ» ÇØ°áÇÏ±â¸¦ Èñ¸ÁÇÕ´Ï´Ù.;Ever since we established our control of the Trentino area there has been discontent. Nationalist troubles agitate the region and riots are more and more common. In a spirit of appeasement, some advisors think it could be wise to cede part of the land... for a price. We'd agree to relish our claims on their share as they would for ours. A German north and an Italian south. Let's hope this resolves tensions amongst our nations.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110090OPTA;±× Áö¿ªÀº ¸¶¶¥È÷ ±×µé °ÍÀÌ´Ù.;The land is rightfully theirs.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110090OPTB;±× Áö¿ªÀº ¸¶¶¥È÷ ¿ì¸® °ÍÀÌ´Ù.;The land is rightfully ours.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110091;¾Ë¶ó´Ùµå;The Allahdad;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110091;$YEAR$³â, Æø·ÂÀûÀÎ Æøµ¿°ú °­Á¦ °³Á¾ÀÌ ¸¶½´ÇÏµåÀÇ À¯´ëÀÎµéÀ» ¾ö½ÀÇß½À´Ï´Ù. ¾î¶² »ç¶÷µéÀº ¹«ÇÏ¶÷ÀÇ ´Þ¿¡ ¼ºÁ÷ÀÚµéÀ» ºÒÄèÇÏ°Ô ÇÑ À¯´ëÀÎ ÀÇ»ç¸¦ ºñ³­ÇÏ°í, ¶Ç ¾î¶² »ç¶÷µéÀº Áö¿ª »çÈ¸ ³» »çÀÌµå(¹«ÇÔ¸¶µåÀÇ Á¤Åë Á÷°è·Î ÀÎÁ¤¹Þ´Â »ç¶÷) »çÀÌÀÇ ÀçÁ¤ÀûÀÎ °¥µî ¶§¹®ÀÌ¶ó°í ÁÖÀåÇÕ´Ï´Ù. ÀÌ µµ½ÃÀÇ ÅëÄ¡ÀÚ´Â ºÎÇÏµé¿¡°Ô À¯´ëÀÎÀÇ Áý¿¡ µé¾î°¡¶ó°í ¸í·ÉÇÏ±â¸¦ ¿øÇÏ¸ç ÆøµµµéÀº À¯´ëÀÎµéÀ» °ø°ÝÇß½À´Ï´Ù. ¹Ý¸é ¿Ü¼¼°¡ ÀÚ½ÅµéÀÇ ÇüÁ¦¿¡ ´ëÇÑ ´ë¿ì¿¡ °ÝºÐÇÏ´Â µ¿¾È, ±×µéÀº À¯´ëÀÎµéÀÇ È¸´çµéÀ» °ø°ÝÇß½À´Ï´Ù. ÀÌÁ¦ ¾î¶»°Ô ÇØ¾ß ÇÒ±î¿ä?;In $YEAR$, violent riots and forced conversions started taking place against the Jews of Mashhad. It is still unclear what started it: some blame a Jewish doctor who offended the clergy on the month of Muharram, others claim it was due to a financial conflict between the community an a local Sayyid. The city's ruler wish to order his men to enter Jewish homes and mobs attacked the Jewish community, burning down the synagogues while foreign elements are outraged at how their brethen are being treated. What should we do?;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110091OPTA;½ÅÀÇ ÀÇÁö´Ù.;It is the will of Allah.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110091OPTB;µéÀº ¸¶¶¥È÷ ¿ì¸® ½Å¹ÎÀÌ´Ù.;They are also our subjects.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME110092;ÀÎÁ¾ Æøµ¿;Race Riots;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC110092;ÃÖ±Ù $PROVINCE$ÀÇ »óÈ²ÀÌ ¾ÇÈ­µÇ°í ÀÖ½À´Ï´Ù. ºó°ï, ½Ç¾÷°ú ÀüÈÄÀÇ ±äÀå°¨¿¡ ±âÀÎÇÑ Æøµ¿ÀÌ ¸î¸î ¼Ò¼ö¹®È­µéÀ» »ó´ë·Î ÀÏ¾î³ª°í ÀÖ½À´Ï´Ù. ¼º³­ ½ÃÀ§´ë´Â ¾àÅ»°ú Áý´ÜÆøÇà, ¾àÅ»À» ÀÚÇàÇß½À´Ï´Ù. ¿ì¸® ¿ª»çÀÇ ¿ÀÁ¡À¸·Î ³²À» °ÍÀÔ´Ï´Ù...;The situation in $PROVINCE$ has degraded lately: due to poverty, unemployment and the post-war tensions riots have taken place against some of our national minorities. Looting, lynching and pillaging took place by a mass of furious protesters. This will be a black mark in our history...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVT110092OPTA;±¹°¡Àû ºñ±ØÀÌ´Ù...;A sad state of affair...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FRA_404;¾Æ¸£Åõ¾Æ;;;;;;;;;x;;;;
+amir_kabir;¾Æ¹Ì¸£ Å°ºñ¸£;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_amir_kabir;¾Æ¹Ì¸£ Ä«ºñ¸£´Â ±¹³»¿¡¼­ À§´ëÇÑ °³Çõ»ç¾÷À» °¨µ¶Çß½À´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+racial_tensions;ÀÎÁ¾ ±äÀå;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_racial_tensions;Áö¿ª »çÈ¸¿¡¼­ ¼Ò¼ö ¹®È­¸¦ °Ü³ÉÇÑ Áõ¿À¿Í Æøµ¿ÀÌ °è¼ÓµÇ°í ÀÖ½À´Ï´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTB110083;¿ÕÀÌ ÀÚ±â ³ª¶ó¸¦ ¶°³ª¼­´Â ¾ÈµÈ´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110083;ÀÌ¸¦ ÅëÇØ ¸¹ÀÌ ¹è¿ï ¼ö ÀÖ´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110092;½½ÇÁ´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTB110082;±¦Âú´Ù.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+EVTOPTA110082;ÈÇ¸¢ÇÑ ¹ß»óÀÌ´Ù!;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;

@@ -1,480 +1,480 @@
 ;;;;;;;;;;;;;;;;;;;;x,,,,,
-smithian_school;ìŠ¤ë¯¸ìŠ¤ì£¼ì˜;Smithianism;;;;;;;;;;;;;;;;;;;;x,,,,,
-smithian_school_desc;ììœ ì‹œì¥ì—ì„œì˜ ì •ë¶€ì˜ ê°œì…ê³¼ ì„¸ê¸ˆì˜ ì—­í• ì„ ìµœì†Œí™”ì‹œí‚¤ëŠ” ê²ƒê³¼ ê°™ì€ ììœ ë°©ì„ì£¼ì˜ ì² í•™, ê·¸ë¦¬ê³  "ë³´ì´ì§€ ì•ŠëŠ” ì†"ì´ ìˆ˜ìš”ì™€ ê³µê¸‰ì„ ì•ˆë‚´í•œë‹¤ëŠ” ìƒê°ì€ ì•„ë‹´ ìŠ¤ë¯¸ìŠ¤ì˜ ê¸€ì´ ì•ˆë‚´í•˜ëŠ” ì£¼ìš” ì´ë¡  ì¤‘ í•˜ë‚˜ì…ë‹ˆë‹¤. ìš°ë¦¬ì˜ ë¬´ì—­ì •ì±…ì€ ì£¼ë¡œ ì´ ì‚¬ìƒì— ì˜í–¥ì„ ë°›ìŠµë‹ˆë‹¤.;Laissez-faire philosophies, such as minimizing the role of government intervention and taxation in the free markets, and the idea that an "invisible hand" guides supply and demand are among the key ideas Adam Smith's writing is responsible for promoting. Our trade policies are largely inspired by him.;;;;;;;;;;;;;;;;;;;;x,,,,,
-french_liberal_school;ì •í†µ ììœ ì£¼ì˜ í•™íŒŒ;Orthodox Liberal School;;;;;;;;;;;;;;;;;;;;x,,,,,
-french_liberal_school_desc;í”„ë‘ìŠ¤ ììœ ì£¼ì˜ í•™íŒŒ ë˜ëŠ” ë‚™ê´€ì£¼ì˜ í•™íŒŒë¼ê³ ë„ ì•Œë ¤ì§„ ì´ í•™êµëŠ” ììœ ë¬´ì—­ê³¼ ììœ ë°©ì„ì£¼ì˜ì  ìë³¸ì£¼ì˜ë¥¼ ì‹ ë„í•˜ê²Œ ì˜¹í˜¸í•©ë‹ˆë‹¤. ê·¸ë“¤ì€ ì§‘ì‚°ì£¼ì˜, ê°œì…ì£¼ì˜, ë³´í˜¸ì£¼ì˜ ì‚¬ìƒì„ ì£¼ë¡œ ë°˜ëŒ€í•©ë‹ˆë‹¤. ìš°ë¦¬ì˜ ë¬´ì—­ì •ì±…ì€ ì£¼ë¡œ ì´ í•™êµì—ì„œ ì˜í–¥ì„ ë°›ì•˜ìŠµë‹ˆë‹¤.;The Orthodox school of economic thought, also known as the French Liberal School or Optimist School, voraciously defends free trade and laissez-faire capitalism. They are the primary opponents of collectivist, interventionist and protectionist ideas.  Our trade policies are largely inspired by this school.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;x,,,,,
-no_trade_policy_set;ë¬´ì—­ì •ì±… ì—†ìŒ;No Set Trade Policy;;;;;;;;;;;;;;;;;;;;x,,,,,
-no_trade_policy_set_desc;ìš°ë¦¬ ì •ë¶€ëŠ” ë¬´ì—­ì •ì±…ì„ ì •í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤. ì •ë¶€ëŠ” ê´€ì„¸ì— ëŒ€í•´ ì‹ ì†í•œ ê²°ì •ì„ ë‚´ë¦¬ê¸¸ ì„ í˜¸í•©ë‹ˆë‹¤.;Our government doesn't have a set trade policy and prefers to make snap decisions on tariffs.;;;;;;;;;;;;;;;;;;;;x,,,,,
-mercantilism;ì¤‘ìƒì£¼ì˜;Mercantilism;;;;;;;;;;;;;;;;;;;;x,,,,,
-mercantilism_desc;ì¤‘ìƒì£¼ì˜ëŠ” êµ­ê°€ì˜ ë¬´ì—­ì„ ê·¹ëŒ€í™”í•˜ê¸° ìœ„í•´, íŠ¹íˆ ê¸ˆê³¼ ì€ì˜ ì¶•ì ì„ ê·¹ëŒ€í™”í•˜ê¸° ìœ„í•´ ê³ ì•ˆëœ ì •ì±…ì…ë‹ˆë‹¤. ì´ ì •ì±…ì€ êµ­ê°€ ê²½ì œì— ëŒ€í•œ ì •ë¶€ ê·œì œë¥¼ ì¥ë ¤í•©ë‹ˆë‹¤.;Mercantilism is a type of policy designed to maximize the trade of a nation and especially to maximize the accumulation of gold and silver. It promotes governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.;;;;;;;;;;;;;;;;;;;;x,,,,,
-economic_nationalism;ê²½ì œ ë¯¼ì¡±ì£¼ì˜;Economic Nationalism;;;;;;;;;;;;;;;;;;;;x,,,,,
-economic_nationalism_desc;ì´ ì •ì±…ì˜ ëª©ì ì€ ê²½ì œì ìœ¼ë¡œ ë…ë¦½ì ì¸ ìê¸‰ìì¡± êµ­ê°€ë¥¼ ë§Œë“œëŠ” ê²ƒì…ë‹ˆë‹¤. ì´ ì •ì±…ì€ ë…¸ë™, ì¬í™”, ìë³¸ì˜ ì´ë™ì— ëŒ€í•œ ê´€ì„¸ì™€ ë‹¤ë¥¸ ì œí•œì„ ë§ì´ ë¶€ê³¼í•˜ëŠ” ë“± êµ­ë‚´ ê²½ì œ, ë…¸ë™, ìë³¸ í˜•ì„±ì— ëŒ€í•œ í†µì œë¥¼ ì„ í˜¸í•©ë‹ˆë‹¤.;The aim of this policy is to have a country that is economically independent and nationally self-sufficient. It favors policies that emphasize domestic control of the economy, labor, and capital formation, even if this requires the heavy imposition of tariffs and other restrictions on the movement of labor, goods and capital.;;;;;;;;;;;;;;;;;;;;x,,,,,
-polish_uprising_mobilization;í´ë€ë“œì¸ ë´‰ê¸°;Polish Uprising;;;;;;;;;;;;;;;;;;;;x,,,,,
-polish_uprising_mobilization_desc;í´ë€ë“œê°€ ë‹¤ì‹œ ììœ ë¥¼ ë˜ì°¾ë„ë¡ ìš°ë¦¬ ì‚¬íšŒë¥¼ ë™ì›í•˜ê³  ìˆìŠµë‹ˆë‹¤.;We are mobilizing our society so Poland can be free once more.;;;;;;;;;;;;;;;;;;;;x,,,,,
-credit_risk;ë†’ì€ ì‹ ìš© ìœ„í—˜;High Credit Risk;;;;;;;;;;;;;;;;;;;;x,,,,,
-credit_risk_desc;ë°˜ë€, ì „ìŸ, ë˜ëŠ” ì „ë°˜ì ì¸ ë¶ˆì•ˆì •. ìš°ë¦¬ë‚˜ë¼ëŠ” ëˆì„ ë¹Œë¦¬ê¸°ì— ë„ˆë¬´ ë§ì€ ìœ„í—˜ì„ ì•ˆê³  ìˆìŠµë‹ˆë‹¤.;Revolts, wars or general instability, our country is too much of a risk for other countries to lend money to us.;;;;;;;;;;;;;;;;;;;;x,,,,,
-sound_dues;ì™¸ë ˆìˆœ í†µí–‰ë£Œ;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
-sound_dues_toll;ì™¸ë ˆìˆœ í†µí–‰ë£Œ;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
-unrecognized_country;ë¯¸ìŠ¹ì¸êµ­;Unrecognized Country;;;;;;;;;;;;;;;;;;;;x,,,,,
-unrecognized_country_desc;ë°˜ë€ìœ¼ë¡œ ì„¸ì›Œì§„ êµ­ê°€ë¼ëŠ” ì´ìœ ë¡œ ëˆ„êµ¬ë„ ìš°ë¦¬ì˜ ìê²°ê¶Œì„ ì¸ì •í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.;As a young rebellious country, no one recognizes our right to self rule.;;;;;;;;;;;;;;;;;;;;x,,,,,
-monthly_payment_made;ë§¤ì›” ìƒë‚©ê¸ˆ;Monthly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,
-monthly_payment_made_desc;ìš°ë¦¬ëŠ” ì´ë¯¸ ì¢…ì£¼êµ­ì— ì´ë²ˆë‹¬ì¹˜ ìƒë‚©ê¸ˆì„ ë°”ì³¤ìŠµë‹ˆë‹¤.;We already contributed to our overlord's coffers this month.;;;;;;;;;;;;;;;;;;;;x,,,,,
-using_foreign_ships;ìˆ˜ì… ì„ ë°• ì‚¬ìš©;Uses Imported Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
-using_foreign_shipyards;ì„œì–‘ ì¡°ì„ ì†Œ ì‚¬ìš©;Uses Western Shipyards;;;;;;;;;;;;;;;;;;;;x,,,,,
-using_foreign_weapons;ì™¸êµ­ ë¬´ê¸° ì‚¬ìš©;Uses Foreign Weapons;;;;;;;;;;;;;;;;;;;;x,,,,,
-using_foreign_artillery;ì™¸êµ­ ëŒ€í¬ ì‚¬ìš©;Uses Foreign Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
-sicilian_mafia;ì‹œì¹ ë¦¬ì•„ ë§ˆí”¼ì•„;Sicilian Mafia;;;;;;;;;;;;;;;;;;;;x,,,,,
-desc_sicilian_mafia;ë§ˆí”¼ì•„ë‚˜ ì½”ì‚¬ ë…¸ìŠ¤íŠ¸ë¼ë¡œë„ ì•Œë ¤ì§„ ì‹œì¹ ë¦¬ì•„ ë§ˆí”¼ì•„ëŠ” ì‹œì¹ ë¦¬ì•„ì—ì„œ íƒ„ìƒí•´ ë‚¨ë¶€ ì´íƒˆë¦¬ì•„ ì§€ì—­ì—ì„œ í™œë™í•˜ëŠ” ë²”ì£„ ì¡°ì§ì…ë‹ˆë‹¤. ê·¸ë“¤ì€ ì£¼ë¡œ í­ë ¥ í–‰ìœ„ë¥¼ í†µí•´ ì´ìµì„ ì–»ìœ¼ë©° ìƒì‚°ìì˜ ì´ìµê³¼ ë…¸ë™ì ê³ ìš©ì— ì‹¬ê°í•œ ì˜í–¥ì„ ë¯¸ì¹©ë‹ˆë‹¤.;The Sicilian Mafia, also known as simply the Mafia or Cosa Nostra, is a criminal syndicate born in Sicily and operating in provinces with South Italians. They profit mainly through racketeering, badly affecting producers' profits and their capability to hire new workers, but they also dwell on political corruption and other criminal areas. Their brutal methods makes them infamous where they operate.;;;;;;;;;;;;;;;;;;;;x,,,,,
-owed_steamers;ë¹šì§„ ì¦ê¸°ì„ ;Owed Steamers;;;;;;;;;;;;;;;;;;;;x,,,,,
-owed_artillery;ë¹šì§„ ëŒ€í¬;Owed Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
-owed_canned_food;ë¹šì§„ í†µì¡°ë¦¼;Owed Canned Food;;;;;;;;;;;;;;;;;;;;x,,,,,
-total_reform;í¬ê´„ì ì¸ ê¸°ì ;Comprehensive Miracle;;;;;;;;;;;;;;;;;;;;x,,,,,
-total_reform_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ì§„ì •í•œ ê¸°ì ì— ëª»ì§€ ì•Šê²Œ ëŒ€ëŒ€ì ì¸ ê°œí˜ì„ ë‹¨í–‰í•˜ê³  ìˆìŠµë‹ˆë‹¤;Our country is going through comprehensive reforms, promoting nothing short of a true miracle.;;;;;;;;;;;;;;;;;;;;x,,,,,
-slave_revolution;ë…¸ì˜ˆ í˜ëª…;Slave Revolution;;;;;;;;;;;;;;;;;;;;x,,,,,
+smithian_school;½º¹Ì½ºÁÖÀÇ;Smithianism;;;;;;;;;;;;;;;;;;;;x,,,,,
+smithian_school_desc;ÀÚÀ¯½ÃÀå¿¡¼­ÀÇ Á¤ºÎÀÇ °³ÀÔ°ú ¼¼±İÀÇ ¿ªÇÒÀ» ÃÖ¼ÒÈ­½ÃÅ°´Â °Í°ú °°Àº ÀÚÀ¯¹æÀÓÁÖÀÇ Ã¶ÇĞ, ±×¸®°í "º¸ÀÌÁö ¾Ê´Â ¼Õ"ÀÌ ¼ö¿ä¿Í °ø±ŞÀ» ¾È³»ÇÑ´Ù´Â »ı°¢Àº ¾Æ´ã ½º¹Ì½ºÀÇ ±ÛÀÌ ¾È³»ÇÏ´Â ÁÖ¿ä ÀÌ·Ğ Áß ÇÏ³ªÀÔ´Ï´Ù. ¿ì¸®ÀÇ ¹«¿ªÁ¤Ã¥Àº ÁÖ·Î ÀÌ »ç»ó¿¡ ¿µÇâÀ» ¹Ş½À´Ï´Ù.;Laissez-faire philosophies, such as minimizing the role of government intervention and taxation in the free markets, and the idea that an "invisible hand" guides supply and demand are among the key ideas Adam Smith's writing is responsible for promoting. Our trade policies are largely inspired by him.;;;;;;;;;;;;;;;;;;;;x,,,,,
+french_liberal_school;Á¤Åë ÀÚÀ¯ÁÖÀÇ ÇĞÆÄ;Orthodox Liberal School;;;;;;;;;;;;;;;;;;;;x,,,,,
+french_liberal_school_desc;ÇÁ¶û½º ÀÚÀ¯ÁÖÀÇ ÇĞÆÄ ¶Ç´Â ³«°üÁÖÀÇ ÇĞÆÄ¶ó°íµµ ¾Ë·ÁÁø ÀÌ ÇĞ±³´Â ÀÚÀ¯¹«¿ª°ú ÀÚÀ¯¹æÀÓÁÖÀÇÀû ÀÚº»ÁÖÀÇ¸¦ ½Å¶öÇÏ°Ô ¿ËÈ£ÇÕ´Ï´Ù. ±×µéÀº Áı»êÁÖÀÇ, °³ÀÔÁÖÀÇ, º¸È£ÁÖÀÇ »ç»óÀ» ÁÖ·Î ¹İ´ëÇÕ´Ï´Ù. ¿ì¸®ÀÇ ¹«¿ªÁ¤Ã¥Àº ÁÖ·Î ÀÌ ÇĞ±³¿¡¼­ ¿µÇâÀ» ¹Ş¾Ò½À´Ï´Ù.;The Orthodox school of economic thought, also known as the French Liberal School or Optimist School, voraciously defends free trade and laissez-faire capitalism. They are the primary opponents of collectivist, interventionist and protectionist ideas.  Our trade policies are largely inspired by this school.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;x,,,,,
+no_trade_policy_set;¹«¿ªÁ¤Ã¥ ¾øÀ½;No Set Trade Policy;;;;;;;;;;;;;;;;;;;;x,,,,,
+no_trade_policy_set_desc;¿ì¸® Á¤ºÎ´Â ¹«¿ªÁ¤Ã¥À» Á¤ÇÏÁö ¾Ê¾Ò½À´Ï´Ù. Á¤ºÎ´Â °ü¼¼¿¡ ´ëÇØ ½Å¼ÓÇÑ °áÁ¤À» ³»¸®±æ ¼±È£ÇÕ´Ï´Ù.;Our government doesn't have a set trade policy and prefers to make snap decisions on tariffs.;;;;;;;;;;;;;;;;;;;;x,,,,,
+mercantilism;Áß»óÁÖÀÇ;Mercantilism;;;;;;;;;;;;;;;;;;;;x,,,,,
+mercantilism_desc;Áß»óÁÖÀÇ´Â ±¹°¡ÀÇ ¹«¿ªÀ» ±Ø´ëÈ­ÇÏ±â À§ÇØ, Æ¯È÷ ±İ°ú ÀºÀÇ ÃàÀûÀ» ±Ø´ëÈ­ÇÏ±â À§ÇØ °í¾ÈµÈ Á¤Ã¥ÀÔ´Ï´Ù. ÀÌ Á¤Ã¥Àº ±¹°¡ °æÁ¦¿¡ ´ëÇÑ Á¤ºÎ ±ÔÁ¦¸¦ Àå·ÁÇÕ´Ï´Ù.;Mercantilism is a type of policy designed to maximize the trade of a nation and especially to maximize the accumulation of gold and silver. It promotes governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.;;;;;;;;;;;;;;;;;;;;x,,,,,
+economic_nationalism;°æÁ¦ ¹ÎÁ·ÁÖÀÇ;Economic Nationalism;;;;;;;;;;;;;;;;;;;;x,,,,,
+economic_nationalism_desc;ÀÌ Á¤Ã¥ÀÇ ¸ñÀûÀº °æÁ¦ÀûÀ¸·Î µ¶¸³ÀûÀÎ ÀÚ±ŞÀÚÁ· ±¹°¡¸¦ ¸¸µå´Â °ÍÀÔ´Ï´Ù. ÀÌ Á¤Ã¥Àº ³ëµ¿, ÀçÈ­, ÀÚº»ÀÇ ÀÌµ¿¿¡ ´ëÇÑ °ü¼¼¿Í ´Ù¸¥ Á¦ÇÑÀ» ¸¹ÀÌ ºÎ°úÇÏ´Â µî ±¹³» °æÁ¦, ³ëµ¿, ÀÚº» Çü¼º¿¡ ´ëÇÑ ÅëÁ¦¸¦ ¼±È£ÇÕ´Ï´Ù.;The aim of this policy is to have a country that is economically independent and nationally self-sufficient. It favors policies that emphasize domestic control of the economy, labor, and capital formation, even if this requires the heavy imposition of tariffs and other restrictions on the movement of labor, goods and capital.;;;;;;;;;;;;;;;;;;;;x,,,,,
+polish_uprising_mobilization;Æú¶õµåÀÎ ºÀ±â;Polish Uprising;;;;;;;;;;;;;;;;;;;;x,,,,,
+polish_uprising_mobilization_desc;Æú¶õµå°¡ ´Ù½Ã ÀÚÀ¯¸¦ µÇÃ£µµ·Ï ¿ì¸® »çÈ¸¸¦ µ¿¿øÇÏ°í ÀÖ½À´Ï´Ù.;We are mobilizing our society so Poland can be free once more.;;;;;;;;;;;;;;;;;;;;x,,,,,
+credit_risk;³ôÀº ½Å¿ë À§Çè;High Credit Risk;;;;;;;;;;;;;;;;;;;;x,,,,,
+credit_risk_desc;¹İ¶õ, ÀüÀï, ¶Ç´Â Àü¹İÀûÀÎ ºÒ¾ÈÁ¤. ¿ì¸®³ª¶ó´Â µ·À» ºô¸®±â¿¡ ³Ê¹« ¸¹Àº À§ÇèÀ» ¾È°í ÀÖ½À´Ï´Ù.;Revolts, wars or general instability, our country is too much of a risk for other countries to lend money to us.;;;;;;;;;;;;;;;;;;;;x,,,,,
+sound_dues;¿Ü·¹¼ø ÅëÇà·á;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
+sound_dues_toll;¿Ü·¹¼ø ÅëÇà·á;Sound Dues Toll;;;;;;;;;;;;;;;;;;;;x,,,,,
+unrecognized_country;¹Ì½ÂÀÎ±¹;Unrecognized Country;;;;;;;;;;;;;;;;;;;;x,,,,,
+unrecognized_country_desc;¹İ¶õÀ¸·Î ¼¼¿öÁø ±¹°¡¶ó´Â ÀÌÀ¯·Î ´©±¸µµ ¿ì¸®ÀÇ ÀÚ°á±ÇÀ» ÀÎÁ¤ÇÏÁö ¾Ê½À´Ï´Ù.;As a young rebellious country, no one recognizes our right to self rule.;;;;;;;;;;;;;;;;;;;;x,,,,,
+monthly_payment_made;¸Å¿ù »ó³³±İ;Monthly Payment;;;;;;;;;;;;;;;;;;;;x,,,,,
+monthly_payment_made_desc;¿ì¸®´Â ÀÌ¹Ì Á¾ÁÖ±¹¿¡ ÀÌ¹ø´ŞÄ¡ »ó³³±İÀ» ¹ÙÃÆ½À´Ï´Ù.;We already contributed to our overlord's coffers this month.;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_ships;¼öÀÔ ¼±¹Ú »ç¿ë;Uses Imported Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_shipyards;¼­¾ç Á¶¼±¼Ò »ç¿ë;Uses Western Shipyards;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_weapons;¿Ü±¹ ¹«±â »ç¿ë;Uses Foreign Weapons;;;;;;;;;;;;;;;;;;;;x,,,,,
+using_foreign_artillery;¿Ü±¹ ´ëÆ÷ »ç¿ë;Uses Foreign Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
+sicilian_mafia;½ÃÄ¥¸®¾Æ ¸¶ÇÇ¾Æ;Sicilian Mafia;;;;;;;;;;;;;;;;;;;;x,,,,,
+desc_sicilian_mafia;¸¶ÇÇ¾Æ³ª ÄÚ»ç ³ë½ºÆ®¶ó·Îµµ ¾Ë·ÁÁø ½ÃÄ¥¸®¾Æ ¸¶ÇÇ¾Æ´Â ½ÃÄ¥¸®¾Æ¿¡¼­ Åº»ıÇØ ³²ºÎ ÀÌÅ»¸®¾Æ Áö¿ª¿¡¼­ È°µ¿ÇÏ´Â ¹üÁË Á¶Á÷ÀÔ´Ï´Ù. ±×µéÀº ÁÖ·Î Æø·Â ÇàÀ§¸¦ ÅëÇØ ÀÌÀÍÀ» ¾òÀ¸¸ç »ı»êÀÚÀÇ ÀÌÀÍ°ú ³ëµ¿ÀÚ °í¿ë¿¡ ½É°¢ÇÑ ¿µÇâÀ» ¹ÌÄ¨´Ï´Ù.;The Sicilian Mafia, also known as simply the Mafia or Cosa Nostra, is a criminal syndicate born in Sicily and operating in provinces with South Italians. They profit mainly through racketeering, badly affecting producers' profits and their capability to hire new workers, but they also dwell on political corruption and other criminal areas. Their brutal methods makes them infamous where they operate.;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_steamers;ºúÁø Áõ±â¼±;Owed Steamers;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_artillery;ºúÁø ´ëÆ÷;Owed Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,
+owed_canned_food;ºúÁø ÅëÁ¶¸²;Owed Canned Food;;;;;;;;;;;;;;;;;;;;x,,,,,
+total_reform;Æ÷°ıÀûÀÎ ±âÀû;Comprehensive Miracle;;;;;;;;;;;;;;;;;;;;x,,,,,
+total_reform_desc;¿ì¸®³ª¶ó´Â ÁøÁ¤ÇÑ ±âÀû¿¡ ¸øÁö ¾Ê°Ô ´ë´ëÀûÀÎ °³ÇõÀ» ´ÜÇàÇÏ°í ÀÖ½À´Ï´Ù;Our country is going through comprehensive reforms, promoting nothing short of a true miracle.;;;;;;;;;;;;;;;;;;;;x,,,,,
+slave_revolution;³ë¿¹ Çõ¸í;Slave Revolution;;;;;;;;;;;;;;;;;;;;x,,,,,
 relutanct_figher;Reluctant Fighter;;;;;;;;;;;;;;;;;;;;x,,,,,
-relutanct_figher_desc;ì´ ë‚˜ë¼ëŠ” ì•¼ë§ì´ ì—†ì–´ ë³´ì´ë©° ë‹¤ë¥¸ ë‚˜ë¼ë¥¼ ìœ„í•´ ì‹¸ìš°ëŠ” ê²ƒì„ êº¼ë¦½ë‹ˆë‹¤.;This nation doesn't seems to have its own ambitions and is reluctant to fight for another country.;;;;;;;;;;;;;;;;;;;;x,,,,,
-silver_mine;ì€ ê´‘ì‚°;Silver Mine;;;;;;;;;;;;;;;;;;;;x,,,,,
-krakow_is_austrian;ì˜¤ìŠ¤íŠ¸ë¦¬ì•„ë ¹ í¬ë¼ì¿ í”„;Krakow is Austrian;;;;;;;;;;;;;;;;;;;;x,,,,,
-great_irish_famine;ì•„ì¼ëœë“œ ëŒ€ê¸°ê·¼;Great Irish Famine;;;;;;;;;;;;;;;;;;;;x,,,,,
-preparations_to_kill;ì ˆë©¸ ìˆ˜ìš©ì†Œ;Extermination Camps;;;;;;;;;;;;;;;;;;;;x,,,,,
-sunni_country;ìˆ˜ë‹ˆíŒŒ êµ­ê°€;Sunni Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
-shiite_country;ì‹œì•„íŒŒ êµ­ê°€;Shiite Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
-ibadi_country;ì´ë°”í‹°íŒŒ êµ­ê°€;Ibadi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-catholic_country;ì²œì£¼êµ êµ­ê°€;Catholic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-protestant_country;ê°œì‹ êµ êµ­ê°€;Protestant Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-mormon_country;ëª¨ë¥´ëª¬êµ êµ­ê°€;Mormon Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-orthodox_country;ì •êµíšŒ êµ­ê°€;Orthodox Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-coptic_country;ì½¥íŠ¸êµ êµ­ê°€;Coptic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-jewish_country;ìœ ëŒ€êµ êµ­ê°€;Jewish Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-yazidi_country;ì•¼ì§€ë””êµ êµ­ê°€;Yazidi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-mahayana_country;ëŒ€ìŠ¹ë¶ˆêµ êµ­ê°€;Mahayana Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-gelugpa_country;í‹°ë² íŠ¸ë¶ˆêµ êµ­ê°€;Gelugpa Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-theravada_country;ì†ŒìŠ¹ë¶ˆêµ êµ­ê°€;Theravada Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-hindu_country;íŒë‘êµ êµ­ê°€;Hindu Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-shinto_country;ì‹ í†  êµ­ê°€;Shinto Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-sikh_country;ì‹œí¬êµ êµ­ê°€;Sikh Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-taiping_country;ë°°ìƒì œíšŒ êµ­ê°€;Taiping Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-fetishist_country;ë°°ë¬¼êµ êµ­ê°€;Fetishist Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-init_country;ì´ë‹ˆíŠ¸êµ êµ­ê°€;Init Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-jain_country;ìì´ë‚˜êµ êµ­ê°€;Jain Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-zoroastrian_country;ì¡°ë¡œì•„ìŠ¤í„°êµ êµ­ê°€;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-assyrian_country;ì•—ìˆ˜ë¥´êµ êµ­ê°€;Assyrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-animist_country;í† ì†ì‹ ì•™ êµ­ê°€;Animist Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
-native_assimilation_act_policy;ì›ì£¼ë¯¼ ë™í™”ë²•;Native Assimilation Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-native_assimilation_act_policy_desc;ì •ë¶€ëŠ” ì›ì£¼ë¯¼ì˜ ë™í™”ë¥¼ ìœ„í•´ ë…¸ë ¥í•˜ê³  ìˆìŠµë‹ˆë‹¤.;The government is working towards the assimilation of the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-native_removal_act_policy;ì›ì£¼ë¯¼ ì œê±°ë²•;Native Removal Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-native_removal_act_policy_desc;ì°¨ë³„ ì •ì±…ì€ ì›ì£¼ë¯¼ì„ ì œê±°í•˜ê³  ë‚´ì«“ëŠ” ê²ƒì„ ëª©í‘œë¡œ í•©ë‹ˆë‹¤.;Discriminatory policies aim to eliminate and push out the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-african_integration_policy;ì•„í”„ë¦¬ì¹´ì¸ í†µí•© ì •ì±…;African Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-native_assimilation_enacted;ì›ì£¼ë¯¼ í†µí•© ì •ì±…;Native Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-new_world_nation;ì‹ ëŒ€ë¥™ êµ­ê°€;New World Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-low_healthcare_poorly_funded;ì €ì˜ˆì‚° ë³´ê±´ë³µì§€;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_low_healthcare_poorly_funded;í–‰ì • ë¶„ì•¼ì— ëŒ€í•œ ì •ë¶€ ì§€ì¶œ ê°ì†ŒëŠ” ì˜ë£Œ ì²´ê³„ì˜ ìê¸ˆ ë¶€ì¡±ì„ ì´ˆë˜í•©ë‹ˆë‹¤.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-good_healthcare_poorly_funded;ì €ì˜ˆì‚° ë³´ê±´ë³µì§€;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_good_healthcare_poorly_funded;í–‰ì • ë¶„ì•¼ì— ëŒ€í•œ ì •ë¶€ ì§€ì¶œ ê°ì†ŒëŠ” ì˜ë£Œ ì²´ê³„ì˜ ìê¸ˆ ë¶€ì¡±ì„ ì´ˆë˜í•©ë‹ˆë‹¤.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-capital_health_care;ìˆ˜ë„ ë³´ê±´ë³µì§€;Local Capital Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_trinket_health_care;ìµœì†Œí•œì˜ ë³´ê±´ë³µì§€;Trinket Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_low_health_care;ë‚®ì€ ë³´ê±´ë³µì§€;Low Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_acceptable_health_care;ì¶©ë¶„í•œ ë³´ê±´ë³µì§€;Acceptable Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_good_health_care;ì¢‹ì€ ë³´ê±´ë³µì§€;Good Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-pearl_season;ì§„ì£¼ ì‚¬ëƒ¥ì² ;Pearl Hunting Season;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-pearl_season_desc;ì´ ì§€ì—­ ì£¼ë¯¼ë“¤ì€ ìˆ˜ìµì„±ì´ ë†’ì€ ì§„ì£¼ ì±„ì·¨ì— ì°¸ì—¬í•˜ê³  ìˆìŠµë‹ˆë‹¤.;The population in this province is engaging in the much profitable pearl hunting activity.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-religious_minority_oppression;ì†Œìˆ˜ì¢…êµ íƒ„ì••;Oppressed Religious Minorities;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-religious_minority_oppression_desc;ì†Œìˆ˜ì¢…êµë“¤ì€ íƒ„ì••ì„ ë°›ê³  ìˆìŠµë‹ˆë‹¤. ì´ë¡œ ì¸í•´ ì´ë“¤ ì¢…êµ ì‹ ìë“¤ì˜ ë¶ˆë§Œë„ì™€ ì˜ì‹ë„ê°€ ì ì  ë” ë†’ì•„ì§‘ë‹ˆë‹¤.;Religious minorities are being mistreated, resulting in ever increasing militancy and consciousness of these people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-armenian_diaspora;ì•„ë¥´ë©”ë‹ˆì•„ ë””ì•„ìŠ¤í¬ë¼;Armenian Diaspora;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-armenian_diaspora_desc;ì´ ì§€ì—­ì—ëŠ” ì•„ë¥´ë©”ë‹ˆì•„ ë””ì•„ìŠ¤í¬ë¼ë¥¼ í†µí•´ ì˜¨ ì†Œìˆ˜ ë¬¸í™”ê°€ ì¡´ì¬í•©ë‹ˆë‹¤.;This province contains a minority population that comes from the Armenian diaspora.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-earthquake_devastation;ì§€ì§„ ì¬ì•™;Earthquake Devastation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-earthquake_devastation_desc;ìµœê·¼ ê°•ë ¥í•œ ì§€ì§„ì´ ì´ ì§€ì—­ì„ í™©íí™”í–ˆìŠµë‹ˆë‹¤. í˜„ì¬ ìˆ˜ì²œ ëª…ì˜ ì´ì¬ë¯¼ì´ ë°œìƒí•˜ê³  ìˆ˜ì‹­ ëª…ì˜ ì‚¶ì´ ì‚¬ë§í–ˆìŠµë‹ˆë‹¤.;A powerful earthquake has recently devastated this province, leaving thousands homeless and disrupting the lives of scores of people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-education_fully_funded;í›Œë¥­í•œ êµìœ¡ ì œë„;Excellent Education System;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-health_care_fully_funded;í›Œë¥­í•œ ë³´ê±´ë³µì§€;Excellent Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-neglected_education;êµìœ¡ ê¸°ê¸ˆ ë„ì™¸ì‹œ;Neglected Education Funding;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-trinket_health_care_fully_funded;ë³´ê±´ë³µì§€ ì „ì•¡ ì§€ì›;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-low_health_care_fully_funded;ë³´ê±´ë³µì§€ ì „ì•¡ ì§€ì›;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-acceptable_health_care_fully_funded;ë³´ê±´ë³µì§€ ì „ì•¡ ì§€ì›;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-good_health_care_fully_funded;ë³´ê±´ë³µì§€ ì „ì•¡ ì§€ì›;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-low_schools_fully_funded;êµìœ¡ ì „ì•¡ ì§€ì›;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-acceptable_schools_fully_funded;êµìœ¡ ì „ì•¡ ì§€ì›;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-good_schools_fully_funded;êµìœ¡ ì „ì•¡ ì§€ì›;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-rally_tribesmen;ë¶€ì¡±ì› ê²°ì§‘;Rally Tribesmen;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-rally_tribesmen_desc;ìš°ë¦¬ ì¸ë¯¼ ì¼ë¶€ëŠ” ìˆ˜ì„¸ê¸° ë™ì•ˆ ì§€ì†ëœ ì „ì‚¬ ë¬¸í™”ë¥¼ ê°€ì§„ ìœ ëª©ë¯¼ì  ìƒí™œ ë°©ì‹ì„ ë²„ë¦½ë‹ˆë‹¤. ì´ ì‚¬ëŒë“¤ì—ê²Œ ë‹¤ê°€ê°€ ê·¸ë“¤ì„ ìš°ë¦¬ì˜ ëŒ€ì˜ì— ë”°ë¥´ê²Œ í•¨ìœ¼ë¡œì¨, ìš°ë¦¬ëŠ” ìš°ë¦¬ë‚˜ë¼ì˜ ìš´ëª…ì„ ì„±ì·¨í•˜ê¸° ìœ„í•´ í›¨ì”¬ ë” í° êµ°ëŒ€ë¥¼ ì–‘ì„±í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.;A portion of our people leave a nomadic lifestyle with bits of a centuries old warrior culture. By reaching to these people and rallying them to our cause, we can raise a much greater army to fulfill our country's destiny.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tanzimat_land_reform;ì˜¤ìŠ¤ë§Œ ì˜í† ë²•;Ottoman Land Code;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tanzimat_land_reform_desc;ì˜¤ìŠ¤ë§Œ ì˜í† ë²•ì€ ì˜¤ìŠ¤ë§Œ ì œêµ­ì˜ íƒ„ìë§ˆíŠ¸ ê¸°ê°„ ë™ì•ˆì˜ ì²´ê³„ì ì¸ í† ì§€ê°œí˜ ê³„íšì˜ ì‹œì‘ì´ì—ˆìŠµë‹ˆë‹¤. ê·¸ ë²•ë¥ ì˜ ì´ë©´ì— ìˆëŠ” ì´ìœ ëŠ” ë‘ ê°€ì§€ì˜€ìŠµë‹ˆë‹¤. 1. ì„¸ìˆ˜ë¥¼ ëŠ˜ë¦¬ê³  2. í•´ë‹¹ ì§€ì—­ì— ëŒ€í•œ êµ­ê°€ì˜ í†µì œë¥¼ ê°•í™”í•˜ê¸° ìœ„í•¨.;The Ottoman Land Code was the beginning of a systematic land reform program during the Tanzimat period of the Ottoman Empire. The reasons behind the law were twofold. (1) to increase tax revenue, and (2) to exercise greater state control over the area.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-war_economy_ships;ë¹„ìƒì„  ê±´ì¶•;Emergency Ship Building;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-preparing_for_war;ì „ìŸ ì¤€ë¹„;Preparing for War;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-preparing_for_war_desc;ë¶ë¶€ì™€ì˜ ì „ìŸì€ ë¶ˆê°€í”¼í•˜ë©° ìš°ë¦¬ëŠ” ì´ì— ëŒ€ë¹„í•´ì•¼ í•©ë‹ˆë‹¤.;War with the North is inevitable and we must be ready for it.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-missionary_activity;ì„ êµ í™œë™;Missionary Activity;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-missionary_activity_desc;ìš°ë¦¬ë‚˜ë¼ì—ì„œ í•´ì™¸ ì„ êµì‚¬ë“¤ì´ í™œë™í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Foreign missionaries are active in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-exploiting_the_land;íƒí—˜;Exploiting the Land;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_exploiting_the_land;ì™•ìì˜ ì‹œëŒ€(Zemene Mesafint)ëŠ” í˜ë“¤ê³  ìœ„í—˜í•œ ì‹œëŒ€ì…ë‹ˆë‹¤. ê·¸ë˜ì„œ ëª¨ë“  í†µì¹˜ìë“¤ì€ ë¹„ìš©ì„ ì¤„ì´ê³  ê°€ëŠ¥í•œ í•œ ì£¼ë¯¼ë“¤ë¡œë¶€í„° ë§ì€ ëˆì„ ê°€ì ¸ê°€ì•¼ í•©ë‹ˆë‹¤.The time of the Zemene Mesafint is an arduous and perilous time, so all rulers are required to cut costs and take as much money from their population as they can.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-small_immigration_boom;ì´ë¯¼ ë¶;Immigration Boom;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_small_immigration_boom;ì´ ì§€ë°©ì€ ì‚¬íšŒ,ê²½ì œì  ì—¬ê±´ ë•Œë¬¸ì— ì´ë¯¼ ë¶ì„ ê²ªê³  ìˆìŠµë‹ˆë‹¤.;Due to favorable socio-economical conditions, this province is experiencing an immigration boom.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-disunited_country;ë¶„ì—´ëœ êµ­ê°€;Disunited Country;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-disunited_country_desc;êµ°ë²Œ, ì§€ì—­ì£¼ì˜ì™€ ë²”ë²•ìë“¤ì€ ìš°ë¦¬ ë‚˜ë¼ë¥¼ ë¶„ì—´ì‹œí‚¤ë ¤ ìœ„í˜‘í•©ë‹ˆë‹¤. ìš°ë¦¬ì˜ ì¸ë ¥ê³¼ ì •ë¶€ì˜ ë…¸ë ¥ ì¤‘ ìƒë‹¹ ë¶€ë¶„ì€ ì˜¤ë¡œì§€ ìš°ë¦¬ë‚˜ë¼ë¥¼ ìœ ì§€í•˜ê¸° ìœ„í•œ ê²ƒì…ë‹ˆë‹¤. ìš°ë¦¬ ì§€ë°°ìëŠ” ë°˜í•­ì ì¸ êµ°ë²Œì— êµ°ì‚¬ ì‘ì „ì„ ìì£¼ ë²Œì…ë‹ˆë‹¤.Warlords, regionalism and outlaws threaten to rip our country apart. A good part of our manpower and government efforts are directed exclusively to maintain our country together. Our ruler is frequently in campaign against rebellious warlords.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tewodros_reforms;ì¹´ì‚¬ í•˜ì¼ë£¨;Kassa Hailu;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tewodros_reforms_desc;ìš°ë¦¬ì˜ í˜„ ì§€ë°°ìì¸ ì¹´ì‚¬ í•˜ì¼ë£¨ëŠ” ìµœê·¼ ê°€ì¥ í›Œë¥­í•œ ì „ëµê°€ì…ë‹ˆë‹¤. ê·¸ëŸ¬ë‚˜ ê·¸ëŠ” ë˜í•œ ë³€ë•ìŠ¤ëŸ¬ìš´ë°ë‹¤ ë²”ë²•ìì˜€ê³ , ì´ëŠ” ë‹¤ë¥¸ ì‚¬ëŒë“¤ì˜ ëˆˆì— ìš°ë¦¬ë‚˜ë¼ë¥¼ ë‚®ì¶”ì—ˆìŠµë‹ˆë‹¤.;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-colonial_museum_of_natural_history;ìì—° ì—­ì‚¬ ë°•ë¬¼ê´€;Museum of Natural History;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-colonial_museum_of_natural_history_desc;ìš°ë¦¬ ë‚˜ë¼ì— ìì—° ì—­ì‚¬ ë°•ë¬¼ê´€ì´ ì„¸ì›Œì¡ŒìŠµë‹ˆë‹¤.;A Museum of Natural History has been established in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-plantation;ì§‘ì•½ ë†ì—…ê³¼ ê´‘ì‚°;Plantations and Mines;;;;;;;;;;;;;;;;;;x,,,,,
-serial_killer;ë§ˆìŒëŒ€ë¡œ ëŒì•„ë‹¤ë‹ˆëŠ” ì—°ì‡„ì‚´ì¸ë²”;Serial Killer On The Loose;;;;;;;;;;;;;;;;;;x,,,,,
-desc_serial_killer;í•œ ë¯¸ì¹˜ê´‘ì´ê°€ ì´ ì§€ì—­ì—ì„œ ë¯¸ì¹œ ë“¯ì´ ë”ì°í•œ ì‚´ì¸ì„ ì €ì§€ë¥´ê³  ìˆìŠµë‹ˆë‹¤. ë‹¤ìŒì€ ëˆ„êµ¬ì¼ê¹Œìš”?;A degenerate is committing insane and gruesome murders in the area. Who's gonna be next?;;;;;;;;;;;;;;;;;;x,,,,,
-silver_age;ë°±ì€ì‹œëŒ€;A Silver Age;;;;;;;;;;;;;;;;;;x,,,,,
-silver_age_desc;ìš°ë¦¬ì˜ í›Œë¥­í•œ ì§€ë„ìëŠ” ìš°ë¦¬ë¥¼ ë” ë‚˜ì€ ë‚´ì¼ë¡œ ì¸ë„í•  ê²ƒì…ë‹ˆë‹¤.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;x,,,,,
-pancasila;íŒì°¨ì‹¤ë¼;Pancasila;;;;;;;;;;;;;;;;;;x,,,,,
-pancasila_desc;ì¸ë„ë„¤ì‹œì•„ëŠ” ë‹¨ê²°í•´ì•¼ í•©ë‹ˆë‹¤! ê³µë™ì˜ ì§€ë„ë ¥ í•˜ì—ì„œëŠ” ì–´ë–¤ ê²ƒë„ ìš°ë¦¬ë¥¼ ë§‰ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.Indonesia must stand united! Under a common leadership, nothing will stop us.;;;;;;;;;;;;;;;;;;x,,,,,
-bazaari_strike;ì´ë€ì¸ ìƒì¸ íŒŒì—…;Bazaari strike;;;;;;;;;;;;;;;;;;x,,,,,
-bazaari_strike_desc;ìš°ë¦¬ ìƒì¸ë“¤ì€ ëª¨ë“  í™œë™ì„ ì¤‘ë‹¨í–ˆìŠµë‹ˆë‹¤. ê²½ì œê°€ í° íƒ€ê²©ì„ ë°›ê³  ìˆìŠµë‹ˆë‹¤.;Our merchant elites shut down all activities. The economy is taking a heavy blow.;;;;;;;;;;;;;;;;;;x,,,,,
-exemplary_troops;ëª¨ë²”êµ°;Exemplary troops;;;;;;;;;;;;;;;;;;x,,,,,
-exemplary_troops_desc;ê·¸ë“¤ì˜ ì¬ëŠ¥ í˜¹ì€ ë‹¨ìˆœí•œ ì¡´ì¬ë¡œ ì¸í•´, ìš°ë¦¬ì˜ ì—˜ë¦¬íŠ¸ ë¶€ëŒ€ëŠ” ì ì—ê²Œ ê¸°ê´€ì´ì„ ì¥ì „í•˜ëŠ” ë° í•„ìš”í•œ ì‚¬ê¸°ê°€ ìƒê²¼ìŒì„ ì‹œì‚¬í•©ë‹ˆë‹¤.;By their feats or even by their mere being, our elite troops inspire the most basic ruffians, giving them the morale needed to charge a firing machine gun.;;;;;;;;;;;;;;;;;;x,,,,,
-submarine_warfare;ì ìˆ˜í•¨ ê²½ìŸ;Submarine warfare;;;;;;;;;;;;;;;;;;x,,,,,
-submarine_warfare_desc;ìš°ë¦¬ëŠ” í•´êµ°ì˜ ê¸°ìˆ  í˜ì‹ ì„ ì´ëŒì–´ ì ì˜ ì‹¬ì¥ë¶€ì— ê³µí¬ë¥¼ ë¶ˆì–´ë„£ê³  ìˆìŠµë‹ˆë‹¤.;We are leading innovation in naval technology and instilling fear in the heart of our enemies!;;;;;;;;;;;;;;;;;;x,,,,,
-rancho;ìº˜ë¦¬í¬ë‹ˆì•„ ì˜¤ë‘ë§‰ì§‘;Rancho California;;;;;;;;;;;;;;;;;;x,,,,,
-rancho_desc;ìš°ë¦¬ì˜ í›„í•œ ê¸°ë¶€ê¸ˆê³¼ í† ì§€ ë³´ì¡°ê¸ˆì€ ê·¸ ì§€ì—­ì˜ ì¸êµ¬ê°€ ë…íŠ¹í•œ ìƒí™œ ë°©ì‹ì„ ê°–ê²Œ í•©ë‹ˆë‹¤.;Our generous donations and land grants allow for a quick population of the area, leading to an unique life-style.;;;;;;;;;;;;;;;;;;x,,,,,
-reading;ë…ì„œ;Reading;;;;;;;;;;;;;;;;;;x,,,,,
-reading_desc;ìœ„ëŒ€í•œ ë¬¸í•™ ì‘í’ˆë“¤ì´ ì‚¬ëŒë“¤ì—ê²Œ ë…ì„œì˜ ì˜ê°ì„ ë¶ˆì–´ë„£ì—ˆìŠµë‹ˆë‹¤. ëŒ€ì¤‘ì€ êµìœ¡ì„ ë°›ì„ì§€ë„ ëª¨ë¦…ë‹ˆë‹¤... ë”ì°í•˜êµ°ìš”!A great work of literature inspired the people to read. The masses may become educated... The horror!;;;;;;;;;;;;;;;;;;x,,,,,
-hague_convention;ë§Œêµ­í‰í™”íšŒì˜ ë¹„ì¤€;Ratified Hague Convention;;;;;;;;;;;;;;;;;;x,,,,,
-hague_convention_desc;ìš°ë¦¬ëŠ” ì„¸ê³„ì˜ í‰í™”ì™€ ì•ˆì •ì˜ ì‹œëŒ€ë¡œ ë‚˜ì•„ê°€ê¸° ìœ„í•´ ë§Œêµ­í‰í™”íšŒì˜ì— ì„œëª…í–ˆìŠµë‹ˆë‹¤.;We have signed the Hague Convention to further an era of peace and stability in the world.;;;;;;;;;;;;;;;;;;x,,,,,
-camillo_cavour;ì¹´ë°€ë¡œ ì¹´ë³´ìš°ë¥´;Camillo Cavour;;;;;;;;;;;;;;;;;;x,,,,,
-camillo_cavour_desc;í›Œë¥­í•œ ì¥ê´€ì´ ì˜¬ë°”ë¥¸ ë°©ë²•ìœ¼ë¡œ ìš°ë¦¬ë‚˜ë¼ë¥¼ ì´ëŒê³  ìˆìŠµë‹ˆë‹¤. í˜„ëŒ€ëŠ” ì´ì œ ìš°ë¦¬ ë¬¸í„±ê¹Œì§€ ì™”ìŠµë‹ˆë‹¤. ë§Œì„¸!;Our excellent minister is leading our nation in the right way. Modernity is now at our doorstep. Huzzah!;;;;;;;;;;;;;;;;;;x,,,,,
-small_baby_boom;ë†’ì€ ì¶œìƒë¥ ;Baby Boom;;;;;;;;;;;;;;;;;;;;;;;;x
-dust_bowl;ê±´ì¡° ì§€ëŒ€;Dust Bowl;;;;;;;;;;;;;;;;;;;;;;;;x
-emigrant_aid_company;ì´ë¯¼ì§€ì›íšŒì‚¬;Emigrant Aid Company;;;;;;;;;;;;;;;;;;;;;;;;x
-bleeding_state;ì¶œí˜ˆ ìƒíƒœ;Bleeding State;;;;;;;;;;;;;;;;;;;;;;;;x
-free_staters_national;ììœ  ì´ì£¼ ê¸ˆì§€;Free Staters Prohibition;;;;;;;;;;;;;;;;;;;;;;;;x
-free_staters_national_desc;ëª‡ëª‡ ììœ ë¡œìš´ ì„±í–¥ì˜ ì •ì°©ë¯¼ ëª‡ ëª…ì´ ë‹¤ë¥¸ ì£¼ë¡œì˜ ì´ì£¼ê°€ ê¸ˆì§€ë˜ì—¬ ëŒ€ì¤‘ì˜ ì†Œë™ì„ ì¼ìœ¼ì¼°ìŠµë‹ˆë‹¤.;A few free staters settlers were prohibited from migrating to another state, generating a public commotion.;;;;;;;;;;;;;;;;;;;;;;;;x
-copperhead_democrats_national;ë…¸ì˜ˆì œ ì¡´ì¹˜ í† ë¡ ;Copperhead Democrats;;;;;;;;;;;;;;;;;;;;;;;;x
-copperhead_democrats_national_desc;ë…¸ì˜ˆì œ íì§€ë¡ ìë“¤ê³¼ ë‚¨ë¶€ì˜ ì¹œë…¸ì˜ˆì œ ë‹¨ì²´ë“¤ì´ ë…¸ì˜ˆì œì˜ ë¯¸ë˜ì— ëŒ€í•´ í† ë¡ í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Abolitionist democrats and southern pro-slavery groups are debating the future of slavery in our nation.;;;;;;;;;;;;;;;;;;;;;;;;x
-underground_railroad_shutdown;ì§€í•˜ì² ë„ íì‡„;Underground Railroad Shutdown;;;;;;;;;;;;;;;;;;;;;;;;x
-underground_railroad_shutdown_desc;ìš°ë¦¬ë‚˜ë¼ì˜ ëª‡ëª‡ ì§€í•˜ì² ë„ê°€ íì‡„ë˜ì—ˆìŠµë‹ˆë‹¤. ì´ í–‰ìœ„ëŠ” ë¯¸êµ­ì¸ë“¤ì„ ê¸°ì–µ ì†ì— ì‹ ì„ í•©ë‹ˆë‹¤.;A few underground railroads in our nation were shut down and this act is fresh in the memory of the American people.;;;;;;;;;;;;;;;;;;;;;;;;x
-fugitive_slave;ë„ì£¼ ë…¸ì˜ˆ;Fugitive Slave;;;;;;;;;;;;;;;;;;;;;;;;x
-fugitive_slave_desc;ë„ì£¼ ë…¸ì˜ˆì— ê´€í•œ ìµœê·¼ì˜ ê²°ì •ì€ ì•„ì§ë„ ìš°ë¦¬ êµ­ë¯¼ë“¤ ë‡Œë¦¬ì—ì„œ ìŠíˆì§€ ì•Šê³  ìˆìŠµë‹ˆë‹¤.;A recent decision regarding a fugitive slave is still fresh in the memory of our people.;;;;;;;;;;;;;;;;;;;;;;;;x
-abolitionist_pamphlets;íì§€ë¡ ìì˜ ì†Œì±…ì;Abolitionist Pamphlets;;;;;;;;;;;;;;;;;;;;;;;;x
-slave_market;ë…¸ì˜ˆ ì‹œì¥;Slave Market;;;;;;;;;;;;;;;;;;;;;;;;x
-drinking_gourd;ë¶ë‘ì¹ ì„±;Drinking Gourd;;;;;;;;;;;;;;;;;;;;;;;;x
-fire_eaters;ë¶ˆì„ ë¨¹ëŠ” ì;Fire-Eaters;;;;;;;;;;;;;;;;;;;;;;;;x
-yankee_doodle;ì–‘í‚¤ ë‘ë“¤;Yankee Doodle;;;;;;;;;;;;;;;;;;;;;;;x
-wish_I_was_dixie;ë”•ì‹œì˜ ì •ì²´ì„±;Dixie Identity;;;;;;;;;;;;;;;;;;;;;;;x
-southern_manorialism;ë‚¨ë¶€ì˜ ì¥ì›ì œë„;Southern Manorialism;;;;;;;;;;;;;;;;;;;;;;;x
-southern_pride;ë‚¨ë¶€ì˜ ìì¡´ì‹¬;Southern Pride;;;;;;;;;;;;;;;;;;;;;;;x
-desc_southern_pride;ë”•ì‹œë“¤ì€ ê·¸ë“¤ì˜ ë•…ê³¼ ì—¬ì„±ë“¤ì˜ ì•„ë¦„ë‹¤ì›€ì„ ìë‘ìŠ¤ëŸ¬ì›Œí•˜ëŠ” ê¸ì§€ ë†’ì€ ì‚¬ëŒë“¤ì…ë‹ˆë‹¤.;The dixies are a proud people, proud of their land and proud of the beauty of their women.;;;;;;;;;;;;;;;;;;;;;;;x
-enclosures;ì¸í´ë¡œì €;Enclosures;;;;;;;;;;;;;;;;;;;;;;;x
-desc_enclosures;ì¸í´ë¡œì €, ì¦‰ ìš¸íƒ€ë¦¬ ë‘ë¥´ê¸°ë€ ëŒ€ë†ì¥ì„ ë§Œë“¤ê¸° ìœ„í•´ ë‚¨ì˜ ì†Œê·œëª¨ í† ì§€ë“¤ì„ í†µí•©í•˜ëŠ” ë²•ì  ì ˆì°¨ë¥¼ ë§í•©ë‹ˆë‹¤.;The legal process of enclosing a number of small landholdings to create one larger farm. Once enclosed, use of the land became restricted to the owner, and it ceased to be common land for communal use.;;;;;;;;;;;;;;;;;;;;;;;x
-haussmanns_renovations;ì¡°ë¥´ì£¼ì™¸ì   ì˜¤ìŠ¤ë§Œì˜ í˜ì‹ ;Haussmann's Renovations;;;;;;;;;;;;;;;;;;;;;;;x
-desc_haussmanns_renovations;ì¡°ë¥´ì£¼ì™¸ì   ì˜¤ìŠ¤ë§Œì´ ê¸°íší•œ íŒŒë¦¬ ê°œì¡°ì—ëŠ” í˜¼ì¡í•˜ê³  ê±´ê°•ì— í•´ë¡œìš´ ì¤‘ì„¸í’ ê±´ë¬¼ ì² ê±°, ë„ë¡œ í™•ì¥, ê³µì›ê³¼ ê´‘ì¥ì˜ ê±´ì„¤, íŒŒë¦¬ë¥¼ ë‘˜ëŸ¬ì‹¼ êµì™¸ì˜ í•©ë³‘, í•˜ìˆ˜êµ¬ ì‹ ì„¤, ë¶„ìˆ˜ëŒ€ì™€ ìˆ˜ë¡œì˜ ê±´ì„¤ì´ í¬í•¨ë˜ì–´ ìˆì—ˆìŠµë‹ˆë‹¤.;The Haussmann's renovations, envisioned by Georges-Eugene Haussmann, included the demolition of crowded and unhealthy medieval neighborhoods, the building of wide avenues, parks and squares, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts.;;;;;;;;;;;;;;;;;;;;;;;x
-foreign_claims;ë‹¤ë¥¸ êµ­ê°€ì˜ ì˜ìœ ê¶Œ ì£¼ì¥;Foreign Claims;;;;;;;;;;;;;;;;;;;;;;;x
-foreign_claims_desc;ë‹¤ë¥¸ êµ­ê°€ê°€ ì´ ì§€ì—­ì— ì˜ìœ ê¶Œì„ ì£¼ì¥í•˜ê³  ìˆìŠµë‹ˆë‹¤;Another nation is claiming this province, a claim that they will lose soon enough.;;;;;;;;;;;;;;;;;;;;;;;x
-IS_IN_DEFAULT_TO;ì´ êµ­ê°€ëŠ” ì±„ë¬´ë¶ˆì´í–‰ ìƒíƒœì…ë‹ˆë‹¤.;Is in default to this country.;;;;;;;;;;;;;;;;;;;;;;;x
-IS_NOT_IN_DEFAULT_TO;ì´ êµ­ê°€ëŠ” ì±„ë¬´ë¶ˆì´í–‰ ìƒíƒœê°€ ì•„ë‹™ë‹ˆë‹¤.;Is not in default to this country.;;;;;;;;;;;;;;;;;;;;;;x
-warship_commissioned;ì „í•¨ ì œê³µ;Warship Delivered;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-warship_commissioned_desc;ìƒˆë¡œìš´ ì™¸êµ­ ì „í•¨ì˜ ê±´ì„¤, ì¸ë„ ë˜ëŠ” ìˆ˜ì·¨ëŠ” ë³µì¡í•œ ë¬¸ì œì…ë‹ˆë‹¤. ì„ ì›ë“¤ì€ êµìœ¡ì„ ë°›ì•„ì•¼ í•˜ê³ , ì¥êµë“¤ì€ êµìœ¡ì„ ë°›ì•„ì•¼ í•˜ë©°, ê´€ë£Œì ì¸ ì„œë¥˜ ì‘ì—…ì´ ì´ë£¨ì–´ì ¸ì•¼ í•©ë‹ˆë‹¤. ë•Œë¬¸ì— ìš°ë¦¬ê°€ ì´ ë¬¸ì œì— ë‹¤ì‹œ ì°¸ì—¬í•˜ê¸° ìœ„í•´ì„œëŠ” ì‹œê°„ì´ í•„ìš”í•©ë‹ˆë‹¤.;Constructing, delivering or receiving a new, foreign warship is a complicated matter. Sailors need to be trained, officers instructed and the bureaucratic paperwork needs to be done. Because of that, it will take some time for us to be able to get involved in matters like this again.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ironclad_commision;ì² ê°‘í•¨ ì˜ë¢°;Iron Clad Commissions;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-sino_portuguese_treaty_of_peking_signataire;ë² ì´ì§• ì¡°ì•½ ì„œëª…êµ­;Signatory of the Treaty of Peking;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_distribution_channels_und_electricity;ì†Œë§¤ìƒ ë° ì „ê¸° ì¡°ëª…;Commercial Retailers and Electrical Lighting;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_local_distribution_channels_und_electricity;ì´ ì§€ì—­ì—ì„œëŠ” ìƒˆë¡­ê³  íš¨ìœ¨ì ì¸ ìƒí’ˆ íŒë§¤ ë° ì¬íŒë§¤ë¥¼ ìœ„í•œ ë°©ì‹ê³¼ êµ¬ì¡°ê°€ êµ¬í˜„ë˜ì—ˆìŠµë‹ˆë‹¤. ë†ë¯¼ë“¤ì´ ìì‹ ì˜ ë°­ê³¼ ì „ë“±ì„ ììœ ë¡­ê²Œ ì‚¬ìš©í•  ìˆ˜ ìˆê²Œ ë˜ì—ˆê³ , ê·¼ë¡œìë“¤ë„ ìƒˆë¡­ê³  ë°ì€ í™˜ê²½ì—ì„œ ì¼í•˜ê²Œ ë˜ì–´ ëª¨ë“  ì§€ì—­ ìƒì‚°ì˜ íš¨ìœ¨ì„±ì„ ì¦ëŒ€ì‹œì¼°ìŠµë‹ˆë‹¤.;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields and electrical lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;;;;;;;;;;;;;;;;;;;;x;;;;
-freedom_of_religion;ì¢…êµì˜ ììœ ;Freedom of Religion;;;;;;;;;;;;;;;;;;;x;;;;
-freedom_of_religion_desc;ìš°ë¦¬ë‚˜ë¼ì—ì„œëŠ” ê·¸ ëˆ„êµ¬ë„ ì¢…êµë¥¼ ê°•ìš”ë°›ì§€ ì•Šìœ¼ë©°, ì†Œìˆ˜ ì¢…êµëŠ” ë³´í˜¸ë¥¼ ë°›ìŠµë‹ˆë‹¤.;No one is forced or coerced into following any religion in our country, religious minorities have a protected status.;;;;;;;;;;;;;;;;;;;x;;;;
-repatriation;ì†¡í™˜;Repatriation;;;;;;;;;;;;;;;;;;;x;;;;
-desc_repatriation;ë‚œë¯¼ ìº í”„, ì¸êµ¬ êµí™˜, ëŒ€ëŸ‰ ì¶”ë°©. ì´ìœ ê°€ ì–´ë–»ë“  ê°„ì— ìš°ë¦¬ëŠ” ë³¸êµ­ìœ¼ë¡œ ì†¡í™˜í•  ì‚¬ëŒë“¤ì´ ë§ìŠµë‹ˆë‹¤. ë•Œë¬¸ì— ê·¸ë“¤ì„ ìœ„í•´ ë” ë§ì€ ê³µê°„ì„ í™•ë³´í•˜ê³  ìˆìŠµë‹ˆë‹¤.Refugee Camps, population exchanges, mass expulsions. Whatever the reason, we have lots of people to repatriate and because of that we are making more space for them.;;;;;;;;;;;;;;;;;;;x;;;;
-gaslights;ê°€ìŠ¤ë“±;Gas Lights;;;;;;;;;;;;;;;;;;;x;;;;
-gaslights_desc;ê°€ìŠ¤ë“±ì˜ ë„ì…ìœ¼ë¡œ ì‘ì€ ë°©ì´ë‚˜ ê³µì¥ ë°”ë‹¥ê³¼ ê°™ì€ ê³³ì„ ë°í ìˆ˜ ìˆê²Œ ë˜ì—ˆìŠµë‹ˆë‹¤. ì´ê²ƒì€ ì‚¬ëŒë“¤ì´ ì¼ì¶œê³¼ ì¼ëª°ì— ë” ì´ìƒ í° ì˜ë¯¸ë¥¼ ë‘ì§€ ì•Šì„ ê²ƒì„ì„ ì˜ë¯¸í–ˆìŠµë‹ˆë‹¤.;The introduction of gas lights meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-local_nitroglycerin_and_machine_tools;ê¸°ê³„í™”ëœ ì±„êµ´;Mechanized Mining;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_local_nitroglycerin_and_machine_tools;ì´ ì§€ì—­ì˜ ì±„êµ´ ê³¼ì •ì€ ìƒˆë¡œìš´ í­ë°œë¬¼ê³¼ í•¨ê»˜ ìƒˆë¡­ê³  ê¸°ê³„í™”ëœ ë„êµ¬ë¡œ ìˆ˜í–‰ë˜ì–´ ê´‘ì‚°ì˜ íš¨ìœ¨ì„±ê³¼ ê·œëª¨ë¥¼ ì¦ê°€ì‹œí‚µë‹ˆë‹¤.;The mining process in this province is carried out with new and mechanized tools as well as new explosives, increasing the efficiency of local mining operations and the size of mines.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-modern_sail_ships;í˜„ëŒ€ í•­í•´ì„ ;Modern Sail Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
-modern_sail_ships_desc;í•­í•´ì„  ê±´ì¡°, ì¥ë¹„ ë° ì¸ì› ë°°ì¹˜ì— í˜„ëŒ€ ê¸°ìˆ ì„ ì‚¬ìš©í•˜ë©´ ë”ìš± íš¨ê³¼ì ì´ê³  ê°•ë ¥í•œ ì„ ë°•ì´ ê°€ëŠ¥í•©ë‹ˆë‹¤.;Modern techniques of building, equipping and staffing sail ships allow for more effective and powerful ships.;;;;;;;;;;;;;;;;;;;;x,,,,,
-population_exchange_with_turkey;í„°í‚¤ ì¸êµ¬ êµí™˜;Population Exchange with Turkey;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-albania_exchange;ì•Œë°”ë‹ˆì•„ ì¸êµ¬ êµí™˜;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-bosnia_exchange;ë³´ìŠ¤ë‹ˆì•„ ì¸êµ¬ êµí™˜;Bosnia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-montenegro_exchange;ëª¬í…Œë„¤ê·¸ë¡œ ì¸êµ¬ êµí™˜;Montenegro Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-southern_serbia_exchange;ë‚¨ì„¸ë¥´ë¹„ì•„ ì¸êµ¬ êµí™˜;Southern Serbia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-macedonia_exchange;ë„ë¸Œë£¨ì ì¸êµ¬ êµí™˜;Dobrudja Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-dobrudja_exchange;ì•Œë°”ë‹ˆì•„ ì¸êµ¬ êµí™˜;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-bulgaria_exchange;ë¶ˆê°€ë¦¬ì•„ ì¸êµ¬ êµí™˜;Bulgaria Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-eastern_rumelia_exchange;ì•Œë°”ë‹ˆì•„ ì¸êµ¬ êµí™˜;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-thessalia_exchange;í…Œì‚´ë¦¬ì•„ ì¸êµ¬ êµí™˜;Thessaly Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-southern_macedonia_exchange;ë‚¨ë§ˆì¼€ë„ë‹ˆì•„ ì¸êµ¬ êµí™˜;Southern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-eastern_macedonia_exchange;ë™ë§ˆì¼€ë„ë‹ˆì•„ ì¸êµ¬ êµí™˜;Eastern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+relutanct_figher_desc;ÀÌ ³ª¶ó´Â ¾ß¸ÁÀÌ ¾ø¾î º¸ÀÌ¸ç ´Ù¸¥ ³ª¶ó¸¦ À§ÇØ ½Î¿ì´Â °ÍÀ» ²¨¸³´Ï´Ù.;This nation doesn't seems to have its own ambitions and is reluctant to fight for another country.;;;;;;;;;;;;;;;;;;;;x,,,,,
+silver_mine;Àº ±¤»ê;Silver Mine;;;;;;;;;;;;;;;;;;;;x,,,,,
+krakow_is_austrian;¿À½ºÆ®¸®¾Æ·É Å©¶óÄíÇÁ;Krakow is Austrian;;;;;;;;;;;;;;;;;;;;x,,,,,
+great_irish_famine;¾ÆÀÏ·£µå ´ë±â±Ù;Great Irish Famine;;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill;Àı¸ê ¼ö¿ë¼Ò;Extermination Camps;;;;;;;;;;;;;;;;;;;;x,,,,,
+sunni_country;¼ö´ÏÆÄ ±¹°¡;Sunni Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
+shiite_country;½Ã¾ÆÆÄ ±¹°¡;Shiite Religion;;;;;;;;;;;;;;;;;;;;;x,,,,,
+ibadi_country;ÀÌ¹ÙÆ¼ÆÄ ±¹°¡;Ibadi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+catholic_country;ÃµÁÖ±³ ±¹°¡;Catholic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+protestant_country;°³½Å±³ ±¹°¡;Protestant Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+mormon_country;¸ğ¸£¸ó±³ ±¹°¡;Mormon Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+orthodox_country;Á¤±³È¸ ±¹°¡;Orthodox Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+coptic_country;ÄßÆ®±³ ±¹°¡;Coptic Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+jewish_country;À¯´ë±³ ±¹°¡;Jewish Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+yazidi_country;¾ßÁöµğ±³ ±¹°¡;Yazidi Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+mahayana_country;´ë½ÂºÒ±³ ±¹°¡;Mahayana Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+gelugpa_country;Æ¼º£Æ®ºÒ±³ ±¹°¡;Gelugpa Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+theravada_country;¼Ò½ÂºÒ±³ ±¹°¡;Theravada Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+hindu_country;ÈùµÎ±³ ±¹°¡;Hindu Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+shinto_country;½ÅÅä ±¹°¡;Shinto Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+sikh_country;½ÃÅ©±³ ±¹°¡;Sikh Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+taiping_country;¹è»óÁ¦È¸ ±¹°¡;Taiping Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+fetishist_country;¹è¹°±³ ±¹°¡;Fetishist Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+init_country;ÀÌ´ÏÆ®±³ ±¹°¡;Init Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+jain_country;ÀÚÀÌ³ª±³ ±¹°¡;Jain Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+zoroastrian_country;Á¶·Î¾Æ½ºÅÍ±³ ±¹°¡;Zoroastrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+assyrian_country;¾Ñ¼ö¸£±³ ±¹°¡;Assyrian Religion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+animist_country;Åä¼Ó½Å¾Ó ±¹°¡;Animist Religion;;;;;;;;;;;;;;;;;;;;x,,,,,
+native_assimilation_act_policy;¿øÁÖ¹Î µ¿È­¹ı;Native Assimilation Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_assimilation_act_policy_desc;Á¤ºÎ´Â ¿øÁÖ¹ÎÀÇ µ¿È­¸¦ À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù.;The government is working towards the assimilation of the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+native_removal_act_policy;¿øÁÖ¹Î Á¦°Å¹ı;Native Removal Act;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_removal_act_policy_desc;Â÷º° Á¤Ã¥Àº ¿øÁÖ¹ÎÀ» Á¦°ÅÇÏ°í ³»ÂÑ´Â °ÍÀ» ¸ñÇ¥·Î ÇÕ´Ï´Ù.;Discriminatory policies aim to eliminate and push out the native population.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+african_integration_policy;¾ÆÇÁ¸®Ä«ÀÎ ÅëÇÕ Á¤Ã¥;African Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+native_assimilation_enacted;¿øÁÖ¹Î ÅëÇÕ Á¤Ã¥;Native Integration Policy;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_world_nation;½Å´ë·ú ±¹°¡;New World Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_healthcare_poorly_funded;Àú¿¹»ê º¸°Çº¹Áö;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_low_healthcare_poorly_funded;ÇàÁ¤ ºĞ¾ß¿¡ ´ëÇÑ Á¤ºÎ ÁöÃâ °¨¼Ò´Â ÀÇ·á Ã¼°èÀÇ ÀÚ±İ ºÎÁ·À» ÃÊ·¡ÇÕ´Ï´Ù.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_healthcare_poorly_funded;Àú¿¹»ê º¸°Çº¹Áö;Poorly Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_good_healthcare_poorly_funded;ÇàÁ¤ ºĞ¾ß¿¡ ´ëÇÑ Á¤ºÎ ÁöÃâ °¨¼Ò´Â ÀÇ·á Ã¼°èÀÇ ÀÚ±İ ºÎÁ·À» ÃÊ·¡ÇÕ´Ï´Ù.;Less government investment in administration results in a poorly funded healthcare system.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+capital_health_care;¼öµµ º¸°Çº¹Áö;Local Capital Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_trinket_health_care;ÃÖ¼ÒÇÑÀÇ º¸°Çº¹Áö;Trinket Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_low_health_care;³·Àº º¸°Çº¹Áö;Low Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_acceptable_health_care;ÃæºĞÇÑ º¸°Çº¹Áö;Acceptable Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_good_health_care;ÁÁÀº º¸°Çº¹Áö;Good Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pearl_season;ÁøÁÖ »ç³ÉÃ¶;Pearl Hunting Season;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pearl_season_desc;ÀÌ Áö¿ª ÁÖ¹ÎµéÀº ¼öÀÍ¼ºÀÌ ³ôÀº ÁøÁÖ Ã¤Ãë¿¡ Âü¿©ÇÏ°í ÀÖ½À´Ï´Ù.;The population in this province is engaging in the much profitable pearl hunting activity.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+religious_minority_oppression;¼Ò¼öÁ¾±³ Åº¾Ğ;Oppressed Religious Minorities;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+religious_minority_oppression_desc;¼Ò¼öÁ¾±³µéÀº Åº¾ĞÀ» ¹Ş°í ÀÖ½À´Ï´Ù. ÀÌ·Î ÀÎÇØ ÀÌµé Á¾±³ ½ÅÀÚµéÀÇ ºÒ¸¸µµ¿Í ÀÇ½Äµµ°¡ Á¡Á¡ ´õ ³ô¾ÆÁı´Ï´Ù.;Religious minorities are being mistreated, resulting in ever increasing militancy and consciousness of these people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+armenian_diaspora;¾Æ¸£¸Ş´Ï¾Æ µğ¾Æ½ºÆ÷¶ó;Armenian Diaspora;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+armenian_diaspora_desc;ÀÌ Áö¿ª¿¡´Â ¾Æ¸£¸Ş´Ï¾Æ µğ¾Æ½ºÆ÷¶ó¸¦ ÅëÇØ ¿Â ¼Ò¼ö ¹®È­°¡ Á¸ÀçÇÕ´Ï´Ù.;This province contains a minority population that comes from the Armenian diaspora.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+earthquake_devastation;ÁöÁø Àç¾Ó;Earthquake Devastation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+earthquake_devastation_desc;ÃÖ±Ù °­·ÂÇÑ ÁöÁøÀÌ ÀÌ Áö¿ªÀ» È²ÆóÈ­Çß½À´Ï´Ù. ÇöÀç ¼öÃµ ¸íÀÇ ÀÌÀç¹ÎÀÌ ¹ß»ıÇÏ°í ¼ö½Ê ¸íÀÇ »îÀÌ »ç¸ÁÇß½À´Ï´Ù.;A powerful earthquake has recently devastated this province, leaving thousands homeless and disrupting the lives of scores of people.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+education_fully_funded;ÈÇ¸¢ÇÑ ±³À° Á¦µµ;Excellent Education System;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+health_care_fully_funded;ÈÇ¸¢ÇÑ º¸°Çº¹Áö;Excellent Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+neglected_education;±³À° ±â±İ µµ¿Ü½Ã;Neglected Education Funding;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trinket_health_care_fully_funded;º¸°Çº¹Áö Àü¾× Áö¿ø;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_health_care_fully_funded;º¸°Çº¹Áö Àü¾× Áö¿ø;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+acceptable_health_care_fully_funded;º¸°Çº¹Áö Àü¾× Áö¿ø;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_health_care_fully_funded;º¸°Çº¹Áö Àü¾× Áö¿ø;Fully Funded Healthcare;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+low_schools_fully_funded;±³À° Àü¾× Áö¿ø;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+acceptable_schools_fully_funded;±³À° Àü¾× Áö¿ø;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+good_schools_fully_funded;±³À° Àü¾× Áö¿ø;Fully Funded Education;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rally_tribesmen;ºÎÁ·¿ø °áÁı;Rally Tribesmen;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rally_tribesmen_desc;¿ì¸® ÀÎ¹Î ÀÏºÎ´Â ¼ö¼¼±â µ¿¾È Áö¼ÓµÈ Àü»ç ¹®È­¸¦ °¡Áø À¯¸ñ¹ÎÀû »ıÈ° ¹æ½ÄÀ» ¹ö¸³´Ï´Ù. ÀÌ »ç¶÷µé¿¡°Ô ´Ù°¡°¡ ±×µéÀ» ¿ì¸®ÀÇ ´ëÀÇ¿¡ µû¸£°Ô ÇÔÀ¸·Î½á, ¿ì¸®´Â ¿ì¸®³ª¶óÀÇ ¿î¸íÀ» ¼ºÃëÇÏ±â À§ÇØ ÈÎ¾À ´õ Å« ±º´ë¸¦ ¾ç¼ºÇÒ ¼ö ÀÖ½À´Ï´Ù.;A portion of our people leave a nomadic lifestyle with bits of a centuries old warrior culture. By reaching to these people and rallying them to our cause, we can raise a much greater army to fulfill our country's destiny.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tanzimat_land_reform;¿À½º¸¸ ¿µÅä¹ı;Ottoman Land Code;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tanzimat_land_reform_desc;¿À½º¸¸ ¿µÅä¹ıÀº ¿À½º¸¸ Á¦±¹ÀÇ ÅºÀÚ¸¶Æ® ±â°£ µ¿¾ÈÀÇ Ã¼°èÀûÀÎ ÅäÁö°³Çõ °èÈ¹ÀÇ ½ÃÀÛÀÌ¾ú½À´Ï´Ù. ±× ¹ı·üÀÇ ÀÌ¸é¿¡ ÀÖ´Â ÀÌÀ¯´Â µÎ °¡Áö¿´½À´Ï´Ù. 1. ¼¼¼ö¸¦ ´Ã¸®°í 2. ÇØ´ç Áö¿ª¿¡ ´ëÇÑ ±¹°¡ÀÇ ÅëÁ¦¸¦ °­È­ÇÏ±â À§ÇÔ.;The Ottoman Land Code was the beginning of a systematic land reform program during the Tanzimat period of the Ottoman Empire. The reasons behind the law were twofold. (1) to increase tax revenue, and (2) to exercise greater state control over the area.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+war_economy_ships;ºñ»ó¼± °ÇÃà;Emergency Ship Building;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+preparing_for_war;ÀüÀï ÁØºñ;Preparing for War;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+preparing_for_war_desc;ºÏºÎ¿ÍÀÇ ÀüÀïÀº ºÒ°¡ÇÇÇÏ¸ç ¿ì¸®´Â ÀÌ¿¡ ´ëºñÇØ¾ß ÇÕ´Ï´Ù.;War with the North is inevitable and we must be ready for it.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+missionary_activity;¼±±³ È°µ¿;Missionary Activity;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+missionary_activity_desc;¿ì¸®³ª¶ó¿¡¼­ ÇØ¿Ü ¼±±³»çµéÀÌ È°µ¿ÇÏ°í ÀÖ½À´Ï´Ù.;Foreign missionaries are active in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+exploiting_the_land;Å½Çè;Exploiting the Land;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_exploiting_the_land;¿ÕÀÚÀÇ ½Ã´ë(Zemene Mesafint)´Â Èûµé°í À§ÇèÇÑ ½Ã´ëÀÔ´Ï´Ù. ±×·¡¼­ ¸ğµç ÅëÄ¡ÀÚµéÀº ºñ¿ëÀ» ÁÙÀÌ°í °¡´ÉÇÑ ÇÑ ÁÖ¹Îµé·ÎºÎÅÍ ¸¹Àº µ·À» °¡Á®°¡¾ß ÇÕ´Ï´Ù.The time of the Zemene Mesafint is an arduous and perilous time, so all rulers are required to cut costs and take as much money from their population as they can.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+small_immigration_boom;ÀÌ¹Î ºÕ;Immigration Boom;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_small_immigration_boom;ÀÌ Áö¹æÀº »çÈ¸,°æÁ¦Àû ¿©°Ç ¶§¹®¿¡ ÀÌ¹Î ºÕÀ» °Ş°í ÀÖ½À´Ï´Ù.;Due to favorable socio-economical conditions, this province is experiencing an immigration boom.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+disunited_country;ºĞ¿­µÈ ±¹°¡;Disunited Country;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+disunited_country_desc;±º¹ú, Áö¿ªÁÖÀÇ¿Í ¹ü¹ıÀÚµéÀº ¿ì¸® ³ª¶ó¸¦ ºĞ¿­½ÃÅ°·Á À§ÇùÇÕ´Ï´Ù. ¿ì¸®ÀÇ ÀÎ·Â°ú Á¤ºÎÀÇ ³ë·Â Áß »ó´ç ºÎºĞÀº ¿À·ÎÁö ¿ì¸®³ª¶ó¸¦ À¯ÁöÇÏ±â À§ÇÑ °ÍÀÔ´Ï´Ù. ¿ì¸® Áö¹èÀÚ´Â ¹İÇ×ÀûÀÎ ±º¹ú¿¡ ±º»ç ÀÛÀüÀ» ÀÚÁÖ ¹úÀÔ´Ï´Ù.Warlords, regionalism and outlaws threaten to rip our country apart. A good part of our manpower and government efforts are directed exclusively to maintain our country together. Our ruler is frequently in campaign against rebellious warlords.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tewodros_reforms;Ä«»ç ÇÏÀÏ·ç;Kassa Hailu;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tewodros_reforms_desc;¿ì¸®ÀÇ Çö Áö¹èÀÚÀÎ Ä«»ç ÇÏÀÏ·ç´Â ÃÖ±Ù °¡Àå ÈÇ¸¢ÇÑ Àü·«°¡ÀÔ´Ï´Ù. ±×·¯³ª ±×´Â ¶ÇÇÑ º¯´ö½º·¯¿îµ¥´Ù ¹ü¹ıÀÚ¿´°í, ÀÌ´Â ´Ù¸¥ »ç¶÷µéÀÇ ´«¿¡ ¿ì¸®³ª¶ó¸¦ ³·Ãß¾ú½À´Ï´Ù.;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+colonial_museum_of_natural_history;ÀÚ¿¬ ¿ª»ç ¹Ú¹°°ü;Museum of Natural History;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+colonial_museum_of_natural_history_desc;¿ì¸® ³ª¶ó¿¡ ÀÚ¿¬ ¿ª»ç ¹Ú¹°°üÀÌ ¼¼¿öÁ³½À´Ï´Ù.;A Museum of Natural History has been established in our country.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+plantation;Áı¾à ³ó¾÷°ú ±¤»ê;Plantations and Mines;;;;;;;;;;;;;;;;;;x,,,,,
+serial_killer;¸¶À½´ë·Î µ¹¾Æ´Ù´Ï´Â ¿¬¼â»ìÀÎ¹ü;Serial Killer On The Loose;;;;;;;;;;;;;;;;;;x,,,,,
+desc_serial_killer;ÇÑ ¹ÌÄ¡±¤ÀÌ°¡ ÀÌ Áö¿ª¿¡¼­ ¹ÌÄ£ µíÀÌ ²ûÂïÇÑ »ìÀÎÀ» ÀúÁö¸£°í ÀÖ½À´Ï´Ù. ´ÙÀ½Àº ´©±¸ÀÏ±î¿ä?;A degenerate is committing insane and gruesome murders in the area. Who's gonna be next?;;;;;;;;;;;;;;;;;;x,,,,,
+silver_age;¹éÀº½Ã´ë;A Silver Age;;;;;;;;;;;;;;;;;;x,,,,,
+silver_age_desc;¿ì¸®ÀÇ ÈÇ¸¢ÇÑ ÁöµµÀÚ´Â ¿ì¸®¸¦ ´õ ³ªÀº ³»ÀÏ·Î ÀÎµµÇÒ °ÍÀÔ´Ï´Ù.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;x,,,,,
+pancasila;ÆÇÂ÷½Ç¶ó;Pancasila;;;;;;;;;;;;;;;;;;x,,,,,
+pancasila_desc;ÀÎµµ³×½Ã¾Æ´Â ´Ü°áÇØ¾ß ÇÕ´Ï´Ù! °øµ¿ÀÇ Áöµµ·Â ÇÏ¿¡¼­´Â ¾î¶² °Íµµ ¿ì¸®¸¦ ¸·À» ¼ö ¾ø½À´Ï´Ù.Indonesia must stand united! Under a common leadership, nothing will stop us.;;;;;;;;;;;;;;;;;;x,,,,,
+bazaari_strike;ÀÌ¶õÀÎ »óÀÎ ÆÄ¾÷;Bazaari strike;;;;;;;;;;;;;;;;;;x,,,,,
+bazaari_strike_desc;¿ì¸® »óÀÎµéÀº ¸ğµç È°µ¿À» Áß´ÜÇß½À´Ï´Ù. °æÁ¦°¡ Å« Å¸°İÀ» ¹Ş°í ÀÖ½À´Ï´Ù.;Our merchant elites shut down all activities. The economy is taking a heavy blow.;;;;;;;;;;;;;;;;;;x,,,,,
+exemplary_troops;¸ğ¹ü±º;Exemplary troops;;;;;;;;;;;;;;;;;;x,,,,,
+exemplary_troops_desc;±×µéÀÇ Àç´É È¤Àº ´Ü¼øÇÑ Á¸Àç·Î ÀÎÇØ, ¿ì¸®ÀÇ ¿¤¸®Æ® ºÎ´ë´Â Àû¿¡°Ô ±â°üÃÑÀ» ÀåÀüÇÏ´Â µ¥ ÇÊ¿äÇÑ »ç±â°¡ »ı°åÀ½À» ½Ã»çÇÕ´Ï´Ù.;By their feats or even by their mere being, our elite troops inspire the most basic ruffians, giving them the morale needed to charge a firing machine gun.;;;;;;;;;;;;;;;;;;x,,,,,
+submarine_warfare;Àá¼öÇÔ °æÀï;Submarine warfare;;;;;;;;;;;;;;;;;;x,,,,,
+submarine_warfare_desc;¿ì¸®´Â ÇØ±ºÀÇ ±â¼ú Çõ½ÅÀ» ÀÌ²ø¾î ÀûÀÇ ½ÉÀåºÎ¿¡ °øÆ÷¸¦ ºÒ¾î³Ö°í ÀÖ½À´Ï´Ù.;We are leading innovation in naval technology and instilling fear in the heart of our enemies!;;;;;;;;;;;;;;;;;;x,,,,,
+rancho;Ä¶¸®Æ÷´Ï¾Æ ¿ÀµÎ¸·Áı;Rancho California;;;;;;;;;;;;;;;;;;x,,,,,
+rancho_desc;¿ì¸®ÀÇ ÈÄÇÑ ±âºÎ±İ°ú ÅäÁö º¸Á¶±İÀº ±× Áö¿ªÀÇ ÀÎ±¸°¡ µ¶Æ¯ÇÑ »ıÈ° ¹æ½ÄÀ» °®°Ô ÇÕ´Ï´Ù.;Our generous donations and land grants allow for a quick population of the area, leading to an unique life-style.;;;;;;;;;;;;;;;;;;x,,,,,
+reading;µ¶¼­;Reading;;;;;;;;;;;;;;;;;;x,,,,,
+reading_desc;À§´ëÇÑ ¹®ÇĞ ÀÛÇ°µéÀÌ »ç¶÷µé¿¡°Ô µ¶¼­ÀÇ ¿µ°¨À» ºÒ¾î³Ö¾ú½À´Ï´Ù. ´ëÁßÀº ±³À°À» ¹ŞÀ»Áöµµ ¸ğ¸¨´Ï´Ù... ²ûÂïÇÏ±º¿ä!A great work of literature inspired the people to read. The masses may become educated... The horror!;;;;;;;;;;;;;;;;;;x,,,,,
+hague_convention;¸¸±¹ÆòÈ­È¸ÀÇ ºñÁØ;Ratified Hague Convention;;;;;;;;;;;;;;;;;;x,,,,,
+hague_convention_desc;¿ì¸®´Â ¼¼°èÀÇ ÆòÈ­¿Í ¾ÈÁ¤ÀÇ ½Ã´ë·Î ³ª¾Æ°¡±â À§ÇØ ¸¸±¹ÆòÈ­È¸ÀÇ¿¡ ¼­¸íÇß½À´Ï´Ù.;We have signed the Hague Convention to further an era of peace and stability in the world.;;;;;;;;;;;;;;;;;;x,,,,,
+camillo_cavour;Ä«¹Ğ·Î Ä«º¸¿ì¸£;Camillo Cavour;;;;;;;;;;;;;;;;;;x,,,,,
+camillo_cavour_desc;ÈÇ¸¢ÇÑ Àå°üÀÌ ¿Ã¹Ù¸¥ ¹æ¹ıÀ¸·Î ¿ì¸®³ª¶ó¸¦ ÀÌ²ø°í ÀÖ½À´Ï´Ù. Çö´ë´Â ÀÌÁ¦ ¿ì¸® ¹®ÅÎ±îÁö ¿Ô½À´Ï´Ù. ¸¸¼¼!;Our excellent minister is leading our nation in the right way. Modernity is now at our doorstep. Huzzah!;;;;;;;;;;;;;;;;;;x,,,,,
+small_baby_boom;³ôÀº Ãâ»ı·ü;Baby Boom;;;;;;;;;;;;;;;;;;;;;;;;x
+dust_bowl;°ÇÁ¶ Áö´ë;Dust Bowl;;;;;;;;;;;;;;;;;;;;;;;;x
+emigrant_aid_company;ÀÌ¹ÎÁö¿øÈ¸»ç;Emigrant Aid Company;;;;;;;;;;;;;;;;;;;;;;;;x
+bleeding_state;ÃâÇ÷ »óÅÂ;Bleeding State;;;;;;;;;;;;;;;;;;;;;;;;x
+free_staters_national;ÀÚÀ¯ ÀÌÁÖ ±İÁö;Free Staters Prohibition;;;;;;;;;;;;;;;;;;;;;;;;x
+free_staters_national_desc;¸î¸î ÀÚÀ¯·Î¿î ¼ºÇâÀÇ Á¤Âø¹Î ¸î ¸íÀÌ ´Ù¸¥ ÁÖ·ÎÀÇ ÀÌÁÖ°¡ ±İÁöµÇ¿© ´ëÁßÀÇ ¼Òµ¿À» ÀÏÀ¸Ä×½À´Ï´Ù.;A few free staters settlers were prohibited from migrating to another state, generating a public commotion.;;;;;;;;;;;;;;;;;;;;;;;;x
+copperhead_democrats_national;³ë¿¹Á¦ Á¸Ä¡ Åä·Ğ;Copperhead Democrats;;;;;;;;;;;;;;;;;;;;;;;;x
+copperhead_democrats_national_desc;³ë¿¹Á¦ ÆóÁö·ĞÀÚµé°ú ³²ºÎÀÇ Ä£³ë¿¹Á¦ ´ÜÃ¼µéÀÌ ³ë¿¹Á¦ÀÇ ¹Ì·¡¿¡ ´ëÇØ Åä·ĞÇÏ°í ÀÖ½À´Ï´Ù.;Abolitionist democrats and southern pro-slavery groups are debating the future of slavery in our nation.;;;;;;;;;;;;;;;;;;;;;;;;x
+underground_railroad_shutdown;ÁöÇÏÃ¶µµ Æó¼â;Underground Railroad Shutdown;;;;;;;;;;;;;;;;;;;;;;;;x
+underground_railroad_shutdown_desc;¿ì¸®³ª¶óÀÇ ¸î¸î ÁöÇÏÃ¶µµ°¡ Æó¼âµÇ¾ú½À´Ï´Ù. ÀÌ ÇàÀ§´Â ¹Ì±¹ÀÎµéÀ» ±â¾ï ¼Ó¿¡ ½Å¼±ÇÕ´Ï´Ù.;A few underground railroads in our nation were shut down and this act is fresh in the memory of the American people.;;;;;;;;;;;;;;;;;;;;;;;;x
+fugitive_slave;µµÁÖ ³ë¿¹;Fugitive Slave;;;;;;;;;;;;;;;;;;;;;;;;x
+fugitive_slave_desc;µµÁÖ ³ë¿¹¿¡ °üÇÑ ÃÖ±ÙÀÇ °áÁ¤Àº ¾ÆÁ÷µµ ¿ì¸® ±¹¹Îµé ³ú¸®¿¡¼­ ÀØÈ÷Áö ¾Ê°í ÀÖ½À´Ï´Ù.;A recent decision regarding a fugitive slave is still fresh in the memory of our people.;;;;;;;;;;;;;;;;;;;;;;;;x
+abolitionist_pamphlets;ÆóÁö·ĞÀÚÀÇ ¼ÒÃ¥ÀÚ;Abolitionist Pamphlets;;;;;;;;;;;;;;;;;;;;;;;;x
+slave_market;³ë¿¹ ½ÃÀå;Slave Market;;;;;;;;;;;;;;;;;;;;;;;;x
+drinking_gourd;ºÏµÎÄ¥¼º;Drinking Gourd;;;;;;;;;;;;;;;;;;;;;;;;x
+fire_eaters;ºÒÀ» ¸Ô´Â ÀÚ;Fire-Eaters;;;;;;;;;;;;;;;;;;;;;;;;x
+yankee_doodle;¾çÅ° µÎµé;Yankee Doodle;;;;;;;;;;;;;;;;;;;;;;;x
+wish_I_was_dixie;µñ½ÃÀÇ Á¤Ã¼¼º;Dixie Identity;;;;;;;;;;;;;;;;;;;;;;;x
+southern_manorialism;³²ºÎÀÇ Àå¿øÁ¦µµ;Southern Manorialism;;;;;;;;;;;;;;;;;;;;;;;x
+southern_pride;³²ºÎÀÇ ÀÚÁ¸½É;Southern Pride;;;;;;;;;;;;;;;;;;;;;;;x
+desc_southern_pride;µñ½ÃµéÀº ±×µéÀÇ ¶¥°ú ¿©¼ºµéÀÇ ¾Æ¸§´Ù¿òÀ» ÀÚ¶û½º·¯¿öÇÏ´Â ±àÁö ³ôÀº »ç¶÷µéÀÔ´Ï´Ù.;The dixies are a proud people, proud of their land and proud of the beauty of their women.;;;;;;;;;;;;;;;;;;;;;;;x
+enclosures;ÀÎÅ¬·ÎÀú;Enclosures;;;;;;;;;;;;;;;;;;;;;;;x
+desc_enclosures;ÀÎÅ¬·ÎÀú, Áï ¿ïÅ¸¸® µÎ¸£±â¶õ ´ë³óÀåÀ» ¸¸µé±â À§ÇØ ³²ÀÇ ¼Ò±Ô¸ğ ÅäÁöµéÀ» ÅëÇÕÇÏ´Â ¹ıÀû ÀıÂ÷¸¦ ¸»ÇÕ´Ï´Ù.;The legal process of enclosing a number of small landholdings to create one larger farm. Once enclosed, use of the land became restricted to the owner, and it ceased to be common land for communal use.;;;;;;;;;;;;;;;;;;;;;;;x
+haussmanns_renovations;Á¶¸£ÁÖ¿ÜÁ¨ ¿À½º¸¸ÀÇ Çõ½Å;Haussmann's Renovations;;;;;;;;;;;;;;;;;;;;;;;x
+desc_haussmanns_renovations;Á¶¸£ÁÖ¿ÜÁ¨ ¿À½º¸¸ÀÌ ±âÈ¹ÇÑ ÆÄ¸® °³Á¶¿¡´Â È¥ÀâÇÏ°í °Ç°­¿¡ ÇØ·Î¿î Áß¼¼Ç³ °Ç¹° Ã¶°Å, µµ·Î È®Àå, °ø¿ø°ú ±¤ÀåÀÇ °Ç¼³, ÆÄ¸®¸¦ µÑ·¯½Ñ ±³¿ÜÀÇ ÇÕº´, ÇÏ¼ö±¸ ½Å¼³, ºĞ¼ö´ë¿Í ¼ö·ÎÀÇ °Ç¼³ÀÌ Æ÷ÇÔµÇ¾î ÀÖ¾ú½À´Ï´Ù.;The Haussmann's renovations, envisioned by Georges-Eugene Haussmann, included the demolition of crowded and unhealthy medieval neighborhoods, the building of wide avenues, parks and squares, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts.;;;;;;;;;;;;;;;;;;;;;;;x
+foreign_claims;´Ù¸¥ ±¹°¡ÀÇ ¿µÀ¯±Ç ÁÖÀå;Foreign Claims;;;;;;;;;;;;;;;;;;;;;;;x
+foreign_claims_desc;´Ù¸¥ ±¹°¡°¡ ÀÌ Áö¿ª¿¡ ¿µÀ¯±ÇÀ» ÁÖÀåÇÏ°í ÀÖ½À´Ï´Ù;Another nation is claiming this province, a claim that they will lose soon enough.;;;;;;;;;;;;;;;;;;;;;;;x
+IS_IN_DEFAULT_TO;ÀÌ ±¹°¡´Â Ã¤¹«ºÒÀÌÇà »óÅÂÀÔ´Ï´Ù.;Is in default to this country.;;;;;;;;;;;;;;;;;;;;;;;x
+IS_NOT_IN_DEFAULT_TO;ÀÌ ±¹°¡´Â Ã¤¹«ºÒÀÌÇà »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.;Is not in default to this country.;;;;;;;;;;;;;;;;;;;;;;x
+warship_commissioned;ÀüÇÔ Á¦°ø;Warship Delivered;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+warship_commissioned_desc;»õ·Î¿î ¿Ü±¹ ÀüÇÔÀÇ °Ç¼³, ÀÎµµ ¶Ç´Â ¼öÃë´Â º¹ÀâÇÑ ¹®Á¦ÀÔ´Ï´Ù. ¼±¿øµéÀº ±³À°À» ¹Ş¾Æ¾ß ÇÏ°í, Àå±³µéÀº ±³À°À» ¹Ş¾Æ¾ß ÇÏ¸ç, °ü·áÀûÀÎ ¼­·ù ÀÛ¾÷ÀÌ ÀÌ·ç¾îÁ®¾ß ÇÕ´Ï´Ù. ¶§¹®¿¡ ¿ì¸®°¡ ÀÌ ¹®Á¦¿¡ ´Ù½Ã Âü¿©ÇÏ±â À§ÇØ¼­´Â ½Ã°£ÀÌ ÇÊ¿äÇÕ´Ï´Ù.;Constructing, delivering or receiving a new, foreign warship is a complicated matter. Sailors need to be trained, officers instructed and the bureaucratic paperwork needs to be done. Because of that, it will take some time for us to be able to get involved in matters like this again.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ironclad_commision;Ã¶°©ÇÔ ÀÇ·Ú;Iron Clad Commissions;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sino_portuguese_treaty_of_peking_signataire;º£ÀÌÂ¡ Á¶¾à ¼­¸í±¹;Signatory of the Treaty of Peking;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_distribution_channels_und_electricity;¼Ò¸Å»ó ¹× Àü±â Á¶¸í;Commercial Retailers and Electrical Lighting;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_local_distribution_channels_und_electricity;ÀÌ Áö¿ª¿¡¼­´Â »õ·Ó°í È¿À²ÀûÀÎ »óÇ° ÆÇ¸Å ¹× ÀçÆÇ¸Å¸¦ À§ÇÑ ¹æ½Ä°ú ±¸Á¶°¡ ±¸ÇöµÇ¾ú½À´Ï´Ù. ³ó¹ÎµéÀÌ ÀÚ½ÅÀÇ ¹ç°ú ÀüµîÀ» ÀÚÀ¯·Ó°Ô »ç¿ëÇÒ ¼ö ÀÖ°Ô µÇ¾ú°í, ±Ù·ÎÀÚµéµµ »õ·Ó°í ¹àÀº È¯°æ¿¡¼­ ÀÏÇÏ°Ô µÇ¾î ¸ğµç Áö¿ª »ı»êÀÇ È¿À²¼ºÀ» Áõ´ë½ÃÄ×½À´Ï´Ù.;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields and electrical lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;;;;;;;;;;;;;;;;;;;;x;;;;
+freedom_of_religion;Á¾±³ÀÇ ÀÚÀ¯;Freedom of Religion;;;;;;;;;;;;;;;;;;;x;;;;
+freedom_of_religion_desc;¿ì¸®³ª¶ó¿¡¼­´Â ±× ´©±¸µµ Á¾±³¸¦ °­¿ä¹ŞÁö ¾ÊÀ¸¸ç, ¼Ò¼ö Á¾±³´Â º¸È£¸¦ ¹Ş½À´Ï´Ù.;No one is forced or coerced into following any religion in our country, religious minorities have a protected status.;;;;;;;;;;;;;;;;;;;x;;;;
+repatriation;¼ÛÈ¯;Repatriation;;;;;;;;;;;;;;;;;;;x;;;;
+desc_repatriation;³­¹Î Ä·ÇÁ, ÀÎ±¸ ±³È¯, ´ë·® Ãß¹æ. ÀÌÀ¯°¡ ¾î¶»µç °£¿¡ ¿ì¸®´Â º»±¹À¸·Î ¼ÛÈ¯ÇÒ »ç¶÷µéÀÌ ¸¹½À´Ï´Ù. ¶§¹®¿¡ ±×µéÀ» À§ÇØ ´õ ¸¹Àº °ø°£À» È®º¸ÇÏ°í ÀÖ½À´Ï´Ù.Refugee Camps, population exchanges, mass expulsions. Whatever the reason, we have lots of people to repatriate and because of that we are making more space for them.;;;;;;;;;;;;;;;;;;;x;;;;
+gaslights;°¡½ºµî;Gas Lights;;;;;;;;;;;;;;;;;;;x;;;;
+gaslights_desc;°¡½ºµîÀÇ µµÀÔÀ¸·Î ÀÛÀº ¹æÀÌ³ª °øÀå ¹Ù´Ú°ú °°Àº °÷À» ¹àÈú ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù. ÀÌ°ÍÀº »ç¶÷µéÀÌ ÀÏÃâ°ú ÀÏ¸ô¿¡ ´õ ÀÌ»ó Å« ÀÇ¹Ì¸¦ µÎÁö ¾ÊÀ» °ÍÀÓÀ» ÀÇ¹ÌÇß½À´Ï´Ù.;The introduction of gas lights meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+local_nitroglycerin_and_machine_tools;±â°èÈ­µÈ Ã¤±¼;Mechanized Mining;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_local_nitroglycerin_and_machine_tools;ÀÌ Áö¿ªÀÇ Ã¤±¼ °úÁ¤Àº »õ·Î¿î Æø¹ß¹°°ú ÇÔ²² »õ·Ó°í ±â°èÈ­µÈ µµ±¸·Î ¼öÇàµÇ¾î ±¤»êÀÇ È¿À²¼º°ú ±Ô¸ğ¸¦ Áõ°¡½ÃÅµ´Ï´Ù.;The mining process in this province is carried out with new and mechanized tools as well as new explosives, increasing the efficiency of local mining operations and the size of mines.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+modern_sail_ships;Çö´ë Ç×ÇØ¼±;Modern Sail Ships;;;;;;;;;;;;;;;;;;;;x,,,,,
+modern_sail_ships_desc;Ç×ÇØ¼± °ÇÁ¶, Àåºñ ¹× ÀÎ¿ø ¹èÄ¡¿¡ Çö´ë ±â¼úÀ» »ç¿ëÇÏ¸é ´õ¿í È¿°úÀûÀÌ°í °­·ÂÇÑ ¼±¹ÚÀÌ °¡´ÉÇÕ´Ï´Ù.;Modern techniques of building, equipping and staffing sail ships allow for more effective and powerful ships.;;;;;;;;;;;;;;;;;;;;x,,,,,
+population_exchange_with_turkey;ÅÍÅ° ÀÎ±¸ ±³È¯;Population Exchange with Turkey;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+albania_exchange;¾Ë¹Ù´Ï¾Æ ÀÎ±¸ ±³È¯;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bosnia_exchange;º¸½º´Ï¾Æ ÀÎ±¸ ±³È¯;Bosnia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+montenegro_exchange;¸óÅ×³×±×·Î ÀÎ±¸ ±³È¯;Montenegro Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+southern_serbia_exchange;³²¼¼¸£ºñ¾Æ ÀÎ±¸ ±³È¯;Southern Serbia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+macedonia_exchange;µµºê·çÀÚ ÀÎ±¸ ±³È¯;Dobrudja Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+dobrudja_exchange;¾Ë¹Ù´Ï¾Æ ÀÎ±¸ ±³È¯;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+bulgaria_exchange;ºÒ°¡¸®¾Æ ÀÎ±¸ ±³È¯;Bulgaria Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+eastern_rumelia_exchange;¾Ë¹Ù´Ï¾Æ ÀÎ±¸ ±³È¯;Albania Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+thessalia_exchange;Å×»ì¸®¾Æ ÀÎ±¸ ±³È¯;Thessaly Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+southern_macedonia_exchange;³²¸¶ÄÉµµ´Ï¾Æ ÀÎ±¸ ±³È¯;Southern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+eastern_macedonia_exchange;µ¿¸¶ÄÉµµ´Ï¾Æ ÀÎ±¸ ±³È¯;Eastern Macedonia Exchange;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ##################################################;;;;;;;;;;;;;;x;;;;
 # Crime;;;;;;;;;;;;;;x;;;;
 ##################################################;;;;;;;;;;;;;;x;;;;
-machine_politics;ì •ì¹˜ ê¸°êµ¬;Political Machine;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_machine_politics;ì •ì¹˜ ê¸°êµ¬ë€ ì‹œë‚˜ êµ° ë˜ëŠ” ì£¼ì˜ ì •ì¹˜ì , í–‰ì •ì  í†µì œë¥¼ ìœ ì§€í•˜ê¸°ì— í‰ë¶„í•œ í‘œë¥¼ ì–»ëŠ” ë‹¨ì¼ ìš°ë‘ë¨¸ë¦¬ë‚˜ ì†Œê·œëª¨ ë…ì¬ë‹¨ì²´ê°€ ì´ë„ëŠ” ì •ë‹¹ ì¡°ì§ì…ë‹ˆë‹¤. ì´ ì²´ì œ í•˜ì—ì„œëŠ” ê³µë¬´ì› ì„ëª…ì„ ë‡Œë¬¼ ìˆ˜ë‹¨ìœ¼ë¡œ ì´ìš©í•˜ëŠ” ê²ƒì´ ì¼ë°˜ì ì…ë‹ˆë‹¤.;Political Machines are a party organization, headed by a single boss or small autocratic group, that commands enough votes to maintain political and administrative control of a city, county, or state. It is in essence the bribery of mainly minorities by politicians using their influence. It is common to use the appointment for government jobs as a means of bribery within this system.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-spoil_system;ì—½ê´€ì œ;Spoils System;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_spoil_system;ì—½ê´€ì œ(í›„ì›ì œë¼ê³ ë„ í•¨)ëŠ” ì„ ê±°ì—ì„œ ë‹¹ì„ ëœ í›„ ì •ì¹˜ í™œë™ê³¼ ë¬´ê´€í•œ ì²™ë„ì— ê·¼ê±°í•œ ì‹¤ì ì œë¥¼ ë¬´ì‹œí•˜ê³  ì§€ì§€ì, ì¹œêµ¬, ì¹œì²™ì—ê²Œ ì •ë¶€ ê´€ì§ì„ ì£¼ëŠ” í–‰ìœ„ì…ë‹ˆë‹¤.;The spoils system (also known as a patronage system) is a practice in which a political party, after winning an election, gives government jobs to its supporters, friends and relatives as a reward for working toward victory, and as an incentive to keep working for the party ?as opposed to a merit system, where offices are awarded on the basis of some measure of merit, independent of political activity.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-instigators;ì •ì¹˜ ì„ ë™ê°€;Political Instigators;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_instigators;í•œ ì§€ì—­ì˜ ë²”ì£„ë‹¨ì²´ë“¤ì´ ê³¼ë„í•˜ê²Œ í™•ì¥ëœë‹¤ë©´ ì„ ë™ìë“¤ì€ ë¯¸ì³ë‚ ë›¸ ê²ƒì…ë‹ˆë‹¤. ì¢…êµ­ì—” í™•ë¦½ëœ ì§ˆì„œì— ì•…ì˜í–¥ì„ ì¤„ ì •ë„ë¡œ ë§ì€ ê´€ì‹¬ê³¼ ì§€ì›ì„ ë°›ì„ ê²ƒì…ë‹ˆë‹¤.;If the crime fighting institutions in a province became overstretched, instigators would run amok and eventually gather sufficient attention and support to cause an impact in the established order.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-kleptocrats;ë„ë‘‘ ì •ì¹˜;Kleptocrats;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_kleptocrats;ë„ë‘‘ ì •ì¹˜ëŠ” ê³µì§ìë‚˜ ì§€ë°°ê³„ê¸‰ì´ íŠ¹íˆ ì‹¬ê°í•˜ê³  ì²´ê³„ì ì¸ ë¬¸ì œë¥¼ ì•ˆê³  ìˆëŠ” ì •ë¶€ì— ì ìš©ë˜ëŠ” ìš©ì–´ì…ë‹ˆë‹¤. ì™¸ë¶€ ê°ì‹œê°€ ë¶ˆê°€ëŠ¥í•˜ê±°ë‚˜ ì¡´ì¬í•˜ì§€ ì•ŠëŠ” ë‚˜ë¼ì— ì œëŒ€ë¡œ ëœ í†µì œ ê¸°ê´€ì´ ì—†ëŠ” ê²ƒì€ ê´€ë£Œë“¤ì´ ë„ë‘‘ ì •ì¹˜ì¸ì´ ë  ìˆ˜ ìˆìŒì„ ì˜ë¯¸í•©ë‹ˆë‹¤.;Kleptocracy is a term applied to a government seen as having a particularly severe and systemic problem with officials or a ruling class (collectively, kleptocrats) taking advantage of corruption to extend their personal wealth and political power. Typically this system involves the embezzlement of state funds at the expense of the wider population, sometimes without even the pretense of honest service. Lacking sufficient control institutions in a country where external oversight is impossible or does not exist can mean that the bureaucrats would become kleptocrats.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+machine_politics;Á¤Ä¡ ±â±¸;Political Machine;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_machine_politics;Á¤Ä¡ ±â±¸¶õ ½Ã³ª ±º ¶Ç´Â ÁÖÀÇ Á¤Ä¡Àû, ÇàÁ¤Àû ÅëÁ¦¸¦ À¯ÁöÇÏ±â¿¡ ÅüºĞÇÑ Ç¥¸¦ ¾ò´Â ´ÜÀÏ ¿ìµÎ¸Ó¸®³ª ¼Ò±Ô¸ğ µ¶Àç´ÜÃ¼°¡ ÀÌ²ô´Â Á¤´ç Á¶Á÷ÀÔ´Ï´Ù. ÀÌ Ã¼Á¦ ÇÏ¿¡¼­´Â °ø¹«¿ø ÀÓ¸íÀ» ³ú¹° ¼ö´ÜÀ¸·Î ÀÌ¿ëÇÏ´Â °ÍÀÌ ÀÏ¹İÀûÀÔ´Ï´Ù.;Political Machines are a party organization, headed by a single boss or small autocratic group, that commands enough votes to maintain political and administrative control of a city, county, or state. It is in essence the bribery of mainly minorities by politicians using their influence. It is common to use the appointment for government jobs as a means of bribery within this system.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+spoil_system;¿±°üÁ¦;Spoils System;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_spoil_system;¿±°üÁ¦(ÈÄ¿øÁ¦¶ó°íµµ ÇÔ)´Â ¼±°Å¿¡¼­ ´ç¼±µÈ ÈÄ Á¤Ä¡ È°µ¿°ú ¹«°üÇÑ Ã´µµ¿¡ ±Ù°ÅÇÑ ½ÇÀûÁ¦¸¦ ¹«½ÃÇÏ°í ÁöÁöÀÚ, Ä£±¸, Ä£Ã´¿¡°Ô Á¤ºÎ °üÁ÷À» ÁÖ´Â ÇàÀ§ÀÔ´Ï´Ù.;The spoils system (also known as a patronage system) is a practice in which a political party, after winning an election, gives government jobs to its supporters, friends and relatives as a reward for working toward victory, and as an incentive to keep working for the party ?as opposed to a merit system, where offices are awarded on the basis of some measure of merit, independent of political activity.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+instigators;Á¤Ä¡ ¼±µ¿°¡;Political Instigators;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_instigators;ÇÑ Áö¿ªÀÇ ¹üÁË´ÜÃ¼µéÀÌ °úµµÇÏ°Ô È®ÀåµÈ´Ù¸é ¼±µ¿ÀÚµéÀº ¹ÌÃÄ³¯¶Û °ÍÀÔ´Ï´Ù. Á¾±¹¿£ È®¸³µÈ Áú¼­¿¡ ¾Ç¿µÇâÀ» ÁÙ Á¤µµ·Î ¸¹Àº °ü½É°ú Áö¿øÀ» ¹ŞÀ» °ÍÀÔ´Ï´Ù.;If the crime fighting institutions in a province became overstretched, instigators would run amok and eventually gather sufficient attention and support to cause an impact in the established order.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+kleptocrats;µµµÏ Á¤Ä¡;Kleptocrats;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_kleptocrats;µµµÏ Á¤Ä¡´Â °øÁ÷ÀÚ³ª Áö¹è°è±ŞÀÌ Æ¯È÷ ½É°¢ÇÏ°í Ã¼°èÀûÀÎ ¹®Á¦¸¦ ¾È°í ÀÖ´Â Á¤ºÎ¿¡ Àû¿ëµÇ´Â ¿ë¾îÀÔ´Ï´Ù. ¿ÜºÎ °¨½Ã°¡ ºÒ°¡´ÉÇÏ°Å³ª Á¸ÀçÇÏÁö ¾Ê´Â ³ª¶ó¿¡ Á¦´ë·Î µÈ ÅëÁ¦ ±â°üÀÌ ¾ø´Â °ÍÀº °ü·áµéÀÌ µµµÏ Á¤Ä¡ÀÎÀÌ µÉ ¼ö ÀÖÀ½À» ÀÇ¹ÌÇÕ´Ï´Ù.;Kleptocracy is a term applied to a government seen as having a particularly severe and systemic problem with officials or a ruling class (collectively, kleptocrats) taking advantage of corruption to extend their personal wealth and political power. Typically this system involves the embezzlement of state funds at the expense of the wider population, sometimes without even the pretense of honest service. Lacking sufficient control institutions in a country where external oversight is impossible or does not exist can mean that the bureaucrats would become kleptocrats.;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ##################################################;;;;;;;;;;;;;;x;;;;
 # General Modifiers;;;;;;;;;;;;;;x;;;;
 ##################################################;;;;;;;;;;;;;;x;;;;
-international_zone_modifier;êµ­ì œì§€êµ¬;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-international_zone_modifier_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” êµ­ì œ ì§€êµ¬ë¡œ, ë¬´ì—­ê³¼ ìƒì—…ì˜ ì¤‘ì‹¬ì§€, ê·¸ë¦¬ê³  ì™¸êµ­ì¸ë“¤ì´ ë§Œë‚  ìˆ˜ ìˆëŠ” ì¤‘ë¦½ì§€ì—­ìœ¼ë¡œ ì„ í¬ë˜ì—ˆìŠµë‹ˆë‹¤.;Our country has been declared an international zone, a hub of trade and commerce and a neutral zone for foreign parts to meet.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-international_zone;êµ­ì œì§€êµ¬;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_training;ë¹„íš¨ìœ¨ì ì¸ ì™¸êµ­ì‹ í›ˆë ¨;Ineffective Foreign Training;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_training_desc;ì´ êµ°ì‚¬ê°œí˜ì´ íš¨ê³¼ë¥¼ ê±°ë‘˜ ìˆ˜ë„ ìˆì§€ë§Œ, ì„œì–‘ ê¸°ìˆ ì— ëŒ€í•œ ìš°ë¦¬ì˜ ê²½ë©¸ì´ ì„œì–‘ ê¸°ìˆ ì˜ ì™„ì „í•œ í™œìš©ì„ ê°€ë¡œë§‰ê³  ìˆìŠµë‹ˆë‹¤.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_naval_schools;ë¹„íš¨ìœ¨ì ì¸ í•´êµ°ì‚¬ê´€í•™êµ;Ineffective Naval Schools;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_naval_schools_desc;ì´ êµ°ì‚¬ê°œí˜ì´ íš¨ê³¼ë¥¼ ê±°ë‘˜ ìˆ˜ë„ ìˆì§€ë§Œ, ì„œì–‘ ê¸°ìˆ ì— ëŒ€í•œ ìš°ë¦¬ì˜ ê²½ë©¸ì´ ì„œì–‘ ê¸°ìˆ ì˜ ì™„ì „í•œ í™œìš©ì„ ê°€ë¡œë§‰ê³  ìˆìŠµë‹ˆë‹¤.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_officers;ë¹„íš¨ìœ¨ì ì¸ ì™¸êµ­ ì¥êµ;Ineffective Foreign Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_officers_desc;ì´ êµ°ì‚¬ê°œí˜ì´ íš¨ê³¼ë¥¼ ê±°ë‘˜ ìˆ˜ë„ ìˆì§€ë§Œ, ì„œì–‘ ê¸°ìˆ ì— ëŒ€í•œ ìš°ë¦¬ì˜ ê²½ë©¸ì´ ì„œì–‘ ê¸°ìˆ ì˜ ì™„ì „í•œ í™œìš©ì„ ê°€ë¡œë§‰ê³  ìˆìŠµë‹ˆë‹¤.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_naval_officers;ë¹„íš¨ìœ¨ì ì¸ ì œë…;Ineffective Naval Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-isolationist_foreign_naval_officers_desc;ì´ êµ°ì‚¬ê°œí˜ì´ íš¨ê³¼ë¥¼ ê±°ë‘˜ ìˆ˜ë„ ìˆì§€ë§Œ, ì„œì–‘ ê¸°ìˆ ì— ëŒ€í•œ ìš°ë¦¬ì˜ ê²½ë©¸ì´ ì„œì–‘ ê¸°ìˆ ì˜ ì™„ì „í•œ í™œìš©ì„ ê°€ë¡œë§‰ê³  ìˆìŠµë‹ˆë‹¤.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-naval_school;í•´êµ°ì‚¬ê´€í•™êµ;Naval School;;;;;;;;;;;;;;;;;;;;;;x;;;;
-desc_naval_school;ìƒì„ ì€ ìš°ë¦¬ ì§€ì—­ì˜ í•œ í•´êµ°í•™êµë¥¼ ìš´ì˜í•˜ë©° ìµœì‹  í•´êµ°ê¸°ìˆ ì˜ í†µì†”ë ¥ê³¼ êµìœ¡ì„ ê°€ë¥´ì¹©ë‹ˆë‹¤.;The Merchant Marine operates a Naval School in one of our provinces, providing lessons in leadership and education in the latest naval technologies.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-historical_congo;ì—­ì‚¬ì  ì½©ê³ ;Historical Congo;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-neuchatel_crisis_escalated;ë‡Œìƒ¤í…” ìœ„ê¸°;Neuchatel Crisis;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-preparations_for_war;ì „ìŸ ì¤€ë¹„;Preparations for War;;;;;;;;;;;;;;;;;;;;;;;;;;x
-preparations_for_war_desc;ì „ìŸì´ í•˜ë£¨í•˜ë£¨ ê°€ê¹Œì›Œì§€ê³  ìˆìŠµë‹ˆë‹¤.;There's an incoming war, or so some say.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-congo_company;ì½©ê³  íšŒì‚¬;The Congo Company;;;;;;;;;;;;;;;;;;;;;;;;;;x
-congo_company_desc;ì½©ê³  íšŒì‚¬ëŠ” ì½©ê³ ì˜ ì²œì—°ìì›ì„ íƒêµ¬í•˜ê³  ì›ì£¼ë¯¼ì„ ë¶€ë¦¬ê¸° ìœ„í•´ ì„¸ì›Œì¡ŒìŠµë‹ˆë‹¤.;With its residence on the Congo, the company was made to explore the natural resources of the Congo and make sure its riches and the natives benefit us.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-congo_exploitation;ì½©ê³ ì¸ ì°©ì·¨;Congolese Exploitation;;;;;;;;;;;;;;;;;;;;;;;;;;x
-congo_exploitation_desc;ëª¨ë“  í‘ì¸ì€ ì´ ë‚¨ìë¥¼ ì ë„ì˜ í‘ì¸ìœ¼ë¡œ ê°„ì£¼í–ˆìŠµë‹ˆë‹¤...;All blacks saw this man as the devil of the Equator...From all the bodies killed in the field, you had to cut off the hands. He wanted to see the number of hands cut off by each soldier, who had to bring them in baskets...A village which refused to provide rubber would be completely swept clean. As a young man, I saw [Fi?ez's] soldier Molili, then guarding the village of Boyeka, take a net, put ten arrested natives in it, attach big stones to the net, and make it tumble into the river...Rubber causes these torments; that's why we no longer want to hear its name spoken. Soldiers made young men kill or rape their own mothers and sisters.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-philantropic_work;ë°•ì•  ì‚¬ì—…;Philanthropic Work;;;;;;;;;;;;;;;;;;;;;;;;;;x
-philantropic_work_desc;ìš°ë¦¬ëŠ” ì´ ë‚˜ë¼ë¥¼ ë¬¸ëª…í™”í•˜ê³  í† ì°©ë¯¼ë“¤ì„ ë•ê³  ìˆìŠµë‹ˆë‹¤.We are guiding this nation in the principles of civilizing and helping the natives.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-refused_gp_deliberation;ê°•ëŒ€êµ­ì— ë°˜í•­;Defied the Great Powers;;;;;;;;;;;;;;;;;;;;;;;;;;x
-refused_gp_deliberation_desc;ìš°ë¦¬ëŠ” ê°•ëŒ€êµ­ë“¤ì˜ ì‹¬ì˜ì— ë°˜ëŒ€í–ˆìŠµë‹ˆë‹¤. íšŒì˜ì—ì„œ ë‚´ë¦° ê²°ì •ì„ ì§‘í–‰í•˜ë ¤ëŠ” ì „ìŸì˜ ìœ„í˜‘ì´ ë‹¤ê°€ì˜¤ê³  ìˆì§€ë§Œ, ë§Œì•½ ìš°ë¦¬ê°€ ì¶©ë¶„í•œ ì‹œê°„ì„ ë²„í‹¸ ìˆ˜ ìˆë‹¤ë©´, ê·¸ë“¤ì€ ìš°ë¦¬ê°€ ì˜³ë‹¤ëŠ” ê²ƒì„ ì¸ì •í• ì§€ë„ ëª¨ë¦…ë‹ˆë‹¤.;We defied the deliberation of the Great Powers. There's a looming threat of war to enforce the decisions made in the Congress, but if we can hold out for enough time they may be forced to recognize that we are right.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-mandate_of_heaven;ì²œëª…;Mandate of Heaven;;;;;;;;;;;;;;;;;;;;;;;;;;x
-mandate_of_heaven_desc;ì‹ ì˜ ê¶Œí•œìœ¼ë¡œ, í™©ì œëŠ” ë§Œë¯¼ì˜ í†µì¹˜ìì…ë‹ˆë‹¤.;By Divine Right, the Emperor is ruler of all under Heaven.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-the_congo_reform_association;ì½©ê³  ê°œí˜í˜‘íšŒ;The Congo Reform Association;;;;;;;;;;;;;;;;;;;;;;;;;;x
-the_congo_reform_association_desc;í•œ êµ­ì œ ì¸ë„ì£¼ì˜ ë‹¨ì²´ëŠ” ì½©ê³ ì—ì„œì˜ ìš°ë¦¬ì˜ ì‹ë¯¼ ì •ì±…ì— ëŒ€í•´ ë³„ë¡œ í˜¸ì˜ì ì´ì§€ ì•Šì€ ì…ì¥ì„ ë³´ì´ê³  ìˆìŠµë‹ˆë‹¤.;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;;;;;;;;;;;;;;;x
-indian_territory;ì›ì£¼ë¯¼ êµ¬ì—­;Indian Territory;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-indian_territory_desc;ì›ì£¼ë¯¼ êµ¬ì—­ì€ ë¯¸êµ­ ì •ë¶€ê°€ ì›ì£¼ë¯¼ì˜ë“¤ì„ ì´ì£¼ì‹œí‚¤ê¸° ìœ„í•´ ë‚¨ê²¨ë‘” ë•…ì…ë‹ˆë‹¤.;The Indian Territory is a land area set aside by the United States Government for the relocation of the indigenous peoples of the Americas who held aboriginal title to their land.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-reconstruction;ë³µì› ì •ì±…;Reconstruction Policies;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-reconstruction_desc;ë‚¨ë¶ì „ìŸì´ ëë‚œ í›„, ë¶„ì—´ëœ ìš°ë¦¬ë‚˜ë¼ëŠ” ì¬ê±´ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.; After the Civil War, our torn nation needs to be rebuilt. With policies such as the  theTen-Percent Plan, a plan that stipulates that each secessionist state had to redraft its constitution and could reenter the Union only after 10 percent of its eligible voters pledged an oath of allegiance to the United States and other reconstruction plans, the USA can recover from the effects of this devastating war.;;;;;;;;;;;;;;;;;;;;;;;x
-cultural_resurgence;ë¬¸í™”ì  ì¬ê¸°;Cultural Resurgence;;;;;;;;;;;;;;;;;;;;;;;x
-cultural_resurgence_desc;ì´ ì§€ì—­ì€ ì˜› ë¬¸í™”ì˜ ì™„ì „í•œ ë¶€í™œì„ ê²½í—˜í•˜ê³  ìˆìŠµë‹ˆë‹¤;This province is experiencing a complete resurgence of an old culture.;;;;;;;;;;;;;;;;;;;;;;;x
-chinese_treaty_port;ì¤‘êµ­ ì¡°ì•½í•­;Chinese Treaty Port;;;;;;;;;;;;;;;;;;;;;;;x
-chinese_treaty_port_desc;ìš°ë¦¬ëŠ” ì¤‘êµ­ê³¼ ì¡°ì•½ì„ ë§ºê³  ì¤‘êµ­ì˜ í•­êµ¬ì™€ ë„ì‹œì— ëŒ€í•œ ê¶Œë¦¬ë¥¼ íšë“í–ˆìŠµë‹ˆë‹¤.;We negotiated a treaty with the Chinese and acquired the rights over a Chinese port and city.;;;;;;;;;;;;;;;;;;;;;;;x
-negotiating_unequal_treaty;ë¶ˆí‰ë“± ì¡°ì•½;Unequal Treaty;;;;;;;;;;;;;;;;;;;;;;;x
-negotiating_unequal_treaty_desc;ìš°ë¦¬ëŠ” ì „ìŸì—ì„œ íŒ¨í–ˆê³  ì„œì–‘ì¸ë“¤ì€ ë¬¸í˜¸ ê°œë°©, ê¸ˆì „ì  ë³´ìƒ ê·¸ë¦¬ê³  ì‹¬ì§€ì–´ ì˜í† ì˜ í• ì–‘ì„ ìš”êµ¬í•˜ë©° ë…ìˆ˜ë¦¬ì²˜ëŸ¼ ë°€ë ¤ì™”ìŠµë‹ˆë‹¤.;We have lost a war and like vultures, the westerners descended upon us imposing their conditions including the opening of our country, monetary reparations and even the secession of territory.;;;;;;;;;;;;;;;;;;;;;;;x
-negotiating_treaty;í˜‘ìƒ ì¡°ì•½;Negotiating Treaty;;;;;;;;;;;;;;;;;;;;;;;x
-negotiating_treaty_desc;ìš°ë¦¬ ì™¸êµê´€ë“¤ì€ íŒ¨ì „êµ­ê³¼ ì¡°ì•½ì„ í˜‘ìƒí•˜ê³  ìˆìŠµë‹ˆë‹¤.;Our diplomats are negotiating a treaty with a defeated nation.;;;;;;;;;;;;;;;;;;;;;;;x
-lacks_writing_system;í‘œì¤€ì–´ ì²´ê³„ ì—†ìŒ;Lacks Writing System;;;;;;;;;;;;;;;;;;;;;;;x
-lacks_writing_system_desc;ìš°ë¦¬ ì‚¬íšŒì—ëŠ” í‘œì¤€ì–´ ì²´ê³„ê°€ ì—†ìŠµë‹ˆë‹¤. í‘œì¤€ì–´ê°€ ì—†ë‹¤ë©´, ì •ë¶€ì˜ ì¡°ì§ êµ¬ì¡°ëŠ” í•­ìƒ ë‹¨ìˆœí•  ê²ƒì…ë‹ˆë‹¤.;Our society lacks a writing system. Without this the written word, the organizational structures of the government will always be simple.;;;;;;;;;;;;;;;;;;;;;;;x
-penal_colony;í˜•ë²Œ ì‹ë¯¼ì§€;Penal Colony;;;;;;;;;;;;;;;;;;;;;;;x
-penal_colony_desc;ì´ ì§€ì—­ì—ëŠ” í˜•ë²Œ ì‹ë¯¼ì§€ê°€ ìˆìŠµë‹ˆë‹¤. í•˜ë¥˜ì¸µ ëŒ€ë¶€ë¶„ì€ ì£„ìˆ˜ì´ê±°ë‚˜ ì£„ìˆ˜ì˜€ë˜ ìë“¤ì´ë©°, ì´ê²ƒì€ ë¹ˆê³¤ì˜ í™•ì‚°ìœ¼ë¡œ ì´ì–´ì§‘ë‹ˆë‹¤.;This province is home to a sizeable penal colony. Most of the poor strata are convicts or former convicts, leading to widespread poverty.;;;;;;;;;;;;;;;;;;;;;;;x
-divided_society;ë¶„ì—´ëœ ì‚¬íšŒ;Divided Society;;;;;;;;;;;;;;;;;;;;;;;x
-divided_society_descìš°ë¦¬ ì‚¬íšŒëŠ” ì¸ì¢… ë¬¸ì œë¡œ ê¹Šì´ ë¶„ì—´ë˜ì–´ ìˆìŠµë‹ˆë‹¤. ì£¼ë³€ì—ëŠ” ë¶ˆì‹ ê³¼ ë¶„ë…¸ê°€ ë§Œì—°í•´ ìˆì–´ í†µí•©ì— ì‹¬ê°í•œ ì˜í–¥ì„ ì£¼ê³  ìˆìŠµë‹ˆë‹¤.;Our society is deeply divided by racial issues. There's distrust and resentment all around and because of that integration is severely affected.;;;;;;;;;;;;;;;;;;;;;;;x
-caudillo_leaders;ì½”ë”œë¡œ;Caudillo;;;;;;;;;;;;;;;;;;;;;;;x
-caudillo_leaders_desc;ì½”ë”œë¡œëŠ” ë‚¨ì•„ë©”ë¦¬ì¹´ì˜ êµ°ì‚¬ ë…ì¬ìë¥¼ ëœ»í•˜ëŠ” ë‹¨ì–´ì…ë‹ˆë‹¤.;A caudillo is a type of militia leader with a charismatic personality and enough of a populist program of generic future reforms to gain broad sympathy, at least at the outset, among the common people. Effective caudillismo depends on a personality cult. Since the caudillo typically held power by controlling a patronage network that brooked no rival structure, some caudillos took up an anti-clerical stand. Many of the caudillos used their newly gained power, which was unchecked because it was extra-constitutional, to promote their own wealth and interests.;;;;;;;;;;;;;;;;;;;;;;;x
-corrupt_army;ë¶€íŒ¨í•œ ì¥êµ;Corrupt Officials;;;;;;;;;;;;;;;;;;;;;;;x
-corrupt_army_desc;ì¥êµ ì¤‘ í•œ ëª…ì´ íŒ¨ë°°ì˜ ì›ì¸ì„ ì ì˜ ë§ˆë²• íƒ“ìœ¼ë¡œ ëŒë ¸ê³ , ê·¸ê²ƒì€ ì›ìˆ˜ì˜ ì„±ë‚œ ë°˜ì‘ì„ ë¶ˆëŸ¬ì¼ìœ¼ì¼°ìŠµë‹ˆë‹¤. ìš°ë¦¬ êµ°ëŒ€ì˜ ì¡°ì§ê³¼ ë³´ê¸‰ì´ ë¶ˆì¶©ë¶„í•˜ê³ , ì¥êµ í›ˆë ¨ë„ ë¶€ì¡±í•˜ë©°, ë¶€íŒ¨ê°€ ë§Œì—°í•˜ë‹¤ëŠ” ê²ƒì€ ëª…ë°±í•©ë‹ˆë‹¤.;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;;;;;;;;;;;;;;;;;;;;;;;x
-fanatic_army;ë†’ì€ ì¶©ì„±ì‹¬;Fanatic Loyalty;;;;;;;;;;;;;;;;;;;;;;;x
-fanatic_army_desc;ë†’ì€ ìˆ˜ì¤€ì˜ ê¸°ê°•ê³¼ ë†’ì€ ì¶©ì„±ì‹¬ìœ¼ë¡œ íŠ¹ì§•ì§€ì–´ì§„ ìš°ë¦¬ êµ°ëŒ€ëŠ” ëŒ€ì˜ë¥¼ ìœ„í•´ ì‹¸ìš°ê¸° ìœ„í•´ ì „êµ­ì—ì„œ ì‚¬ëŒë“¤ì„ ëª¨ì§‘í•˜ê³  ìˆìŠµë‹ˆë‹¤. ì´ ë³‘ì‚¬ë“¤ì€ ìš°ë¦¬ì˜ ì„ë¬´ë¥¼ í™•ê³ íˆ ë¯¿ê³  ì˜ì›í•œ ì¶©ì„±ì‹¬ì„ ê°€ì§€ê³  ìˆìŠµë‹ˆë‹¤.;Marked by a high level of discipline and fanaticism, our army is recruiting people from all over our country to fight for our cause. These conscripts firmly believe in our mission and are of an undying loyalty to us.;;;;;;;;;;;;;;;;;;;;;;;x
-irish_poverty;ì•„ì¼ëœë“œ ë¹ˆê³¤;Irish Poverty;;;;;;;;;;;;;;;;;;;;;;;x
-animists_run;í† ì†ì‹ ì•™ ì‹ ë„ ì´ì£¼;Animist Emigration;;;;;;;;;;;;;;;;;;;;;;;x
-hormuz_strait;í˜¸ë¥´ë¬´ì¦ˆ í•´í˜‘;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
-the_french_foreign_legion;í”„ë‘ìŠ¤ ì™¸ì¸ë¶€ëŒ€;La L?ion ?rang?e;;;;;;;;;;;;;;;;;;;x
-the_hedeselskab;íˆìŠ¤í˜‘íšŒ;The Hedeselskab;;;;;;;;;;;;;;;;;;x,,,,
-the_hedeselskab_desc;ë´ë§ˆí¬ ë¬´ì–´ íšŒì‚¬ ì¬ë‹¨ì€ ê´‘ëŒ€í•œ ì§€ì—­ì˜ ë°°ìˆ˜ ë° ê°œì„ ì„ ì´ë•ë‹ˆë‹¤.;The foundation of the Danish Moor Company lead to the drainage and improvement of vast areas.;;;;;;;;;;;;;;;;;;x,,,,
-emigration_boom;ì´ë¯¼ ë¶;Emigration Boom;;;;;;;;;;;;;;;;;;x,,,,
-emigration_boom_desc;ìš°ë¦¬ë‚˜ë¼ì˜ ìƒí™œì—¬ê±´ ë³€í™”ëŠ” êµ­ë¯¼ì˜ ì´ì£¼ë¥¼ ìê·¹í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Changing life conditions in our country are stimulating a big relocation of our people.;;;;;;;;;;;;;;;;;;x,,,,
-gold_rush_country;ì½œë“œ ëŸ¬ì‹œ;Gold Rush;;;;;;;;;;;;;;;;;;x,,,,
-gold_rush_country_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” êµ¬ëŒ€ë¥™ì˜ ì‚¬ëŒë“¤ì´ ìš°ë¦¬ë‚˜ë¼ë¡œ ëª°ë ¤ì˜¤ë„ë¡ í•˜ëŠ” ê³¨ë“œ ëŸ¬ì‹œë¥¼ ê²ªê³  ìˆìŠµë‹ˆë‹¤.;Our country is experiencing a gold rush leading people from all over the old world to flock to our country.;;;;;;;;;;;;;;;;;;x,,,,
-global_baby_boom;ë² ì´ë¹„ ë¶;Baby Boom;;;;;;;;;;;;;;;;;;x,,,,
-global_baby_boom_desc;ìš°ë¦¬ë‚˜ë¼ì˜ ìƒí™œí™˜ê²½ ê°œì„ ì€ ì „êµ­ì ìœ¼ë¡œ ë² ì´ë¹„ë¶ì„ ì¼ìœ¼í‚¤ê³  ìˆìŠµë‹ˆë‹¤.;Improvements in life conditions in our country are leading to a country-wide baby boom.;;;;;;;;;;;;;;;;;;x,,,,
-political_education;ì´ë… êµìœ¡;Ideological Education;;;;;;;;;;;;;;;;;;x,,,,
-political_education_desc;ìš°ë¦¬ë‚˜ë¼ì˜ êµìœ¡ì€ ì´ë… êµìœ¡ìœ¼ë¡œ ê°€ë“ ì°¨ ìˆì–´ ì§€ë„ìê°€ ë°”ë€” ë•Œë§ˆë‹¤ ì‹¬ê°í•œ ë³€í™”ë¥¼ ê°€ì ¸ì˜µë‹ˆë‹¤.;Education in our country is full blown ideological indoctrination, and has severe changes every time our leader changes. Universal public education is thus enforced and alphabetization is a priority, but at the cost of free thinking.;;;;;;;;;;;;;;;;;;x,,,,
-cult_of_personality;ê°œì¸ ìˆ­ë°°;Cult of Personality;;;;;;;;;;;;;;;;;;x,,,,
-cult_of_personality_desc;ê°œì¸ ìˆ­ë°°ëŠ” ê°œì¸ì´ ëŒ€ì¤‘ë§¤ì²´, ì„ ì „ ë˜ëŠ” ë‹¤ë¥¸ ë°©ë²•ì„ ì‚¬ìš©í•˜ì—¬ ì´ìƒì ì´ê³  ì˜ì›…ì ì´ë©° ë•Œë¡œëŠ” ìˆ­ê³ í•œ ì´ë¯¸ì§€ë¥¼ ë§Œë“¤ ë•Œ ë°œìƒí•©ë‹ˆë‹¤.;A cult of personality arises when an individual uses mass media, propaganda, or other methods, to create an idealized, heroic, and at times, worshipful image, often through unquestioning flattery and praise.;;;;;;;;;;;;;;;;;;x,,,,
-totalitarian_system;ì „ì²´ì£¼ì˜;Totalitarianism;;;;;;;;;;;;;;;;;;x,,,,
-totalitarian_system_desc;ì „ì²´ì£¼ì˜ë€ êµ­ê°€ê°€ ì‚¬íšŒì— ëŒ€í•œ ì™„ì „í•œ ê¶Œí•œì„ ê°€ì§€ê³  ìˆìœ¼ë©° ê°€ëŠ¥í•œ ëª¨ë“  ê³³ì—ì„œ ê³µê³µê³¼ ê°œì¸ ìƒí™œì˜ ëª¨ë“  ì¸¡ë©´ì„ í†µì œí•˜ë ¤ í•˜ëŠ” ì •ì¹˜ ì²´ì œë¥¼ ê°€ë¦¬í‚µë‹ˆë‹¤.;Totalitarianism is a political system in which the state holds total authority over the society and seeks to control all aspects of public and private life wherever possible.;;;;;;;;;;;;;;;;;;x,,,,
-the_terror;í…ŒëŸ¬;The Terror;;;;;;;;;;;;;;;;;;x,,,,
-the_terror_desc;ìš°ë¦¬ì˜ ì ì„ ê·¹ë³µí•˜ê¸° ìœ„í•´ì„œ ìš°ë¦¬ëŠ” ìš°ë¦¬ ìì‹ ì˜ êµ°êµ­ì£¼ì˜ë¥¼ ê°€ì ¸ì•¼ í•©ë‹ˆë‹¤. ìš°ë¦¬ëŠ” ìš°ë¦¬ë‚˜ë¼ ì „ì²´ ì¸êµ¬ ì¤‘ 90%ë¥¼ ê°ë‹¹í•´ì•¼ í•˜ë©° ë‚˜ë¨¸ì§€ëŠ” ì ˆë©¸ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.;To overcome our enemies we must have our own militarism. We must carry along with 90 percent out of the total population of our country. As for the rest, we have nothing to say to them. They must be annihilated.;;;;;;;;;;;;;;;x,,,,
-silver_age;ë°±ì€ì‹œëŒ€;A Silver Age;;;;;;;;;;;;x,,,,
-silver_age_desc;ìš°ë¦¬ì˜ í›Œë¥­í•œ ì§€ë„ìëŠ” ìš°ë¦¬ë¥¼ ë” ë‚˜ì€ ë‚´ì¼ë¡œ ì¸ë„í•  ê²ƒì…ë‹ˆë‹¤.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;;;;;;;x,,,,
-chinese_foreign_training;ì¤‘êµ­ì˜ ì™¸êµ­ì‹ í›ˆë ¨;Foreign Training in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-chinese_foreign_weapons;ì¤‘êµ­ì˜ ì„œêµ¬ì‹ ë¬´ê¸°;Western Weapons in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-chinese_foreign_officers;ì¤‘êµ­ì˜ ì™¸êµ­ ì¥êµ;Foreign Officers in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-chinese_foreign_artillery;ì¤‘êµ­ì˜ ì„œêµ¬ì‹ ëŒ€í¬;Western Artillery in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-pandemic_influenza_immunity;ë…ê°ìœ¼ë¡œë¶€í„°ì˜ ììœ ;Influenza Free;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-pandemic_influenza_immunity_desc;ë…ê°ì´ ìš°ë¦¬ë‚˜ë¼ë¥¼ í™©íí™”ì‹œí‚¤ì§€ë§Œ, ì´ ì‘ì€ ê³ ë¦½ëœ ê³µë™ì²´ëŠ” ì™¸ë”´ ì…ì§€ ë•ë¶„ì— ì˜í–¥ì„ ë°›ì§€ ì•Šê³  ìˆìŠµë‹ˆë‹¤.;A Pandemic of Influenza ravages our country, but this small isolated community is immune to it, thank to its remote location.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-population_resettlement;ì£¼ë¯¼ ì¬ì‹ë¯¼;Population Resettlement;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-population_resettlement_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ì‹œë¯¼ë“¤ì„ ì¬ì‹ë¯¼í•¨ìœ¼ë¡œì¨ ì´ ì§€ì—­ì„ êµ­ê°€ì— í†µí•©í•˜ê¸° ìœ„í•´ ë…¸ë ¥í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Our nation is working on the national integration of a region by resettling our citizens.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-trade_city;ë¬´ì—­ ë„ì‹œ;Trade City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-trade_city_desc;ì´ ì§€ì—­ì— ì¤‘ìš”í•œ ë¬´ì—­ ë„ì‹œê°€ ìœ„ì¹˜í•´ìˆì–´ ë§ì€ ê²½ì œì  ë²ˆì˜ì„ ëˆ„ë¦¬ê³  ìˆìŠµë‹ˆë‹¤.;Located in this province is an important trade city, a hub of trade of the region, enjoying much economic prosperity.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-peacetime_mobilization;í‰í™” ê¸°ê°„ì˜ ë™ì›;Peace Time Mobilization;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-peacetime_mobilization_desc;í•˜ë¥˜ì¸µë“¤ì€ í›ˆë ¨ë˜ê³  ì‹¸ìš¸ ì¤€ë¹„ê°€ ë˜ì–´ ìˆì§€ë§Œ, ì „ìŸì€ ì—†ìŠµë‹ˆë‹¤. ì´ ë‚˜ë¼ì˜ ì¼ìƒ ìƒí™œì˜ í° í˜¼ë€ì€ ì£¼ë¯¼ì„ ì§€ì¹˜ê²Œ í•˜ê³  ì´ì›ƒ êµ­ê°€ë“¤ì—ê²Œ ê²½ê³„ì‹¬ì„ ì‚¬ê³  ìˆìŠµë‹ˆë‹¤.;Conscripts are being drafted left and right and our poor are being trained and prepared to fight, yet there's no war. This large disruption in the country's daily life is making our pops tired and our neighbors wary.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tribute_received;ì¡°ê³µ ìˆ˜ë ¹;Tribute Received;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tribute_received_desc;ìš°ë¦¬ì˜ ì†êµ­ ì¤‘ í•˜ë‚˜ê°€ ìš°ë¦¬ì—ê²Œ ê²½ì˜ë¥¼ í‘œí–ˆìŠµë‹ˆë‹¤.;One of our vassals paid their due tribute to us.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tribute_paid;ì¡°ê³µ ì§€ë¶ˆ;Tribute Paid;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-tribute_paid_desc;ìš°ë¦¬ëŠ” ìˆ˜ì…ì˜ ì¼ë¶€ë¥¼ ì¢…ì£¼êµ­ì— ë°”ì³ì•¼ í•©ë‹ˆë‹¤.;We have to share part of our earnings with our overlord over the time period and as suck we are poorer from that.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-islamic_law_triggered;ì´ìŠ¬ëŒ ìœ¨ë²•;Islamic Law;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-islamic_law_triggered_desc;ì´ìŠ¬ëŒ ìœ¨ë²•ì€ ì´ì œ ìš°ë¦¬ ì‚¬íšŒì˜ ê¸°ë³¸ë²•ê·œê°€ ë˜ì—ˆìŠµë‹ˆë‹¤. ê·¸ê²ƒì€ ë²”ì£„, ì •ì¹˜, ê²½ì œë¿ë§Œ ì•„ë‹ˆë¼ ì„±ê´€ê³„, ìœ„ìƒ, ì‹ì´ìš”ë²•, ê¸°ë„, ì¼ìƒ ì—í‹°ì¼“ê³¼ ê¸ˆì‹ ê°™ì€ ê°œì¸ì ì¸ ë¬¸ì œë“¤ì„ ë‹¤ë£¹ë‹ˆë‹¤.;Islamic law is now the basis law code of our society. It deals with several topics including: crime, politics, and economics, as well as personal matters such as sexual intercourse, hygiene, diet, prayer, everyday etiquette and fasting.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-deportation_underway;êµ­ì™¸ ì¶”ë°©;Deportation;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-deportation_underway_desc;ë‹¤ë¥¸ ë¬¸í™”ì— ì†í•œ ì‚¬ëŒë“¤ì´ ì´ ë‚˜ë¼ë¥¼ ë– ë‚˜ë„ë¡ "ì¥ë ¤í•˜ê³ " ìˆìŠµë‹ˆë‹¤.;People from different ethnicities are being "encouraged" to move out of this country.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-treaty_port;ì¡°ì•½í•­;Treaty Port;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-treaty_port_desc;ì™¸êµ­ ì •ë¶€ì— ì–‘ë„ë¼ ì¤‘êµ­ê³¼ ë‹¤ë¥¸ ë‚˜ë¼ë¥¼ ì‡ëŠ” ë¬´ì—­ì˜ ì¤‘ì‹¬ì…ë‹ˆë‹¤.;This port was ceded to a foreign administration and it's a hub of trade from China to the rest of the world.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-drained_marsh;ë°°ìˆ˜ëœ ìŠµì§€;Drained Marsh;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-drained_marsh_desc;ì´ ìŠµì§€ëŒ€ëŠ” ë°°ìˆ˜ë˜ì–´ ê²°ê³¼ì ìœ¼ë¡œ ë” ì‚´ê¸° í¸í•©ë‹ˆë‹¤.;This marshland was drained and as a result it is more habitable.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-backed_down_on_promise;ì•½ì† ì·¨ì†Œ;Backed Down on Promises;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-backed_down_on_promise_desc;ìš°ë¦¬ ì •ë¶€ëŠ” ìš°ë¦¬ ì£¼ë¯¼ì— ëŒ€í•œ í•˜ë‚˜ ì´ìƒì˜ ì¤‘ìš”í•œ ì•½ì†ì„ ì–´ê²¼ìŠµë‹ˆë‹¤.;Our government broke one or more important promises to our population.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-highlander_raids;ì‚°ì•…ì§€ì—­ì¸ ê¸‰ìŠµ;Highlander Raids;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-highlander_raids_desc;ì‚°ì•…ì§€ì—­ì¸ë“¤ì´ ìš°ë¦¬ ì§€ì—­ì„ ì•½íƒˆí•˜ê³  ìˆìŠµë‹ˆë‹¤.;Highlander raiders are looting our provinces in numbers.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-jewish_farms;ìœ ëŒ€ì¸ ë†ì¥;Jewish Farmlands;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-jewish_farms_desc;ì´ìŠ¤ë¼ì—˜ë¡œ ì´ì£¼í•œ ìœ ëŒ€ì¸ë“¤ì€ ì‚¼ë¦¼íŒŒê´´, í† ì–‘ì¹¨ì‹, ë°©ì¹˜ì— ì˜í•´ ë§ì€ ê²ƒë“¤ì´ ëŒ€ë¶€ë¶„ì´ ë°˜ê±´ì¡°ì¸ ë•…ì„ êµ¬ì…í–ˆìŠµë‹ˆë‹¤. ê·¸ë“¤ì€ ë°”ìœ„ ë°­ì„ ê°œê°„í•˜ê³ , í…Œë¼ìŠ¤ë¥¼ ê±´ì„¤í•˜ê³ , ëª©ì´ˆì§€ë¥¼ ë°°ìˆ˜í•˜ê³ , ìˆ²ì„ ë‹¤ì‹œ ê°€ê¾¸ê³ , í† ì–‘ ì¹¨ì‹ì„ ë§‰ê³ , ì—¼ë¶„ì„ ë¹¨ì•„ë“¤ì´ê¸° ì‹œì‘í–ˆìŠµë‹ˆë‹¤. ë…ë¦½ ì´í›„, ê²½ì‘ ì¤‘ì¸ ì´ ë©´ì ì€ 408,000 ì—ì´ì»¤(1,650 km2)ì—ì„œ 1,07,000 ì—ì´ì»¤(4,300 km2)ë¡œ ì¦ê°€í–ˆê³ , ë†ì—… ê³µë™ì²´ì˜ ìˆ˜ëŠ” 400ì—ì„œ 725 ì—ì´ì»¤ë¡œ ì¦ê°€í–ˆë‹¤. ë†ì—…ìƒì‚°ì€ ì¸êµ¬ì¦ê°€ìœ¨ë³´ë‹¤ 3ë°°ë‚˜ ë§ì€ 16ë°° ì„±ì¥í–ˆìŠµë‹ˆë‹¤.;Jews who immigrated to Israel purchased land that was mostly semi-arid, although much had been rendered untillable by deforestation, soil erosion and neglect. They set about clearing rocky fields, constructing terraces, draining swampland, reforesting, counteracting soil erosion, and washing salty land. Since independence, the total area under cultivation has increased from 408,000 acres (1,650 km2) to 1,070,000 acres (4,300 km2), while the number of agricultural communities has increased from 400 to 725. Agricultural production has expanded 16 times, three times more than population growth.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-monument_under_construction;ê³µì‚¬ ì¤‘;Under Construction;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-monument_under_construction_desc;ìš°ë¦¬ëŠ” êµ­ê°€ì˜ ìœ„ëŒ€í•¨ì„ ì¶•í•˜í•˜ê¸° ìœ„í•œ ìœ„ëŒ€í•œ ê³„íšì„ ì‹¤í–‰í•˜ê³  ìˆìŠµë‹ˆë‹¤.;We are building a great project to celebrate our nation greatness.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-recently_built_city;ìµœê·¼ ê±´ì„¤í•œ ë„ì‹œ;Recently Built City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-recently_built_city_desc;ì´ ë„ì‹œëŠ” ìµœê·¼ ì •ë¶€ê°€ ê±´ì„¤í–ˆìœ¼ë©°, í˜„ëŒ€ì ì¸ ê¸°ë°˜ì‹œì„¤ì„ êµ¬ì¶•í•˜ê¸° ìœ„í•´ ë§ì€ ë…¸ë™ìë“¤ì„ ì´ ì§€ì—­ì— íˆ¬ì…í–ˆìŠµë‹ˆë‹¤.;The capital of this province was recently built by the government, moving a lot of workers to the region to  build a city with modern infrastructure.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-law_changed_by_force;ë²• ê°œì •;Law Changed;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-law_changed_by_force_desc;ìš°ë¦¬ëŠ” ìƒì›ì„ ì••ë°•í•˜ì—¬ ì‹œê¸‰í•œ ê°œí˜ì„ í†µê³¼ì‹œì¼°ìŠµë‹ˆë‹¤.;We pressured the upper house to pass an urgent reform.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-social_reformed_nation;ì™„ì „í•œ ë³µì§€ êµ­ê°€;Full Welfare State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-social_reformed_nation_desc;ì‚¬íšŒê°œí˜ì€ ëª¨ë“  ì‚¬íšŒì£¼ì˜ì  ìš”êµ¬ì— ë¶€í•©í•©ë‹ˆë‹¤. ì¼ë¶€ í•™ìë“¤ì€ ìš°ë¦¬ë¥¼ ë³µì§€êµ­ê°€ë¼ê³  ë¶€ë¥´ê¸°ë„ í•©ë‹ˆë‹¤.;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-wahhabism_in_nejd;ì™€í•˜ë¸ŒíŒŒ;Wahhabism;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-wahhabism_in_nejd_desc;ì™€í•˜ë¸ŒíŒŒ êµë¦¬ì˜ "ì¤‘ì‹¬ ì‚¬ìƒ"ì€ ë¬´ìŠ¬ë¦¼ì„ ìì¹­í•˜ì§€ë§Œ ë¬´ì‹œë°›ëŠ” "ì´ìŠ¬ëŒì˜ ë°”ê¹¥"ì„ ì¸ì •í•˜ëŠ” ê²ƒì´ì—ˆìŠµë‹ˆë‹¤. ì—¬ê¸°ì—ëŠ” ë¬¸ë§¹, ë² ë‘ì¸ ë¿ë§Œ ì•„ë‹ˆë¼ ì‹œì•„íŒŒ, ìˆ˜í”¼íŒŒ, ì˜¤ìŠ¤ë§Œ ì œêµ­ë„ í¬í•¨í–ˆìŠµë‹ˆë‹¤.;The "pivotal idea" of Wahhabism teaching was that people who called themselves Muslims but who participated in such innovations were not just misguided or committing a sin, but were "outside the pale of Islam altogether", as were Muslims who disagreed with his definition. This included not just lax, unlettered, nomadic Bedu, but Shia, Sufi, and Ottomans.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-russian_army;ëŸ¬ì‹œì•„ ìœ¡êµ°;The Russian Army;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-russian_army_desc;ëŸ¬ì‹œì•„ ìœ¡êµ°ì€ ìœ ëŸ½ì—ì„œ ê°€ì¥ í° ìœ¡êµ°ì´ ë  ìˆ˜ë„ ìˆì§€ë§Œ, ë³´ê¸‰ê³¼ ì¡°ì§ë ¥ì´ ë¶€ì¡±í•©ë‹ˆë‹¤.;The Russian Army may be the biggest land force of Europe, but it is poorly supplied and organized.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-landlocked_nation;ë‚´ë¥™ êµ­ê°€;Landlocked Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-landlocked_nation_desc;ìš°ë¦¬ ë‚˜ë¼ëŠ” ë°”ë‹¤ì— ì ‘ê·¼í•  ìˆ˜ ì—†ì–´ì„œ ìˆ˜ì… ë¹„ìš©ì´ í¬ê²Œ ì¦ê°€í•©ë‹ˆë‹¤.;Our nation doesn't have any access to the sea, greatly increasing import costs.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-fundamentalist_sympathies;ì´ìŠ¬ëŒ ê·¼ë³¸ì£¼ì˜ì;Islamic Fundamentalists;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-fundamentalist_sympathies_desc;ì´ìŠ¬ëŒ ê·¼ë³¸ì£¼ì˜ìë“¤ì´ ì§€ì—­ë¯¼ë“¤ì„ ì„ ë™í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Islamic Fundamentalists are agitating the people in this province.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-new_constitution;ìƒˆ í—Œë²•;The New Constitution;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-new_constitution_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ìƒˆë¡œìš´ í—Œë²•ì„ ë°œí‘œí•˜ì—¬ íˆ¬í‘œê¶Œê³¼ ì‹œë¯¼ê¶Œì„ ë³´ì¥í•´ í˜ëª…ì˜ ë¶ˆê¸¸ì„ ì§„ì••í–ˆìŠµë‹ˆë‹¤.;Our country issued a new constitution, guaranteeing voting and citizen rights and putting down the revolutionary flames.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-rise_of_a_nation;êµ­ê°€ì˜ ë¶€ìƒ;Rise of a Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-rise_of_a_nation_desc;ìš°ë¦¬ì˜ ìë‘ìŠ¤ëŸ¬ìš´ ë‚˜ë¼ëŠ” ììœ ë¡œìš°ë©° ìš°ë¦¬ì˜ ë¬¸í™”ëŠ” ë‹¤ì‹œ ê½ƒì„ í”¼ì›ë‹ˆë‹¤.;Our proud nation is free, and our culture blossoms again.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-sounds_dues_toll;ì™¸ë ˆìˆœ í†µí–‰ë£Œ;The Sound Toll;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-sounds_dues_toll_desc;ì™¸ë ˆìˆœ í†µí–‰ë£ŒëŠ” 16ì„¸ê¸°ì™€ 17ì„¸ê¸° ë´ë§ˆí¬ì˜ êµ­ê°€ ìˆ˜ì…ì˜ 3ë¶„ì˜ 2ì— í•´ë‹¹í•˜ëŠ” í†µí–‰ë£Œì…ë‹ˆë‹¤.;The Sound Dues (or the Sound Toll) is a toll on the use of the Sound which constituted up to two thirds of Denmark's state income in the 16th and 17th centuries. The dues was introduced by King Eric of Pomerania in 1429.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-MODIFIER_DEBT_DEFAULT_TO;ì±„ë¬´ ë¶ˆì´í–‰;Debt Default To;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-generalised_debt_default;ë³´í¸í™”ëœ ì±„ë¬´ ë¶ˆì´í–‰;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-MODIFIER_GENERALISED_DEBT_DEFAULT;ë³´í¸í™”ëœ ì±„ë¬´ ë¶ˆì´í–‰;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-hunger_riots;êµ¶ì£¼ë¦° ìë“¤ì˜ í­ë™;Hunger Riots;;;;;;;;;;;;;;;;;;;x,,,,,
-desc_hunger_riots;ë¹ˆë¯¼ë“¤ì´ ì‹¬ê°í•œ ì–´ë ¤ì›€ì„ ê²ªìœ¼ë©° ê²½ì°°ë ¥ì´ ì—†ê³  ë²”ì£„ì™€ì˜ ì „ìŸì— ì“¸ ì˜ˆì‚°ì´ ì ì€ ì§€ì—­ì€ ì‹œìœ„ê°€ ê±·ì¡ì„ ìˆ˜ ì—†ê²Œ ë˜ì–´ ë…¸ê³¨ì ì¸ í­ë™ì— íœ©ì“¸ë¦¬ê²Œ ë©ë‹ˆë‹¤.;A province where the poor are under severe hardship and that lacks an effective police force and has less money for crime fighting results in demonstrations getting out of hand and devolving in outright riots.;;;;;;;;;;;;;;;;;;;x,,,,,
-preparations_to_kill;ê°•ì œ ìˆ˜ìš©ì†Œ;Concentration Camps;;;;;;;;;;;;;;;;;;;x,,,,,
-preparations_to_kill_desc;ìš°ë¦¬ëŠ” ìš°ë¦¬ë‚˜ë¼ì˜ ì†Œìˆ˜ ë¬¸í™” ë¬¸ì œë¥¼ í•´ê²°í•˜ê³  ìˆìŠµë‹ˆë‹¤. ì†Œìˆ˜ ë¬¸í™”ì— ì†í•œ ì´ë“¤ì€ ì§‘ë‹¨ìˆ˜ìš©ì†Œì— ë°°ì¹˜ë˜ì–´ ìì‹ ë“¤ì˜ ìš´ëª…ì„ ê¸°ë‹¤ë¦¬ê³  ìˆìŠµë‹ˆë‹¤.;We are solving the minorities problem in our country. Minorities are being sorted out in concentration camps and waiting for their fate, or being delivered to it already.;;;;;;;;;;;;;;;;;;;x,,,,,
-withdrew_from_geneva_convention;ì œë„¤ë°” í˜‘ì•½ íƒˆí‡´;Withdrew from the Geneva Convention;;;;;;;;;;;;;;;;;;;x,,,,,
-withdrew_from_geneva_convention_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ì´ì œ ì œë„¤ë°” í˜‘ì•½ì˜ ì„œëª…êµ­ì´ ì•„ë‹™ë‹ˆë‹¤.;Our country is no longer a signatory of the Geneva Convention.;;;;;;;;;;;;;;;;;;;x,,,,,
-genocide;ì²´ê³„ì  ë§ì‚´;Systematic Extermination;;;;;;;;;;;;;;;;;;;x,,,,,
-genocide_desc;ì†Œìˆ˜ ë¬¸í™”ì— ëŒ€í•œ ê³µê²©ì ì¸ ì •ì±…ë“¤ì´ ìš°ë¦¬ë‚˜ë¼ì˜ ë³€í™”ë¥¼ ì´‰ì§„í•˜ê³  ìˆìŠµë‹ˆë‹¤.;Our aggressive policies against minorities are promoting a shift in our country.;;;;;;;;;;;;;;;;;;;x,,,,,
-small_but_efficient;ê°•ì†Œêµ­;Small But Efficient;;;;;;;;;;;;;;;;;;;x,,,,,
-small_but_efficient_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ì‘ìŠµë‹ˆë‹¤. ê·¸ëŸ¬ë‚˜ ì´ëŠ” ìš´ì˜í•˜ê¸° ì‰¬ì›€ì„ ì˜ë¯¸í•©ë‹ˆë‹¤.;Our country might be small, but that just means we can run it better.;;;;;;;;;;;;;;;;;;;x,,,,,
-own_kiel_canal;í‚¬ ìš´í•˜;The Kiel Canal;;;;;;;;;;;;;;;;;;;x,,,,,
-own_kiel_canal_desc;ë´ë§ˆí¬ ì£¼ë³€ì„ í•­í•´í•  í•„ìš” ì—†ì´ ë°œíŠ¸í•´ê³¼ ë¶í•´ë¥¼ ì—°ê²°í•˜ëŠ” í‚¬ ìš´í•˜ë¥¼ ì†Œìœ í•˜ê³  ìˆìœ¼ë©°, í†µí–‰ë£Œë¥¼ ë°›ìŠµë‹ˆë‹¤.;We own the Kiel Canal, linking the Baltic and the North Sea without the need to sail around Denmark, and we receive the dividends of its toll.;;;;;;;;;;;;;;;;;;;x,,,,,
-own_suez_canal;ìˆ˜ì—ì¦ˆ ìš´í•˜;The Suez Canal;;;;;;;;;;;;;;;;;;;x,,,,,
-own_suez_canal_desc;ì•„í”„ë¦¬ì¹´ë¥¼ ëŒ í•„ìš” ì—†ì´ ì§€ì¤‘í•´ì™€ í™í•´ë¥¼ ì—°ê²°í•˜ëŠ” ìˆ˜ì—ì¦ˆ ìš´í•˜ë¥¼ ì†Œìœ í•˜ê³  ìˆìœ¼ë©°, í†µí–‰ë£Œë¥¼ ë°›ìŠµë‹ˆë‹¤.;We own the Suez Canal, linking the Mediterranean and the Red Sea without the need to sail around Africa, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
-own_panama_canal;íŒŒë‚˜ë§ˆ ìš´í•˜;The Panama Canal;;;;;;;;;;;;;;;;;;;x,,,,,
-own_panama_canal_desc;ë‚¨ì•„ë©”ë¦¬ì¹´ë¥¼ ëŒ í•„ìš” ì—†ì´ íƒœí‰ì–‘ê³¼ ëŒ€ì„œì–‘ì„ ì—°ê²°í•˜ëŠ” íŒŒë‚˜ë§ˆ ìš´í•˜ë¥¼ ì†Œìœ í•˜ê³  ìˆìœ¼ë©°, í†µí–‰ë£Œë¥¼ ë°›ìŠµë‹ˆë‹¤.;We own the Panama Canal, a huge feat of engineering linking the Pacific and the Atlantic Oceans, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
-rebuilding_city;ì¬ê±´ì¶•;Rebuilding;;;;;;;;;;;;;;;;;;;;x,,,,,
-rebuilding_city_desc;ìš°ë¦¬ ë„ì‹œëŠ” ì¬ê±´ì¶• ì¤‘ì…ë‹ˆë‹¤;Our city is rebuilding.;;;;;;;;;;;;;;;;;;;;x,,,,,
-slave_growth;ë…¸ì˜ˆ ì¸êµ¬ í†µê³„;Slave Demographics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-slave_growth_desc;ìš°ë¦¬ë‚˜ë¼ì˜ ë…¸ì˜ˆ ì¸êµ¬ëŠ” ë³€í–ˆìŠµë‹ˆë‹¤;The population of slaves changed in our country.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-assegai;ëŒ€ë¶€ëŒ€;Impi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-assegai_desc;íˆ¬ì°½, ì—°ë ¹ ê³„ê¸‰ ì—°ëŒ€ ì²´ê³„, í¬ìœ„ ì „ìˆ ê³¼ ê°™ì€ êµ°ì‚¬ í˜ì‹ ì€ ì¤„ë£¨ë¥¼ ë‚¨ì•„í”„ë¦¬ì¹´ì™€ ë™ë‚¨ì•„í”„ë¦¬ì¹´ì—ì„œ ê°€ì¥ ê°•ë ¥í•œ êµ­ê°€ë¡œ ë§Œë“œëŠ” ë° ë„ì›€ì„ ì£¼ì—ˆìŠµë‹ˆë‹¤.;Military innovations such as the assegai, the age-grade regimental system and encirclement tactics helped make the Zulu one of the most powerful nations in southern and south-eastern Africa.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-will_influence_elections;ë‹¤ìŒ ì„ ê±°;Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-will_influence_elections_desc;ìš°ë¦¬ëŠ” ì˜¬í•´ ì„ ê±°ë¥¼ ë”°ë¥´ê³  ìˆìŠµë‹ˆë‹¤.;We are following this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+international_zone_modifier;±¹Á¦Áö±¸;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+international_zone_modifier_desc;¿ì¸®³ª¶ó´Â ±¹Á¦ Áö±¸·Î, ¹«¿ª°ú »ó¾÷ÀÇ Áß½ÉÁö, ±×¸®°í ¿Ü±¹ÀÎµéÀÌ ¸¸³¯ ¼ö ÀÖ´Â Áß¸³Áö¿ªÀ¸·Î ¼±Æ÷µÇ¾ú½À´Ï´Ù.;Our country has been declared an international zone, a hub of trade and commerce and a neutral zone for foreign parts to meet.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+international_zone;±¹Á¦Áö±¸;International Zone;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_training;ºñÈ¿À²ÀûÀÎ ¿Ü±¹½Ä ÈÆ·Ã;Ineffective Foreign Training;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_training_desc;ÀÌ ±º»ç°³ÇõÀÌ È¿°ú¸¦ °ÅµÑ ¼öµµ ÀÖÁö¸¸, ¼­¾ç ±â¼ú¿¡ ´ëÇÑ ¿ì¸®ÀÇ °æ¸êÀÌ ¼­¾ç ±â¼úÀÇ ¿ÏÀüÇÑ È°¿ëÀ» °¡·Î¸·°í ÀÖ½À´Ï´Ù.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_schools;ºñÈ¿À²ÀûÀÎ ÇØ±º»ç°üÇĞ±³;Ineffective Naval Schools;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_schools_desc;ÀÌ ±º»ç°³ÇõÀÌ È¿°ú¸¦ °ÅµÑ ¼öµµ ÀÖÁö¸¸, ¼­¾ç ±â¼ú¿¡ ´ëÇÑ ¿ì¸®ÀÇ °æ¸êÀÌ ¼­¾ç ±â¼úÀÇ ¿ÏÀüÇÑ È°¿ëÀ» °¡·Î¸·°í ÀÖ½À´Ï´Ù.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_officers;ºñÈ¿À²ÀûÀÎ ¿Ü±¹ Àå±³;Ineffective Foreign Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_officers_desc;ÀÌ ±º»ç°³ÇõÀÌ È¿°ú¸¦ °ÅµÑ ¼öµµ ÀÖÁö¸¸, ¼­¾ç ±â¼ú¿¡ ´ëÇÑ ¿ì¸®ÀÇ °æ¸êÀÌ ¼­¾ç ±â¼úÀÇ ¿ÏÀüÇÑ È°¿ëÀ» °¡·Î¸·°í ÀÖ½À´Ï´Ù.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_officers;ºñÈ¿À²ÀûÀÎ Á¦µ¶;Ineffective Naval Officers;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+isolationist_foreign_naval_officers_desc;ÀÌ ±º»ç°³ÇõÀÌ È¿°ú¸¦ °ÅµÑ ¼öµµ ÀÖÁö¸¸, ¼­¾ç ±â¼ú¿¡ ´ëÇÑ ¿ì¸®ÀÇ °æ¸êÀÌ ¼­¾ç ±â¼úÀÇ ¿ÏÀüÇÑ È°¿ëÀ» °¡·Î¸·°í ÀÖ½À´Ï´Ù.;We might be able to use this military reform but our disdain for western technology is stopping us from fully using our experiences with it to feed our research.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+naval_school;ÇØ±º»ç°üÇĞ±³;Naval School;;;;;;;;;;;;;;;;;;;;;;x;;;;
+desc_naval_school;»ó¼±Àº ¿ì¸® Áö¿ªÀÇ ÇÑ ÇØ±ºÇĞ±³¸¦ ¿î¿µÇÏ¸ç ÃÖ½Å ÇØ±º±â¼úÀÇ Åë¼Ö·Â°ú ±³À°À» °¡¸£Ä¨´Ï´Ù.;The Merchant Marine operates a Naval School in one of our provinces, providing lessons in leadership and education in the latest naval technologies.;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+historical_congo;¿ª»çÀû Äá°í;Historical Congo;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+neuchatel_crisis_escalated;³ú»şÅÚ À§±â;Neuchatel Crisis;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+preparations_for_war;ÀüÀï ÁØºñ;Preparations for War;;;;;;;;;;;;;;;;;;;;;;;;;;x
+preparations_for_war_desc;ÀüÀïÀÌ ÇÏ·çÇÏ·ç °¡±î¿öÁö°í ÀÖ½À´Ï´Ù.;There's an incoming war, or so some say.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_company;Äá°í È¸»ç;The Congo Company;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_company_desc;Äá°í È¸»ç´Â Äá°íÀÇ Ãµ¿¬ÀÚ¿øÀ» Å½±¸ÇÏ°í ¿øÁÖ¹ÎÀ» ºÎ¸®±â À§ÇØ ¼¼¿öÁ³½À´Ï´Ù.;With its residence on the Congo, the company was made to explore the natural resources of the Congo and make sure its riches and the natives benefit us.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_exploitation;Äá°íÀÎ ÂøÃë;Congolese Exploitation;;;;;;;;;;;;;;;;;;;;;;;;;;x
+congo_exploitation_desc;¸ğµç ÈæÀÎÀº ÀÌ ³²ÀÚ¸¦ ÀûµµÀÇ ÈæÀÎÀ¸·Î °£ÁÖÇß½À´Ï´Ù...;All blacks saw this man as the devil of the Equator...From all the bodies killed in the field, you had to cut off the hands. He wanted to see the number of hands cut off by each soldier, who had to bring them in baskets...A village which refused to provide rubber would be completely swept clean. As a young man, I saw [Fi?ez's] soldier Molili, then guarding the village of Boyeka, take a net, put ten arrested natives in it, attach big stones to the net, and make it tumble into the river...Rubber causes these torments; that's why we no longer want to hear its name spoken. Soldiers made young men kill or rape their own mothers and sisters.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+philantropic_work;¹Ú¾Ö »ç¾÷;Philanthropic Work;;;;;;;;;;;;;;;;;;;;;;;;;;x
+philantropic_work_desc;¿ì¸®´Â ÀÌ ³ª¶ó¸¦ ¹®¸íÈ­ÇÏ°í ÅäÂø¹ÎµéÀ» µ½°í ÀÖ½À´Ï´Ù.We are guiding this nation in the principles of civilizing and helping the natives.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+refused_gp_deliberation;°­´ë±¹¿¡ ¹İÇ×;Defied the Great Powers;;;;;;;;;;;;;;;;;;;;;;;;;;x
+refused_gp_deliberation_desc;¿ì¸®´Â °­´ë±¹µéÀÇ ½ÉÀÇ¿¡ ¹İ´ëÇß½À´Ï´Ù. È¸ÀÇ¿¡¼­ ³»¸° °áÁ¤À» ÁıÇàÇÏ·Á´Â ÀüÀïÀÇ À§ÇùÀÌ ´Ù°¡¿À°í ÀÖÁö¸¸, ¸¸¾à ¿ì¸®°¡ ÃæºĞÇÑ ½Ã°£À» ¹öÆ¿ ¼ö ÀÖ´Ù¸é, ±×µéÀº ¿ì¸®°¡ ¿Ç´Ù´Â °ÍÀ» ÀÎÁ¤ÇÒÁöµµ ¸ğ¸¨´Ï´Ù.;We defied the deliberation of the Great Powers. There's a looming threat of war to enforce the decisions made in the Congress, but if we can hold out for enough time they may be forced to recognize that we are right.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+mandate_of_heaven;Ãµ¸í;Mandate of Heaven;;;;;;;;;;;;;;;;;;;;;;;;;;x
+mandate_of_heaven_desc;½ÅÀÇ ±ÇÇÑÀ¸·Î, È²Á¦´Â ¸¸¹ÎÀÇ ÅëÄ¡ÀÚÀÔ´Ï´Ù.;By Divine Right, the Emperor is ruler of all under Heaven.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+the_congo_reform_association;Äá°í °³ÇõÇùÈ¸;The Congo Reform Association;;;;;;;;;;;;;;;;;;;;;;;;;;x
+the_congo_reform_association_desc;ÇÑ ±¹Á¦ ÀÎµµÁÖÀÇ ´ÜÃ¼´Â Äá°í¿¡¼­ÀÇ ¿ì¸®ÀÇ ½Ä¹Î Á¤Ã¥¿¡ ´ëÇØ º°·Î È£ÀÇÀûÀÌÁö ¾ÊÀº ÀÔÀåÀ» º¸ÀÌ°í ÀÖ½À´Ï´Ù.;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;;;;;;;;;;;;;;;x
+indian_territory;¿øÁÖ¹Î ±¸¿ª;Indian Territory;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+indian_territory_desc;¿øÁÖ¹Î ±¸¿ªÀº ¹Ì±¹ Á¤ºÎ°¡ ¿øÁÖ¹ÎÀÇµéÀ» ÀÌÁÖ½ÃÅ°±â À§ÇØ ³²°ÜµĞ ¶¥ÀÔ´Ï´Ù.;The Indian Territory is a land area set aside by the United States Government for the relocation of the indigenous peoples of the Americas who held aboriginal title to their land.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+reconstruction;º¹¿ø Á¤Ã¥;Reconstruction Policies;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+reconstruction_desc;³²ºÏÀüÀïÀÌ ³¡³­ ÈÄ, ºĞ¿­µÈ ¿ì¸®³ª¶ó´Â Àç°ÇµÇ¾î¾ß ÇÕ´Ï´Ù.; After the Civil War, our torn nation needs to be rebuilt. With policies such as the  theTen-Percent Plan, a plan that stipulates that each secessionist state had to redraft its constitution and could reenter the Union only after 10 percent of its eligible voters pledged an oath of allegiance to the United States and other reconstruction plans, the USA can recover from the effects of this devastating war.;;;;;;;;;;;;;;;;;;;;;;;x
+cultural_resurgence;¹®È­Àû Àç±â;Cultural Resurgence;;;;;;;;;;;;;;;;;;;;;;;x
+cultural_resurgence_desc;ÀÌ Áö¿ªÀº ¿¾ ¹®È­ÀÇ ¿ÏÀüÇÑ ºÎÈ°À» °æÇèÇÏ°í ÀÖ½À´Ï´Ù;This province is experiencing a complete resurgence of an old culture.;;;;;;;;;;;;;;;;;;;;;;;x
+chinese_treaty_port;Áß±¹ Á¶¾àÇ×;Chinese Treaty Port;;;;;;;;;;;;;;;;;;;;;;;x
+chinese_treaty_port_desc;¿ì¸®´Â Áß±¹°ú Á¶¾àÀ» ¸Î°í Áß±¹ÀÇ Ç×±¸¿Í µµ½Ã¿¡ ´ëÇÑ ±Ç¸®¸¦ È¹µæÇß½À´Ï´Ù.;We negotiated a treaty with the Chinese and acquired the rights over a Chinese port and city.;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_unequal_treaty;ºÒÆòµî Á¶¾à;Unequal Treaty;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_unequal_treaty_desc;¿ì¸®´Â ÀüÀï¿¡¼­ ÆĞÇß°í ¼­¾çÀÎµéÀº ¹®È£ °³¹æ, ±İÀüÀû º¸»ó ±×¸®°í ½ÉÁö¾î ¿µÅäÀÇ ÇÒ¾çÀ» ¿ä±¸ÇÏ¸ç µ¶¼ö¸®Ã³·³ ¹Ğ·Á¿Ô½À´Ï´Ù.;We have lost a war and like vultures, the westerners descended upon us imposing their conditions including the opening of our country, monetary reparations and even the secession of territory.;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_treaty;Çù»ó Á¶¾à;Negotiating Treaty;;;;;;;;;;;;;;;;;;;;;;;x
+negotiating_treaty_desc;¿ì¸® ¿Ü±³°üµéÀº ÆĞÀü±¹°ú Á¶¾àÀ» Çù»óÇÏ°í ÀÖ½À´Ï´Ù.;Our diplomats are negotiating a treaty with a defeated nation.;;;;;;;;;;;;;;;;;;;;;;;x
+lacks_writing_system;Ç¥ÁØ¾î Ã¼°è ¾øÀ½;Lacks Writing System;;;;;;;;;;;;;;;;;;;;;;;x
+lacks_writing_system_desc;¿ì¸® »çÈ¸¿¡´Â Ç¥ÁØ¾î Ã¼°è°¡ ¾ø½À´Ï´Ù. Ç¥ÁØ¾î°¡ ¾ø´Ù¸é, Á¤ºÎÀÇ Á¶Á÷ ±¸Á¶´Â Ç×»ó ´Ü¼øÇÒ °ÍÀÔ´Ï´Ù.;Our society lacks a writing system. Without this the written word, the organizational structures of the government will always be simple.;;;;;;;;;;;;;;;;;;;;;;;x
+penal_colony;Çü¹ú ½Ä¹ÎÁö;Penal Colony;;;;;;;;;;;;;;;;;;;;;;;x
+penal_colony_desc;ÀÌ Áö¿ª¿¡´Â Çü¹ú ½Ä¹ÎÁö°¡ ÀÖ½À´Ï´Ù. ÇÏ·ùÃş ´ëºÎºĞÀº ÁË¼öÀÌ°Å³ª ÁË¼ö¿´´ø ÀÚµéÀÌ¸ç, ÀÌ°ÍÀº ºó°ïÀÇ È®»êÀ¸·Î ÀÌ¾îÁı´Ï´Ù.;This province is home to a sizeable penal colony. Most of the poor strata are convicts or former convicts, leading to widespread poverty.;;;;;;;;;;;;;;;;;;;;;;;x
+divided_society;ºĞ¿­µÈ »çÈ¸;Divided Society;;;;;;;;;;;;;;;;;;;;;;;x
+divided_society_desc¿ì¸® »çÈ¸´Â ÀÎÁ¾ ¹®Á¦·Î ±íÀÌ ºĞ¿­µÇ¾î ÀÖ½À´Ï´Ù. ÁÖº¯¿¡´Â ºÒ½Å°ú ºĞ³ë°¡ ¸¸¿¬ÇØ ÀÖ¾î ÅëÇÕ¿¡ ½É°¢ÇÑ ¿µÇâÀ» ÁÖ°í ÀÖ½À´Ï´Ù.;Our society is deeply divided by racial issues. There's distrust and resentment all around and because of that integration is severely affected.;;;;;;;;;;;;;;;;;;;;;;;x
+caudillo_leaders;ÄÚµô·Î;Caudillo;;;;;;;;;;;;;;;;;;;;;;;x
+caudillo_leaders_desc;ÄÚµô·Î´Â ³²¾Æ¸Ş¸®Ä«ÀÇ ±º»ç µ¶ÀçÀÚ¸¦ ¶æÇÏ´Â ´Ü¾îÀÔ´Ï´Ù.;A caudillo is a type of militia leader with a charismatic personality and enough of a populist program of generic future reforms to gain broad sympathy, at least at the outset, among the common people. Effective caudillismo depends on a personality cult. Since the caudillo typically held power by controlling a patronage network that brooked no rival structure, some caudillos took up an anti-clerical stand. Many of the caudillos used their newly gained power, which was unchecked because it was extra-constitutional, to promote their own wealth and interests.;;;;;;;;;;;;;;;;;;;;;;;x
+corrupt_army;ºÎÆĞÇÑ Àå±³;Corrupt Officials;;;;;;;;;;;;;;;;;;;;;;;x
+corrupt_army_desc;Àå±³ Áß ÇÑ ¸íÀÌ ÆĞ¹èÀÇ ¿øÀÎÀ» ÀûÀÇ ¸¶¹ı Å¿À¸·Î µ¹·È°í, ±×°ÍÀº ¿ø¼öÀÇ ¼º³­ ¹İÀÀÀ» ºÒ·¯ÀÏÀ¸Ä×½À´Ï´Ù. ¿ì¸® ±º´ëÀÇ Á¶Á÷°ú º¸±ŞÀÌ ºÒÃæºĞÇÏ°í, Àå±³ ÈÆ·Ãµµ ºÎÁ·ÇÏ¸ç, ºÎÆĞ°¡ ¸¸¿¬ÇÏ´Ù´Â °ÍÀº ¸í¹éÇÕ´Ï´Ù.;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;;;;;;;;;;;;;;;;;;;;;;;x
+fanatic_army;³ôÀº Ãæ¼º½É;Fanatic Loyalty;;;;;;;;;;;;;;;;;;;;;;;x
+fanatic_army_desc;³ôÀº ¼öÁØÀÇ ±â°­°ú ³ôÀº Ãæ¼º½ÉÀ¸·Î Æ¯Â¡Áö¾îÁø ¿ì¸® ±º´ë´Â ´ëÀÇ¸¦ À§ÇØ ½Î¿ì±â À§ÇØ Àü±¹¿¡¼­ »ç¶÷µéÀ» ¸ğÁıÇÏ°í ÀÖ½À´Ï´Ù. ÀÌ º´»çµéÀº ¿ì¸®ÀÇ ÀÓ¹«¸¦ È®°íÈ÷ ¹Ï°í ¿µ¿øÇÑ Ãæ¼º½ÉÀ» °¡Áö°í ÀÖ½À´Ï´Ù.;Marked by a high level of discipline and fanaticism, our army is recruiting people from all over our country to fight for our cause. These conscripts firmly believe in our mission and are of an undying loyalty to us.;;;;;;;;;;;;;;;;;;;;;;;x
+irish_poverty;¾ÆÀÏ·£µå ºó°ï;Irish Poverty;;;;;;;;;;;;;;;;;;;;;;;x
+animists_run;Åä¼Ó½Å¾Ó ½Åµµ ÀÌÁÖ;Animist Emigration;;;;;;;;;;;;;;;;;;;;;;;x
+hormuz_strait;È£¸£¹«Áî ÇØÇù;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
+the_french_foreign_legion;ÇÁ¶û½º ¿ÜÀÎºÎ´ë;La L?ion ?rang?e;;;;;;;;;;;;;;;;;;;x
+the_hedeselskab;È÷½ºÇùÈ¸;The Hedeselskab;;;;;;;;;;;;;;;;;;x,,,,
+the_hedeselskab_desc;µ§¸¶Å© ¹«¾î È¸»ç Àç´ÜÀº ±¤´ëÇÑ Áö¿ªÀÇ ¹è¼ö ¹× °³¼±À» ÀÌ²ü´Ï´Ù.;The foundation of the Danish Moor Company lead to the drainage and improvement of vast areas.;;;;;;;;;;;;;;;;;;x,,,,
+emigration_boom;ÀÌ¹Î ºÕ;Emigration Boom;;;;;;;;;;;;;;;;;;x,,,,
+emigration_boom_desc;¿ì¸®³ª¶óÀÇ »ıÈ°¿©°Ç º¯È­´Â ±¹¹ÎÀÇ ÀÌÁÖ¸¦ ÀÚ±ØÇÏ°í ÀÖ½À´Ï´Ù.;Changing life conditions in our country are stimulating a big relocation of our people.;;;;;;;;;;;;;;;;;;x,,,,
+gold_rush_country;Äİµå ·¯½Ã;Gold Rush;;;;;;;;;;;;;;;;;;x,,,,
+gold_rush_country_desc;¿ì¸®³ª¶ó´Â ±¸´ë·úÀÇ »ç¶÷µéÀÌ ¿ì¸®³ª¶ó·Î ¸ô·Á¿Àµµ·Ï ÇÏ´Â °ñµå ·¯½Ã¸¦ °Ş°í ÀÖ½À´Ï´Ù.;Our country is experiencing a gold rush leading people from all over the old world to flock to our country.;;;;;;;;;;;;;;;;;;x,,,,
+global_baby_boom;º£ÀÌºñ ºÕ;Baby Boom;;;;;;;;;;;;;;;;;;x,,,,
+global_baby_boom_desc;¿ì¸®³ª¶óÀÇ »ıÈ°È¯°æ °³¼±Àº Àü±¹ÀûÀ¸·Î º£ÀÌºñºÕÀ» ÀÏÀ¸Å°°í ÀÖ½À´Ï´Ù.;Improvements in life conditions in our country are leading to a country-wide baby boom.;;;;;;;;;;;;;;;;;;x,,,,
+political_education;ÀÌ³ä ±³À°;Ideological Education;;;;;;;;;;;;;;;;;;x,,,,
+political_education_desc;¿ì¸®³ª¶óÀÇ ±³À°Àº ÀÌ³ä ±³À°À¸·Î °¡µæ Â÷ ÀÖ¾î ÁöµµÀÚ°¡ ¹Ù²ğ ¶§¸¶´Ù ½É°¢ÇÑ º¯È­¸¦ °¡Á®¿É´Ï´Ù.;Education in our country is full blown ideological indoctrination, and has severe changes every time our leader changes. Universal public education is thus enforced and alphabetization is a priority, but at the cost of free thinking.;;;;;;;;;;;;;;;;;;x,,,,
+cult_of_personality;°³ÀÎ ¼ş¹è;Cult of Personality;;;;;;;;;;;;;;;;;;x,,,,
+cult_of_personality_desc;°³ÀÎ ¼ş¹è´Â °³ÀÎÀÌ ´ëÁß¸ÅÃ¼, ¼±Àü ¶Ç´Â ´Ù¸¥ ¹æ¹ıÀ» »ç¿ëÇÏ¿© ÀÌ»óÀûÀÌ°í ¿µ¿õÀûÀÌ¸ç ¶§·Î´Â ¼ş°íÇÑ ÀÌ¹ÌÁö¸¦ ¸¸µé ¶§ ¹ß»ıÇÕ´Ï´Ù.;A cult of personality arises when an individual uses mass media, propaganda, or other methods, to create an idealized, heroic, and at times, worshipful image, often through unquestioning flattery and praise.;;;;;;;;;;;;;;;;;;x,,,,
+totalitarian_system;ÀüÃ¼ÁÖÀÇ;Totalitarianism;;;;;;;;;;;;;;;;;;x,,,,
+totalitarian_system_desc;ÀüÃ¼ÁÖÀÇ¶õ ±¹°¡°¡ »çÈ¸¿¡ ´ëÇÑ ¿ÏÀüÇÑ ±ÇÇÑÀ» °¡Áö°í ÀÖÀ¸¸ç °¡´ÉÇÑ ¸ğµç °÷¿¡¼­ °ø°ø°ú °³ÀÎ »ıÈ°ÀÇ ¸ğµç Ãø¸éÀ» ÅëÁ¦ÇÏ·Á ÇÏ´Â Á¤Ä¡ Ã¼Á¦¸¦ °¡¸®Åµ´Ï´Ù.;Totalitarianism is a political system in which the state holds total authority over the society and seeks to control all aspects of public and private life wherever possible.;;;;;;;;;;;;;;;;;;x,,,,
+the_terror;Å×·¯;The Terror;;;;;;;;;;;;;;;;;;x,,,,
+the_terror_desc;¿ì¸®ÀÇ ÀûÀ» ±Øº¹ÇÏ±â À§ÇØ¼­ ¿ì¸®´Â ¿ì¸® ÀÚ½ÅÀÇ ±º±¹ÁÖÀÇ¸¦ °¡Á®¾ß ÇÕ´Ï´Ù. ¿ì¸®´Â ¿ì¸®³ª¶ó ÀüÃ¼ ÀÎ±¸ Áß 90%¸¦ °¨´çÇØ¾ß ÇÏ¸ç ³ª¸ÓÁö´Â Àı¸êµÇ¾î¾ß ÇÕ´Ï´Ù.;To overcome our enemies we must have our own militarism. We must carry along with 90 percent out of the total population of our country. As for the rest, we have nothing to say to them. They must be annihilated.;;;;;;;;;;;;;;;x,,,,
+silver_age;¹éÀº½Ã´ë;A Silver Age;;;;;;;;;;;;x,,,,
+silver_age_desc;¿ì¸®ÀÇ ÈÇ¸¢ÇÑ ÁöµµÀÚ´Â ¿ì¸®¸¦ ´õ ³ªÀº ³»ÀÏ·Î ÀÎµµÇÒ °ÍÀÔ´Ï´Ù.;Our most excellent leader will take us through a time of trouble to a better tomorrow.;;;;;;;;;;;;;;;;;;;;;;;;x,,,,
+chinese_foreign_training;Áß±¹ÀÇ ¿Ü±¹½Ä ÈÆ·Ã;Foreign Training in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_weapons;Áß±¹ÀÇ ¼­±¸½Ä ¹«±â;Western Weapons in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_officers;Áß±¹ÀÇ ¿Ü±¹ Àå±³;Foreign Officers in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+chinese_foreign_artillery;Áß±¹ÀÇ ¼­±¸½Ä ´ëÆ÷;Western Artillery in China;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pandemic_influenza_immunity;µ¶°¨À¸·ÎºÎÅÍÀÇ ÀÚÀ¯;Influenza Free;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+pandemic_influenza_immunity_desc;µ¶°¨ÀÌ ¿ì¸®³ª¶ó¸¦ È²ÆóÈ­½ÃÅ°Áö¸¸, ÀÌ ÀÛÀº °í¸³µÈ °øµ¿Ã¼´Â ¿Üµı ÀÔÁö ´öºĞ¿¡ ¿µÇâÀ» ¹ŞÁö ¾Ê°í ÀÖ½À´Ï´Ù.;A Pandemic of Influenza ravages our country, but this small isolated community is immune to it, thank to its remote location.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+population_resettlement;ÁÖ¹Î Àç½Ä¹Î;Population Resettlement;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+population_resettlement_desc;¿ì¸®³ª¶ó´Â ½Ã¹ÎµéÀ» Àç½Ä¹ÎÇÔÀ¸·Î½á ÀÌ Áö¿ªÀ» ±¹°¡¿¡ ÅëÇÕÇÏ±â À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù.;Our nation is working on the national integration of a region by resettling our citizens.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trade_city;¹«¿ª µµ½Ã;Trade City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+trade_city_desc;ÀÌ Áö¿ª¿¡ Áß¿äÇÑ ¹«¿ª µµ½Ã°¡ À§Ä¡ÇØÀÖ¾î ¸¹Àº °æÁ¦Àû ¹ø¿µÀ» ´©¸®°í ÀÖ½À´Ï´Ù.;Located in this province is an important trade city, a hub of trade of the region, enjoying much economic prosperity.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+peacetime_mobilization;ÆòÈ­ ±â°£ÀÇ µ¿¿ø;Peace Time Mobilization;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+peacetime_mobilization_desc;ÇÏ·ùÃşµéÀº ÈÆ·ÃµÇ°í ½Î¿ï ÁØºñ°¡ µÇ¾î ÀÖÁö¸¸, ÀüÀïÀº ¾ø½À´Ï´Ù. ÀÌ ³ª¶óÀÇ ÀÏ»ó »ıÈ°ÀÇ Å« È¥¶õÀº ÁÖ¹ÎÀ» ÁöÄ¡°Ô ÇÏ°í ÀÌ¿ô ±¹°¡µé¿¡°Ô °æ°è½ÉÀ» »ç°í ÀÖ½À´Ï´Ù.;Conscripts are being drafted left and right and our poor are being trained and prepared to fight, yet there's no war. This large disruption in the country's daily life is making our pops tired and our neighbors wary.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_received;Á¶°ø ¼ö·É;Tribute Received;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_received_desc;¿ì¸®ÀÇ ¼Ó±¹ Áß ÇÏ³ª°¡ ¿ì¸®¿¡°Ô °æÀÇ¸¦ Ç¥Çß½À´Ï´Ù.;One of our vassals paid their due tribute to us.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_paid;Á¶°ø ÁöºÒ;Tribute Paid;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+tribute_paid_desc;¿ì¸®´Â ¼öÀÔÀÇ ÀÏºÎ¸¦ Á¾ÁÖ±¹¿¡ ¹ÙÃÄ¾ß ÇÕ´Ï´Ù.;We have to share part of our earnings with our overlord over the time period and as suck we are poorer from that.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+islamic_law_triggered;ÀÌ½½¶÷ À²¹ı;Islamic Law;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+islamic_law_triggered_desc;ÀÌ½½¶÷ À²¹ıÀº ÀÌÁ¦ ¿ì¸® »çÈ¸ÀÇ ±âº»¹ı±Ô°¡ µÇ¾ú½À´Ï´Ù. ±×°ÍÀº ¹üÁË, Á¤Ä¡, °æÁ¦»Ó¸¸ ¾Æ´Ï¶ó ¼º°ü°è, À§»ı, ½ÄÀÌ¿ä¹ı, ±âµµ, ÀÏ»ó ¿¡Æ¼ÄÏ°ú ±İ½Ä °°Àº °³ÀÎÀûÀÎ ¹®Á¦µéÀ» ´Ù·ì´Ï´Ù.;Islamic law is now the basis law code of our society. It deals with several topics including: crime, politics, and economics, as well as personal matters such as sexual intercourse, hygiene, diet, prayer, everyday etiquette and fasting.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+deportation_underway;±¹¿Ü Ãß¹æ;Deportation;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+deportation_underway_desc;´Ù¸¥ ¹®È­¿¡ ¼ÓÇÑ »ç¶÷µéÀÌ ÀÌ ³ª¶ó¸¦ ¶°³ªµµ·Ï "Àå·ÁÇÏ°í" ÀÖ½À´Ï´Ù.;People from different ethnicities are being "encouraged" to move out of this country.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+treaty_port;Á¶¾àÇ×;Treaty Port;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+treaty_port_desc;¿Ü±¹ Á¤ºÎ¿¡ ¾çµµµÅ Áß±¹°ú ´Ù¸¥ ³ª¶ó¸¦ ÀÕ´Â ¹«¿ªÀÇ Áß½ÉÀÔ´Ï´Ù.;This port was ceded to a foreign administration and it's a hub of trade from China to the rest of the world.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+drained_marsh;¹è¼öµÈ ½ÀÁö;Drained Marsh;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+drained_marsh_desc;ÀÌ ½ÀÁö´ë´Â ¹è¼öµÇ¾î °á°úÀûÀ¸·Î ´õ »ì±â ÆíÇÕ´Ï´Ù.;This marshland was drained and as a result it is more habitable.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+backed_down_on_promise;¾à¼Ó Ãë¼Ò;Backed Down on Promises;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+backed_down_on_promise_desc;¿ì¸® Á¤ºÎ´Â ¿ì¸® ÁÖ¹Î¿¡ ´ëÇÑ ÇÏ³ª ÀÌ»óÀÇ Áß¿äÇÑ ¾à¼ÓÀ» ¾î°å½À´Ï´Ù.;Our government broke one or more important promises to our population.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+highlander_raids;»ê¾ÇÁö¿ªÀÎ ±Ş½À;Highlander Raids;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+highlander_raids_desc;»ê¾ÇÁö¿ªÀÎµéÀÌ ¿ì¸® Áö¿ªÀ» ¾àÅ»ÇÏ°í ÀÖ½À´Ï´Ù.;Highlander raiders are looting our provinces in numbers.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+jewish_farms;À¯´ëÀÎ ³óÀå;Jewish Farmlands;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+jewish_farms_desc;ÀÌ½º¶ó¿¤·Î ÀÌÁÖÇÑ À¯´ëÀÎµéÀº »ï¸²ÆÄ±«, Åä¾çÄ§½Ä, ¹æÄ¡¿¡ ÀÇÇØ ¸¹Àº °ÍµéÀÌ ´ëºÎºĞÀÌ ¹İ°ÇÁ¶ÀÎ ¶¥À» ±¸ÀÔÇß½À´Ï´Ù. ±×µéÀº ¹ÙÀ§ ¹çÀ» °³°£ÇÏ°í, Å×¶ó½º¸¦ °Ç¼³ÇÏ°í, ¸ñÃÊÁö¸¦ ¹è¼öÇÏ°í, ½£À» ´Ù½Ã °¡²Ù°í, Åä¾ç Ä§½ÄÀ» ¸·°í, ¿°ºĞÀ» »¡¾ÆµéÀÌ±â ½ÃÀÛÇß½À´Ï´Ù. µ¶¸³ ÀÌÈÄ, °æÀÛ ÁßÀÎ ÃÑ ¸éÀûÀº 408,000 ¿¡ÀÌÄ¿(1,650 km2)¿¡¼­ 1,07,000 ¿¡ÀÌÄ¿(4,300 km2)·Î Áõ°¡Çß°í, ³ó¾÷ °øµ¿Ã¼ÀÇ ¼ö´Â 400¿¡¼­ 725 ¿¡ÀÌÄ¿·Î Áõ°¡Çß´Ù. ³ó¾÷»ı»êÀº ÀÎ±¸Áõ°¡À²º¸´Ù 3¹è³ª ¸¹Àº 16¹è ¼ºÀåÇß½À´Ï´Ù.;Jews who immigrated to Israel purchased land that was mostly semi-arid, although much had been rendered untillable by deforestation, soil erosion and neglect. They set about clearing rocky fields, constructing terraces, draining swampland, reforesting, counteracting soil erosion, and washing salty land. Since independence, the total area under cultivation has increased from 408,000 acres (1,650 km2) to 1,070,000 acres (4,300 km2), while the number of agricultural communities has increased from 400 to 725. Agricultural production has expanded 16 times, three times more than population growth.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+monument_under_construction;°ø»ç Áß;Under Construction;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+monument_under_construction_desc;¿ì¸®´Â ±¹°¡ÀÇ À§´ëÇÔÀ» ÃàÇÏÇÏ±â À§ÇÑ À§´ëÇÑ °èÈ¹À» ½ÇÇàÇÏ°í ÀÖ½À´Ï´Ù.;We are building a great project to celebrate our nation greatness.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+recently_built_city;ÃÖ±Ù °Ç¼³ÇÑ µµ½Ã;Recently Built City;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+recently_built_city_desc;ÀÌ µµ½Ã´Â ÃÖ±Ù Á¤ºÎ°¡ °Ç¼³ÇßÀ¸¸ç, Çö´ëÀûÀÎ ±â¹İ½Ã¼³À» ±¸ÃàÇÏ±â À§ÇØ ¸¹Àº ³ëµ¿ÀÚµéÀ» ÀÌ Áö¿ª¿¡ ÅõÀÔÇß½À´Ï´Ù.;The capital of this province was recently built by the government, moving a lot of workers to the region to  build a city with modern infrastructure.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+law_changed_by_force;¹ı °³Á¤;Law Changed;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+law_changed_by_force_desc;¿ì¸®´Â »ó¿øÀ» ¾Ğ¹ÚÇÏ¿© ½Ã±ŞÇÑ °³ÇõÀ» Åë°ú½ÃÄ×½À´Ï´Ù.;We pressured the upper house to pass an urgent reform.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+social_reformed_nation;¿ÏÀüÇÑ º¹Áö ±¹°¡;Full Welfare State;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+social_reformed_nation_desc;»çÈ¸°³ÇõÀº ¸ğµç »çÈ¸ÁÖÀÇÀû ¿ä±¸¿¡ ºÎÇÕÇÕ´Ï´Ù. ÀÏºÎ ÇĞÀÚµéÀº ¿ì¸®¸¦ º¹Áö±¹°¡¶ó°í ºÎ¸£±âµµ ÇÕ´Ï´Ù.;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+wahhabism_in_nejd;¿ÍÇÏºêÆÄ;Wahhabism;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+wahhabism_in_nejd_desc;¿ÍÇÏºêÆÄ ±³¸®ÀÇ "Áß½É »ç»ó"Àº ¹«½½¸²À» ÀÚÄªÇÏÁö¸¸ ¹«½Ã¹Ş´Â "ÀÌ½½¶÷ÀÇ ¹Ù±ù"À» ÀÎÁ¤ÇÏ´Â °ÍÀÌ¾ú½À´Ï´Ù. ¿©±â¿¡´Â ¹®¸Í, º£µÎÀÎ »Ó¸¸ ¾Æ´Ï¶ó ½Ã¾ÆÆÄ, ¼öÇÇÆÄ, ¿À½º¸¸ Á¦±¹µµ Æ÷ÇÔÇß½À´Ï´Ù.;The "pivotal idea" of Wahhabism teaching was that people who called themselves Muslims but who participated in such innovations were not just misguided or committing a sin, but were "outside the pale of Islam altogether", as were Muslims who disagreed with his definition. This included not just lax, unlettered, nomadic Bedu, but Shia, Sufi, and Ottomans.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+russian_army;·¯½Ã¾Æ À°±º;The Russian Army;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+russian_army_desc;·¯½Ã¾Æ À°±ºÀº À¯·´¿¡¼­ °¡Àå Å« À°±ºÀÌ µÉ ¼öµµ ÀÖÁö¸¸, º¸±Ş°ú Á¶Á÷·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù.;The Russian Army may be the biggest land force of Europe, but it is poorly supplied and organized.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+landlocked_nation;³»·ú ±¹°¡;Landlocked Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+landlocked_nation_desc;¿ì¸® ³ª¶ó´Â ¹Ù´Ù¿¡ Á¢±ÙÇÒ ¼ö ¾ø¾î¼­ ¼öÀÔ ºñ¿ëÀÌ Å©°Ô Áõ°¡ÇÕ´Ï´Ù.;Our nation doesn't have any access to the sea, greatly increasing import costs.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+fundamentalist_sympathies;ÀÌ½½¶÷ ±Ùº»ÁÖÀÇÀÚ;Islamic Fundamentalists;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+fundamentalist_sympathies_desc;ÀÌ½½¶÷ ±Ùº»ÁÖÀÇÀÚµéÀÌ Áö¿ª¹ÎµéÀ» ¼±µ¿ÇÏ°í ÀÖ½À´Ï´Ù.;Islamic Fundamentalists are agitating the people in this province.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_constitution;»õ Çå¹ı;The New Constitution;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+new_constitution_desc;¿ì¸®³ª¶ó´Â »õ·Î¿î Çå¹ıÀ» ¹ßÇ¥ÇÏ¿© ÅõÇ¥±Ç°ú ½Ã¹Î±ÇÀ» º¸ÀåÇØ Çõ¸íÀÇ ºÒ±æÀ» Áø¾ĞÇß½À´Ï´Ù.;Our country issued a new constitution, guaranteeing voting and citizen rights and putting down the revolutionary flames.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rise_of_a_nation;±¹°¡ÀÇ ºÎ»ó;Rise of a Nation;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+rise_of_a_nation_desc;¿ì¸®ÀÇ ÀÚ¶û½º·¯¿î ³ª¶ó´Â ÀÚÀ¯·Î¿ì¸ç ¿ì¸®ÀÇ ¹®È­´Â ´Ù½Ã ²ÉÀ» ÇÇ¿ó´Ï´Ù.;Our proud nation is free, and our culture blossoms again.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sounds_dues_toll;¿Ü·¹¼ø ÅëÇà·á;The Sound Toll;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+sounds_dues_toll_desc;¿Ü·¹¼ø ÅëÇà·á´Â 16¼¼±â¿Í 17¼¼±â µ§¸¶Å©ÀÇ ±¹°¡ ¼öÀÔÀÇ 3ºĞÀÇ 2¿¡ ÇØ´çÇÏ´Â ÅëÇà·áÀÔ´Ï´Ù.;The Sound Dues (or the Sound Toll) is a toll on the use of the Sound which constituted up to two thirds of Denmark's state income in the 16th and 17th centuries. The dues was introduced by King Eric of Pomerania in 1429.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MODIFIER_DEBT_DEFAULT_TO;Ã¤¹« ºÒÀÌÇà;Debt Default To;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+generalised_debt_default;º¸ÆíÈ­µÈ Ã¤¹« ºÒÀÌÇà;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MODIFIER_GENERALISED_DEBT_DEFAULT;º¸ÆíÈ­µÈ Ã¤¹« ºÒÀÌÇà;Generalized Debt Default;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+hunger_riots;±¾ÁÖ¸° ÀÚµéÀÇ Æøµ¿;Hunger Riots;;;;;;;;;;;;;;;;;;;x,,,,,
+desc_hunger_riots;ºó¹ÎµéÀÌ ½É°¢ÇÑ ¾î·Á¿òÀ» °ŞÀ¸¸ç °æÂû·ÂÀÌ ¾ø°í ¹üÁË¿ÍÀÇ ÀüÀï¿¡ ¾µ ¿¹»êÀÌ ÀûÀº Áö¿ªÀº ½ÃÀ§°¡ °ÈÀâÀ» ¼ö ¾ø°Ô µÇ¾î ³ë°ñÀûÀÎ Æøµ¿¿¡ ÈÛ¾µ¸®°Ô µË´Ï´Ù.;A province where the poor are under severe hardship and that lacks an effective police force and has less money for crime fighting results in demonstrations getting out of hand and devolving in outright riots.;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill;°­Á¦ ¼ö¿ë¼Ò;Concentration Camps;;;;;;;;;;;;;;;;;;;x,,,,,
+preparations_to_kill_desc;¿ì¸®´Â ¿ì¸®³ª¶óÀÇ ¼Ò¼ö ¹®È­ ¹®Á¦¸¦ ÇØ°áÇÏ°í ÀÖ½À´Ï´Ù. ¼Ò¼ö ¹®È­¿¡ ¼ÓÇÑ ÀÌµéÀº Áı´Ü¼ö¿ë¼Ò¿¡ ¹èÄ¡µÇ¾î ÀÚ½ÅµéÀÇ ¿î¸íÀ» ±â´Ù¸®°í ÀÖ½À´Ï´Ù.;We are solving the minorities problem in our country. Minorities are being sorted out in concentration camps and waiting for their fate, or being delivered to it already.;;;;;;;;;;;;;;;;;;;x,,,,,
+withdrew_from_geneva_convention;Á¦³×¹Ù Çù¾à Å»Åğ;Withdrew from the Geneva Convention;;;;;;;;;;;;;;;;;;;x,,,,,
+withdrew_from_geneva_convention_desc;¿ì¸®³ª¶ó´Â ÀÌÁ¦ Á¦³×¹Ù Çù¾àÀÇ ¼­¸í±¹ÀÌ ¾Æ´Õ´Ï´Ù.;Our country is no longer a signatory of the Geneva Convention.;;;;;;;;;;;;;;;;;;;x,,,,,
+genocide;Ã¼°èÀû ¸»»ì;Systematic Extermination;;;;;;;;;;;;;;;;;;;x,,,,,
+genocide_desc;¼Ò¼ö ¹®È­¿¡ ´ëÇÑ °ø°İÀûÀÎ Á¤Ã¥µéÀÌ ¿ì¸®³ª¶óÀÇ º¯È­¸¦ ÃËÁøÇÏ°í ÀÖ½À´Ï´Ù.;Our aggressive policies against minorities are promoting a shift in our country.;;;;;;;;;;;;;;;;;;;x,,,,,
+small_but_efficient;°­¼Ò±¹;Small But Efficient;;;;;;;;;;;;;;;;;;;x,,,,,
+small_but_efficient_desc;¿ì¸®³ª¶ó´Â ÀÛ½À´Ï´Ù. ±×·¯³ª ÀÌ´Â ¿î¿µÇÏ±â ½¬¿òÀ» ÀÇ¹ÌÇÕ´Ï´Ù.;Our country might be small, but that just means we can run it better.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_kiel_canal;Å³ ¿îÇÏ;The Kiel Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_kiel_canal_desc;µ§¸¶Å© ÁÖº¯À» Ç×ÇØÇÒ ÇÊ¿ä ¾øÀÌ ¹ßÆ®ÇØ°ú ºÏÇØ¸¦ ¿¬°áÇÏ´Â Å³ ¿îÇÏ¸¦ ¼ÒÀ¯ÇÏ°í ÀÖÀ¸¸ç, ÅëÇà·á¸¦ ¹Ş½À´Ï´Ù.;We own the Kiel Canal, linking the Baltic and the North Sea without the need to sail around Denmark, and we receive the dividends of its toll.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_suez_canal;¼ö¿¡Áî ¿îÇÏ;The Suez Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_suez_canal_desc;¾ÆÇÁ¸®Ä«¸¦ µ¹ ÇÊ¿ä ¾øÀÌ ÁöÁßÇØ¿Í È«ÇØ¸¦ ¿¬°áÇÏ´Â ¼ö¿¡Áî ¿îÇÏ¸¦ ¼ÒÀ¯ÇÏ°í ÀÖÀ¸¸ç, ÅëÇà·á¸¦ ¹Ş½À´Ï´Ù.;We own the Suez Canal, linking the Mediterranean and the Red Sea without the need to sail around Africa, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
+own_panama_canal;ÆÄ³ª¸¶ ¿îÇÏ;The Panama Canal;;;;;;;;;;;;;;;;;;;x,,,,,
+own_panama_canal_desc;³²¾Æ¸Ş¸®Ä«¸¦ µ¹ ÇÊ¿ä ¾øÀÌ ÅÂÆò¾ç°ú ´ë¼­¾çÀ» ¿¬°áÇÏ´Â ÆÄ³ª¸¶ ¿îÇÏ¸¦ ¼ÒÀ¯ÇÏ°í ÀÖÀ¸¸ç, ÅëÇà·á¸¦ ¹Ş½À´Ï´Ù.;We own the Panama Canal, a huge feat of engineering linking the Pacific and the Atlantic Oceans, and we receive the dividends of its toll and glory for its possession.;;;;;;;;;;;;;;;;;;;x,,,,,
+rebuilding_city;Àç°ÇÃà;Rebuilding;;;;;;;;;;;;;;;;;;;;x,,,,,
+rebuilding_city_desc;¿ì¸® µµ½Ã´Â Àç°ÇÃà ÁßÀÔ´Ï´Ù;Our city is rebuilding.;;;;;;;;;;;;;;;;;;;;x,,,,,
+slave_growth;³ë¿¹ ÀÎ±¸ Åë°è;Slave Demographics;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+slave_growth_desc;¿ì¸®³ª¶óÀÇ ³ë¿¹ ÀÎ±¸´Â º¯Çß½À´Ï´Ù;The population of slaves changed in our country.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+assegai;´ëºÎ´ë;Impi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+assegai_desc;ÅõÃ¢, ¿¬·É °è±Ş ¿¬´ë Ã¼°è, Æ÷À§ Àü¼ú°ú °°Àº ±º»ç Çõ½ÅÀº ÁÙ·ç¸¦ ³²¾ÆÇÁ¸®Ä«¿Í µ¿³²¾ÆÇÁ¸®Ä«¿¡¼­ °¡Àå °­·ÂÇÑ ±¹°¡·Î ¸¸µå´Â µ¥ µµ¿òÀ» ÁÖ¾ú½À´Ï´Ù.;Military innovations such as the assegai, the age-grade regimental system and encirclement tactics helped make the Zulu one of the most powerful nations in southern and south-eastern Africa.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+will_influence_elections;´ÙÀ½ ¼±°Å;Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+will_influence_elections_desc;¿ì¸®´Â ¿ÃÇØ ¼±°Å¸¦ µû¸£°í ÀÖ½À´Ï´Ù.;We are following this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 let_the_chips_fall;Not Following Elections;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-let_the_chips_fall_desc;ìš°ë¦¬ëŠ” ì˜¬í•´ ì„ ê±°ì— ì°¸ì—¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.;We are not involved in this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-the_big_army;ëŒ€êµ°;The Big Army;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-the_big_army_desc;ìš°ë¥´í‚¤ì‚¬ ì¥êµ°ì€ ë¡œì‚¬ìŠ¤ë¥¼ ë¬¼ë¦¬ì¹˜ê¸° ìœ„í•´ ìš°ë£¨ê³¼ì´ì™€ ì „êµ­ ê°ì§€ì˜ ìì› ë´‰ì‚¬ìë“¤ê³¼ íƒ€í˜‘í•´ ëŒ€êµ°ë¥¼ ëª¨ìœ¼ê³  ìˆìŠµë‹ˆë‹¤.;General Urquiza is gathering a huge army, compromised of volunteers from Uruguay and all over the country, to defeat Rosas.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-small_immigration_boom;ì´ë¯¼ ë¶;Immigration Boom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-small_immigration_boom_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ë²ˆì„±í•˜ê³  ìˆì–´ ë§¤ì¼ ë” ë§ì€ ì‚¬ëŒë“¤ì´ ë„ì‹œì— ëª¨ì—¬ë“­ë‹ˆë‹¤.;Our nation thrives and therefore more people flock to our cities each day.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-the_big_ben;ë¹…ë²¤;The Big Ben;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-the_big_ben_desc;ë¹…ë²¤ì€ ëŸ°ë˜ì—ì„œ í•­ìƒ ì œ ì‹œê°„ì— ì¢…ì„ ìš¸ë¦½ë‹ˆë‹¤.;The Clock Tower derives its nickname from the bell, the Big Ben. With an extreme accuracy, the clock tower dominates life and work in London, always striking on time.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-bigben_construction;ì›¨ìŠ¤íŠ¸ë¯¼ìŠ¤í„° ê¶ì „ ì¬ê±´;Reconstruction of the Palace of Westminster;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-bigben_construction_desc;ì›¨ìŠ¤íŠ¸ë¯¼ìŠ¤í„° ê¶ì „ì€ ê±°ëŒ€í•œ ì‹œê³„íƒ‘ê³¼ í•¨ê»˜ ì¬ê±´ë˜ê³  ìˆìŠµë‹ˆë‹¤.;The Palace of Westminster is being reconstructed and with it, a huge clock tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-eiffel_tower_construction;ì—í íƒ‘ ê³µì‚¬ ì¤‘;Eiffel Tower Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-eiffel_tower_construction_desc;ìœ„ëŒ€í•œ ìš°ë¦¬ë‚˜ë¼ëŠ” ì›…ì¥í•œ íƒ‘ì„ ê±´ì„¤í•˜ê¸° ìœ„í•´ ìì›ê³¼ ë…¸ë™ìë“¤ì„ ìŸì•„ë¶“ê³  ìˆìŠµë‹ˆë‹¤.;Our great nation is dedicating its resources and workers to build a magnificent tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-suez_canal_construction;ìˆ˜ì—ì¦ˆ ìš´í•˜ ê±´ì„¤ ì¤‘;Suez Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-suez_canal_construction_desc;ìœ„ëŒ€í•œ ìš°ë¦¬ë‚˜ë¼ëŠ” ì›…ì¥í•œ íƒ‘ì„ ê±´ì„¤í•˜ê¸° ìœ„í•´ ìì›ê³¼ ë…¸ë™ìë“¤ì„ ìŸì•„ë¶“ê³  ìˆìŠµë‹ˆë‹¤.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-kiel_canal_construction;í‚¬ ìš´í•˜ ê±´ì„¤ ì¤‘;Kiel Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-kiel_canal_construction_desc;ìœ„ëŒ€í•œ ìš°ë¦¬ë‚˜ë¼ëŠ” ì›…ì¥í•œ íƒ‘ì„ ê±´ì„¤í•˜ê¸° ìœ„í•´ ìì›ê³¼ ë…¸ë™ìë“¤ì„ ìŸì•„ë¶“ê³  ìˆìŠµë‹ˆë‹¤.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-panama_canal_construction;íŒŒë‚˜ë§ˆ ìš´í•˜ ê±´ì„¤ ì¤‘;Panama Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-panama_canal_construction_desc;ìœ„ëŒ€í•œ ìš°ë¦¬ë‚˜ë¼ëŠ” ì›…ì¥í•œ íƒ‘ì„ ê±´ì„¤í•˜ê¸° ìœ„í•´ ìì›ê³¼ ë…¸ë™ìë“¤ì„ ìŸì•„ë¶“ê³  ìˆìŠµë‹ˆë‹¤.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-kinda_bad_badboy;êµ­ì œ ì œì¬;International Sanctions;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-kinda_bad_badboy_desc;ìš°ë¦¬ëŠ” ì„¸ê³„ì˜ ì•ˆì „ê³¼ í˜ì˜ ê· í˜•ì— ìœ„í˜‘ì´ ëœë‹¤ê³  ì—¬ê²¨ì ¸ êµ­ì œ ì œì¬ë¥¼ ë°›ê³  ìˆìŠµë‹ˆë‹¤.;We have been declared a threat to global safety and international balance of power. Sanctions have been applied to our country and citizens and we have been warned that the great powers will worsen these sanctions in case we continue our aggressiveness.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-solano_lopez_industrialization;ì†”ë¼ë…¸ ë¡œí˜ìŠ¤ ê³µì—…í™”;Solano Lopez Industrialization;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-solano_lopez_industrialization_desc;ì¹´ë¥¼ë¡œìŠ¤ ì†”ë¼ë…¸ ë¡œí˜ìŠ¤ëŠ” ê¶Œì¢Œì— ì˜¤ë¥¸ í›„ ì‚°ì—…í™” ë° êµ°êµ­í™”ë¼ëŠ” ê³µê²©ì ì¸ ê³„íšì„ ì‹¤í–‰í–ˆëŠ”ë°, ì—¬ê¸°ì—ëŠ” ë¶€ì‹¤ ì‚°ì—… í‡´ì¶œ, êµ°ë¹„ ì§€ì¶œ ìµœì†Œí™”, ìƒì‚°ì„±ì— ëŒ€í•œ ê°•í•œ ì§‘ì¤‘ ë“±ì´ í¬í•¨ë˜ì—ˆìŠµë‹ˆë‹¤.;Following his rise to power, Carlos Solano Lopez started an aggressive program of industrialization and militarization of our country that included subsides to industry, minimum spending on military and a strong focus on productivity.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-bad_badboy;êµ­ì œì  ê³ ë¦½;International Isolation;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-bad_badboy_desc;ë§ì€ ë‚˜ë¼ë¥¼ ì ìœ¼ë¡œ ëŒë ¸ê³ , ì´ì œ ì„¸ê³„ ëŒ€ë¶€ë¶„ì˜ ë‚˜ë¼ë“¤ì€ ìš°ë¦¬ë¥¼ êµ­ì œì ì¸ ìœ„í˜‘ìœ¼ë¡œ ê°„ì£¼í•©ë‹ˆë‹¤. ê·¸ë“¤ì€ ìš°ë¦¬ë‚˜ë¼ë¥¼ ê³ ë¦½ì‹œí‚¤ë ¤ í•©ë‹ˆë‹¤.;Our great nation has acquired many enemies and now most of the nations in the world see us as an international threat. They joined forces to isolate us in an attempt to bring us down.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,, 
-north_coalition;ëŒ€êµ°;Ejercito Grande;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-north_coalition_desc;ì—”íŠ¸ë ˆë¦¬ì˜¤ìŠ¤ì˜ ìš°ë¥´í‚¤ì‚¬ ì¥êµ°ì´ ë¡œì‚¬ìŠ¤ì— ëŒ€í•­í•˜ì—¬ ëŒ€ê·œëª¨ ë³‘ë ¥ì„ ëª¨ìœ¼ê³  ìˆìœ¼ë©° ëª‡ëª‡ ì§€ì—­ì—ì„œëŠ” ê·¸ë¥¼ ì§€ì›í•˜ê² ë‹¤ê³  ì•½ì†í–ˆìŠµë‹ˆë‹¤.;A huge army against Rosas is being gathered by General Urquiza of Entre-Rios, and some of our provinces have pledged to support him.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-organic_statute;í´ë€ë“œ ì™•êµ­ ì¡°ì§ë²•;Organic Statute of Poland;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-organic_statute_desc;í´ë€ë“œ ì™•êµ­ ì¡°ì§ë²•ì€ 1830ë…„ì˜ í´ë€ë“œ ë´‰ê¸° í›„ 1815ë…„ì˜ í—Œë²•ì„ ëŒ€ì²´í•˜ê¸° ìœ„í•´ 1832ë…„ ë‹ˆì½œë¼ì´ 1ì„¸ê°€ ìƒíŠ¸í˜í…Œë¥´ë¶€ë¥´í¬ì—ì„œ ë°œí‘œí•œ ë²•ì…ë‹ˆë‹¤. ë¹„ë¡ í´ë€ë“œì˜ êµ­íšŒì™€ êµ°ëŒ€ëŠ” íì§€ë˜ì—ˆì§€ë§Œ, ì§€ë°© ì˜íšŒëŠ” ì¡´ì†í•  ìˆ˜ ìˆì—ˆìŠµë‹ˆë‹¤.;The Organic Statute of the Kingdom of Poland was a constitution introduced in the Kingdom of Poland after the suppression of the Polish Uprising of 1830?1 to replace the Constitution of 1815. It was promulgated in St. Petersburg by Tsar Nicholas I on Feb. 14 (26), 1832. Although the Organic Statute abolished the Sejm and the Polish Army, it preserved such autonomous institutions as the vicegerency, the State Council, and the vicegerent?s Administrative Council.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-francia_utopia;í”„ë€ì‹œì•„ì˜ ìœ í† í”¼ì•„;Francia's Utopia;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-francia_utopia_desc;íŒŒë¼ê³¼ì´ì˜ ë…ì¬ì í”„ë€ì‹œì•„ëŠ” í”„ë‘ìŠ¤ í˜ëª…ì  ì´ìƒìœ¼ë¡œë¶€í„° ì˜ê°ì„ ë°›ì•„ ì‚¬íšŒ ê³„ì•½ë¡ ì— ê¸°ì´ˆí•œ ìœ í† í”¼ì•„ êµ­ê°€ë¥¼ ë§Œë“œë ¤ í–ˆìŠµë‹ˆë‹¤. ê·¸ëŠ” êµ­ë¯¼ë“¤ì˜ í‰ë“±ì„ ìœ„í•´ ë…¸ë ¥í–ˆì§€ë§Œ, ë¬´ìë¹„í•˜ê²Œ ë°˜ëŒ€íŒŒë¥¼ íƒ„ì••í•˜ê±°ë‚˜ íˆ¬ì˜¥í–ˆìœ¼ë©° ê²½ì°°ì„ í°í­ìœ¼ë¡œ ëŠ˜ë¦¬ê¸°ë„ í–ˆìŠµë‹ˆë‹¤. ê³ ë¦½ì£¼ì˜ìì¸ ê·¸ëŠ” ì™¸ë¶€ ì„¸ë ¥ì˜ ì˜í–¥ ì—†ì´ ë‚˜ë¼ë¥¼ í†µì¹˜í–ˆìŠµë‹ˆë‹¤.;Dr. Francia, dictator for life of Paraguay, inspired by French revolutionary ideals sought to create a utopian state based on Rosseau's Social Contract. Although he strived for equality of the people, Francia ruthlessly destroyed any opposition and created a Police state, imprisoning all those he deemed seditious. An isolationist, he ran the country with almost no outside influence.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-colorado_sympathies;ì½œë¡œë¼ë„ë‹¹ ì†Œìš”;Colorado Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-colorado_sympathies_desc;ì´ ì§€ì—­ì€ ì½œë¡œë¼ë„ë‹¹ì˜ ì˜í–¥ê¶Œì— ìˆì–´ ê³§ ë¬¸ì œë¥¼ ì¼ìœ¼í‚¬ ê²ƒ ê°™ìŠµë‹ˆë‹¤.;This region is under Colorado influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-blanco_sympathies;ë¸”ë‘ì½”ë‹¹ ì†Œìš”;Blanco Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-blanco_sympathies_desc;ì´ ì§€ì—­ì€ ë¸”ë‘ì½”ë‹¹ì˜ ì˜í–¥ê¶Œì— ìˆì–´ ê³§ ë¬¸ì œë¥¼ ì¼ìœ¼í‚¬ ê²ƒ ê°™ìŠµë‹ˆë‹¤.;This region is under Blanco influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-rivera_reforms;ë¦¬ë² ë¼ì˜ ê°œì…;Rivera's Intervention;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-rivera_reforms_desc;í”„ë£©íˆ¬ì˜¤ì†Œ ë¦¬ë² ë¼ëŠ” ìŠ¹ë¦¬ í›„ ëª¬í…Œë¹„ë°ì˜¤ì— ì…ì„±í•˜ì—¬ ê¶Œë ¥ì„ ì¥ì•…í–ˆìŠµë‹ˆë‹¤. ê·¸ëŠ” ì´ ê¶Œë ¥ì„ ì˜ ì´ìš©í•˜ë ¤ í•©ë‹ˆë‹¤.;Fructuoso Rivera entered Montevideo victorious and assumed dictatorial powers while he called for elections. He made sure to use these powers well.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-prussia_disagrees;í”„ë¡œì´ì„¼ì´ ë¹ˆ ì¡°ì•½ì— ì„œëª…í•©ë‹ˆë‹¤;Prussia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-russia_disagrees;ëŸ¬ì‹œì•„ê°€ ë¹ˆ ì¡°ì•½ì— ì„œëª…í•©ë‹ˆë‹¤;Russia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-krakow_uprising;ìœ™ë“œ í›„ì‚¬ë¥´ê°€ ê³§ ì¼ì–´ì„¤ ê²ƒì…ë‹ˆë‹¤.;The Winger Hussars will ride once more.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-polish_spirit;í´ë€ë“œì¸ ì •ì„œ;Polish Sentiment;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
-polish_spirit_desc;í¬ë¼ì¿ í”„ì˜ í˜ëª…ì´ ì„±ê³µí•˜ì ë„ì²˜ì˜ í´ë€ë“œì¸ë“¤ì€ ë‹¤ì‹œ í•œë²ˆ í†µì¼ëœ ë…ë¦½ í´ë€ë“œë¥¼ ìš”êµ¬í•˜ê³  ìˆìŠµë‹ˆë‹¤.;With the successful revolution in Krakow, Poles everywhere are clamouring for an independent and unified Poland again.;;;;;;;;;;X,,,,,,,,
-official_nationality;ê³µì‹ ë¯¼ì¡± ì„ ì „;The Official Nationality Doctrine;;;;;;;;;;x,,,,,,,,,,
-official_nationality_desc;ì •êµíšŒ, ì „ì œ ì •ì¹˜, ë¯¼ì¡±ì€ ëŸ¬ì‹œì•„ì˜ ì°¨ë¥´ ë‹ˆì½œë¼ì´ 1ì„¸ì˜ ì •ì±… ê¸°ì¡°ì…ë‹ˆë‹¤.;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. The Tsar is currently trying to Russify our country, greatly disrupting our country organization but inciting nationality!;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,,
-orthodoxy_autocracy_nationality;ì •êµíšŒ, ì „ì œ ì •ì¹˜, ë¯¼ì¡±!;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;;;x,,,,,,,,,,,,
-orthodoxy_autocracy_nationality_desc;ê³µì‹ì ì¸ ë¯¼ì¡± ì •ì±…ì€ íš¨ë ¥ì„ ë°œíœ˜í•´ ë™í™”ë¥¼ ê°€ì†í™”í•˜ê³  ìˆìŠµë‹ˆë‹¤.;The Official Nationality policy entered into effect and it's speeding up the assimilation of other cultures at the cost of some unrest.;;;;;;;;;;;x,,,,,,,,,
-communists_ruling;ìë³¸ê°€ì˜ ëª°ë½!;Down with the Capitalists!;;;;;;;;;;;;;;X,,,,,,,,,
-communists_ruling_desc;ìš°ë¦¬ë‚˜ë¼ëŠ” ë¬´ì‚°ê³„ê¸‰ì˜ í†µì¹˜ í•˜ì— ìˆìŠµë‹ˆë‹¤. ì´ì œ ìë³¸ìì˜ ìë¦¬ëŠ” ì—†ìŠµë‹ˆë‹¤!;Our nation is now headed by the proletariat, capitalists have no place here!;;;;;;;;;;;;X,,,,,,,,,,,,
-soviet_agitation;ì°¨ë¥´ ì „ì œ ì •ì¹˜;Tsarist Autocracy;;;;;;;;;;;;X,,,,,,
-soviet_agitation_desc;ì „ìŸì˜ ê³ ë‚œ, ëŸ¬ì‹œì•„ì˜ ê¸°ìˆ ì  í›„ì§„ì„±, ê·¸ë¦¬ê³  ì°¨ë¥´ ì „ì œ ì •ì¹˜ì˜ ì–µì••ì€ ìš°ë¦¬ì˜ êµ­ë¯¼ê³¼ ìì›ì„ ê³ ê°ˆì‹œí‚¤ê³  ìˆìŠµë‹ˆë‹¤. ìš°ë¦¬ëŠ” ì°¨ë¥´ ì „ì œ ì •ì¹˜ì˜ ì¢…ë§ì„ ë³¼ ìˆ˜ ìˆì„ê¹Œìš”?;The hardships of war, the technological backwardness of Russia and the tsar autocracy and repression are exhausting our people and our resources. Will we ever see an end to the Tsar autocracy?;;;;;;;;;;X,,,,,,,,,,,,
-white_desorganisation;ì§€ë„ë ¥ ë¶€ì¬;Leadership Disorganisation;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-white_desorganisation_desc;ëŸ¬ì‹œì•„ ë‚´ì „ì—ì„œ ë°±êµ°ì€ ì êµ°ì— ëŒ€í•­í–ˆìŠµë‹ˆë‹¤. í•˜ì§€ë§Œ ê·¸ë“¤ì˜ ë¶„ì—´ê³¼ ë¶ˆí™”ëŠ” ê·¸ë“¤ì˜ ë…¸ë ¥ì„ ë¬¼ê±°í’ˆìœ¼ë¡œ ë§Œë“¤ì—ˆìŠµë‹ˆë‹¤!;The White Army in the Russian Civil War managed to make advances against the soviets, but disorganization in it's ranks severely hindered their efforts!;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,
-install_communist_gov_sov;ê³µì‚°ì£¼ì˜ ì •ë¶€ ìˆ˜ë¦½;Install communism;;;;;;;;;;;;x
-install_communist_gov_sov_desc;ê³µì‚°ì£¼ì˜ ì •ë¶€ë¥¼ ìˆ˜ë¦½í•©ë‹ˆë‹¤.;Install a communist government.;;;;;;;;;;;x
-install_communist_gov_sov_setup;ê³µì‚°ì£¼ì˜ ì •ë¶€ë¥¼ ìˆ˜ë¦½í•©ë‹ˆë‹¤. ì´ ëª©í‘œë¥¼ ë‹¬ì„±í•˜ë©´ ëª©í‘œ êµ­ê°€ëŠ” ìë™ì ìœ¼ë¡œ ìš°ë¦¬ ì˜í–¥ê¶Œì— ì¶”ê°€ë˜ë©° ë™ì‹œì— ìœ„ì„±êµ­ì´ ë©ë‹ˆë‹¤.;Install a communist government. If achieved, the country will be automatically added into our sphere and will become our satellite.;;;;;;;;;;;x
-install_communist_gov_sov_short;ê³µì‚°ì£¼ì˜ ì •ë¶€ ìˆ˜ë¦½;Install communism;;;;;;;;;;;;x
-human_research_modifier;ì—°êµ¬ ê°€ì†;Boosted Research;;;;;;;;;;;;;x
-canadian_confederation;ìºë‚˜ë‹¤ ì—°ë°©;The Canadian Confederation;;;;;;;;;;;;;x
-canadian_confederation_short;ìºë‚˜ë‹¤ëŠ” ì—°í•©í•  ê²ƒì…ë‹ˆë‹¤!;Canada will be confederated!;;;;;;;;;;;;;x
-canadian_confederation_setup;ìºë‚˜ë‹¤ ìì¹˜ë ¹ì˜ ì—¬ëŸ¬ ì£¼ë“¤ì€ ë…ë¦½ì„ ìš”êµ¬í•´ ì™”ìŠµë‹ˆë‹¤. ì¡´ A. ë§¥ë„ë‚ ë“œ ê²½ì´ ì´ë„ëŠ” ì´ ìš´ë™ì€ ëŒ€ì˜ì œêµ­ì— êµ³ê±´í•œ ë¶ë¯¸ ë™ë§¹êµ­ì„ íƒ„ìƒì‹œí‚¬ ê²ƒì…ë‹ˆë‹¤.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
-canadian_confederation_desc;ìºë‚˜ë‹¤ ìì¹˜ë ¹ì˜ ì—¬ëŸ¬ ì£¼ë“¤ì€ ë…ë¦½ì„ ìš”êµ¬í•´ ì™”ìŠµë‹ˆë‹¤. ì¡´ A. ë§¥ë„ë‚ ë“œ ê²½ì´ ì´ë„ëŠ” ì´ ìš´ë™ì€ ëŒ€ì˜ì œêµ­ì— êµ³ê±´í•œ ë¶ë¯¸ ë™ë§¹êµ­ì„ íƒ„ìƒì‹œí‚¬ ê²ƒì…ë‹ˆë‹¤.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
-canadian_confederation_title;ìºë‚˜ë‹¤ ì—°ë°©;The Canadian Confederation;;;;;;;;;;;;;x
-australian_independence;ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„ í—Œë²•;The Australian Constitution;;;;;;;;;;;;;x
-australian_independence_short;ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„ëŠ” 6ê°œì˜ ì£¼ê°€ ì—°í•©í•´ ë…ë¦½í–ˆìŠµë‹ˆë‹¤.;Australia federated into six separate states and gained its independence.;;;;;;;;;;;;;x
-australian_independence_setup;í˜¸ì£¼ì˜ ë…ë¦½ìš´ë™ì´ ë§ˆì¹¨ë‚´ ë§‰ë°”ì§€ì— ì´ë¥´ë €ìŠµë‹ˆë‹¤. ì´ì œ ëŒ€ì˜ì œêµ­ì€ ì´ ëŒ€ë¥™ì„ ì´ì „ì˜ ìœ ë°°ì§€ì—ì„œ ìƒˆë¡œìš´ ë¯¼ì£¼ì£¼ì˜ì˜ ì„¸ê³„ë¡œ ë‚˜ì•„ê°ˆ ìˆ˜ ìˆë„ë¡ í•  ë•Œì…ë‹ˆë‹¤.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
-australian_independence_desc;í˜¸ì£¼ì˜ ë…ë¦½ìš´ë™ì´ ë§ˆì¹¨ë‚´ ë§‰ë°”ì§€ì— ì´ë¥´ë €ìŠµë‹ˆë‹¤. ì´ì œ ëŒ€ì˜ì œêµ­ì€ ì´ ëŒ€ë¥™ì„ ì´ì „ì˜ ìœ ë°°ì§€ì—ì„œ ìƒˆë¡œìš´ ë¯¼ì£¼ì£¼ì˜ì˜ ì„¸ê³„ë¡œ ë‚˜ì•„ê°ˆ ìˆ˜ ìˆë„ë¡ í•  ë•Œì…ë‹ˆë‹¤.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
-australian_independence_title;ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„ í—Œë²•;The Australian Constitution;;;;;;;;;;;;;x
-kiwi_constitution;ë‰´ì§ˆëœë“œ ìì¹˜ë ¹;The Dominion of New Zealand;;;;;;;;;;;;;x
-kiwi_constitution_short;ë‰´ì§ˆëœë“œ ìì¹˜ë ¹ ì„¤ì¹˜!;New Zealand has been released!;;;;;;;;;;;;;x
-kiwi_constitution_setup;í˜¸ì£¼ì˜ ë…ë¦½ ê·¸ë¦¬ê³  í˜¸ì£¼ì™€ ë‰´ì§ˆëœë“œ ê°„ì˜ ì—­ì‚¬ì  ìœ ëŒ€ì— ë”°ë¼, í‚¤ìœ„ ìš´ë™ì€ ë§ˆì¹¨ë‚´ ë¶„ê¶Œì  ë…ë¦½ì„ ìš”êµ¬í•˜ë©° êµ¬ì²´í™”ë˜ì—ˆìŠµë‹ˆë‹¤.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
-kiwi_constitution_desc;í˜¸ì£¼ì˜ ë…ë¦½ ê·¸ë¦¬ê³  í˜¸ì£¼ì™€ ë‰´ì§ˆëœë“œ ê°„ì˜ ì—­ì‚¬ì  ìœ ëŒ€ì— ë”°ë¼, í‚¤ìœ„ ìš´ë™ì€ ë§ˆì¹¨ë‚´ ë¶„ê¶Œì  ë…ë¦½ì„ ìš”êµ¬í•˜ë©° êµ¬ì²´í™”ë˜ì—ˆìŠµë‹ˆë‹¤.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
-kiwi_constitution_title;ë‰´ì§ˆëœë“œ ìì¹˜ë ¹;The Dominion of New Zealand;;;;;;;;;;;;;x
-first_riel_rebellion;ì œ1ì°¨ ë¦¬ì—˜ ë°˜ë€ ì—¬íŒŒ;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
-first_riel_rebellion_desc;ì œ1ì°¨ ë¦¬ì—˜ ë°˜ë€ì€ ì—¬ëŸ¬ ì‚¬ìƒìë¥¼ ë‚³ì•˜ìŠµë‹ˆë‹¤. ë©”í‹°ìŠ¤ëŠ” ê·¸ë“¤ì„ ìŠì§€ ì•Šìœ¼ë ¤ í•˜ê² ì§€ë§Œ, ì •ë¶€ëŠ” ê·¸ë“¤ì„ ê·¸ë ‡ê²Œ ë‘ì§€ ì•Šì„ ê²ƒì…ë‹ˆë‹¤.;The First Riel Rebellion ended in blood and exile. The Metis have not forgotten, nor will the government let them.;;;;;;;;;;;;;x
-first_riel_rebellion_title;ì œ1ì°¨ ë¦¬ì—˜ ë°˜ë€ ì—¬íŒŒ;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
-metis_twilight;ë©”í‹°ìŠ¤ì˜ í™©í˜¼;The Twilight of the Metis;;;;;;;;;;;;;x
-metis_twilight_desc;ì œ2ì°¨ ë¦¬ì—˜ ë°˜ë€ì€ ìµœì•…ì˜ ë°©ë²•ìœ¼ë¡œ ëë‚¬ê³ , ë”°ë¼ì„œ ë©”í‹°ìŠ¤ëŠ” ìºë‚˜ë‹¤ì—ì„œ ì†Œì™¸ë˜ì—ˆìŠµë‹ˆë‹¤.;The Second Riel Rebellion has ended in the worst possible way, and the Metis are now a marginalized people in Canada.;;;;;;;;;;;;;x
-metis_twilight_title;ë©”í‹°ìŠ¤ì˜ í™©í˜¼;The Twilight of the Metis;;;;;;;;;;;;;x
-taras_shevchenko_local;íƒ€ë¼ìŠ¤ ì…°ìš°ì²¸ì½”;Taras Shevchenko;;;;;;;;;;;;;x
-taras_shevchenko_local_desc;íƒ€ë¼ìŠ¤ ì…°ë¸Œì²¸ì½”ëŠ” ìœ ëª…ì„¸ë¥¼ íƒ€ê³  ìˆìœ¼ë©°, ìš°í¬ë¼ì´ë‚˜ ë…ë¦½ê³¼ êµ­ê°€ ê±´ì„¤ì„ ìœ„í•œ ë…¸ë ¥ì— ìˆì–´ì„œ ìš°í¬ë¼ì´ë‚˜ êµ­ë¯¼ë“¤ì—ê²Œ ì˜í–¥ì„ ë¯¸ì¹˜ê³  ìˆìŠµë‹ˆë‹¤.;Taras Shevchenko is gaining prominence and is affecting the Ukrainian peoples in their quest for independence and nation-building.;;;;;;;;;;;;;x
-taras_shevchenko_local_title;íƒ€ë¼ìŠ¤ ì…°ìš°ì²¸ì½”;Taras Shevchenko;;;;;;;;;;;;;x
-taras_works_local;íƒ€ë¼ìŠ¤ ì…°ìš°ì²¸ì½”;Taras Shevchenko;;;;;;;;;;;;;x
-taras_works_local_desc;íƒ€ë¼ìŠ¤ ì…°ìš°ì²¸ì½”ëŠ” ìš°í¬ë¼ì´ë‚˜ ë¬¸í•™ê³¼ ë¬¸í™”ì˜ ì•„ë²„ì§€ë¡œ ë„ë¦¬ ì•Œë ¤ì ¸ ìˆìŠµë‹ˆë‹¤.;Taras Shevchenko is working hard after many life experiences, and is quickly becoming known as the father of the Ukrainian language and culture.;;;;;;;;;;;;;x
-taras_works_local_title;íƒ€ë¼ìŠ¤ ì…°ìš°ì²¸ì½”;Taras Shevchenko;;;;;;;;;;;;;x
-slavery_timer;ë…¸ì˜ˆì œ;Slavery;;;;;;;;;;;;;x
-slavery_timer_desc;ë…¸ì˜ˆì œê°€ ì§€ì†ë˜ë©´ì„œ í•´ì™¸ì—ì„œì˜ ìš°ë¦¬ë‚˜ë¼ ì´ë¯¸ì§€ê°€ ë‚˜ë¹ ì§€ê³  ìˆìŠµë‹ˆë‹¤.;Slavery in our nation continues on, making our country a bit less attractive as the world moves on.;;;;;;;;;;;;;x
-slavery_timer_title;ë…¸ì˜ˆì œ ì§€ì†;Continued Slavery;;;;;;;;;;;;;x
-independence_of_norway;ë…¸ë¥´ì›¨ì´ ë…ë¦½;The Independence of Norway;;;;;;;;;;;;;x
-independence_of_norway_short;ë…¸ë¥´ì›¨ì´ ë…ë¦½;The Independence of Norway;;;;;;;;;;;;;x
-independence_of_norway_setupë…¸ë¥´ì›¨ì´ ë…ë¦½;;The Independence of Norway;;;;;;;;;;;;;x
-independence_of_norway_desc;ìŠ¤ì›¨ë´-ë…¸ë¥´ì›¨ì´ ë™êµ°ì—°í•©ì€ ë§‰ë‹¤ë¥¸ ê³¨ëª©ì— ë‹¤ë‹¤ëìŠµë‹ˆë‹¤. ë…¸ë¥´ì›¨ì´ë¥¼ í•´ë°©í•˜ëŠ” ê²ƒì´ ìœ ì¼í•œ í•´ê²°ì±…ì¸ ê²ƒ ê°™ìŠµë‹ˆë‹¤.;The Personal Union between Sweden and Norway is on its last legs, and attempts to find common ground between the Swedes and Norwegians is failing rapidly. Releasing Norway seems like the only solution.;;;;;;;;;;;;;x
-independence_of_norway_title;ë…¸ë¥´ì›¨ì´ ë…ë¦½;The Independence of Norway;;;;;;;;;;;;;x
-restart_the_caucasian_war;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ ì¬ê°œ;Restart the Caucasian War;;;;;;;;;;;;;x
-restart_the_caucasian_war_short;ì¹´í”„ì¹´ìŠ¤ ì „ìŸì„ ì¬ê°œ;Restart the Caucasian War;;;;;;;;;;;;;x
-restart_the_caucasian_war_setup;ì¹´í”„ì¹´ìŠ¤ ì „ìŸì„ ì¬ê°œí•©ë‹ˆë‹¤;Restart the Caucasian War;;;;;;;;;;;;;x
-restart_the_caucasian_war_desc;ëŸ¬ì‹œì•„ëŠ” í˜ë¥´ì‹œì•„ì™€ ì˜¤ìŠ¤ë§Œ ì œêµ­ê³¼ì˜ ì „ìŸ ë™ì•ˆ ì¹´í”„ì¹´ë¥´/ì²´ë¥´ì¼€ìŠ¤ ì „ìŸì„ ë³´ë¥˜í•´ì™”ìŠµë‹ˆë‹¤. ì´ì œ ëŸ¬ì‹œì•„ëŠ” ì²´ë©´ì„ ì°¨ë¦¬ê³  ì¹´í”„ì¹´ìŠ¤ì— ëŒ€í•œ íŒ¨ê¶Œì„ ë³´ì¥í•  ê¸°íšŒë¥¼ ê°–ê²Œ ë˜ì—ˆìŠµë‹ˆë‹¤.;Although Russia put the Caucasian/Circassian War on hold during their wars with Persia and the Ottoman Empire, now Russia has a chance to save face and ensure its hegemony over the Caucasus. This is not a decision to be taken lightly, as the war has raged in one form or another since 1763.;;;;;;;;;;;;;x
-restart_the_caucasian_war_title;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ ì¬ê°œ;Restart the Caucasian War;;;;;;;;;;;;;x
-caucasian_war_local;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ;Caucasian War;;;;;;;;;;;;;x
-caucasian_war_local_desc;í˜„ì¬ ì§„í–‰ ì¤‘ì¸ ì¹´í”„ì¹´ìŠ¤ ì „ìŸì€ ì´ë“¤ ì§€ì—­ì— ë¶ˆì•ˆê³¼ ìƒì‚°ì„± ë¶€ì¡±ì„ ì´ˆë˜í•˜ê³  ìˆìŠµë‹ˆë‹¤.;The ongoing Caucasian War is causing unrest and lack of productivity in these provinces.;;;;;;;;;;;;;x
-caucasian_war_local_title;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ;The Caucasian War;;;;;;;;;;;;;x
-caucasian_truce_local;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ-íœ´ì „;Caucasian War - Truce;;;;;;;;;;;;;x
-caucasian_truce_local_desc;ì¹´í”„ì¹´ìŠ¤ ì „ìŸì€ íœ´ì „ ìƒíƒœì…ë‹ˆë‹¤.;The Caucasian War is undergoing a truce, for now. The uneasy tension that the locals have with their Russian occupiers is a welcome break from the previous state of war, but it is an uneasy truce brokered by the blood of both sides.;;;;;;;;;;;;;x
-caucasian_truce_local_title;ì¹´í”„ì¹´ìŠ¤ ì „ìŸ-íœ´ì „;The Caucasian War - Truce;;;;;;;;;;;;;x
-SOV_communists;ë³¼ì…°ë¹„í‚¤;Bolsheviks;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-SOV_communists_2;íŠ¸ë¡œì¸ í‚¤íŒŒ;Trotsky's Faction;;;;;;;;;;;;;X,,,,,,,,,,,,,
-kobu_gattai;ê³µë¬´í•©ì²´;Kobu Gattai;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-kobu_gattai_desc;ê³µë¬´í•©ì²´ë€ ë§‰ë¶€ì™€ í™©ì‹¤ ê°„ì˜ ì •ì¹˜ì  í˜‘ë ¥ì„ ì¦ëŒ€í•˜ê³ , ë§‰ë¶€ ë‚´ë¶€ì˜ ë°˜ëŒ€ìë“¤ì„ ë‹¬ë˜ê¸° ìœ„í•œ ì—ë„ ë§‰ë¶€ì˜ ì •ì±…ì…ë‹ˆë‹¤.This was a policy of the Tokugawa shogunate aiming at increasing political coordination between the bakufu and the Imperial Court, as well as appeasing opponents within the shogunate itself.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
-sakoku;ì‡„êµ­;Sakoku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-sakoku_desc;'ë‚˜ë¼ë¥¼ ê±¸ì–´ì ?E'ë¥¼ ì˜ë¯¸í•˜ëŠ” ì‡„êµ­ì€ ì™¸êµ­ì¸ì´ ì¼ë³¸ì— ì…êµ­í•  ìˆ˜ ì—†ê²Œ í•˜ëŠ” ì •ì±…ì…ë‹ˆë‹¤. ì¼ë³¸ì€ ì—ë„ ë§‰ë¶€ì˜ ì¹˜ì„¸ì¸ 17ì„¸ê¸°ë¶€í„° êµ­ê°€ë¥¼ ê³ ë¦½ëœ ìƒíƒœë¡œ ìœ ì§€í–ˆìŠµë‹ˆë‹¤.;Meaning 'locked country',this is the policy under which no foreigner could enter Japan under pain of death. Maintained by the Tokugawa shogunate, it has kept the nation in enforced isolation since the 17th century.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-tozama_daimyo;í† ìë§ˆ ë‹¤ì´ë¬˜;Tozama Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-fudai_daimyo;í›„ë‹¤ì´ ë‹¤ì´ë¬˜;Fudai Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-emperor_meiji;ë©”ì´ì§€ ë´ë…¸;Emperor Meiji;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-supports_imperial_edict;ì™¸êµ­ì¸ì— ëŒ€í•œ ì¹™ë ¹ì„ ì§€ì§€í•©ë‹ˆë‹¤.;Supports the Imperial edict against foreigners;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-angered_by_bakufu;ë§‰ë¶€ì˜ ë¶„ë…¸;Angered by the bakufu;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-rangaku;ë‚œí•™;Rangaku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-rangaku_desc;'í™”ë€(ë„¤ëœë€ë“œ)ì˜ í•™ë¬¸'ì„ ì˜ë¯¸í•˜ëŠ” ë‚œí•™ì€ ì¼ë³¸ì´ ë°ì§€ë§ˆ(Dejima)ë¼ëŠ” ì¸ê³µì„¬ì—ì„œ ë„¤ëœë€ë“œì™€ ì ‘ì´‰í•˜ì—¬ ê°œë°œí•œ ì„œì–‘ì˜ ì§€ì‹ë“¤ì„ ë§í•©ë‹ˆë‹¤. ì¼ë³¸ì€ ì‡„êµ­ ì •ì±…ì„ ìœ ì§€í•˜ë©´ì„œë„ ë„¤ëœë€ë“œì™€ëŠ” êµì—­ì„ ìœ ì§€í•´ ì„œì–‘ì˜ ê¸°ìˆ ê³¼ ì˜í•™ì„ ê³„ì† ì ‘í•  ìˆ˜ ìˆì—ˆìŠµë‹ˆë‹¤.;Meaning 'dutch learning',this refers to the body of knowledge developed by Japan through its contacts with the Dutch enclave of Dejima, which allowed Japan to keep abreast of Western technology and medicine in the period when the country was closed to foreigners.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-ansei_purge;ì•ˆì„¸ì´ ëŒ€ì˜¥;Ansei Purge;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-meddled_in_foreign_affairs;íƒ€êµ­ ì‚¬ê±´ ê°„ì„­;Meddled in Foreign Affairs;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-no_freedom;ë…ë¦½ ì‹œë„;Attempted Freedom;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-no_freedom_desc;ì™¸êµ­ì˜ ì§€ë°°ì—ì„œ ë²—ì–´ë‚˜ë ¤ë˜ ì‹œë„ê°€ ì‹¤íŒ¨ë¡œ ëŒì•„ê°”ìŠµë‹ˆë‹¤. ê·¸ë“¤ì´ ìš°ë¦¬ë¥¼ ì£¼ì‹œí•˜ë¯€ë¡œ ë‹¤ìŒ ê¸°íšŒê°€ ì°¾ì•„ì˜¬ ë•Œê¹Œì§€ ê¸°ë‹¤ë ¤ì•¼ í•©ë‹ˆë‹¤.;We attempted to free ourselves from foreign rule. We must wait until there is another opportunity, as for now they are watching us closely.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+let_the_chips_fall_desc;¿ì¸®´Â ¿ÃÇØ ¼±°Å¿¡ Âü¿©ÇÏÁö ¾Ê½À´Ï´Ù.;We are not involved in this year election.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_army;´ë±º;The Big Army;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_army_desc;¿ì¸£Å°»ç Àå±ºÀº ·Î»ç½º¸¦ ¹°¸®Ä¡±â À§ÇØ ¿ì·ç°úÀÌ¿Í Àü±¹ °¢ÁöÀÇ ÀÚ¿ø ºÀ»çÀÚµé°ú Å¸ÇùÇØ ´ë±º¸¦ ¸ğÀ¸°í ÀÖ½À´Ï´Ù.;General Urquiza is gathering a huge army, compromised of volunteers from Uruguay and all over the country, to defeat Rosas.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+small_immigration_boom;ÀÌ¹Î ºÕ;Immigration Boom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+small_immigration_boom_desc;¿ì¸®³ª¶ó´Â ¹ø¼ºÇÏ°í ÀÖ¾î ¸ÅÀÏ ´õ ¸¹Àº »ç¶÷µéÀÌ µµ½Ã¿¡ ¸ğ¿©µì´Ï´Ù.;Our nation thrives and therefore more people flock to our cities each day.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_ben;ºòº¥;The Big Ben;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+the_big_ben_desc;ºòº¥Àº ·±´ø¿¡¼­ Ç×»ó Á¦ ½Ã°£¿¡ Á¾À» ¿ï¸³´Ï´Ù.;The Clock Tower derives its nickname from the bell, the Big Ben. With an extreme accuracy, the clock tower dominates life and work in London, always striking on time.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bigben_construction;¿ş½ºÆ®¹Î½ºÅÍ ±ÃÀü Àç°Ç;Reconstruction of the Palace of Westminster;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bigben_construction_desc;¿ş½ºÆ®¹Î½ºÅÍ ±ÃÀüÀº °Å´ëÇÑ ½Ã°èÅ¾°ú ÇÔ²² Àç°ÇµÇ°í ÀÖ½À´Ï´Ù.;The Palace of Westminster is being reconstructed and with it, a huge clock tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+eiffel_tower_construction;¿¡ÆçÅ¾ °ø»ç Áß;Eiffel Tower Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+eiffel_tower_construction_desc;À§´ëÇÑ ¿ì¸®³ª¶ó´Â ¿õÀåÇÑ Å¾À» °Ç¼³ÇÏ±â À§ÇØ ÀÚ¿ø°ú ³ëµ¿ÀÚµéÀ» ½ñ¾Æº×°í ÀÖ½À´Ï´Ù.;Our great nation is dedicating its resources and workers to build a magnificent tower.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+suez_canal_construction;¼ö¿¡Áî ¿îÇÏ °Ç¼³ Áß;Suez Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+suez_canal_construction_desc;À§´ëÇÑ ¿ì¸®³ª¶ó´Â ¿õÀåÇÑ Å¾À» °Ç¼³ÇÏ±â À§ÇØ ÀÚ¿ø°ú ³ëµ¿ÀÚµéÀ» ½ñ¾Æº×°í ÀÖ½À´Ï´Ù.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kiel_canal_construction;Å³ ¿îÇÏ °Ç¼³ Áß;Kiel Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kiel_canal_construction_desc;À§´ëÇÑ ¿ì¸®³ª¶ó´Â ¿õÀåÇÑ Å¾À» °Ç¼³ÇÏ±â À§ÇØ ÀÚ¿ø°ú ³ëµ¿ÀÚµéÀ» ½ñ¾Æº×°í ÀÖ½À´Ï´Ù.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+panama_canal_construction;ÆÄ³ª¸¶ ¿îÇÏ °Ç¼³ Áß;Panama Canal Under Construction;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+panama_canal_construction_desc;À§´ëÇÑ ¿ì¸®³ª¶ó´Â ¿õÀåÇÑ Å¾À» °Ç¼³ÇÏ±â À§ÇØ ÀÚ¿ø°ú ³ëµ¿ÀÚµéÀ» ½ñ¾Æº×°í ÀÖ½À´Ï´Ù.;Our nation is dedicating its resources to build a great Canal.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kinda_bad_badboy;±¹Á¦ Á¦Àç;International Sanctions;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kinda_bad_badboy_desc;¿ì¸®´Â ¼¼°èÀÇ ¾ÈÀü°ú ÈûÀÇ ±ÕÇü¿¡ À§ÇùÀÌ µÈ´Ù°í ¿©°ÜÁ® ±¹Á¦ Á¦Àç¸¦ ¹Ş°í ÀÖ½À´Ï´Ù.;We have been declared a threat to global safety and international balance of power. Sanctions have been applied to our country and citizens and we have been warned that the great powers will worsen these sanctions in case we continue our aggressiveness.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+solano_lopez_industrialization;¼Ö¶ó³ë ·ÎÆä½º °ø¾÷È­;Solano Lopez Industrialization;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+solano_lopez_industrialization_desc;Ä«¸¦·Î½º ¼Ö¶ó³ë ·ÎÆä½º´Â ±ÇÁÂ¿¡ ¿À¸¥ ÈÄ »ê¾÷È­ ¹× ±º±¹È­¶ó´Â °ø°İÀûÀÎ °èÈ¹À» ½ÇÇàÇß´Âµ¥, ¿©±â¿¡´Â ºÎ½Ç »ê¾÷ ÅğÃâ, ±ººñ ÁöÃâ ÃÖ¼ÒÈ­, »ı»ê¼º¿¡ ´ëÇÑ °­ÇÑ ÁıÁß µîÀÌ Æ÷ÇÔµÇ¾ú½À´Ï´Ù.;Following his rise to power, Carlos Solano Lopez started an aggressive program of industrialization and militarization of our country that included subsides to industry, minimum spending on military and a strong focus on productivity.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bad_badboy;±¹Á¦Àû °í¸³;International Isolation;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+bad_badboy_desc;¸¹Àº ³ª¶ó¸¦ ÀûÀ¸·Î µ¹·È°í, ÀÌÁ¦ ¼¼°è ´ëºÎºĞÀÇ ³ª¶óµéÀº ¿ì¸®¸¦ ±¹Á¦ÀûÀÎ À§ÇùÀ¸·Î °£ÁÖÇÕ´Ï´Ù. ±×µéÀº ¿ì¸®³ª¶ó¸¦ °í¸³½ÃÅ°·Á ÇÕ´Ï´Ù.;Our great nation has acquired many enemies and now most of the nations in the world see us as an international threat. They joined forces to isolate us in an attempt to bring us down.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,, 
+north_coalition;´ë±º;Ejercito Grande;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+north_coalition_desc;¿£Æ®·¹¸®¿À½ºÀÇ ¿ì¸£Å°»ç Àå±ºÀÌ ·Î»ç½º¿¡ ´ëÇ×ÇÏ¿© ´ë±Ô¸ğ º´·ÂÀ» ¸ğÀ¸°í ÀÖÀ¸¸ç ¸î¸î Áö¿ª¿¡¼­´Â ±×¸¦ Áö¿øÇÏ°Ú´Ù°í ¾à¼ÓÇß½À´Ï´Ù.;A huge army against Rosas is being gathered by General Urquiza of Entre-Rios, and some of our provinces have pledged to support him.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+organic_statute;Æú¶õµå ¿Õ±¹ Á¶Á÷¹ı;Organic Statute of Poland;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+organic_statute_desc;Æú¶õµå ¿Õ±¹ Á¶Á÷¹ıÀº 1830³âÀÇ Æú¶õµå ºÀ±â ÈÄ 1815³âÀÇ Çå¹ıÀ» ´ëÃ¼ÇÏ±â À§ÇØ 1832³â ´ÏÄİ¶óÀÌ 1¼¼°¡ »óÆ®ÆäÅ×¸£ºÎ¸£Å©¿¡¼­ ¹ßÇ¥ÇÑ ¹ıÀÔ´Ï´Ù. ºñ·Ï Æú¶õµåÀÇ ±¹È¸¿Í ±º´ë´Â ÆóÁöµÇ¾úÁö¸¸, Áö¹æ ÀÇÈ¸´Â Á¸¼ÓÇÒ ¼ö ÀÖ¾ú½À´Ï´Ù.;The Organic Statute of the Kingdom of Poland was a constitution introduced in the Kingdom of Poland after the suppression of the Polish Uprising of 1830?1 to replace the Constitution of 1815. It was promulgated in St. Petersburg by Tsar Nicholas I on Feb. 14 (26), 1832. Although the Organic Statute abolished the Sejm and the Polish Army, it preserved such autonomous institutions as the vicegerency, the State Council, and the vicegerent?s Administrative Council.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+francia_utopia;ÇÁ¶õ½Ã¾ÆÀÇ À¯ÅäÇÇ¾Æ;Francia's Utopia;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+francia_utopia_desc;ÆÄ¶ó°úÀÌÀÇ µ¶ÀçÀÚ ÇÁ¶õ½Ã¾Æ´Â ÇÁ¶û½º Çõ¸íÀû ÀÌ»óÀ¸·ÎºÎÅÍ ¿µ°¨À» ¹Ş¾Æ »çÈ¸ °è¾à·Ğ¿¡ ±âÃÊÇÑ À¯ÅäÇÇ¾Æ ±¹°¡¸¦ ¸¸µå·Á Çß½À´Ï´Ù. ±×´Â ±¹¹ÎµéÀÇ ÆòµîÀ» À§ÇØ ³ë·ÂÇßÁö¸¸, ¹«ÀÚºñÇÏ°Ô ¹İ´ëÆÄ¸¦ Åº¾ĞÇÏ°Å³ª Åõ¿ÁÇßÀ¸¸ç °æÂûÀ» Å«ÆøÀ¸·Î ´Ã¸®±âµµ Çß½À´Ï´Ù. °í¸³ÁÖÀÇÀÚÀÎ ±×´Â ¿ÜºÎ ¼¼·ÂÀÇ ¿µÇâ ¾øÀÌ ³ª¶ó¸¦ ÅëÄ¡Çß½À´Ï´Ù.;Dr. Francia, dictator for life of Paraguay, inspired by French revolutionary ideals sought to create a utopian state based on Rosseau's Social Contract. Although he strived for equality of the people, Francia ruthlessly destroyed any opposition and created a Police state, imprisoning all those he deemed seditious. An isolationist, he ran the country with almost no outside influence.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+colorado_sympathies;Äİ·Î¶óµµ´ç ¼Ò¿ä;Colorado Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+colorado_sympathies_desc;ÀÌ Áö¿ªÀº Äİ·Î¶óµµ´çÀÇ ¿µÇâ±Ç¿¡ ÀÖ¾î °ğ ¹®Á¦¸¦ ÀÏÀ¸Å³ °Í °°½À´Ï´Ù.;This region is under Colorado influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+blanco_sympathies;ºí¶ûÄÚ´ç ¼Ò¿ä;Blanco Agitation;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+blanco_sympathies_desc;ÀÌ Áö¿ªÀº ºí¶ûÄÚ´çÀÇ ¿µÇâ±Ç¿¡ ÀÖ¾î °ğ ¹®Á¦¸¦ ÀÏÀ¸Å³ °Í °°½À´Ï´Ù.;This region is under Blanco influence and it's likely to cause trouble.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+rivera_reforms;¸®º£¶óÀÇ °³ÀÔ;Rivera's Intervention;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+rivera_reforms_desc;ÇÁ·èÅõ¿À¼Ò ¸®º£¶ó´Â ½Â¸® ÈÄ ¸óÅ×ºñµ¥¿À¿¡ ÀÔ¼ºÇÏ¿© ±Ç·ÂÀ» Àå¾ÇÇß½À´Ï´Ù. ±×´Â ÀÌ ±Ç·ÂÀ» Àß ÀÌ¿ëÇÏ·Á ÇÕ´Ï´Ù.;Fructuoso Rivera entered Montevideo victorious and assumed dictatorial powers while he called for elections. He made sure to use these powers well.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+prussia_disagrees;ÇÁ·ÎÀÌ¼¾ÀÌ ºó Á¶¾à¿¡ ¼­¸íÇÕ´Ï´Ù;Prussia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+russia_disagrees;·¯½Ã¾Æ°¡ ºó Á¶¾à¿¡ ¼­¸íÇÕ´Ï´Ù;Russia upholds the Vienna Treaty;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+krakow_uprising;À®µå ÈÄ»ç¸£°¡ °ğ ÀÏ¾î¼³ °ÍÀÔ´Ï´Ù.;The Winger Hussars will ride once more.;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+polish_spirit;Æú¶õµåÀÎ Á¤¼­;Polish Sentiment;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,
+polish_spirit_desc;Å©¶óÄíÇÁÀÇ Çõ¸íÀÌ ¼º°øÇÏÀÚ µµÃ³ÀÇ Æú¶õµåÀÎµéÀº ´Ù½Ã ÇÑ¹ø ÅëÀÏµÈ µ¶¸³ Æú¶õµå¸¦ ¿ä±¸ÇÏ°í ÀÖ½À´Ï´Ù.;With the successful revolution in Krakow, Poles everywhere are clamouring for an independent and unified Poland again.;;;;;;;;;;X,,,,,,,,
+official_nationality;°ø½Ä ¹ÎÁ· ¼±Àü;The Official Nationality Doctrine;;;;;;;;;;x,,,,,,,,,,
+official_nationality_desc;Á¤±³È¸, ÀüÁ¦ Á¤Ä¡, ¹ÎÁ·Àº ·¯½Ã¾ÆÀÇ Â÷¸£ ´ÏÄİ¶óÀÌ 1¼¼ÀÇ Á¤Ã¥ ±âÁ¶ÀÔ´Ï´Ù.;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. The Tsar is currently trying to Russify our country, greatly disrupting our country organization but inciting nationality!;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,,
+orthodoxy_autocracy_nationality;Á¤±³È¸, ÀüÁ¦ Á¤Ä¡, ¹ÎÁ·!;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;;;x,,,,,,,,,,,,
+orthodoxy_autocracy_nationality_desc;°ø½ÄÀûÀÎ ¹ÎÁ· Á¤Ã¥Àº È¿·ÂÀ» ¹ßÈÖÇØ µ¿È­¸¦ °¡¼ÓÈ­ÇÏ°í ÀÖ½À´Ï´Ù.;The Official Nationality policy entered into effect and it's speeding up the assimilation of other cultures at the cost of some unrest.;;;;;;;;;;;x,,,,,,,,,
+communists_ruling;ÀÚº»°¡ÀÇ ¸ô¶ô!;Down with the Capitalists!;;;;;;;;;;;;;;X,,,,,,,,,
+communists_ruling_desc;¿ì¸®³ª¶ó´Â ¹«»ê°è±ŞÀÇ ÅëÄ¡ ÇÏ¿¡ ÀÖ½À´Ï´Ù. ÀÌÁ¦ ÀÚº»ÀÚÀÇ ÀÚ¸®´Â ¾ø½À´Ï´Ù!;Our nation is now headed by the proletariat, capitalists have no place here!;;;;;;;;;;;;X,,,,,,,,,,,,
+soviet_agitation;Â÷¸£ ÀüÁ¦ Á¤Ä¡;Tsarist Autocracy;;;;;;;;;;;;X,,,,,,
+soviet_agitation_desc;ÀüÀïÀÇ °í³­, ·¯½Ã¾ÆÀÇ ±â¼úÀû ÈÄÁø¼º, ±×¸®°í Â÷¸£ ÀüÁ¦ Á¤Ä¡ÀÇ ¾ï¾ĞÀº ¿ì¸®ÀÇ ±¹¹Î°ú ÀÚ¿øÀ» °í°¥½ÃÅ°°í ÀÖ½À´Ï´Ù. ¿ì¸®´Â Â÷¸£ ÀüÁ¦ Á¤Ä¡ÀÇ Á¾¸»À» º¼ ¼ö ÀÖÀ»±î¿ä?;The hardships of war, the technological backwardness of Russia and the tsar autocracy and repression are exhausting our people and our resources. Will we ever see an end to the Tsar autocracy?;;;;;;;;;;X,,,,,,,,,,,,
+white_desorganisation;Áöµµ·Â ºÎÀç;Leadership Disorganisation;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
+white_desorganisation_desc;·¯½Ã¾Æ ³»Àü¿¡¼­ ¹é±ºÀº Àû±º¿¡ ´ëÇ×Çß½À´Ï´Ù. ÇÏÁö¸¸ ±×µéÀÇ ºĞ¿­°ú ºÒÈ­´Â ±×µéÀÇ ³ë·ÂÀ» ¹°°ÅÇ°À¸·Î ¸¸µé¾ú½À´Ï´Ù!;The White Army in the Russian Civil War managed to make advances against the soviets, but disorganization in it's ranks severely hindered their efforts!;;;;;;;;;;;;X,,,,,,,,,,,,,,,,,,
+install_communist_gov_sov;°ø»êÁÖÀÇ Á¤ºÎ ¼ö¸³;Install communism;;;;;;;;;;;;x
+install_communist_gov_sov_desc;°ø»êÁÖÀÇ Á¤ºÎ¸¦ ¼ö¸³ÇÕ´Ï´Ù.;Install a communist government.;;;;;;;;;;;x
+install_communist_gov_sov_setup;°ø»êÁÖÀÇ Á¤ºÎ¸¦ ¼ö¸³ÇÕ´Ï´Ù. ÀÌ ¸ñÇ¥¸¦ ´Ş¼ºÇÏ¸é ¸ñÇ¥ ±¹°¡´Â ÀÚµ¿ÀûÀ¸·Î ¿ì¸® ¿µÇâ±Ç¿¡ Ãß°¡µÇ¸ç µ¿½Ã¿¡ À§¼º±¹ÀÌ µË´Ï´Ù.;Install a communist government. If achieved, the country will be automatically added into our sphere and will become our satellite.;;;;;;;;;;;x
+install_communist_gov_sov_short;°ø»êÁÖÀÇ Á¤ºÎ ¼ö¸³;Install communism;;;;;;;;;;;;x
+human_research_modifier;¿¬±¸ °¡¼Ó;Boosted Research;;;;;;;;;;;;;x
+canadian_confederation;Ä³³ª´Ù ¿¬¹æ;The Canadian Confederation;;;;;;;;;;;;;x
+canadian_confederation_short;Ä³³ª´Ù´Â ¿¬ÇÕÇÒ °ÍÀÔ´Ï´Ù!;Canada will be confederated!;;;;;;;;;;;;;x
+canadian_confederation_setup;Ä³³ª´Ù ÀÚÄ¡·ÉÀÇ ¿©·¯ ÁÖµéÀº µ¶¸³À» ¿ä±¸ÇØ ¿Ô½À´Ï´Ù. Á¸ A. ¸Æµµ³¯µå °æÀÌ ÀÌ²ô´Â ÀÌ ¿îµ¿Àº ´ë¿µÁ¦±¹¿¡ ±»°ÇÇÑ ºÏ¹Ì µ¿¸Í±¹À» Åº»ı½ÃÅ³ °ÍÀÔ´Ï´Ù.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
+canadian_confederation_desc;Ä³³ª´Ù ÀÚÄ¡·ÉÀÇ ¿©·¯ ÁÖµéÀº µ¶¸³À» ¿ä±¸ÇØ ¿Ô½À´Ï´Ù. Á¸ A. ¸Æµµ³¯µå °æÀÌ ÀÌ²ô´Â ÀÌ ¿îµ¿Àº ´ë¿µÁ¦±¹¿¡ ±»°ÇÇÑ ºÏ¹Ì µ¿¸Í±¹À» Åº»ı½ÃÅ³ °ÍÀÔ´Ï´Ù.;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;;;;;;;;;;;;;x
+canadian_confederation_title;Ä³³ª´Ù ¿¬¹æ;The Canadian Confederation;;;;;;;;;;;;;x
+australian_independence;¿À½ºÆ®·¹ÀÏ¸®¾Æ Çå¹ı;The Australian Constitution;;;;;;;;;;;;;x
+australian_independence_short;¿À½ºÆ®·¹ÀÏ¸®¾Æ´Â 6°³ÀÇ ÁÖ°¡ ¿¬ÇÕÇØ µ¶¸³Çß½À´Ï´Ù.;Australia federated into six separate states and gained its independence.;;;;;;;;;;;;;x
+australian_independence_setup;È£ÁÖÀÇ µ¶¸³¿îµ¿ÀÌ ¸¶Ä§³» ¸·¹ÙÁö¿¡ ÀÌ¸£·¶½À´Ï´Ù. ÀÌÁ¦ ´ë¿µÁ¦±¹Àº ÀÌ ´ë·úÀ» ÀÌÀüÀÇ À¯¹èÁö¿¡¼­ »õ·Î¿î ¹ÎÁÖÁÖÀÇÀÇ ¼¼°è·Î ³ª¾Æ°¥ ¼ö ÀÖµµ·Ï ÇÒ ¶§ÀÔ´Ï´Ù.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
+australian_independence_desc;È£ÁÖÀÇ µ¶¸³¿îµ¿ÀÌ ¸¶Ä§³» ¸·¹ÙÁö¿¡ ÀÌ¸£·¶½À´Ï´Ù. ÀÌÁ¦ ´ë¿µÁ¦±¹Àº ÀÌ ´ë·úÀ» ÀÌÀüÀÇ À¯¹èÁö¿¡¼­ »õ·Î¿î ¹ÎÁÖÁÖÀÇÀÇ ¼¼°è·Î ³ª¾Æ°¥ ¼ö ÀÖµµ·Ï ÇÒ ¶§ÀÔ´Ï´Ù.;The Australian independence movement has finally reached a head, and it's time that the British Empire finally allowed the island continent of Australia to move forward from its previous prison colony history into a new world of democracy.;;;;;;;;;;;;;x
+australian_independence_title;¿À½ºÆ®·¹ÀÏ¸®¾Æ Çå¹ı;The Australian Constitution;;;;;;;;;;;;;x
+kiwi_constitution;´ºÁú·£µå ÀÚÄ¡·É;The Dominion of New Zealand;;;;;;;;;;;;;x
+kiwi_constitution_short;´ºÁú·£µå ÀÚÄ¡·É ¼³Ä¡!;New Zealand has been released!;;;;;;;;;;;;;x
+kiwi_constitution_setup;È£ÁÖÀÇ µ¶¸³ ±×¸®°í È£ÁÖ¿Í ´ºÁú·£µå °£ÀÇ ¿ª»çÀû À¯´ë¿¡ µû¶ó, Å°À§ ¿îµ¿Àº ¸¶Ä§³» ºĞ±ÇÀû µ¶¸³À» ¿ä±¸ÇÏ¸ç ±¸Ã¼È­µÇ¾ú½À´Ï´Ù.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
+kiwi_constitution_desc;È£ÁÖÀÇ µ¶¸³ ±×¸®°í È£ÁÖ¿Í ´ºÁú·£µå °£ÀÇ ¿ª»çÀû À¯´ë¿¡ µû¶ó, Å°À§ ¿îµ¿Àº ¸¶Ä§³» ºĞ±ÇÀû µ¶¸³À» ¿ä±¸ÇÏ¸ç ±¸Ã¼È­µÇ¾ú½À´Ï´Ù.;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;;;;;;;;;;;;;x
+kiwi_constitution_title;´ºÁú·£µå ÀÚÄ¡·É;The Dominion of New Zealand;;;;;;;;;;;;;x
+first_riel_rebellion;Á¦1Â÷ ¸®¿¤ ¹İ¶õ ¿©ÆÄ;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
+first_riel_rebellion_desc;Á¦1Â÷ ¸®¿¤ ¹İ¶õÀº ¿©·¯ »ç»óÀÚ¸¦ ³º¾Ò½À´Ï´Ù. ¸ŞÆ¼½º´Â ±×µéÀ» ÀØÁö ¾ÊÀ¸·Á ÇÏ°ÚÁö¸¸, Á¤ºÎ´Â ±×µéÀ» ±×·¸°Ô µÎÁö ¾ÊÀ» °ÍÀÔ´Ï´Ù.;The First Riel Rebellion ended in blood and exile. The Metis have not forgotten, nor will the government let them.;;;;;;;;;;;;;x
+first_riel_rebellion_title;Á¦1Â÷ ¸®¿¤ ¹İ¶õ ¿©ÆÄ;The First Riel Rebellion Aftermath;;;;;;;;;;;;;x
+metis_twilight;¸ŞÆ¼½ºÀÇ È²È¥;The Twilight of the Metis;;;;;;;;;;;;;x
+metis_twilight_desc;Á¦2Â÷ ¸®¿¤ ¹İ¶õÀº ÃÖ¾ÇÀÇ ¹æ¹ıÀ¸·Î ³¡³µ°í, µû¶ó¼­ ¸ŞÆ¼½º´Â Ä³³ª´Ù¿¡¼­ ¼Ò¿ÜµÇ¾ú½À´Ï´Ù.;The Second Riel Rebellion has ended in the worst possible way, and the Metis are now a marginalized people in Canada.;;;;;;;;;;;;;x
+metis_twilight_title;¸ŞÆ¼½ºÀÇ È²È¥;The Twilight of the Metis;;;;;;;;;;;;;x
+taras_shevchenko_local;Å¸¶ó½º ¼Î¿ìÃ¾ÄÚ;Taras Shevchenko;;;;;;;;;;;;;x
+taras_shevchenko_local_desc;Å¸¶ó½º ¼ÎºêÃ¾ÄÚ´Â À¯¸í¼¼¸¦ Å¸°í ÀÖÀ¸¸ç, ¿ìÅ©¶óÀÌ³ª µ¶¸³°ú ±¹°¡ °Ç¼³À» À§ÇÑ ³ë·Â¿¡ ÀÖ¾î¼­ ¿ìÅ©¶óÀÌ³ª ±¹¹Îµé¿¡°Ô ¿µÇâÀ» ¹ÌÄ¡°í ÀÖ½À´Ï´Ù.;Taras Shevchenko is gaining prominence and is affecting the Ukrainian peoples in their quest for independence and nation-building.;;;;;;;;;;;;;x
+taras_shevchenko_local_title;Å¸¶ó½º ¼Î¿ìÃ¾ÄÚ;Taras Shevchenko;;;;;;;;;;;;;x
+taras_works_local;Å¸¶ó½º ¼Î¿ìÃ¾ÄÚ;Taras Shevchenko;;;;;;;;;;;;;x
+taras_works_local_desc;Å¸¶ó½º ¼Î¿ìÃ¾ÄÚ´Â ¿ìÅ©¶óÀÌ³ª ¹®ÇĞ°ú ¹®È­ÀÇ ¾Æ¹öÁö·Î ³Î¸® ¾Ë·ÁÁ® ÀÖ½À´Ï´Ù.;Taras Shevchenko is working hard after many life experiences, and is quickly becoming known as the father of the Ukrainian language and culture.;;;;;;;;;;;;;x
+taras_works_local_title;Å¸¶ó½º ¼Î¿ìÃ¾ÄÚ;Taras Shevchenko;;;;;;;;;;;;;x
+slavery_timer;³ë¿¹Á¦;Slavery;;;;;;;;;;;;;x
+slavery_timer_desc;³ë¿¹Á¦°¡ Áö¼ÓµÇ¸é¼­ ÇØ¿Ü¿¡¼­ÀÇ ¿ì¸®³ª¶ó ÀÌ¹ÌÁö°¡ ³ªºüÁö°í ÀÖ½À´Ï´Ù.;Slavery in our nation continues on, making our country a bit less attractive as the world moves on.;;;;;;;;;;;;;x
+slavery_timer_title;³ë¿¹Á¦ Áö¼Ó;Continued Slavery;;;;;;;;;;;;;x
+independence_of_norway;³ë¸£¿şÀÌ µ¶¸³;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_short;³ë¸£¿şÀÌ µ¶¸³;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_setup³ë¸£¿şÀÌ µ¶¸³;;The Independence of Norway;;;;;;;;;;;;;x
+independence_of_norway_desc;½º¿şµ§-³ë¸£¿şÀÌ µ¿±º¿¬ÇÕÀº ¸·´Ù¸¥ °ñ¸ñ¿¡ ´Ù´Ù¶ú½À´Ï´Ù. ³ë¸£¿şÀÌ¸¦ ÇØ¹æÇÏ´Â °ÍÀÌ À¯ÀÏÇÑ ÇØ°áÃ¥ÀÎ °Í °°½À´Ï´Ù.;The Personal Union between Sweden and Norway is on its last legs, and attempts to find common ground between the Swedes and Norwegians is failing rapidly. Releasing Norway seems like the only solution.;;;;;;;;;;;;;x
+independence_of_norway_title;³ë¸£¿şÀÌ µ¶¸³;The Independence of Norway;;;;;;;;;;;;;x
+restart_the_caucasian_war;Ä«ÇÁÄ«½º ÀüÀï Àç°³;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_short;Ä«ÇÁÄ«½º ÀüÀïÀ» Àç°³;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_setup;Ä«ÇÁÄ«½º ÀüÀïÀ» Àç°³ÇÕ´Ï´Ù;Restart the Caucasian War;;;;;;;;;;;;;x
+restart_the_caucasian_war_desc;·¯½Ã¾Æ´Â Æä¸£½Ã¾Æ¿Í ¿À½º¸¸ Á¦±¹°úÀÇ ÀüÀï µ¿¾È Ä«ÇÁÄ«¸£/Ã¼¸£ÄÉ½º ÀüÀïÀ» º¸·ùÇØ¿Ô½À´Ï´Ù. ÀÌÁ¦ ·¯½Ã¾Æ´Â Ã¼¸éÀ» Â÷¸®°í Ä«ÇÁÄ«½º¿¡ ´ëÇÑ ÆĞ±ÇÀ» º¸ÀåÇÒ ±âÈ¸¸¦ °®°Ô µÇ¾ú½À´Ï´Ù.;Although Russia put the Caucasian/Circassian War on hold during their wars with Persia and the Ottoman Empire, now Russia has a chance to save face and ensure its hegemony over the Caucasus. This is not a decision to be taken lightly, as the war has raged in one form or another since 1763.;;;;;;;;;;;;;x
+restart_the_caucasian_war_title;Ä«ÇÁÄ«½º ÀüÀï Àç°³;Restart the Caucasian War;;;;;;;;;;;;;x
+caucasian_war_local;Ä«ÇÁÄ«½º ÀüÀï;Caucasian War;;;;;;;;;;;;;x
+caucasian_war_local_desc;ÇöÀç ÁøÇà ÁßÀÎ Ä«ÇÁÄ«½º ÀüÀïÀº ÀÌµé Áö¿ª¿¡ ºÒ¾È°ú »ı»ê¼º ºÎÁ·À» ÃÊ·¡ÇÏ°í ÀÖ½À´Ï´Ù.;The ongoing Caucasian War is causing unrest and lack of productivity in these provinces.;;;;;;;;;;;;;x
+caucasian_war_local_title;Ä«ÇÁÄ«½º ÀüÀï;The Caucasian War;;;;;;;;;;;;;x
+caucasian_truce_local;Ä«ÇÁÄ«½º ÀüÀï-ÈŞÀü;Caucasian War - Truce;;;;;;;;;;;;;x
+caucasian_truce_local_desc;Ä«ÇÁÄ«½º ÀüÀïÀº ÈŞÀü »óÅÂÀÔ´Ï´Ù.;The Caucasian War is undergoing a truce, for now. The uneasy tension that the locals have with their Russian occupiers is a welcome break from the previous state of war, but it is an uneasy truce brokered by the blood of both sides.;;;;;;;;;;;;;x
+caucasian_truce_local_title;Ä«ÇÁÄ«½º ÀüÀï-ÈŞÀü;The Caucasian War - Truce;;;;;;;;;;;;;x
+SOV_communists;º¼¼ÎºñÅ°;Bolsheviks;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,
+SOV_communists_2;Æ®·ÎÃ÷Å°ÆÄ;Trotsky's Faction;;;;;;;;;;;;;X,,,,,,,,,,,,,
+kobu_gattai;°ø¹«ÇÕÃ¼;Kobu Gattai;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+kobu_gattai_desc;°ø¹«ÇÕÃ¼¶õ ¸·ºÎ¿Í È²½Ç °£ÀÇ Á¤Ä¡Àû Çù·ÂÀ» Áõ´ëÇÏ°í, ¸·ºÎ ³»ºÎÀÇ ¹İ´ëÀÚµéÀ» ´Ş·¡±â À§ÇÑ ¿¡µµ ¸·ºÎÀÇ Á¤Ã¥ÀÔ´Ï´Ù.This was a policy of the Tokugawa shogunate aiming at increasing political coordination between the bakufu and the Imperial Court, as well as appeasing opponents within the shogunate itself.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+sakoku;¼â±¹;Sakoku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+sakoku_desc;'³ª¶ó¸¦ °É¾îÀá?E'¸¦ ÀÇ¹ÌÇÏ´Â ¼â±¹Àº ¿Ü±¹ÀÎÀÌ ÀÏº»¿¡ ÀÔ±¹ÇÒ ¼ö ¾ø°Ô ÇÏ´Â Á¤Ã¥ÀÔ´Ï´Ù. ÀÏº»Àº ¿¡µµ ¸·ºÎÀÇ Ä¡¼¼ÀÎ 17¼¼±âºÎÅÍ ±¹°¡¸¦ °í¸³µÈ »óÅÂ·Î À¯ÁöÇß½À´Ï´Ù.;Meaning 'locked country',this is the policy under which no foreigner could enter Japan under pain of death. Maintained by the Tokugawa shogunate, it has kept the nation in enforced isolation since the 17th century.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+tozama_daimyo;ÅäÀÚ¸¶ ´ÙÀÌ¹¦;Tozama Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+fudai_daimyo;ÈÄ´ÙÀÌ ´ÙÀÌ¹¦;Fudai Daimyo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+emperor_meiji;¸ŞÀÌÁö µ§³ë;Emperor Meiji;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+supports_imperial_edict;¿Ü±¹ÀÎ¿¡ ´ëÇÑ Ä¢·ÉÀ» ÁöÁöÇÕ´Ï´Ù.;Supports the Imperial edict against foreigners;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+angered_by_bakufu;¸·ºÎÀÇ ºĞ³ë;Angered by the bakufu;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+rangaku;³­ÇĞ;Rangaku;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+rangaku_desc;'È­¶õ(³×´ú¶õµå)ÀÇ ÇĞ¹®'À» ÀÇ¹ÌÇÏ´Â ³­ÇĞÀº ÀÏº»ÀÌ µ¥Áö¸¶(Dejima)¶ó´Â ÀÎ°ø¼¶¿¡¼­ ³×´ú¶õµå¿Í Á¢ÃËÇÏ¿© °³¹ßÇÑ ¼­¾çÀÇ Áö½ÄµéÀ» ¸»ÇÕ´Ï´Ù. ÀÏº»Àº ¼â±¹ Á¤Ã¥À» À¯ÁöÇÏ¸é¼­µµ ³×´ú¶õµå¿Í´Â ±³¿ªÀ» À¯ÁöÇØ ¼­¾çÀÇ ±â¼ú°ú ÀÇÇĞÀ» °è¼Ó Á¢ÇÒ ¼ö ÀÖ¾ú½À´Ï´Ù.;Meaning 'dutch learning',this refers to the body of knowledge developed by Japan through its contacts with the Dutch enclave of Dejima, which allowed Japan to keep abreast of Western technology and medicine in the period when the country was closed to foreigners.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+ansei_purge;¾È¼¼ÀÌ ´ë¿Á;Ansei Purge;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+meddled_in_foreign_affairs;Å¸±¹ »ç°Ç °£¼·;Meddled in Foreign Affairs;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+no_freedom;µ¶¸³ ½Ãµµ;Attempted Freedom;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+no_freedom_desc;¿Ü±¹ÀÇ Áö¹è¿¡¼­ ¹ş¾î³ª·Á´ø ½Ãµµ°¡ ½ÇÆĞ·Î µ¹¾Æ°¬½À´Ï´Ù. ±×µéÀÌ ¿ì¸®¸¦ ÁÖ½ÃÇÏ¹Ç·Î ´ÙÀ½ ±âÈ¸°¡ Ã£¾Æ¿Ã ¶§±îÁö ±â´Ù·Á¾ß ÇÕ´Ï´Ù.;We attempted to free ourselves from foreign rule. We must wait until there is another opportunity, as for now they are watching us closely.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
