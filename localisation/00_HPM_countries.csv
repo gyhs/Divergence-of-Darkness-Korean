@@ -3056,7 +3056,7 @@ TIG_communist;티그레 공산당;Tigrayienne Parti communiste;Tigrayan Kommunistische
 TIG_fascist;파쇼파;곤다르;Amhara;Amhara;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AAA_conservative_1;왕당파;Faction radicale;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_2;중도파;Faction socialiste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AAA_conservative_3;군주론자;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AAA_conservative_3;왕당파;Faction communiste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_4;중도파;Faction fasciste;Xhosa;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_conservative_5;국민 민주당;;Konservative Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AAA_liberal_1;공화당;;Liberale Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3086,7 +3086,7 @@ AMA_conservative_3;보수파;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_fascist_1;남십자자리;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_liberal_1;분점;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_liberal_2;연방주의자;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-AMA_reactionary_1;군주론자;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AMA_reactionary_1;왕당파;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_social_liberal;민주당;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_socialist_1;사회주의자;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AMA_socialist_2;세계시민주의;Mauritanie;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
